@@ -1,0 +1,132 @@
+{
+  "name": "09 - Discord Weekly Digest",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "weeks",
+              "triggerAtDay": [1],
+              "triggerAtHour": 9
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Weekly Monday 9 AM",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM tools WHERE discovered_at >= NOW() - INTERVAL '7 days' AND is_active=TRUE ORDER BY composite_score DESC LIMIT 10",
+        "options": {}
+      },
+      "id": "get-new-tools",
+      "name": "Get New Tools",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT COUNT(*) as total, COUNT(*) FILTER (WHERE discovered_at >= NOW()-INTERVAL '7 days') as new_week FROM tools WHERE is_active=TRUE",
+        "options": {}
+      },
+      "id": "get-stats",
+      "name": "Get Stats",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 400],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const tools = $('Get New Tools').all().map(i => i.json);\nconst stats = $('Get Stats').first().json;\n\nif (tools.length === 0) {\n  return [{json: {skip: true}}];\n}\n\nconst typeEmoji = {\n  skill: '📄', plugin: '🔌', collection: '📦', cli_tool: '⌨️',\n  mcp_server: '🔗', prompt_pack: '📝', workflow: '🔄',\n  extension: '🧩', resource: '📚'\n};\n\nconst toolList = tools.map(t => \n  `• [${t.name}](${t.repo_url}) ${typeEmoji[t.tool_type] || '📄'} ⭐${t.stars || 0}`\n).join('\\n');\n\nconst embed = {\n  title: '📊 Weekly Digest',\n  description: `**${stats.new_week || 0}** new tools discovered this week!`,\n  color: 0x5865F2,\n  fields: [\n    {name: '🔥 Top New Tools', value: toolList || 'None', inline: false},\n    {name: '📈 Total Tools', value: String(stats.total || 0), inline: true}\n  ],\n  footer: {text: '🧠 Skill of Skills Weekly'},\n  timestamp: new Date().toISOString()\n};\n\nreturn [{json: {embeds: [embed], skip: false}}];"
+      },
+      "id": "build-digest",
+      "name": "Build Digest",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.skip }}",
+              "rightValue": true,
+              "operator": {"type": "boolean", "operation": "notEquals"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-tools",
+      "name": "Has Tools?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://discord.com/api/webhooks/1463969592626909388/pJQSUOQFbUJfu8itj7Fbq7Z1y9rc7m2whNxSZNbJjkH5fq6jy6K827t1WfTu2xjMFoZR",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "Content-Type", "value": "application/json"}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"username\": \"Skill of Skills\",\n  \"avatar_url\": \"https://github.com/911fund.png\",\n  \"embeds\": {{ JSON.stringify($json.embeds) }}\n}",
+        "options": {}
+      },
+      "id": "send-discord",
+      "name": "Send to Discord",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1120, 200]
+    }
+  ],
+  "connections": {
+    "Weekly Monday 9 AM": {
+      "main": [[{"node": "Get New Tools", "type": "main", "index": 0}, {"node": "Get Stats", "type": "main", "index": 0}]]
+    },
+    "Get New Tools": {
+      "main": [[{"node": "Build Digest", "type": "main", "index": 0}]]
+    },
+    "Get Stats": {
+      "main": [[{"node": "Build Digest", "type": "main", "index": 0}]]
+    },
+    "Build Digest": {
+      "main": [[{"node": "Has Tools?", "type": "main", "index": 0}]]
+    },
+    "Has Tools?": {
+      "main": [[{"node": "Send to Discord", "type": "main", "index": 0}], []]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
