@@ -15,9 +15,9 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 ## 📊 Stats
 
-**11 tools** discovered and indexed
+**10 tools** discovered and indexed
 
-📚 **10** resources · 📄 **1** skill
+📚 **10** resources
 
 ---
 
@@ -47,7 +47,6 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 | [dotfiles](https://github.com/ChrisTowles/dotfiles) | ChrisTowles | 📚 | zshrc, bash script and terminal And Pers | 🟢 |
 | [planning_latest](https://github.com/sverzijl/planning_latest) | sverzijl | 📚 |  | 🟢 |
 | [claude-code](https://github.com/joaopelegrino/claude-code) | joaopelegrino | 📚 |  | 🟢 |
-| [test-verification](https://github.com/test/verify) | test | 📄 | Test tool for verification | 🟢 |
 
 
 ---
