@@ -26,10 +26,10 @@ Transform the existing discovery engine into a trustworthy tool catalog by fixin
   1. User can trigger README generation from n8n UI and see it pushed to GitHub
   2. No external script files are required for README workflow
   3. Workflow execution logs show successful GitHub push without errors
-**Plans**: TBD
+**Plans**: 1 plan
 
 Plans:
-- [ ] 01-01: Fix n8n Push to GitHub node
+- [ ] 01-01-PLAN.md - Add GitHub push and Discord notifications to README generator workflow
 
 ### Phase 2: Discovery Filtering
 **Goal**: Collector only indexes legitimate Claude Code tools with meaningful community traction
@@ -96,7 +96,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4 -> 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Workflow Fix | 0/1 | Not started | - |
+| 1. Workflow Fix | 0/1 | Planned | - |
 | 2. Discovery Filtering | 0/2 | Not started | - |
 | 3. Trust Scoring | 0/2 | Not started | - |
 | 4. Web UI | 0/3 | Not started | - |
