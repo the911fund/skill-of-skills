@@ -1,149 +1,104 @@
-# 🧠 Skill of Skills
+# 🎯 Skill of Skills
 
-> The Autonomous Discovery Engine for the Claude Code Ecosystem
+> A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-Automatically discovers, validates, scores, and curates tools from GitHub, X/Twitter, and Reddit for the Claude Code ecosystem.
+[![Tools](https://img.shields.io/badge/tools-5-blue)](https://github.com/911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-11k-yellow)](https://github.com/911fund/skill-of-skills)
 
-## Features
+**5 tools** discovered across 11 categories
 
-- **Multi-source Discovery**: GitHub code search, X/Twitter posts & replies, Reddit mentions
-- **AI-powered Entity Extraction**: Uses Claude to identify tool mentions in social posts
-- **Automated Validation**: Sandbox testing via GitHub Actions
-- **Smart Scoring**: Composite scores based on GitHub stars, social signals, recency, and influencer trust
-- **Risk Assessment**: Automatic risk level classification
-- **Discord Notifications**: Real-time alerts for new tools and weekly digests
-- **Auto-generated README**: Daily updates with categorized tool listings
+🌐 **[Browse the Directory](https://skillofskills.dev)** | 📊 **[Analytics](https://skillofskills.dev/analytics)** | ➕ **[Submit a Tool](https://skillofskills.dev/submit)**
+
+---
+
+## Contents
+
+- [Official](#-official)
+- [Development](#-development)
+- [Documentation](#-documentation)
+- [Marketing](#-marketing)
+- [Productivity](#-productivity)
+- [Media](#-media)
+- [Research](#-research)
+- [Security](#-security)
+- [Integrations](#-integrations)
+- [Agents](#-agents)
+- [Uncategorized](#-uncategorized)
+
+---
+
+## 🔥 Trending
+
+- 📦 **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** 🟢 — Official Anthropic plugin directory *(4.6k ⭐)*
+- 📦 **[Remotion Skills](https://github.com/remotion-dev/skills)** 🟢 — Video creation with Remotion *(392 ⭐)*
+- 📦 **[Marketing Skills](https://github.com/coreyhaines31/marketingskills)** 🟢 — 23 marketing skills for Claude Code *(3.6k ⭐)*
+- 🔌 **[Cartographer](https://github.com/kingbootoshi/cartographer)** 🟢 — Maps codebases with AI subagents *(408 ⭐)*
+- ⌨️ **[add-skill](https://github.com/vercel-labs/add-skill)** 🟢 — Universal skill installer for 17+ agents *(1.8k ⭐)*
+
+---
+
+## ✅ Official
+
+- 📦 **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** 🟢 — Official Anthropic plugin directory by anthropics *(4.6k ⭐)*
+
+## 🛠️ Development
+
+- ⌨️ **[add-skill](https://github.com/vercel-labs/add-skill)** 🟢 — Universal skill installer for 17+ agents by vercel-labs *(1.8k ⭐)*
+
+## 📚 Documentation
+
+- 🔌 **[Cartographer](https://github.com/kingbootoshi/cartographer)** 🟢 — Maps codebases with AI subagents by kingbootoshi *(408 ⭐)*
+
+## 📣 Marketing
+
+- 📦 **[Marketing Skills](https://github.com/coreyhaines31/marketingskills)** 🟢 — 23 marketing skills for Claude Code by coreyhaines31 *(3.6k ⭐)*
+
+## 🎬 Media
+
+- 📦 **[Remotion Skills](https://github.com/remotion-dev/skills)** 🟢 — Video creation with Remotion by remotion-dev *(392 ⭐)*
+
+---
 
 ## Tool Types
 
-| Icon | Type | Install Method |
-|------|------|----------------|
-| 📄 | Skill | `npx add-skill owner/repo` |
-| 🔌 | Plugin | `/plugin install name@directory` |
-| 📦 | Collection | `npx add-skill owner/repo` |
-| ⌨️ | CLI Tool | `npm install -g package` |
-| 🔗 | MCP Server | Configure in MCP settings |
-| 📝 | Prompt Pack | Copy/reference |
-| 🔄 | Workflow | Import workflow |
-| 🧩 | Extension | Install from store |
-| 📚 | Resource | Read/reference |
+| Icon | Type | Description |
+|:----:|------|-------------|
+| 📄 | Skill | Claude Code skill files (SKILL.md) |
+| 🔌 | Plugin | Claude Code plugins |
+| 📦 | Collection | Curated skill collections |
+| ⌨️ | CLI Tool | Command-line tools |
+| 🔗 | MCP Server | Model Context Protocol servers |
+| 📝 | Prompt Pack | Reusable prompt templates |
+| 🔄 | Workflow | Automation workflows |
+| 🧩 | Extension | IDE extensions |
+| 📚 | Resource | Documentation & guides |
 
 ## Risk Levels
 
 | Icon | Level | Description |
-|------|-------|-------------|
-| 🟢 | Low | Standard permissions |
+|:----:|-------|-------------|
+| 🟢 | Low | Standard permissions, safe to use |
 | 🟡 | Medium | Extended permissions (shell access, subagents) |
-| 🔴 | High | Broad system access |
+| 🔴 | High | Broad system access, review before use |
 | ⚫ | Critical | Manual review required |
 
-## Quick Start
-
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/911fund/skill-of-skills.git
-   cd skill-of-skills
-   ```
-
-2. **Configure environment**
-   ```bash
-   cp docker/.env.example docker/.env
-   # Edit docker/.env with your API keys
-   ```
-
-3. **Start services**
-   ```bash
-   ./scripts/setup.sh
-   ```
-
-4. **Import workflows into n8n**
-   - Open http://localhost:5678
-   - Import each workflow from `n8n-workflows/`
-   - Configure credentials
-   - Activate workflows
-
-## Required API Keys
-
-| Service | Purpose | Get Key |
-|---------|---------|---------|
-| GitHub | Repository discovery & validation | [GitHub Settings](https://github.com/settings/tokens) |
-| X/Twitter | Social mention tracking | [Twitter Developer](https://developer.twitter.com) |
-| Anthropic | AI entity extraction | [Anthropic Console](https://console.anthropic.com) |
-| Discord | Notifications | [Discord Webhooks](https://discord.com/developers/docs/resources/webhook) |
-
-## Architecture
-
-```
-┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
-│  GitHub Search  │     │   X/Twitter     │     │     Reddit      │
-│   (6 hours)     │     │   (daily)       │     │   (12 hours)    │
-└────────┬────────┘     └────────┬────────┘     └────────┬────────┘
-         │                       │                       │
-         └───────────────────────┼───────────────────────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │    Discovery Queue      │
-                    │     (PostgreSQL)        │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │      Validator          │
-                    │     (2 hours)           │
-                    └────────────┬────────────┘
-                                 │
-                    ┌────────────▼────────────┐
-                    │    Score Calculator     │
-                    │     (4 hours)           │
-                    └────────────┬────────────┘
-                                 │
-         ┌───────────────────────┼───────────────────────┐
-         │                       │                       │
-┌────────▼────────┐   ┌──────────▼─────────┐   ┌────────▼────────┐
-│ Discord Notify  │   │  README Generator  │   │  Unknown Alert  │
-└─────────────────┘   └────────────────────┘   └─────────────────┘
-```
-
-## Workflows
-
-| # | Workflow | Schedule | Purpose |
-|---|----------|----------|---------|
-| 01 | GitHub Collector | Every 6h | Search GitHub for skills, plugins, MCP servers |
-| 02 | X Collector | Daily | Collect tweets and replies mentioning Claude Code |
-| 03 | Entity Extractor | Webhook | AI extraction of tool names from posts |
-| 04 | Reddit Collector | Every 12h | Monitor subreddits for tool mentions |
-| 05 | Validator | Every 2h | Validate queued repos, classify tool type |
-| 06 | Scorer | Every 4h | Calculate composite scores |
-| 07 | README Generator | Webhook | Generate updated README |
-| 08 | Discord Notifier | Webhook | Alert on new tools |
-| 09 | Weekly Digest | Mondays 9 AM | Weekly summary to Discord |
-| 10 | Unknown Alert | Webhook | Alert on unrecognized tool mentions |
-
-## Scripts
-
-```bash
-./scripts/setup.sh      # Initial setup
-./scripts/backup-db.sh  # Backup PostgreSQL
-./scripts/manual-add.sh # Manually add a repo to queue
-```
-
-## Database
-
-PostgreSQL schema includes:
-- `tools` - Main tool registry
-- `categories` - Tool categories
-- `influencers` - Trusted accounts
-- `social_mentions` - X/Reddit posts
-- `unknown_mentions` - Unresolved tool references
-- `discovery_queue` - Pending validation
-- `metrics_history` - Score tracking
+---
 
 ## Contributing
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for submission guidelines.
+Found a great Claude Code tool? [Submit it here](https://skillofskills.dev/submit) or open a PR!
 
-## Security
+See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-See [SECURITY.md](SECURITY.md) for risk assessment methodology.
+## How It Works
+
+This directory is automatically updated by the Skill of Skills discovery engine:
+
+1. **Discovery** — Scans GitHub, X/Twitter, and Reddit for Claude Code tools
+2. **Validation** — Tests tools in a sandbox environment
+3. **Scoring** — Ranks by GitHub stars, social mentions, and recency
+4. **Publishing** — Updates this README and the web directory
 
 ## License
 
@@ -151,4 +106,6 @@ MIT License - see [LICENSE](LICENSE)
 
 ---
 
-*🧠 Auto-generated by Skill of Skills*
+<p align="center">
+  <sub>🤖 Auto-generated 2026-01-23 by <a href="https://github.com/911fund/skill-of-skills">Skill of Skills</a></sub>
+</p>
