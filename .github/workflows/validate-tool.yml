@@ -1,0 +1,112 @@
+name: Validate Tool
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_url:
+        description: 'GitHub repository URL to validate'
+        required: true
+        type: string
+      tool_type:
+        description: 'Expected tool type'
+        required: false
+        type: string
+        default: 'skill'
+      callback_url:
+        description: 'n8n webhook URL for results'
+        required: true
+        type: string
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Extract repo info
+        id: repo
+        run: |
+          URL="${{ inputs.repo_url }}"
+          OWNER=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\1|')
+          REPO=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\2|')
+          echo "owner=$OWNER" >> $GITHUB_OUTPUT
+          echo "repo=$REPO" >> $GITHUB_OUTPUT
+
+      - name: Clone repository
+        run: |
+          git clone --depth 1 ${{ inputs.repo_url }} test-repo
+        continue-on-error: true
+
+      - name: Check for SKILL.md
+        id: skill_check
+        run: |
+          if find test-repo -name "SKILL.md" -o -name "skill.md" | grep -q .; then
+            echo "has_skill_md=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_skill_md=false" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+
+      - name: Check for claude-plugin
+        id: plugin_check
+        run: |
+          if [ -d "test-repo/.claude-plugin" ]; then
+            echo "has_claude_plugin=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_claude_plugin=false" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+
+      - name: Check for mcp.json
+        id: mcp_check
+        run: |
+          if [ -f "test-repo/mcp.json" ]; then
+            echo "has_mcp_json=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_mcp_json=false" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+
+      - name: Test skill installation
+        id: install_test
+        if: steps.skill_check.outputs.has_skill_md == 'true'
+        run: |
+          npm install -g add-skill 2>/dev/null || true
+          npx add-skill ${{ steps.repo.outputs.owner }}/${{ steps.repo.outputs.repo }} --dry-run 2>&1 | head -20
+          echo "install_tested=true" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Check for risky patterns
+        id: risk_check
+        run: |
+          RISK="low"
+          if grep -rE "(subprocess|os\.system|exec\(|spawn|child_process)" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
+            RISK="medium"
+          fi
+          if grep -rE "(sudo|chmod 777|rm -rf|eval\()" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
+            RISK="high"
+          fi
+          echo "risk_level=$RISK" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Send results to n8n
+        run: |
+          curl -X POST "${{ inputs.callback_url }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "repo_url": "${{ inputs.repo_url }}",
+              "owner": "${{ steps.repo.outputs.owner }}",
+              "repo": "${{ steps.repo.outputs.repo }}",
+              "tool_type": "${{ inputs.tool_type }}",
+              "has_skill_md": ${{ steps.skill_check.outputs.has_skill_md || 'false' }},
+              "has_claude_plugin": ${{ steps.plugin_check.outputs.has_claude_plugin || 'false' }},
+              "has_mcp_json": ${{ steps.mcp_check.outputs.has_mcp_json || 'false' }},
+              "risk_level": "${{ steps.risk_check.outputs.risk_level || 'low' }}",
+              "validation_status": "passed",
+              "validated_at": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"
+            }'

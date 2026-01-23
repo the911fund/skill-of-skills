@@ -1,0 +1,32 @@
+{
+  "tool_types": [
+    {"id": "skill", "icon": "📄", "install": "npx add-skill {owner}/{repo}"},
+    {"id": "plugin", "icon": "🔌", "install": "/plugin install {name}@claude-plugin-directory"},
+    {"id": "collection", "icon": "📦", "install": "npx add-skill {owner}/{repo}"},
+    {"id": "cli_tool", "icon": "⌨️", "install": "npm install -g {package}"},
+    {"id": "mcp_server", "icon": "🔗", "install": "Configure in MCP settings"},
+    {"id": "prompt_pack", "icon": "📝", "install": "Copy/reference"},
+    {"id": "workflow", "icon": "🔄", "install": "Import workflow"},
+    {"id": "extension", "icon": "🧩", "install": "Install from store"},
+    {"id": "resource", "icon": "📚", "install": "Read/reference"}
+  ],
+  "categories": [
+    {"slug": "official", "name": "Official", "icon": "✅", "order": 0},
+    {"slug": "development", "name": "Development", "icon": "🛠️", "order": 1},
+    {"slug": "documentation", "name": "Documentation", "icon": "📚", "order": 2},
+    {"slug": "marketing", "name": "Marketing", "icon": "📣", "order": 3},
+    {"slug": "productivity", "name": "Productivity", "icon": "⚡", "order": 4},
+    {"slug": "media", "name": "Media", "icon": "🎬", "order": 5},
+    {"slug": "research", "name": "Research", "icon": "🔬", "order": 6},
+    {"slug": "security", "name": "Security", "icon": "🔒", "order": 7},
+    {"slug": "integrations", "name": "Integrations", "icon": "🔗", "order": 8},
+    {"slug": "agents", "name": "Agents", "icon": "🤖", "order": 9},
+    {"slug": "uncategorized", "name": "Uncategorized", "icon": "📦", "order": 99}
+  ],
+  "risk_levels": [
+    {"id": "low", "icon": "🟢", "multiplier": 1.0},
+    {"id": "medium", "icon": "🟡", "multiplier": 0.85},
+    {"id": "high", "icon": "🔴", "multiplier": 0.6},
+    {"id": "critical", "icon": "⚫", "multiplier": 0.1}
+  ]
+}

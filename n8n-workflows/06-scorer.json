@@ -1,0 +1,98 @@
+{
+  "name": "06 - Score Calculator",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "hours", "hoursInterval": 4}]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT id, stars, total_social_score, last_commit_at, risk_level, is_official, is_verified, composite_score FROM tools WHERE is_active = TRUE",
+        "options": {}
+      },
+      "id": "get-tools",
+      "name": "Get All Tools",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const tools = $input.all();\nconst results = [];\n\nconst riskMult = {low: 1, medium: 0.85, high: 0.6, critical: 0.1};\n\nfor (const item of tools) {\n  const t = item.json;\n  \n  // GitHub score (25%)\n  const githubScore = Math.min(Math.log((t.stars || 0) + 1) / Math.log(10001), 1) * 25;\n  \n  // Social score (35%)\n  const socialScore = Math.min(Math.log((t.total_social_score || 0) + 1) / Math.log(1001), 1) * 35;\n  \n  // Recency score (25%)\n  const lastCommit = t.last_commit_at ? new Date(t.last_commit_at) : new Date(0);\n  const daysSince = (Date.now() - lastCommit.getTime()) / (1000 * 60 * 60 * 24);\n  const recencyScore = Math.max(0, (90 - Math.min(daysSince, 365)) / 90) * 25;\n  \n  // Influencer score (15%) - placeholder\n  const influencerScore = 0.5 * 15;\n  \n  // Apply multipliers\n  const riskMultiplier = riskMult[t.risk_level] || 1;\n  const bonus = (t.is_official ? 1.5 : 1) * (t.is_verified ? 1.2 : 1);\n  \n  const rawScore = githubScore + socialScore + recencyScore + influencerScore;\n  const compositeScore = Math.min(rawScore * riskMultiplier * bonus, 100);\n  const trendingScore = compositeScore - (t.composite_score || 0);\n  \n  results.push({\n    json: {\n      id: t.id,\n      github_score: Math.round(githubScore * 100) / 100,\n      social_score: Math.round(socialScore * 100) / 100,\n      recency_score: Math.round(recencyScore * 100) / 100,\n      influencer_score: Math.round(influencerScore * 100) / 100,\n      composite_score: Math.round(compositeScore * 100) / 100,\n      trending_score: Math.round(trendingScore * 100) / 100\n    }\n  });\n}\n\nreturn results;"
+      },
+      "id": "calculate",
+      "name": "Calculate Scores",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE tools SET github_score={{$json.github_score}}, social_score={{$json.social_score}}, recency_score={{$json.recency_score}}, influencer_score={{$json.influencer_score}}, composite_score={{$json.composite_score}}, trending_score={{$json.trending_score}} WHERE id='{{$json.id}}'",
+        "options": {}
+      },
+      "id": "update-scores",
+      "name": "Update Scores",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [900, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO metrics_history (tool_id, recorded_date, stars, composite_score) VALUES ('{{$json.id}}', CURRENT_DATE, (SELECT stars FROM tools WHERE id='{{$json.id}}'), {{$json.composite_score}}) ON CONFLICT (tool_id, recorded_date) DO UPDATE SET composite_score={{$json.composite_score}}",
+        "options": {}
+      },
+      "id": "record-history",
+      "name": "Record History",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1120, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Schedule": {
+      "main": [[{"node": "Get All Tools", "type": "main", "index": 0}]]
+    },
+    "Get All Tools": {
+      "main": [[{"node": "Calculate Scores", "type": "main", "index": 0}]]
+    },
+    "Calculate Scores": {
+      "main": [[{"node": "Update Scores", "type": "main", "index": 0}]]
+    },
+    "Update Scores": {
+      "main": [[{"node": "Record History", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
