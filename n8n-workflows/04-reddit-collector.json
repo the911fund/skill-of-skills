@@ -1,0 +1,157 @@
+{
+  "name": "04 - Reddit Collector",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "hours", "hoursInterval": 12}]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "return [\n  {json: {url: 'https://www.reddit.com/r/ClaudeAI/search.json?q=claude+code&sort=new&limit=25', sub: 'ClaudeAI'}},\n  {json: {url: 'https://www.reddit.com/r/ClaudeAI/new.json?limit=50', sub: 'ClaudeAI'}},\n  {json: {url: 'https://www.reddit.com/r/RalphCoding/new.json?limit=50', sub: 'RalphCoding'}},\n  {json: {url: 'https://www.reddit.com/r/LocalLLaMA/search.json?q=claude&sort=new&limit=25', sub: 'LocalLLaMA'}}\n];"
+      },
+      "id": "generate-urls",
+      "name": "Generate URLs",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "={{$json.url}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "User-Agent", "value": "SkillOfSkills/1.0"}
+          ]
+        },
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2000
+            }
+          }
+        }
+      },
+      "id": "fetch-reddit",
+      "name": "Fetch Reddit",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [680, 300],
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst results = [];\n\nfor (const item of items) {\n  const data = item.json?.data?.children || [];\n  \n  for (const child of data) {\n    const post = child.data;\n    if (!post) continue;\n    \n    const content = (post.title || '') + ' ' + (post.selftext || '');\n    if (!/claude/i.test(content)) continue;\n    \n    const githubUrls = content.match(/https:\\/\\/github\\.com\\/[\\w-]+\\/[\\w-]+/g) || [];\n    \n    results.push({\n      json: {\n        platform: 'reddit',\n        post_type: 'post',\n        post_url: 'https://reddit.com' + post.permalink,\n        post_id: post.id,\n        content: content.slice(0, 2000),\n        author_username: post.author,\n        likes: post.ups || 0,\n        replies: post.num_comments || 0,\n        github_urls: githubUrls,\n        posted_at: new Date(post.created_utc * 1000).toISOString()\n      }\n    });\n  }\n}\n\nreturn results;"
+      },
+      "id": "extract-posts",
+      "name": "Extract Posts",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO social_mentions (platform, post_type, post_url, post_id, content, author_username, likes, replies, posted_at) VALUES ('{{$json.platform}}', '{{$json.post_type}}', '{{$json.post_url}}', '{{$json.post_id}}', '{{$json.content.replace(/'/g, \"''\")}}'::text, '{{$json.author_username}}', {{$json.likes}}, {{$json.replies}}, '{{$json.posted_at}}') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "save-mentions",
+      "name": "Save Mentions",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1120, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.github_urls?.length > 0 }}",
+              "rightValue": true,
+              "operator": {"type": "boolean", "operation": "equals"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-github",
+      "name": "Has GitHub?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1340, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const urls = $json.github_urls || [];\nreturn urls.map(url => ({\n  json: {\n    repo_url: url,\n    source_url: $json.post_url,\n    discovered_by: $json.author_username\n  }\n}));"
+      },
+      "id": "extract-urls",
+      "name": "Extract URLs",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1560, 200]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO discovery_queue (repo_url, source, source_url, discovered_by, status) VALUES ('{{$json.repo_url}}', 'reddit_post', '{{$json.source_url}}', '{{$json.discovered_by}}', 'pending') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "add-to-queue",
+      "name": "Add to Queue",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1780, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Schedule": {
+      "main": [[{"node": "Generate URLs", "type": "main", "index": 0}]]
+    },
+    "Generate URLs": {
+      "main": [[{"node": "Fetch Reddit", "type": "main", "index": 0}]]
+    },
+    "Fetch Reddit": {
+      "main": [[{"node": "Extract Posts", "type": "main", "index": 0}]]
+    },
+    "Extract Posts": {
+      "main": [[{"node": "Save Mentions", "type": "main", "index": 0}]]
+    },
+    "Save Mentions": {
+      "main": [[{"node": "Has GitHub?", "type": "main", "index": 0}]]
+    },
+    "Has GitHub?": {
+      "main": [[{"node": "Extract URLs", "type": "main", "index": 0}], []]
+    },
+    "Extract URLs": {
+      "main": [[{"node": "Add to Queue", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

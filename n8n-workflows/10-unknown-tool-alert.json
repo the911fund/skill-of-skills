@@ -1,0 +1,75 @@
+{
+  "name": "10 - Unknown Tool Alert",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "unknown-tool-alert",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [240, 300],
+      "webhookId": "unknown-tool-alert"
+    },
+    {
+      "parameters": {
+        "jsCode": "const t = $json;\n\nconst embed = {\n  title: `⚠️ Unknown Tool: ${t.tool_name}`,\n  description: `Mentioned${t.is_recommendation ? ' as **recommendation**' : ''}${t.is_comparison ? ' in **comparison**' : ''}`,\n  color: 0xFFA500,\n  fields: [\n    {name: '🔧 Tool Name', value: t.tool_name || 'Unknown', inline: true},\n    {name: '🎯 Confidence', value: Math.round((t.confidence || 0) * 100) + '%', inline: true},\n    {name: '👤 Mentioned By', value: '@' + (t.mentioned_by || 'unknown') + (t.followers ? ` (${t.followers} followers)` : ''), inline: true},\n    {name: '💬 Context', value: (t.context || 'No context').slice(0, 200), inline: false},\n    {name: '🔗 Source', value: `[View Post](${t.post_url})`, inline: true},\n    {name: '🔍 Research', value: `[Search GitHub](https://github.com/search?q=${encodeURIComponent(t.tool_name)}&type=repositories)`, inline: true}\n  ],\n  footer: {text: '🧠 Skill of Skills • Unknown Tool Detection'},\n  timestamp: new Date().toISOString()\n};\n\nreturn [{json: {embeds: [embed]}}];"
+      },
+      "id": "build-alert",
+      "name": "Build Alert",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "Content-Type", "value": "application/json"}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"username\": \"Skill of Skills\",\n  \"avatar_url\": \"https://github.com/911fund.png\",\n  \"embeds\": {{ JSON.stringify($json.embeds) }}\n}",
+        "options": {}
+      },
+      "id": "send-alert",
+      "name": "Send Alert",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\"success\": true}"
+      },
+      "id": "respond",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [900, 300]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [[{"node": "Build Alert", "type": "main", "index": 0}]]
+    },
+    "Build Alert": {
+      "main": [[{"node": "Send Alert", "type": "main", "index": 0}]]
+    },
+    "Send Alert": {
+      "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

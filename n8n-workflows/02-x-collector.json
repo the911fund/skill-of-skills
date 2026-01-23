@@ -1,0 +1,217 @@
+{
+  "name": "02 - X Collector (Posts + Replies)",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "days", "daysInterval": 1}]
+        }
+      },
+      "id": "daily-trigger",
+      "name": "Daily",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "return [\n  {json: {query: '(\"claude code\") (skill OR plugin OR tool) -is:retweet', type: 'primary'}},\n  {json: {query: '(\"claude code\") (better OR essential OR recommend OR \"must have\")', type: 'recommendation'}},\n  {json: {query: '(\"claude code\") (\"better than\" OR \"switched to\")', type: 'comparison'}}\n];"
+      },
+      "id": "generate-queries",
+      "name": "Generate Queries",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "https://api.twitter.com/2/tweets/search/recent",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendQuery": true,
+        "queryParameters": {
+          "parameters": [
+            {"name": "query", "value": "={{$json.query}}"},
+            {"name": "max_results", "value": "50"},
+            {"name": "tweet.fields", "value": "created_at,public_metrics,author_id,in_reply_to_user_id"},
+            {"name": "expansions", "value": "author_id"},
+            {"name": "user.fields", "value": "username,name,public_metrics"}
+          ]
+        },
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 1500
+            }
+          }
+        }
+      },
+      "id": "x-search",
+      "name": "X Search",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [680, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "X_CREDENTIAL_ID",
+          "name": "X Bearer Token"
+        }
+      },
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst results = [];\n\nfor (const item of items) {\n  const data = item.json;\n  if (!data.data) continue;\n  \n  const users = {};\n  if (data.includes?.users) {\n    for (const u of data.includes.users) {\n      users[u.id] = u;\n    }\n  }\n  \n  for (const tweet of data.data) {\n    const user = users[tweet.author_id] || {};\n    const text = tweet.text || '';\n    const githubUrls = text.match(/https:\\/\\/github\\.com\\/[\\w-]+\\/[\\w-]+/g) || [];\n    \n    results.push({\n      json: {\n        platform: 'x',\n        post_type: tweet.in_reply_to_user_id ? 'reply' : 'post',\n        post_url: `https://x.com/${user.username}/status/${tweet.id}`,\n        post_id: tweet.id,\n        content: text,\n        author_username: user.username,\n        author_followers: user.public_metrics?.followers_count || 0,\n        likes: tweet.public_metrics?.like_count || 0,\n        retweets: tweet.public_metrics?.retweet_count || 0,\n        replies: tweet.public_metrics?.reply_count || 0,\n        is_recommendation: /essential|must.?have|game.?changer|amazing/i.test(text),\n        is_comparison: /better|instead|switched|replaced/i.test(text),\n        github_urls: githubUrls,\n        posted_at: tweet.created_at\n      }\n    });\n  }\n}\n\nreturn results;"
+      },
+      "id": "extract-mentions",
+      "name": "Extract Mentions",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO social_mentions (platform, post_type, post_url, post_id, content, author_username, author_followers, likes, retweets, replies, is_recommendation, is_comparison, posted_at) VALUES ('{{$json.platform}}', '{{$json.post_type}}', '{{$json.post_url}}', '{{$json.post_id}}', '{{$json.content.replace(/'/g, \"''\")}}'::text, '{{$json.author_username}}', {{$json.author_followers}}, {{$json.likes}}, {{$json.retweets}}, {{$json.replies}}, {{$json.is_recommendation}}, {{$json.is_comparison}}, '{{$json.posted_at}}') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "save-mentions",
+      "name": "Save Mentions",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1120, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.is_recommendation || $json.is_comparison }}",
+              "rightValue": true,
+              "operator": {"type": "boolean", "operation": "equals"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-signal",
+      "name": "Has Signal?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1340, 200]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.WEBHOOK_URL}}/webhook/extract-entities",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {"name": "content", "value": "={{$json.content}}"},
+            {"name": "post_url", "value": "={{$json.post_url}}"},
+            {"name": "author", "value": "={{$json.author_username}}"},
+            {"name": "followers", "value": "={{$json.author_followers}}"},
+            {"name": "is_recommendation", "value": "={{$json.is_recommendation}}"},
+            {"name": "is_comparison", "value": "={{$json.is_comparison}}"}
+          ]
+        },
+        "options": {}
+      },
+      "id": "trigger-extraction",
+      "name": "Trigger Entity Extraction",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1560, 200]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-2",
+              "leftValue": "={{ $json.github_urls?.length > 0 }}",
+              "rightValue": true,
+              "operator": {"type": "boolean", "operation": "equals"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-github",
+      "name": "Has GitHub?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1340, 400]
+    },
+    {
+      "parameters": {
+        "jsCode": "const urls = $json.github_urls || [];\nreturn urls.map(url => ({\n  json: {\n    repo_url: url,\n    source_url: $json.post_url,\n    discovered_by: $json.author_username\n  }\n}));"
+      },
+      "id": "extract-urls",
+      "name": "Extract URLs",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1560, 400]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO discovery_queue (repo_url, source, source_url, discovered_by, status) VALUES ('{{$json.repo_url}}', 'x_post', '{{$json.source_url}}', '{{$json.discovered_by}}', 'pending') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "add-to-queue",
+      "name": "Add to Queue",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1780, 400],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Daily": {
+      "main": [[{"node": "Generate Queries", "type": "main", "index": 0}]]
+    },
+    "Generate Queries": {
+      "main": [[{"node": "X Search", "type": "main", "index": 0}]]
+    },
+    "X Search": {
+      "main": [[{"node": "Extract Mentions", "type": "main", "index": 0}]]
+    },
+    "Extract Mentions": {
+      "main": [[{"node": "Save Mentions", "type": "main", "index": 0}]]
+    },
+    "Save Mentions": {
+      "main": [[{"node": "Has Signal?", "type": "main", "index": 0}, {"node": "Has GitHub?", "type": "main", "index": 0}]]
+    },
+    "Has Signal?": {
+      "main": [[{"node": "Trigger Entity Extraction", "type": "main", "index": 0}], []]
+    },
+    "Has GitHub?": {
+      "main": [[{"node": "Extract URLs", "type": "main", "index": 0}], []]
+    },
+    "Extract URLs": {
+      "main": [[{"node": "Add to Queue", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

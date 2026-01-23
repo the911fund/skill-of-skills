@@ -1,0 +1,53 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 6 * * *'  # Daily at 6 AM UTC
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Fetch README from n8n
+        id: fetch
+        run: |
+          RESPONSE=$(curl -s -X POST "${{ secrets.N8N_README_WEBHOOK }}" \
+            -H "Content-Type: application/json" \
+            -d '{"trigger": "github_action"}')
+
+          # Extract readme_content from JSON response
+          echo "$RESPONSE" | jq -r '.readme_content' > README.md
+
+          # Check if README was updated
+          if [ -s README.md ] && [ "$(head -c 10 README.md)" != "null" ]; then
+            echo "updated=true" >> $GITHUB_OUTPUT
+          else
+            echo "updated=false" >> $GITHUB_OUTPUT
+            echo "Failed to fetch README content"
+            exit 1
+          fi
+
+      - name: Commit and push
+        if: steps.fetch.outputs.updated == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet README.md; then
+            echo "No changes to README"
+          else
+            git add README.md
+            git commit -m "📊 Auto-update README with latest tools
+
+            Co-Authored-By: Skill of Skills Bot <bot@911fund.com>"
+            git push
+          fi
