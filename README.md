@@ -1,87 +1,89 @@
 # 🧠 Skill of Skills
 
-> The Autonomous Discovery Engine for the Claude Code Ecosystem
+> **The Autonomous Discovery Engine for the Claude Code Ecosystem**
 
-**10 tools** discovered and indexed
+Skill of Skills automatically discovers, validates, and indexes tools that extend [Claude Code](https://docs.anthropic.com/en/docs/claude-code) capabilities. It provides a curated directory of skills, plugins, MCP servers, and more.
 
-📚 10 resources
+## 🌟 Why Use This?
+
+- **Discover** new tools to supercharge your Claude Code workflow
+- **Trust** validated tools with risk assessments and quality scores  
+- **Browse** by category or search the [web directory](https://skill-of-skills.com)
+- **Submit** your own tools to the ecosystem
+
+---
+
+## 📊 Stats
+
+**11 tools** discovered and indexed
+
+📚 **10** resources · 📄 **1** skill
+
+---
 
 ## 🔥 Top Tools
 
-| Tool | Type | Stars | Score |
-|------|------|-------|-------|
-| [dotfiles](https://github.com/ChrisTowles/dotfiles) | 📚 | ⭐2 | 📊 33.6 |
-| [claude-code](https://github.com/joaopelegrino/claude-code) | 📚 | ⭐0 | 📊 9.9 |
-| [dotfiles](https://github.com/ChrisTowles/dotfiles) | 📚 | ⭐2 | 📊 33.6 |
-| [claude-code](https://github.com/joaopelegrino/claude-code) | 📚 | ⭐0 | 📊 9.9 |
-
-
-## 📦 By Category
-
-No categorized tools yet.
+| Tool | Type | Description | Stars |
+|------|------|-------------|-------|
+| [dotfiles](https://github.com/ChrisTowles/dotfiles) | 📚 | zshrc, bash script and terminal And Personal confi | ⭐2 |
+| [claude-code](https://github.com/joaopelegrino/claude-code) | 📚 |  | ⭐0 |
+| [dotfiles](https://github.com/ChrisTowles/dotfiles) | 📚 | zshrc, bash script and terminal And Personal confi | ⭐2 |
+| [claude-code](https://github.com/joaopelegrino/claude-code) | 📚 |  | ⭐0 |
 
 
 ---
 
-## 🏗️ Architecture
+## 📦 All Tools
 
-The data pipeline uses n8n workflows with staggered schedules, linked through PostgreSQL:
+| Tool | Author | Type | Description | Risk |
+|------|--------|------|-------------|------|
+| [n8n](https://github.com/n8n-io/n8n) | n8n-io | 📚 | Fair-code workflow automation platform w | 🟢 |
+| [pytorch](https://github.com/pytorch/pytorch) | pytorch | 📚 | Tensors and Dynamic neural networks in P | 🟢 |
+| [electron](https://github.com/electron/electron) | electron | 📚 | :electron: Build cross-platform desktop  | 🟢 |
+| [plate](https://github.com/udecode/plate) | udecode | 📚 | Rich-text editor with AI, MCP, and shadc | 🟢 |
+| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | srbhr | 📚 | Improve your resumes with Resume Matcher | 🟢 |
+| [xtdb](https://github.com/xtdb/xtdb) | xtdb | 📚 | An immutable SQL database for applicatio | 🟢 |
+| [claude-flow](https://github.com/ruvnet/claude-flow) | ruvnet | 📚 | 🌊 The leading agent orchestration platf | 🟡 |
+| [dotfiles](https://github.com/ChrisTowles/dotfiles) | ChrisTowles | 📚 | zshrc, bash script and terminal And Pers | 🟢 |
+| [planning_latest](https://github.com/sverzijl/planning_latest) | sverzijl | 📚 |  | 🟢 |
+| [claude-code](https://github.com/joaopelegrino/claude-code) | joaopelegrino | 📚 |  | 🟢 |
+| [test-verification](https://github.com/test/verify) | test | 📄 | Test tool for verification | 🟢 |
 
-```mermaid
-flowchart TB
-    subgraph Triggers["⏰ Automated Schedules"]
-        T1["Every 6h"]
-        T2["Every 2h"]
-        T3["Every 4h"]
-    end
 
-    subgraph Collectors["🔍 Discovery Layer"]
-        GH["01 - GitHub Collector"]
-    end
+---
 
-    subgraph Processing["⚙️ Processing Layer"]
-        VAL["05 - Tool Validator"]
-        SCORE["06 - Score Calculator"]
-    end
+## 🛠️ Tool Types
 
-    subgraph Database["🗄️ PostgreSQL"]
-        DQ[("discovery_queue")]
-        TOOLS[("tools")]
-    end
+| Icon | Type | Description | Install |
+|------|------|-------------|----------|
+| 📄 | Skill | Single-purpose prompts | `npx add-skill owner/repo` |
+| 🔌 | Plugin | Multi-command extensions | `/plugin install name` |
+| 📦 | Collection | Bundled skill sets | `npx add-skill owner/repo` |
+| ⌨️ | CLI Tool | Command-line utilities | `npm install -g package` |
+| 🔗 | MCP Server | External integrations | Configure in settings |
+| 📝 | Prompt Pack | Reusable prompts | Copy/reference |
+| 🔄 | Workflow | Automation templates | Import workflow |
+| 🧩 | Extension | IDE integrations | Install from store |
+| 📚 | Resource | Docs & references | Read/reference |
 
-    T1 --> GH
-    T2 --> VAL
-    T3 --> SCORE
-
-    GH --> DQ
-    DQ --> VAL
-    VAL --> TOOLS
-    TOOLS --> SCORE
-```
-
-## Tool Types
-
-| Icon | Type | Install Method |
-|------|------|----------------|
-| 📄 | Skill | `npx add-skill owner/repo` |
-| 🔌 | Plugin | `/plugin install name@directory` |
-| 📦 | Collection | `npx add-skill owner/repo` |
-| ⌨️ | CLI Tool | `npm install -g package` |
-| 🔗 | MCP Server | Configure in MCP settings |
-| 📝 | Prompt Pack | Copy/reference |
-| 🔄 | Workflow | Import workflow |
-| 🧩 | Extension | Install from store |
-| 📚 | Resource | Read/reference |
-
-## Risk Levels
+## 🚦 Risk Levels
 
 | Icon | Level | Description |
-|------|-------|-----------|
-| 🟢 | Low | Standard permissions |
+|------|-------|-------------|
+| 🟢 | Low | Standard permissions, safe for most uses |
 | 🟡 | Medium | Extended permissions (shell, subagents) |
-| 🔴 | High | Broad system access |
-| ⚫ | Critical | Manual review required |
+| 🔴 | High | Broad system access, review carefully |
+| ⚫ | Critical | Manual review required before use |
 
 ---
 
-*Auto-generated 2026-01-23 by [Skill of Skills](https://github.com/911fund/skill-of-skills)*
+## 🔗 Links
+
+- 🌐 **Web Directory**: [skill-of-skills.com](https://skill-of-skills.com)
+- 📬 **Submit a Tool**: [Submit Form](https://skill-of-skills.com/submit)
+- 💬 **Discord**: [Join Community](https://discord.gg/911fund)
+- 🐛 **Issues**: [GitHub Issues](https://github.com/911fund/skill-of-skills/issues)
+
+---
+
+*Auto-generated 2026-01-23 by the Skill of Skills discovery engine*
