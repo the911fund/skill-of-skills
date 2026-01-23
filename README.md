@@ -15,9 +15,9 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 ## 📊 Stats
 
-**12 tools** discovered and indexed
+**11 tools** discovered and indexed
 
-📚 **11** resources · 🔗 **1** mcp server
+📚 **11** resources
 
 ---
 
@@ -25,9 +25,9 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 | Tool | Type | Description | Stars |
 |------|------|-------------|-------|
-| [electron](https://github.com/electron/electron) | 📚 | :electron: Build cross-platform desktop apps with  | ⭐119872 |
-| [pytorch](https://github.com/pytorch/pytorch) | 📚 | Tensors and Dynamic neural networks in Python with | ⭐96855 |
 | [n8n](https://github.com/n8n-io/n8n) | 📚 | Fair-code workflow automation platform with native | ⭐170858 |
+| [pytorch](https://github.com/pytorch/pytorch) | 📚 | Tensors and Dynamic neural networks in Python with | ⭐96855 |
+| [electron](https://github.com/electron/electron) | 📚 | :electron: Build cross-platform desktop apps with  | ⭐119872 |
 | [plate](https://github.com/udecode/plate) | 📚 | Rich-text editor with AI, MCP, and shadcn/ui | ⭐15819 |
 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 📚 | Improve your resumes with Resume Matcher. Get insi | ⭐25750 |
 | [xtdb](https://github.com/xtdb/xtdb) | 📚 | An immutable SQL database for application developm | ⭐2904 |
@@ -43,9 +43,9 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 | Tool | Author | Type | Description | Risk |
 |------|--------|------|-------------|------|
-| [electron](https://github.com/electron/electron) | electron | 📚 | :electron: Build cross-platform desktop  | 🟢 |
-| [pytorch](https://github.com/pytorch/pytorch) | pytorch | 📚 | Tensors and Dynamic neural networks in P | 🟢 |
 | [n8n](https://github.com/n8n-io/n8n) | n8n-io | 📚 | Fair-code workflow automation platform w | 🟢 |
+| [pytorch](https://github.com/pytorch/pytorch) | pytorch | 📚 | Tensors and Dynamic neural networks in P | 🟢 |
+| [electron](https://github.com/electron/electron) | electron | 📚 | :electron: Build cross-platform desktop  | 🟢 |
 | [plate](https://github.com/udecode/plate) | udecode | 📚 | Rich-text editor with AI, MCP, and shadc | 🟢 |
 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | srbhr | 📚 | Improve your resumes with Resume Matcher | 🟢 |
 | [xtdb](https://github.com/xtdb/xtdb) | xtdb | 📚 | An immutable SQL database for applicatio | 🟢 |
@@ -53,7 +53,6 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 | [dotfiles](https://github.com/ChrisTowles/dotfiles) | ChrisTowles | 📚 | zshrc, bash script and terminal And Pers | 🟢 |
 | [planning_latest](https://github.com/sverzijl/planning_latest) | sverzijl | 📚 |  | 🟢 |
 | [claude-code](https://github.com/joaopelegrino/claude-code) | joaopelegrino | 📚 |  | 🟢 |
-| [workflow-verified](https://github.com/test/verified) | test | 🔗 | Verifying n8n workflow push | 🟢 |
 | [OmniSight-dev](https://github.com/oneshot2001/OmniSight-dev) | oneshot2001 | 📚 |  | 🟢 |
 
 
