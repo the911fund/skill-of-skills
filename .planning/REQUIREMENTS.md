@@ -54,24 +54,24 @@
 
 | Requirement | Phase | Status |
 |-------------|-------|--------|
-| WORK-01 | TBD | Pending |
-| WORK-02 | TBD | Pending |
-| FILT-01 | TBD | Pending |
-| FILT-02 | TBD | Pending |
-| TRST-01 | TBD | Pending |
-| TRST-02 | TBD | Pending |
-| TRST-03 | TBD | Pending |
-| TRST-04 | TBD | Pending |
-| TRST-05 | TBD | Pending |
-| WEBA-01 | TBD | Pending |
-| WEBA-02 | TBD | Pending |
-| WEBA-03 | TBD | Pending |
+| WORK-01 | Phase 1 | Pending |
+| WORK-02 | Phase 5 | Pending |
+| FILT-01 | Phase 2 | Pending |
+| FILT-02 | Phase 2 | Pending |
+| TRST-01 | Phase 3 | Pending |
+| TRST-02 | Phase 3 | Pending |
+| TRST-03 | Phase 3 | Pending |
+| TRST-04 | Phase 3 | Pending |
+| TRST-05 | Phase 3 | Pending |
+| WEBA-01 | Phase 4 | Pending |
+| WEBA-02 | Phase 4 | Pending |
+| WEBA-03 | Phase 4 | Pending |
 
 **Coverage:**
 - v1 requirements: 12 total
-- Mapped to phases: 0
-- Unmapped: 12 (roadmap pending)
+- Mapped to phases: 12
+- Unmapped: 0
 
 ---
 *Requirements defined: 2026-01-23*
-*Last updated: 2026-01-23 after initial definition*
+*Last updated: 2026-01-23 - Phase mappings added*
