@@ -1,0 +1,204 @@
+{
+  "name": "03 - AI Entity Extractor",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "extract-entities",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [240, 300],
+      "webhookId": "extract-entities"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "https://api.anthropic.com/v1/messages",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "anthropic-version", "value": "2023-06-01"},
+            {"name": "content-type", "value": "application/json"}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"model\": \"claude-sonnet-4-5-20250929\",\n  \"max_tokens\": 500,\n  \"messages\": [{\n    \"role\": \"user\",\n    \"content\": \"Extract tool names from tweet about Claude Code.\\n\\nTweet: \\\"{{ $json.content }}\\\"\\n\\nRespond ONLY with JSON:\\n{\\\"tools\\\": [{\\\"name\\\": \\\"ToolName\\\", \\\"type\\\": \\\"skill|plugin|cli_tool|mcp_server|unknown\\\", \\\"confidence\\\": 0.0-1.0, \\\"context\\\": \\\"brief\\\"}], \\\"is_recommendation\\\": bool, \\\"is_comparison\\\": bool}\\n\\nOnly extract SPECIFIC product names.\"\n  }]\n}",
+        "options": {}
+      },
+      "id": "claude-extract",
+      "name": "Claude Extract",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [460, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "ANTHROPIC_CREDENTIAL_ID",
+          "name": "Anthropic API Key"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const response = $json;\nconst input = $('Webhook').first().json;\n\nlet parsed;\ntry {\n  let text = response.content?.[0]?.text || '';\n  text = text.replace(/```json\\n?/g, '').replace(/```\\n?/g, '').trim();\n  parsed = JSON.parse(text);\n} catch (e) {\n  return [{json: {error: 'Parse failed', skip: true}}];\n}\n\nconst results = [];\nfor (const tool of (parsed.tools || [])) {\n  if (tool.confidence < 0.6) continue;\n  results.push({\n    json: {\n      tool_name: tool.name,\n      normalized_name: tool.name.toLowerCase().replace(/[^a-z0-9]/g, ''),\n      tool_type: tool.type,\n      confidence: tool.confidence,\n      context: tool.context,\n      post_url: input.post_url,\n      mentioned_by: input.author,\n      followers: input.followers,\n      is_recommendation: parsed.is_recommendation,\n      is_comparison: parsed.is_comparison\n    }\n  });\n}\n\nreturn results.length ? results : [{json: {skip: true}}];"
+      },
+      "id": "parse-response",
+      "name": "Parse Response",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.tool_name }}",
+              "rightValue": "",
+              "operator": {"type": "string", "operation": "isNotEmpty"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-tool",
+      "name": "Has Tool?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT id FROM tools WHERE normalize_tool_name(name) = '{{$json.normalized_name}}' OR slug = '{{$json.normalized_name}}' LIMIT 1",
+        "options": {}
+      },
+      "id": "check-known",
+      "name": "Check If Known",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1120, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-2",
+              "leftValue": "={{ $json.id }}",
+              "rightValue": "",
+              "operator": {"type": "string", "operation": "isEmpty"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "is-unknown",
+      "name": "Is Unknown?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1340, 200]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO unknown_mentions (tool_name, normalized_name, platform, post_url, mentioned_by, context_snippet, confidence_score, status) VALUES ('{{$('Parse Response').first().json.tool_name}}', '{{$('Parse Response').first().json.normalized_name}}', 'x', '{{$('Parse Response').first().json.post_url}}', '{{$('Parse Response').first().json.mentioned_by}}', '{{$('Parse Response').first().json.context.replace(/'/g, \"''\")}}', {{$('Parse Response').first().json.confidence}}, 'pending') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "save-unknown",
+      "name": "Save Unknown",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1560, 100],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.WEBHOOK_URL}}/webhook/unknown-tool-alert",
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {"name": "tool_name", "value": "={{$('Parse Response').first().json.tool_name}}"},
+            {"name": "confidence", "value": "={{$('Parse Response').first().json.confidence}}"},
+            {"name": "context", "value": "={{$('Parse Response').first().json.context}}"},
+            {"name": "post_url", "value": "={{$('Parse Response').first().json.post_url}}"},
+            {"name": "mentioned_by", "value": "={{$('Parse Response').first().json.mentioned_by}}"},
+            {"name": "followers", "value": "={{$('Parse Response').first().json.followers}}"},
+            {"name": "is_recommendation", "value": "={{$('Parse Response').first().json.is_recommendation}}"},
+            {"name": "is_comparison", "value": "={{$('Parse Response').first().json.is_comparison}}"}
+          ]
+        },
+        "options": {}
+      },
+      "id": "trigger-alert",
+      "name": "Trigger Discord Alert",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1780, 100]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={\"success\": true, \"extracted\": {{ $('Parse Response').all().length }}}"
+      },
+      "id": "respond",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [2000, 300]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [[{"node": "Claude Extract", "type": "main", "index": 0}]]
+    },
+    "Claude Extract": {
+      "main": [[{"node": "Parse Response", "type": "main", "index": 0}]]
+    },
+    "Parse Response": {
+      "main": [[{"node": "Has Tool?", "type": "main", "index": 0}]]
+    },
+    "Has Tool?": {
+      "main": [[{"node": "Check If Known", "type": "main", "index": 0}], [{"node": "Respond", "type": "main", "index": 0}]]
+    },
+    "Check If Known": {
+      "main": [[{"node": "Is Unknown?", "type": "main", "index": 0}]]
+    },
+    "Is Unknown?": {
+      "main": [[{"node": "Save Unknown", "type": "main", "index": 0}], [{"node": "Respond", "type": "main", "index": 0}]]
+    },
+    "Save Unknown": {
+      "main": [[{"node": "Trigger Discord Alert", "type": "main", "index": 0}]]
+    },
+    "Trigger Discord Alert": {
+      "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

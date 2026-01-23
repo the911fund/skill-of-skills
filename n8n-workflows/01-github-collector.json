@@ -1,0 +1,166 @@
+{
+  "name": "01 - GitHub Multi-Type Collector",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "hours", "hoursInterval": 6}]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "return [\n  {json: {query: 'filename:SKILL.md path:.claude', type: 'skill'}},\n  {json: {query: 'filename:SKILL.md path:skills', type: 'skill'}},\n  {json: {query: 'path:.claude-plugin filename:plugin.json', type: 'plugin'}},\n  {json: {query: 'topic:claude-code', type: 'cli_tool'}},\n  {json: {query: 'filename:mcp.json', type: 'mcp_server'}},\n  {json: {query: 'awesome-claude', type: 'resource'}}\n];"
+      },
+      "id": "generate-queries",
+      "name": "Generate Queries",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [460, 300]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.github.com/search/code?q={{$json.query}}&per_page=100",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {
+          "batching": {
+            "batch": {
+              "batchSize": 1,
+              "batchInterval": 2500
+            }
+          }
+        }
+      },
+      "id": "github-search",
+      "name": "GitHub Search",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [680, 300],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_CREDENTIAL_ID",
+          "name": "GitHub Token"
+        }
+      },
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\nconst seen = new Set();\nconst results = [];\n\nfor (const item of items) {\n  const data = item.json;\n  if (!data.items) continue;\n  \n  for (const result of data.items) {\n    const repo = result.repository;\n    if (!repo || seen.has(repo.html_url)) continue;\n    seen.add(repo.html_url);\n    \n    results.push({\n      json: {\n        repo_url: repo.html_url,\n        repo_owner: repo.owner?.login,\n        repo_name: repo.name,\n        stars: repo.stargazers_count || 0,\n        tool_type: item.json.type || 'skill'\n      }\n    });\n  }\n}\n\nresults.sort((a, b) => b.json.stars - a.json.stars);\nreturn results;"
+      },
+      "id": "extract-dedupe",
+      "name": "Extract & Dedupe",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT repo_url FROM tools UNION SELECT repo_url FROM discovery_queue",
+        "options": {}
+      },
+      "id": "get-existing",
+      "name": "Get Existing",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [900, 500],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const newItems = $('Extract & Dedupe').all();\nconst existing = $('Get Existing').all().map(i => i.json.repo_url);\nconst existingSet = new Set(existing);\n\nreturn newItems.filter(item => !existingSet.has(item.json.repo_url));"
+      },
+      "id": "filter-new",
+      "name": "Filter New",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1120, 300]
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict"
+          },
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.repo_url }}",
+              "rightValue": "",
+              "operator": {
+                "type": "string",
+                "operation": "isNotEmpty"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-items",
+      "name": "Has Items?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1340, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO discovery_queue (repo_url, tool_name, source, stars, status) VALUES ('{{$json.repo_url}}', '{{$json.repo_name}}', 'github_search', {{$json.stars}}, 'pending') ON CONFLICT DO NOTHING",
+        "options": {}
+      },
+      "id": "add-to-queue",
+      "name": "Add to Queue",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1560, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    }
+  ],
+  "connections": {
+    "Schedule": {
+      "main": [[{"node": "Generate Queries", "type": "main", "index": 0}]]
+    },
+    "Generate Queries": {
+      "main": [[{"node": "GitHub Search", "type": "main", "index": 0}]]
+    },
+    "GitHub Search": {
+      "main": [[{"node": "Extract & Dedupe", "type": "main", "index": 0}]]
+    },
+    "Extract & Dedupe": {
+      "main": [[{"node": "Filter New", "type": "main", "index": 0}]]
+    },
+    "Get Existing": {
+      "main": [[{"node": "Filter New", "type": "main", "index": 0}]]
+    },
+    "Filter New": {
+      "main": [[{"node": "Has Items?", "type": "main", "index": 0}]]
+    },
+    "Has Items?": {
+      "main": [[{"node": "Add to Queue", "type": "main", "index": 0}], []]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
