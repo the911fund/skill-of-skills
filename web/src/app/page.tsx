@@ -28,6 +28,47 @@ export default async function HomePage() {
         </div>
       </div>
 
+      {/* Trust & Safety Legend */}
+      <section className="mb-12 p-6 bg-gray-50 rounded-xl border border-gray-200">
+        <h2 className="text-lg font-bold mb-4">🛡️ Trust & Verification Guide</h2>
+        <p className="text-sm text-gray-600 mb-4">
+          Always review tool source code before installing. These badges help you assess trustworthiness:
+        </p>
+        <div className="grid md:grid-cols-2 gap-4 text-sm">
+          <div className="space-y-3">
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800 whitespace-nowrap">Official</span>
+              <p className="text-gray-600">Published by <strong>Anthropic</strong> or an official partner. Highest trust level.</p>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-800 whitespace-nowrap">Verified</span>
+              <p className="text-gray-600">Passed <strong>automated validation</strong>: sandbox execution, security scan, and dependency audit by Skill of Skills.</p>
+            </div>
+          </div>
+          <div className="space-y-3">
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-green-100 text-green-800 whitespace-nowrap">🟢 low</span>
+              <p className="text-gray-600">Standard permissions only. Safe for general use.</p>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-yellow-100 text-yellow-800 whitespace-nowrap">🟡 medium</span>
+              <p className="text-gray-600">Extended permissions (shell access, subagents). Review before use.</p>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-red-100 text-red-800 whitespace-nowrap">🔴 high</span>
+              <p className="text-gray-600">Broad system access. Carefully review before installing.</p>
+            </div>
+            <div className="flex items-start gap-2">
+              <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-gray-900 text-white whitespace-nowrap">⚫ critical</span>
+              <p className="text-gray-600">Manual security review required. Use with extreme caution.</p>
+            </div>
+          </div>
+        </div>
+        <p className="text-xs text-gray-500 mt-4 pt-4 border-t border-gray-200">
+          ⚠️ <strong>Unverified tools</strong> have not been reviewed. Always inspect source code from unknown authors before installation.
+        </p>
+      </section>
+
       <section className="mb-12">
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-2xl font-bold">🔥 Trending</h2>
