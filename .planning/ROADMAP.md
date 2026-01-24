@@ -10,7 +10,7 @@ Transform the existing discovery engine into a trustworthy tool catalog by fixin
 - Integer phases (1, 2, 3): Planned milestone work
 - Decimal phases (2.1, 2.2): Urgent insertions (marked with INSERTED)
 
-- [ ] **Phase 1: Workflow Fix** - Fix n8n Push to GitHub node to eliminate script workaround
+- [x] **Phase 1: Workflow Fix** - Fix n8n Push to GitHub node to eliminate script workaround (PARTIAL - workaround needed due to n8n bug)
 - [ ] **Phase 2: Discovery Filtering** - Filter to only Claude Code tools with 100+ stars
 - [ ] **Phase 3: Trust Scoring** - Calculate and store trust metrics for each tool
 - [ ] **Phase 4: Web UI** - Display trust indicators and fix query issues
@@ -29,7 +29,7 @@ Transform the existing discovery engine into a trustworthy tool catalog by fixin
 **Plans**: 1 plan
 
 Plans:
-- [ ] 01-01-PLAN.md - Add GitHub push and Discord notifications to README generator workflow
+- [x] 01-01-PLAN.md - Add GitHub push and Discord notifications to README generator workflow (partial - n8n bug requires workaround)
 
 ### Phase 2: Discovery Filtering
 **Goal**: Collector only indexes legitimate Claude Code tools with meaningful community traction
@@ -96,7 +96,7 @@ Phases execute in numeric order: 1 -> 2 -> 3 -> 4 -> 5
 
 | Phase | Plans Complete | Status | Completed |
 |-------|----------------|--------|-----------|
-| 1. Workflow Fix | 0/1 | Planned | - |
+| 1. Workflow Fix | 1/1 | Partial (workaround) | 2026-01-24 |
 | 2. Discovery Filtering | 0/2 | Not started | - |
 | 3. Trust Scoring | 0/2 | Not started | - |
 | 4. Web UI | 0/3 | Not started | - |
