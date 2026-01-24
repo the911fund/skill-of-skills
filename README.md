@@ -15,9 +15,9 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 ## 📊 Stats
 
-**14 tools** discovered and indexed
+**7 tools** discovered and indexed
 
-📚 **14** resources
+📚 **7** resources
 
 ---
 
@@ -25,10 +25,13 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 | Tool | Type | Description | Stars |
 |------|------|-------------|-------|
-| [cc_projects](https://github.com/gizix/cc_projects) | 📚 |  | ⭐1 |
-| [claude-workflow-system](https://github.com/buckstrdr/claude-workflow-system) | 📚 | Claude Code workflow system with commands, skills, | ⭐0 |
-| [cc_projects](https://github.com/gizix/cc_projects) | 📚 |  | ⭐1 |
-| [claude-workflow-system](https://github.com/buckstrdr/claude-workflow-system) | 📚 | Claude Code workflow system with commands, skills, | ⭐0 |
+| [electron](https://github.com/electron/electron) | 📚 | :electron: Build cross-platform desktop apps with  | ⭐119872 |
+| [n8n](https://github.com/n8n-io/n8n) | 📚 | Fair-code workflow automation platform with native | ⭐170858 |
+| [pytorch](https://github.com/pytorch/pytorch) | 📚 | Tensors and Dynamic neural networks in Python with | ⭐96855 |
+| [plate](https://github.com/udecode/plate) | 📚 | Rich-text editor with AI, MCP, and shadcn/ui | ⭐15819 |
+| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 📚 | Improve your resumes with Resume Matcher. Get insi | ⭐25750 |
+| [xtdb](https://github.com/xtdb/xtdb) | 📚 | An immutable SQL database for application developm | ⭐2904 |
+| [claude-flow](https://github.com/ruvnet/claude-flow) | 📚 | 🌊 The leading agent orchestration platform for Cl | ⭐12744 |
 
 
 ---
@@ -38,19 +41,12 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 | Tool | Author | Type | Description | Risk |
 |------|--------|------|-------------|------|
 | [electron](https://github.com/electron/electron) | electron | 📚 | :electron: Build cross-platform desktop  | 🟢 |
-| [pytorch](https://github.com/pytorch/pytorch) | pytorch | 📚 | Tensors and Dynamic neural networks in P | 🟢 |
 | [n8n](https://github.com/n8n-io/n8n) | n8n-io | 📚 | Fair-code workflow automation platform w | 🟢 |
+| [pytorch](https://github.com/pytorch/pytorch) | pytorch | 📚 | Tensors and Dynamic neural networks in P | 🟢 |
 | [plate](https://github.com/udecode/plate) | udecode | 📚 | Rich-text editor with AI, MCP, and shadc | 🟢 |
 | [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | srbhr | 📚 | Improve your resumes with Resume Matcher | 🟢 |
 | [xtdb](https://github.com/xtdb/xtdb) | xtdb | 📚 | An immutable SQL database for applicatio | 🟢 |
 | [claude-flow](https://github.com/ruvnet/claude-flow) | ruvnet | 📚 | 🌊 The leading agent orchestration platf | 🟡 |
-| [dotfiles](https://github.com/ChrisTowles/dotfiles) | ChrisTowles | 📚 | zshrc, bash script and terminal And Pers | 🟢 |
-| [planning_latest](https://github.com/sverzijl/planning_latest) | sverzijl | 📚 |  | 🟢 |
-| [cc_projects](https://github.com/gizix/cc_projects) | gizix | 📚 |  | 🟢 |
-| [claude-workflow-system](https://github.com/buckstrdr/claude-workflow-system) | buckstrdr | 📚 | Claude Code workflow system with command | 🟢 |
-| [OmniSight-dev](https://github.com/oneshot2001/OmniSight-dev) | oneshot2001 | 📚 |  | 🟢 |
-| [claude-code](https://github.com/joaopelegrino/claude-code) | joaopelegrino | 📚 |  | 🟢 |
-| [jkbox](https://github.com/jkraybill/jkbox) | jkraybill | 📚 | Local network party games - Because we c | 🟢 |
 
 
 ---
