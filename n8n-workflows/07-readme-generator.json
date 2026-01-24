@@ -71,7 +71,7 @@
     },
     {
       "parameters": {
-        "jsCode": "const tools = $('Get All Tools').all().map(i => i.json);\nconst trendingTools = $('Get Trending').all().map(i => i.json);\nconst categories = $('Get Categories').all().map(i => i.json);\n\nconst typeEmoji = {\n  skill: '📄', plugin: '🔌', collection: '📦', cli_tool: '⌨️',\n  mcp_server: '🔗', prompt_pack: '📝', workflow: '🔄',\n  extension: '🧩', resource: '📚'\n};\nconst riskEmoji = {low: '🟢', medium: '🟡', high: '🔴', critical: '⚫'};\n\n// Count by type\nconst typeCounts = tools.reduce((acc, t) => {\n  acc[t.tool_type] = (acc[t.tool_type] || 0) + 1;\n  return acc;\n}, {});\n\n// Trending table\nlet trending = '| Tool | Type | Stars | Trend |\\n|------|------|-------|-------|\\n';\nfor (const t of trendingTools) {\n  const trend = t.trending_score > 0 ? `📈+${t.trending_score.toFixed(1)}` : '';\n  trending += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ⭐${t.stars || 0} | ${trend} |\\n`;\n}\n\n// Category sections\nlet sections = '';\nfor (const cat of categories) {\n  const catTools = tools.filter(t => t.category_slug === cat.slug);\n  if (!catTools.length) continue;\n  \n  sections += `\\n### ${cat.icon || '📦'} ${cat.name}\\n\\n`;\n  sections += '| Tool | Type | Description | Risk |\\n|------|------|-------------|------|\\n';\n  \n  for (const t of catTools.slice(0, 20)) {\n    const desc = (t.description || '').slice(0, 60).replace(/\\|/g, '/');\n    sections += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ${desc} | ${riskEmoji[t.risk_level] || '🟢'} |\\n`;\n  }\n}\n\n// Type counts summary\nlet typeList = Object.entries(typeCounts)\n  .map(([type, count]) => `${typeEmoji[type] || '📄'} ${count} ${type.replace('_', ' ')}s`)\n  .join(' | ');\n\nconst readme = `# 🧠 Skill of Skills\n\n> The Autonomous Discovery Engine for the Claude Code Ecosystem\n\n**${tools.length} tools** discovered and indexed\n\n${typeList}\n\n## 🔥 Trending\n\n${trending}\n\n## 📦 By Category\n${sections}\n\n---\n\n## Tool Types\n\n| Icon | Type | Install Method |\n|------|------|----------------|\n| 📄 | Skill | \\`npx add-skill owner/repo\\` |\n| 🔌 | Plugin | \\`/plugin install name@directory\\` |\n| 📦 | Collection | \\`npx add-skill owner/repo\\` |\n| ⌨️ | CLI Tool | \\`npm install -g package\\` |\n| 🔗 | MCP Server | Configure in MCP settings |\n| 📝 | Prompt Pack | Copy/reference |\n| 🔄 | Workflow | Import workflow |\n| 🧩 | Extension | Install from store |\n| 📚 | Resource | Read/reference |\n\n## Risk Levels\n\n| Icon | Level | Description |\n|------|-------|-------------|\n| 🟢 | Low | Standard permissions |\n| 🟡 | Medium | Extended permissions (shell, subagents) |\n| 🔴 | High | Broad system access |\n| ⚫ | Critical | Manual review required |\n\n---\n\n*Generated ${new Date().toISOString().split('T')[0]} by [Skill of Skills](https://github.com/911fund/skill-of-skills)*\n`;\n\nreturn [{\n  json: {\n    readme_content: readme,\n    stats: {\n      total: tools.length,\n      trending: trendingTools.length,\n      categories: categories.length,\n      type_counts: typeCounts\n    }\n  }\n}];"
+        "jsCode": "const tools = $('Get All Tools').all().map(i => i.json);\nconst trendingTools = $('Get Trending').all().map(i => i.json);\nconst categories = $('Get Categories').all().map(i => i.json);\n\nconst typeEmoji = {\n  skill: '📄', plugin: '🔌', collection: '📦', cli_tool: '⌨️',\n  mcp_server: '🔗', prompt_pack: '📝', workflow: '🔄',\n  extension: '🧩', resource: '📚'\n};\nconst riskEmoji = {low: '🟢', medium: '🟡', high: '🔴', critical: '⚫'};\n\n// Count by type\nconst typeCounts = tools.reduce((acc, t) => {\n  acc[t.tool_type] = (acc[t.tool_type] || 0) + 1;\n  return acc;\n}, {});\n\n// Trending table\nlet trending = '| Tool | Type | Stars | Trend |\\n|------|------|-------|-------|\\n';\nfor (const t of trendingTools) {\n  const trend = t.trending_score > 0 ? `📈+${t.trending_score.toFixed(1)}` : '';\n  trending += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ⭐${t.stars || 0} | ${trend} |\\n`;\n}\n\n// Category sections\nlet sections = '';\nfor (const cat of categories) {\n  const catTools = tools.filter(t => t.category_slug === cat.slug);\n  if (!catTools.length) continue;\n  \n  sections += `\\n### ${cat.icon || '📦'} ${cat.name}\\n\\n`;\n  sections += '| Tool | Type | Description | Risk |\\n|------|------|-------------|------|\\n';\n  \n  for (const t of catTools.slice(0, 20)) {\n    const desc = (t.description || '').slice(0, 60).replace(/\\|/g, '/');\n    sections += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ${desc} | ${riskEmoji[t.risk_level] || '🟢'} |\\n`;\n  }\n}\n\n// Type counts summary\nlet typeList = Object.entries(typeCounts)\n  .map(([type, count]) => `${typeEmoji[type] || '📄'} ${count} ${type.replace('_', ' ')}s`)\n  .join(' | ');\n\nconst readme = `# 🧠 Skill of Skills\n\n> The Autonomous Discovery Engine for the Claude Code Ecosystem\n\n**${tools.length} tools** discovered and indexed\n\n${typeList}\n\n## 🔥 Trending\n\n${trending}\n\n## 📦 By Category\n${sections}\n\n---\n\n## Tool Types\n\n| Icon | Type | Install Method |\n|------|------|----------------|\n| 📄 | Skill | \\`npx add-skill owner/repo\\` |\n| 🔌 | Plugin | \\`/plugin install name@directory\\` |\n| 📦 | Collection | \\`npx add-skill owner/repo\\` |\n| ⌨️ | CLI Tool | \\`npm install -g package\\` |\n| 🔗 | MCP Server | Configure in MCP settings |\n| 📝 | Prompt Pack | Copy/reference |\n| 🔄 | Workflow | Import workflow |\n| 🧩 | Extension | Install from store |\n| 📚 | Resource | Read/reference |\n\n## Risk Levels\n\n| Icon | Level | Description |\n|------|-------|-------------|\n| 🟢 | Low | Standard permissions |\n| 🟡 | Medium | Extended permissions (shell, subagents) |\n| 🔴 | High | Broad system access |\n| ⚫ | Critical | Manual review required |\n\n---\n\n*Generated ${new Date().toISOString().split('T')[0]} by [Skill of Skills](https://github.com/911fund/skill-of-skills)*\n`;\n\nreturn [{\n  json: {\n    readme_content: readme,\n    readme_base64: Buffer.from(readme).toString('base64'),\n    stats: {\n      total: tools.length,\n      trending: trendingTools.length,\n      categories: categories.length,\n      type_counts: typeCounts\n    }\n  }\n}];"
       },
       "id": "generate",
       "name": "Generate README",
@@ -81,14 +81,122 @@
     },
     {
       "parameters": {
+        "method": "GET",
+        "url": "https://api.github.com/repos/911fund/skill-of-skills/contents/README.md",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "token GITHUB_TOKEN_PLACEHOLDER"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github.v3+json"
+            }
+          ]
+        },
+        "options": {
+          "ignoreResponseCode": true
+        }
+      },
+      "id": "get-sha",
+      "name": "Get Current SHA",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1000, 300]
+    },
+    {
+      "parameters": {
+        "method": "PUT",
+        "url": "https://api.github.com/repos/911fund/skill-of-skills/contents/README.md",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {
+              "name": "Authorization",
+              "value": "token GITHUB_TOKEN_PLACEHOLDER"
+            },
+            {
+              "name": "Accept",
+              "value": "application/vnd.github.v3+json"
+            },
+            {
+              "name": "Content-Type",
+              "value": "application/json"
+            }
+          ]
+        },
+        "sendBody": true,
+        "bodyParameters": {
+          "parameters": [
+            {
+              "name": "message",
+              "value": "=Update README - {{ $('Generate README').item.json.stats.total }} tools indexed"
+            },
+            {
+              "name": "content",
+              "value": "={{ $('Generate README').item.json.readme_base64 }}"
+            },
+            {
+              "name": "sha",
+              "value": "={{ $('Get Current SHA').item.json.sha || '' }}"
+            }
+          ]
+        },
+        "options": {}
+      },
+      "id": "push-github",
+      "name": "Push to GitHub",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1220, 300],
+      "onError": "continueErrorOutput"
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"embeds\": [{\n    \"title\": \"✅ README Updated\",\n    \"color\": 65280,\n    \"fields\": [\n      {\n        \"name\": \"Tools Indexed\",\n        \"value\": \"{{ $('Generate README').item.json.stats.total }}\",\n        \"inline\": true\n      },\n      {\n        \"name\": \"Commit\",\n        \"value\": \"[View on GitHub]({{ $json.commit.html_url }})\",\n        \"inline\": true\n      }\n    ],\n    \"timestamp\": \"{{ new Date().toISOString() }}\"\n  }]\n}",
+        "options": {}
+      },
+      "id": "discord-success",
+      "name": "Discord Success",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1440, 200]
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"embeds\": [{\n    \"title\": \"❌ README Push Failed\",\n    \"color\": 16711680,\n    \"fields\": [\n      {\n        \"name\": \"Error\",\n        \"value\": \"{{ $json.error || $json.message || 'Unknown error' }}\",\n        \"inline\": false\n      },\n      {\n        \"name\": \"Tools Generated\",\n        \"value\": \"{{ $('Generate README').item.json.stats.total }}\",\n        \"inline\": true\n      }\n    ],\n    \"timestamp\": \"{{ new Date().toISOString() }}\"\n  }]\n}",
+        "options": {}
+      },
+      "id": "discord-failure",
+      "name": "Discord Failure",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1440, 400]
+    },
+    {
+      "parameters": {
         "respondWith": "json",
-        "responseBody": "={{ $json }}"
+        "responseBody": "={\n  \"success\": {{ $('Push to GitHub').item.json.commit ? true : false }},\n  \"tools_count\": {{ $('Generate README').item.json.stats.total }},\n  \"commit_url\": \"{{ $('Push to GitHub').item.json.commit.html_url || 'N/A' }}\",\n  \"message\": \"README {{ $('Push to GitHub').item.json.commit ? 'updated successfully' : 'generation completed (push may have failed)' }}\"\n}"
       },
       "id": "respond",
       "name": "Respond",
       "type": "n8n-nodes-base.respondToWebhook",
       "typeVersion": 1.1,
-      "position": [1000, 300]
+      "position": [1660, 300]
     }
   ],
   "connections": {
@@ -105,6 +213,19 @@
       "main": [[{"node": "Generate README", "type": "main", "index": 0}]]
     },
     "Generate README": {
+      "main": [[{"node": "Get Current SHA", "type": "main", "index": 0}]]
+    },
+    "Get Current SHA": {
+      "main": [[{"node": "Push to GitHub", "type": "main", "index": 0}]]
+    },
+    "Push to GitHub": {
+      "main": [[{"node": "Discord Success", "type": "main", "index": 0}]],
+      "error": [[{"node": "Discord Failure", "type": "main", "index": 0}]]
+    },
+    "Discord Success": {
+      "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+    },
+    "Discord Failure": {
       "main": [[{"node": "Respond", "type": "main", "index": 0}]]
     }
   },
