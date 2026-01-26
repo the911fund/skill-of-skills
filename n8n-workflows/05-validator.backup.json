@@ -1,0 +1,202 @@
+{
+  "name": "05 - Tool Validator",
+  "nodes": [
+    {
+      "parameters": {
+        "rule": {
+          "interval": [{"field": "hours", "hoursInterval": 2}]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Schedule",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 300]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM discovery_queue WHERE status = 'pending' ORDER BY priority_score DESC LIMIT 10",
+        "options": {}
+      },
+      "id": "get-pending",
+      "name": "Get Pending",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 300],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {"caseSensitive": true, "leftValue": "", "typeValidation": "strict"},
+          "conditions": [
+            {
+              "id": "condition-1",
+              "leftValue": "={{ $json.id }}",
+              "rightValue": "",
+              "operator": {"type": "string", "operation": "isNotEmpty"}
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "id": "has-items",
+      "name": "Has Items?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [680, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const url = $json.repo_url || '';\nconst match = url.match(/github\\.com\\/([\\/\\w-]+)\\/([\\/\\w-]+)/);\nif (!match) return [{json: {error: 'Invalid URL', skip: true}}];\n\nreturn [{\n  json: {\n    ...$json,\n    owner: match[1],\n    repo: match[2]\n  }\n}];"
+      },
+      "id": "parse-url",
+      "name": "Parse URL",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [900, 200]
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.github.com/repos/{{$json.owner}}/{{$json.repo}}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {}
+      },
+      "id": "fetch-repo",
+      "name": "Fetch Repo Info",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1120, 200],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_CREDENTIAL_ID",
+          "name": "GitHub Token"
+        }
+      },
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "method": "GET",
+        "url": "=https://api.github.com/repos/{{$('Parse URL').first().json.owner}}/{{$('Parse URL').first().json.repo}}/contents",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "options": {}
+      },
+      "id": "fetch-contents",
+      "name": "Fetch Contents",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1340, 200],
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "GITHUB_CREDENTIAL_ID",
+          "name": "GitHub Token"
+        }
+      },
+      "continueOnFail": true
+    },
+    {
+      "parameters": {
+        "jsCode": "const repoInfo = $('Fetch Repo Info').first().json;\nconst contents = $('Fetch Contents').first().json;\nconst queueItem = $('Parse URL').first().json;\n\nif (!repoInfo || repoInfo.message) {\n  return [{json: {skip: true, error: 'Repo not found'}}];\n}\n\nconst files = Array.isArray(contents) ? contents : [];\nconst fileNames = files.map(f => f.name?.toLowerCase() || '');\nconst paths = files.map(f => f.path?.toLowerCase() || '');\n\nconst hasSkillMd = fileNames.includes('skill.md') || paths.some(p => p.includes('skill.md'));\nconst hasClaudePlugin = fileNames.includes('.claude-plugin') || paths.some(p => p.includes('.claude-plugin'));\nconst hasMcpJson = fileNames.includes('mcp.json') || paths.some(p => p.includes('mcp.json'));\nconst hasPackageJson = fileNames.includes('package.json');\n\nlet toolType = 'resource';\nif (hasClaudePlugin) toolType = 'plugin';\nelse if (hasMcpJson) toolType = 'mcp_server';\nelse if (hasSkillMd) {\n  const skillFiles = files.filter(f => f.path?.toLowerCase().includes('skill.md'));\n  toolType = skillFiles.length > 1 ? 'collection' : 'skill';\n} else if (hasPackageJson) toolType = 'cli_tool';\n\nconst desc = (repoInfo.description || '').toLowerCase();\nlet riskLevel = 'low';\nif (/subagent|autonomous|shell|execute|sudo|root/i.test(desc)) {\n  riskLevel = 'medium';\n}\n\nconst slug = repoInfo.name.toLowerCase().replace(/[^a-z0-9-]/g, '-').replace(/-+/g, '-');\n\nreturn [{\n  json: {\n    queue_id: queueItem.id,\n    name: repoInfo.name,\n    slug: slug,\n    repo_url: repoInfo.html_url,\n    repo_owner: repoInfo.owner?.login,\n    repo_name: repoInfo.name,\n    description: (repoInfo.description || '').slice(0, 500),\n    tool_type: toolType,\n    stars: repoInfo.stargazers_count || 0,\n    forks: repoInfo.forks_count || 0,\n    last_commit_at: repoInfo.pushed_at,\n    license: repoInfo.license?.spdx_id || null,\n    has_skill_md: hasSkillMd,\n    has_claude_plugin: hasClaudePlugin,\n    has_mcp_json: hasMcpJson,\n    risk_level: riskLevel,\n    validation_status: 'passed',\n    source: queueItem.source || 'github_search'\n  }\n}];"
+      },
+      "id": "analyze",
+      "name": "Analyze & Classify",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1560, 200]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "INSERT INTO tools (name, slug, repo_url, repo_owner, repo_name, description, tool_type, stars, forks, last_commit_at, license, has_skill_md, has_claude_plugin, has_mcp_json, risk_level, validation_status, source) VALUES ('{{$json.name}}', '{{$json.slug}}', '{{$json.repo_url}}', '{{$json.repo_owner}}', '{{$json.repo_name}}', '{{$json.description.replace(/'/g, \"''\")}}'::text, '{{$json.tool_type}}', {{$json.stars}}, {{$json.forks}}, '{{$json.last_commit_at}}', {{$json.license ? \"'\" + $json.license + \"'\" : 'NULL'}}, {{$json.has_skill_md}}, {{$json.has_claude_plugin}}, {{$json.has_mcp_json}}, '{{$json.risk_level}}', '{{$json.validation_status}}', '{{$json.source}}') ON CONFLICT (slug) DO NOTHING",
+        "options": {}
+      },
+      "id": "insert-tool",
+      "name": "Insert Tool",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1780, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE discovery_queue SET status='accepted', processed_at=NOW() WHERE id='{{$('Analyze & Classify').first().json.queue_id}}'",
+        "options": {}
+      },
+      "id": "update-queue",
+      "name": "Update Queue",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [2000, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "method": "POST",
+        "url": "={{$env.WEBHOOK_URL}}/webhook/notify-new-tool",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify($('Analyze & Classify').first().json) }}",
+        "options": {}
+      },
+      "id": "notify-discord",
+      "name": "Notify Discord",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2220, 200]
+    }
+  ],
+  "connections": {
+    "Schedule": {
+      "main": [[{"node": "Get Pending", "type": "main", "index": 0}]]
+    },
+    "Get Pending": {
+      "main": [[{"node": "Has Items?", "type": "main", "index": 0}]]
+    },
+    "Has Items?": {
+      "main": [[{"node": "Parse URL", "type": "main", "index": 0}], []]
+    },
+    "Parse URL": {
+      "main": [[{"node": "Fetch Repo Info", "type": "main", "index": 0}]]
+    },
+    "Fetch Repo Info": {
+      "main": [[{"node": "Fetch Contents", "type": "main", "index": 0}]]
+    },
+    "Fetch Contents": {
+      "main": [[{"node": "Analyze & Classify", "type": "main", "index": 0}]]
+    },
+    "Analyze & Classify": {
+      "main": [[{"node": "Insert Tool", "type": "main", "index": 0}]]
+    },
+    "Insert Tool": {
+      "main": [[{"node": "Update Queue", "type": "main", "index": 0}]]
+    },
+    "Update Queue": {
+      "main": [[{"node": "Notify Discord", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
