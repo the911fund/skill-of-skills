@@ -23,19 +23,19 @@ export function ToolCard({ tool }: ToolCardProps) {
           <RiskBadge level={tool.riskLevel} />
         </div>
 
-        <h3 className="text-lg font-semibold text-gray-900 mb-1">{tool.name}</h3>
+        <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-1">{tool.name}</h3>
 
         {tool.repoOwner && (
-          <p className="text-xs text-gray-400 mb-2">
-            by <span className="font-medium text-gray-500">{tool.repoOwner}</span>
+          <p className="text-xs text-gray-400 dark:text-gray-500 mb-2">
+            by <span className="font-medium text-gray-500 dark:text-gray-400">{tool.repoOwner}</span>
           </p>
         )}
 
-        <p className="text-sm text-gray-600 mb-4 line-clamp-3">
+        <p className="text-sm text-gray-600 dark:text-gray-300 mb-4 line-clamp-3">
           {tool.description || 'No description available'}
         </p>
 
-        <div className="flex items-center justify-between text-sm text-gray-500 pt-3 border-t border-gray-100">
+        <div className="flex items-center justify-between text-sm text-gray-500 dark:text-gray-400 pt-3 border-t border-gray-100 dark:border-gray-700">
           <div className="flex items-center gap-3">
             <span>⭐ {formatNumber(tool.stars)}</span>
             {tool.category && (
@@ -45,7 +45,7 @@ export function ToolCard({ tool }: ToolCardProps) {
             )}
           </div>
           {tool.repoOwner && tool.repoName && (
-            <span className="text-xs text-gray-400">{tool.repoOwner}/{tool.repoName}</span>
+            <span className="text-xs text-gray-400 dark:text-gray-500">{tool.repoOwner}/{tool.repoName}</span>
           )}
         </div>
       </Card>

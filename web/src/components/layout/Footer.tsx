@@ -15,7 +15,7 @@ export function Footer() {
           </div>
           <div className="flex gap-6">
             <Link 
-              href="https://github.com/911fund/skill-of-skills" 
+              href="https://github.com/the911fund/skill-of-skills" 
               className="flex items-center gap-1 text-sm text-gray-500 dark:text-gray-400 hover:text-gray-700 dark:hover:text-gray-200 transition-colors"
               target="_blank"
               rel="noopener noreferrer"
