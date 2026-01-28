@@ -21,7 +21,7 @@ export default async function ToolsPage({ searchParams }: Props) {
   return (
     <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 lg:px-8">
       <div className="flex items-center justify-between mb-8">
-        <h1 className="text-3xl font-bold">Browse Tools</h1>
+        <h1 className="text-3xl font-bold dark:text-gray-100">Browse Tools</h1>
         <Suspense fallback={null}>
           <SearchFilters />
         </Suspense>

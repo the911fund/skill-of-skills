@@ -10,17 +10,17 @@ export function TypeDistribution({ data }: TypeDistributionProps) {
 
   return (
     <Card>
-      <h2 className="text-lg font-semibold mb-4">Tools by Type</h2>
+      <h2 className="text-lg font-semibold dark:text-gray-100 mb-4">Tools by Type</h2>
       <div className="space-y-3">
         {data.map((item) => (
           <div key={item.type} className="flex items-center gap-3">
             <span className="text-xl">{getToolTypeIcon(item.type)}</span>
             <div className="flex-1">
               <div className="flex justify-between text-sm">
-                <span className="capitalize">{item.type.replace('_', ' ')}</span>
-                <span className="text-gray-500">{item.count}</span>
+                <span className="capitalize dark:text-gray-200">{item.type.replace('_', ' ')}</span>
+                <span className="text-gray-500 dark:text-gray-400">{item.count}</span>
               </div>
-              <div className="h-2 bg-gray-100 rounded-full mt-1">
+              <div className="h-2 bg-gray-100 dark:bg-gray-700 rounded-full mt-1">
                 <div
                   className="h-full bg-primary-500 rounded-full"
                   style={{ width: `${(item.count / total) * 100}%` }}
