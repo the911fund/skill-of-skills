@@ -111,6 +111,7 @@ model Tool {
   isVerified            Boolean          @default(false) @map("is_verified")
   discoveredAt          DateTime         @default(now()) @map("discovered_at") @db.Timestamptz
   updatedAt             DateTime         @default(now()) @updatedAt @map("updated_at") @db.Timestamptz
+  searchVector          Unsupported("tsvector")? @map("search_vector")
   socialMentions        SocialMention[]
   metricsHistory        MetricsHistory[]
   ratings               Rating[]
