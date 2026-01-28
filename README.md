@@ -1,1 +1,1 @@
-{{ $('Generate README').first().json.readme_content }}
+$('Generate README').first().json.readme_content
