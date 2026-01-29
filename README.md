@@ -1,6 +1,17 @@
-=# 🧠 Skill of Skills
+# 🧠 Skill of Skills
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
+
+## 📖 About
+
+Skill of Skills automatically discovers, validates, and indexes tools that extend Claude Code capabilities. It crawls GitHub, monitors social media, and curates a directory of skills, plugins, MCP servers, and other extensions for the Claude ecosystem.
+
+**Features:**
+- 🔍 **Automatic Discovery** - Finds new tools from GitHub, X/Twitter, and Reddit
+- ✅ **Validation** - Tests tools in sandboxed environments
+- ⚠️ **Risk Assessment** - Flags potentially dangerous code patterns
+- 📊 **Scoring** - Ranks tools by quality, popularity, and trust signals
+- 🔄 **Auto-Updates** - README regenerates hourly with latest data
 
 **13 tools** discovered and indexed
 
@@ -100,4 +111,3 @@
 ---
 
 *Generated 2026-01-29 by [Skill of Skills](https://github.com/the911fund/skill-of-skills)*
- }}

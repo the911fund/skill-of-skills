@@ -1,10 +1,21 @@
-# 🎯 Skill of Skills
+# 🧠 Skill of Skills
 
-> A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
+> The Autonomous Discovery Engine for the Claude Code Ecosystem
 
 [![Tools](https://img.shields.io/badge/tools-{{total_tools}}-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-{{total_categories}}-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-{{total_stars}}-yellow)](https://github.com/the911fund/skill-of-skills)
+
+## 📖 About
+
+Skill of Skills automatically discovers, validates, and indexes tools that extend Claude Code capabilities. It crawls GitHub, monitors social media, and curates a directory of skills, plugins, MCP servers, and other extensions for the Claude ecosystem.
+
+**Features:**
+- 🔍 **Automatic Discovery** - Finds new tools from GitHub, X/Twitter, and Reddit
+- ✅ **Validation** - Tests tools in sandboxed environments  
+- ⚠️ **Risk Assessment** - Flags potentially dangerous code patterns
+- 📊 **Scoring** - Ranks tools by quality, popularity, and trust signals
+- 🔄 **Auto-Updates** - README regenerates hourly with latest data
 
 **{{total_tools}} tools** discovered across {{total_categories}} categories
 

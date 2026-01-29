@@ -34,3 +34,6 @@ build/
 
 # Planning & Internal Docs
 .planning/
+
+# Project instructions (may contain sensitive info)
+CLAUDE.md
