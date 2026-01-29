@@ -99,5 +99,5 @@
 
 ---
 
-*Generated 2026-01-29 by [Skill of Skills](https://github.com/911fund/skill-of-skills)*
+*Generated 2026-01-29 by [Skill of Skills](https://github.com/the911fund/skill-of-skills)*
  }}
