@@ -49,3 +49,34 @@ body {
 ::-webkit-scrollbar-thumb:hover {
   background: rgb(55 65 81);
 }
+
+/* Dark mode text visibility fixes */
+.dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6 {
+  color: rgb(var(--foreground));
+}
+
+.dark p {
+  color: rgb(var(--foreground));
+}
+
+.dark span {
+  color: inherit;
+}
+
+/* Ensure good contrast for any missed text elements */
+.dark .text-gray-500:not(.dark\:text-gray-300) {
+  color: rgb(156 163 175); /* gray-400 for better visibility */
+}
+
+/* Enhanced form element visibility */
+.dark input, .dark select, .dark textarea {
+  background-color: rgb(var(--card));
+  color: rgb(var(--foreground));
+  border-color: rgb(var(--border));
+}
+
+.dark input::placeholder,
+.dark select::placeholder,
+.dark textarea::placeholder {
+  color: rgb(107 114 128); /* gray-500 */
+}

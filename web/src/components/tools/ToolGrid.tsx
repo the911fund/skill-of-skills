@@ -9,7 +9,7 @@ export function ToolGrid({ tools }: ToolGridProps) {
   if (tools.length === 0) {
     return (
       <div className="text-center py-12">
-        <p className="text-gray-500 dark:text-gray-400">No tools found</p>
+        <p className="text-gray-500 dark:text-gray-300">No tools found</p>
       </div>
     )
   }

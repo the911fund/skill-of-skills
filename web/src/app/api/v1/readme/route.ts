@@ -87,9 +87,9 @@ export async function GET() {
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-${totalTools}-blue)](https://github.com/911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-${totalCategories}-green)](https://github.com/911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-${totalStars >= 1000 ? Math.round(totalStars / 1000) + 'k' : totalStars}-yellow)](https://github.com/911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-${totalTools}-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-${totalCategories}-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-${totalStars >= 1000 ? Math.round(totalStars / 1000) + 'k' : totalStars}-yellow)](https://github.com/the911fund/skill-of-skills)
 
 **${totalTools} tools** discovered across ${totalCategories} categories
 
@@ -160,7 +160,7 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated ${timestamp} by <a href="https://github.com/911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated ${timestamp} by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
 `
 

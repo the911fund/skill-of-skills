@@ -1,33 +1,93 @@
-# Dependencies
-node_modules/
+# 🔒 SECURITY: Environment & Configuration
+.env
+.env.*
+!.env.example
+!.env.*.example
+*.local
+*.local.*
+config.local.*
+secrets.json
+credentials.json
+auth.json
+private.json
 
-# Next.js
+# 📦 Dependencies
+node_modules/
+.pnpm-store/
+
+# 🔨 Build outputs
 .next/
 out/
-
-# Environment files
-.env
-.env.local
-.env*.local
-
-# Debug
-npm-debug.log*
-
-# OS
-.DS_Store
-Thumbs.db
-
-# IDE
-.idea/
-.vscode/
-*.swp
-
-# Build
 dist/
 build/
 
-# Prisma
+# 📊 Database
 *.db
+*.sqlite
+*.sqlite3
+backups/
+*.sql.gz
 
-# Claude
+# 🔑 Keys & Certificates
+*.key
+*.pem
+*.crt
+*.p12
+*.pfx
+ssl/
+certs/
+
+# 📝 Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# 🖥️ OS Files
+.DS_Store
+.DS_Store?
+Thumbs.db
+desktop.ini
+._*
+
+# 🛠️ IDE & Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.sublime-project
+*.sublime-workspace
+
+# 🔧 Development
+.cache/
+.parcel-cache/
+.tmp/
+temp/
+tmp/
+coverage/
+.nyc_output/
+
+# 🤖 AI/Agent specific
 .claude/
+
+# 📱 Prisma
+prisma/*.db
+prisma/migrations/*.sql.backup
+
+# 🚀 Deployment
+deploy.sh
+deploy.local.sh
+*.local.conf
+server-config.*
+production-*.json
+
+# 🔐 Security scans
+security-scan.*
+vulnerability-report.*
+
+# 📊 Analytics & Monitoring
+analytics-data/
+metrics/
+monitoring/

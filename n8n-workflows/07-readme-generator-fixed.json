@@ -1,0 +1,185 @@
+{
+  "name": "07 - README Generator (Fixed)",
+  "nodes": [
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "path": "generate-readme",
+        "responseMode": "responseNode",
+        "options": {}
+      },
+      "id": "webhook",
+      "name": "Webhook",
+      "type": "n8n-nodes-base.webhook",
+      "typeVersion": 2,
+      "position": [240, 300],
+      "webhookId": "generate-readme"
+    },
+    {
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "triggerAtHour": 1
+            }
+          ]
+        }
+      },
+      "id": "schedule",
+      "name": "Schedule (Every Hour)",
+      "type": "n8n-nodes-base.cron",
+      "typeVersion": 1,
+      "position": [240, 180]
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT t.*, c.name as category_name, c.slug as category_slug, c.icon as category_icon FROM tools t LEFT JOIN categories c ON t.category_id=c.id WHERE t.is_active=TRUE AND t.validation_status IN ('passed','skipped') ORDER BY t.composite_score DESC",
+        "options": {}
+      },
+      "id": "get-tools",
+      "name": "Get All Tools",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 200],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM tools WHERE is_active=TRUE AND trending_score>0 ORDER BY trending_score DESC LIMIT 10",
+        "options": {}
+      },
+      "id": "get-trending",
+      "name": "Get Trending",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 350],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT * FROM categories ORDER BY display_order",
+        "options": {}
+      },
+      "id": "get-categories",
+      "name": "Get Categories",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [460, 500],
+      "credentials": {
+        "postgres": {
+          "id": "POSTGRES_CREDENTIAL_ID",
+          "name": "Postgres"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const tools = $('Get All Tools').all().map(i => i.json);\nconst trendingTools = $('Get Trending').all().map(i => i.json);\nconst categories = $('Get Categories').all().map(i => i.json);\n\nconst typeEmoji = {\n  skill: '📄', plugin: '🔌', collection: '📦', cli_tool: '⌨️',\n  mcp_server: '🔗', prompt_pack: '📝', workflow: '🔄',\n  extension: '🧩', resource: '📚'\n};\nconst riskEmoji = {low: '🟢', medium: '🟡', high: '🔴', critical: '⚫'};\n\n// Count by type\nconst typeCounts = tools.reduce((acc, t) => {\n  acc[t.tool_type] = (acc[t.tool_type] || 0) + 1;\n  return acc;\n}, {});\n\n// Trending table\nlet trending = '| Tool | Type | Stars | Trend |\\n|------|------|-------|-------|\\n';\nfor (const t of trendingTools) {\n  const trend = t.trending_score > 0 ? `📈+${t.trending_score.toFixed(1)}` : '';\n  trending += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ⭐${t.stars || 0} | ${trend} |\\n`;\n}\n\n// Category sections\nlet sections = '';\nfor (const cat of categories) {\n  const catTools = tools.filter(t => t.category_slug === cat.slug);\n  if (!catTools.length) continue;\n  \n  sections += `\\n### ${cat.icon || '📦'} ${cat.name}\\n\\n`;\n  sections += '| Tool | Type | Description | Risk |\\n|------|------|-------------|------|\\n';\n  \n  for (const t of catTools.slice(0, 20)) {\n    const desc = (t.description || '').slice(0, 60).replace(/\\|/g, '/');\n    sections += `| [${t.name}](${t.repo_url}) | ${typeEmoji[t.tool_type] || '📄'} | ${desc} | ${riskEmoji[t.risk_level] || '🟢'} |\\n`;\n  }\n}\n\n// Type counts summary\nlet typeList = Object.entries(typeCounts)\n  .map(([type, count]) => `${typeEmoji[type] || '📄'} ${count} ${type.replace('_', ' ')}s`)\n  .join(' | ');\n\nconst readme = `# 🧠 Skill of Skills\n\n> The Autonomous Discovery Engine for the Claude Code Ecosystem\n\n**${tools.length} tools** discovered and indexed\n\n${typeList}\n\n## 🔥 Trending\n\n${trending}\n\n## 📦 By Category\n${sections}\n\n---\n\n## Tool Types\n\n| Icon | Type | Install Method |\n|------|------|----------------|\n| 📄 | Skill | \\`npx add-skill owner/repo\\` |\n| 🔌 | Plugin | \\`/plugin install name@directory\\` |\n| 📦 | Collection | \\`npx add-skill owner/repo\\` |\n| ⌨️ | CLI Tool | \\`npm install -g package\\` |\n| 🔗 | MCP Server | Configure in MCP settings |\n| 📝 | Prompt Pack | Copy/reference |\n| 🔄 | Workflow | Import workflow |\n| 🧩 | Extension | Install from store |\n| 📚 | Resource | Read/reference |\n\n## Risk Levels\n\n| Icon | Level | Description |\n|------|-------|-------------|\n| 🟢 | Low | Standard permissions |\n| 🟡 | Medium | Extended permissions (shell, subagents) |\n| 🔴 | High | Broad system access |\n| ⚫ | Critical | Manual review required |\n\n---\n\n*Generated ${new Date().toISOString().split('T')[0]} by [Skill of Skills](https://github.com/911fund/skill-of-skills)*\n`;\n\nreturn [{\n  json: {\n    readme_content: readme,\n    stats: {\n      total: tools.length,\n      trending: trendingTools.length,\n      categories: categories.length,\n      type_counts: typeCounts\n    }\n  }\n}];"
+      },
+      "id": "generate",
+      "name": "Generate README",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [780, 300]
+    },
+    {
+      "parameters": {
+        "authentication": "githubApi",
+        "resource": "file",
+        "operation": "create",
+        "owner": "{{ $json.github_owner || 'the911fund' }}",
+        "repository": "{{ $json.github_repo || 'skill-of-skills' }}",
+        "filePath": "README.md",
+        "fileContent": "={{ $('Generate README').first().json.readme_content }}",
+        "commitMessage": "🤖 Auto-update README.md with latest skills data",
+        "additionalParameters": {}
+      },
+      "id": "push-to-github",
+      "name": "Push to GitHub",
+      "type": "n8n-nodes-base.github",
+      "typeVersion": 1,
+      "position": [1000, 200],
+      "credentials": {
+        "githubApi": {
+          "id": "GITHUB_API_CREDENTIAL_ID",
+          "name": "GitHub API"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "httpMethod": "POST",
+        "url": "http://localhost:3001/api/v1/update",
+        "options": {
+          "headers": {
+            "Content-Type": "application/json"
+          }
+        },
+        "sendBody": true,
+        "body": {
+          "readme": "={{ $('Generate README').first().json.readme_content }}",
+          "timestamp": "={{ new Date().toISOString() }}"
+        }
+      },
+      "id": "update-webui",
+      "name": "Update WebUI",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1000, 400]
+    },
+    {
+      "parameters": {
+        "respondWith": "json",
+        "responseBody": "={{ { success: true, updated_at: new Date().toISOString(), stats: $('Generate README').first().json.stats } }}"
+      },
+      "id": "respond",
+      "name": "Respond",
+      "type": "n8n-nodes-base.respondToWebhook",
+      "typeVersion": 1.1,
+      "position": [1220, 300]
+    }
+  ],
+  "connections": {
+    "Webhook": {
+      "main": [[{"node": "Get All Tools", "type": "main", "index": 0}, {"node": "Get Trending", "type": "main", "index": 0}, {"node": "Get Categories", "type": "main", "index": 0}]]
+    },
+    "Schedule (Every Hour)": {
+      "main": [[{"node": "Get All Tools", "type": "main", "index": 0}, {"node": "Get Trending", "type": "main", "index": 0}, {"node": "Get Categories", "type": "main", "index": 0}]]
+    },
+    "Get All Tools": {
+      "main": [[{"node": "Generate README", "type": "main", "index": 0}]]
+    },
+    "Get Trending": {
+      "main": [[{"node": "Generate README", "type": "main", "index": 0}]]
+    },
+    "Get Categories": {
+      "main": [[{"node": "Generate README", "type": "main", "index": 0}]]
+    },
+    "Generate README": {
+      "main": [[{"node": "Push to GitHub", "type": "main", "index": 0}, {"node": "Update WebUI", "type": "main", "index": 0}]]
+    },
+    "Push to GitHub": {
+      "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+    },
+    "Update WebUI": {
+      "main": [[{"node": "Respond", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}

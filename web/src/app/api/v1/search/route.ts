@@ -10,9 +10,13 @@ export async function GET(request: NextRequest) {
   }
 
   try {
+    console.log('Search query:', query)
     const tools = await searchTools(query)
+    console.log('Search results count:', tools?.length || 0)
+    console.log('First result:', tools?.[0] || 'No results')
     return NextResponse.json(tools)
   } catch (error) {
-    return NextResponse.json({ error: 'Search failed' }, { status: 500 })
+    console.error('Search API error:', error)
+    return NextResponse.json({ error: 'Search failed', details: error instanceof Error ? error.message : 'Unknown error' }, { status: 500 })
   }
 }
