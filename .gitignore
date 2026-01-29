@@ -31,3 +31,6 @@ build/
 
 # Claude
 .claude/
+
+# Planning & Internal Docs
+.planning/
