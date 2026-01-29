@@ -1,17 +1,6 @@
-# 🧠 Skill of Skills
+=# 🧠 Skill of Skills
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
-
-## 📖 About
-
-Skill of Skills automatically discovers, validates, and indexes tools that extend Claude Code capabilities. It crawls GitHub, monitors social media, and curates a directory of skills, plugins, MCP servers, and other extensions for the Claude ecosystem.
-
-**Features:**
-- 🔍 **Automatic Discovery** - Finds new tools from GitHub, X/Twitter, and Reddit
-- ✅ **Validation** - Tests tools in sandboxed environments
-- ⚠️ **Risk Assessment** - Flags potentially dangerous code patterns
-- 📊 **Scoring** - Ranks tools by quality, popularity, and trust signals
-- 🔄 **Auto-Updates** - README regenerates hourly with latest data
 
 **13 tools** discovered and indexed
 
@@ -24,63 +13,6 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 
 ## 📦 By Category
-
-### ✅ Official
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) | 📦 | Official Anthropic plugin directory | 🟢 |
-
-### 🛠️ Development
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [plate](https://github.com/udecode/plate) | 📚 | Rich-text editor with AI, MCP, and shadcn/ui | 🟢 |
-| [xtdb](https://github.com/xtdb/xtdb) | 📚 | An immutable SQL database for application development, time- | 🟢 |
-| [add-skill](https://github.com/vercel-labs/add-skill) | ⌨️ | Universal skill installer for 17+ agents | 🟢 |
-
-### 📚 Documentation
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Cartographer](https://github.com/kingbootoshi/cartographer) | 🔌 | Maps codebases with AI subagents | 🟢 |
-
-### 📣 Marketing
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 📦 | 23 marketing skills for Claude Code | 🟢 |
-
-### ⚡ Productivity
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 📚 | Improve your resumes with Resume Matcher. Get insights, keyw | 🟢 |
-
-### 🎬 Media
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Remotion Skills](https://github.com/remotion-dev/skills) | 📦 | Video creation with Remotion | 🟢 |
-
-### 🔬 Research
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [pytorch](https://github.com/pytorch/pytorch) | 📚 | Tensors and Dynamic neural networks in Python with strong GP | 🟢 |
-
-### 🔗 Integrations
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [n8n](https://github.com/n8n-io/n8n) | 📚 | Fair-code workflow automation platform with native AI capabi | 🟢 |
-
-### 🤖 Agents
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [claude-flow](https://github.com/ruvnet/claude-flow) | 📚 | 🌊 The leading agent orchestration platform for Claude. Depl | 🟡 |
-| [swarm](https://github.com/openai/swarm) | 📚 | Educational framework exploring ergonomic, lightweight multi | 🟢 |
 
 
 ---
@@ -110,4 +42,5 @@ Skill of Skills automatically discovers, validates, and indexes tools that exten
 
 ---
 
-*Generated 2026-01-29 by [Skill of Skills](https://github.com/the911fund/skill-of-skills)*
+*Generated 2026-01-29 by [Skill of Skills](https://github.com/911fund/skill-of-skills)*
+ }}
