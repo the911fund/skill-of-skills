@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [servers](https://github.com/modelcontextprotocol/servers) | 📚 | ⭐77437 | 📈+57.2 |
 
 
 ## 📦 By Category
