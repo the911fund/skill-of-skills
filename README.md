@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | ⭐34518 | 📈+57.5 |
 
 
 ## 📦 By Category
