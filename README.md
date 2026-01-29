@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 📚 | ⭐27866 | 📈+56.1 |
 
 
 ## 📦 By Category
