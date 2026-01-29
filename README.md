@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📚 | ⭐32065 | 📈+57.1 |
 
 
 ## 📦 By Category
