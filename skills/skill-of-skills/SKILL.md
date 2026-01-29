@@ -3,7 +3,7 @@ name: skill-of-skills
 description: Discover and install trending Claude Code tools from the entire ecosystem.
 version: 2.0.0
 author: 911fund
-repository: https://github.com/911fund/skill-of-skills
+repository: https://github.com/the911fund/skill-of-skills
 ---
 
 # Skill of Skills
@@ -55,7 +55,7 @@ npx add-skill owner/repo
 
 ## Learn More
 
-Visit the [Skill of Skills repository](https://github.com/911fund/skill-of-skills) for:
+Visit the [Skill of Skills repository](https://github.com/the911fund/skill-of-skills) for:
 - Full tool listings
 - API documentation
 - Contributing guidelines

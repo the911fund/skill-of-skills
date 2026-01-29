@@ -99,7 +99,7 @@
         },
         "sendBody": true,
         "specifyBody": "json",
-        "jsonBody": "={\n  \"username\": \"Skill of Skills\",\n  \"avatar_url\": \"https://github.com/911fund.png\",\n  \"embeds\": {{ JSON.stringify($json.embeds) }}\n}",
+        "jsonBody": "={\n  \"username\": \"Skill of Skills\",\n  \"avatar_url\": \"https://github.com/the911fund.png\",\n  \"embeds\": {{ JSON.stringify($json.embeds) }}\n}",
         "options": {}
       },
       "id": "send-discord",

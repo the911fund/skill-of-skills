@@ -2,9 +2,9 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-{{total_tools}}-blue)](https://github.com/911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-{{total_categories}}-green)](https://github.com/911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-{{total_stars}}-yellow)](https://github.com/911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-{{total_tools}}-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-{{total_categories}}-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-{{total_stars}}-yellow)](https://github.com/the911fund/skill-of-skills)
 
 **{{total_tools}} tools** discovered across {{total_categories}} categories
 
@@ -84,5 +84,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated {{timestamp}} by <a href="https://github.com/911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated {{timestamp}} by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
