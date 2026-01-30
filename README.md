@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers) | 📚 | ⭐8469 | 📈+56.9 |
 
 
 ## 📦 By Category
