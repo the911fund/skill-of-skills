@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | ⭐22298 | 📈+57.5 |
 
 
 ## 📦 By Category
