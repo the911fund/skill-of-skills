@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 📚 | ⭐3723 | 📈+46.5 |
 
 
 ## 📦 By Category
