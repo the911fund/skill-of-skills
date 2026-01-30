@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | ⭐15382 | 📈+57.2 |
 
 
 ## 📦 By Category
