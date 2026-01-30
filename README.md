@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [ai-guide](https://github.com/liyupi/ai-guide) | 📚 | ⭐5858 | 📈+55.8 |
 
 
 ## 📦 By Category
