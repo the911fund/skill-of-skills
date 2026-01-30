@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | 📚 | ⭐5150 | 📈+49.1 |
 
 
 ## 📦 By Category
