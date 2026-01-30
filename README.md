@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills) | 📚 | ⭐5511 | 📈+55.8 |
 
 
 ## 📦 By Category
