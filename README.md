@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills) | 📚 | ⭐5034 | 📈+55.5 |
 
 
 ## 📦 By Category
