@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | ⭐11781 | 📈+56.9 |
 
 
 ## 📦 By Category
