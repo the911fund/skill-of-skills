@@ -2,9 +2,9 @@
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
 
-**20 tools** discovered and indexed
+**22 tools** discovered and indexed
 
-📚 14 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
+📚 17 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
 
 ## 🔥 Trending
 
@@ -75,14 +75,16 @@
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators | 🟢 Low |
-| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | Complete Claude Code configuration collection - agents, skills, hooks, commands | 🟢 Low |
-| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | An AI SKILL that provides design intelligence for building professional UI/UX | 🟢 Low |
-| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | A Claude Code plugin that automatically captures everything Claude does | 🟢 Low |
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | A curated list of awesome skills, hooks, slash-commands | 🟢 Low |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | Complete Claude Code configuration collection | 🟢 Low |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | An AI SKILL for building professional UI/UX | 🟢 Low |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | A Claude Code plugin that automatically captures sessions | 🟢 Low |
 | [servers](https://github.com/modelcontextprotocol/servers) | 📚 | Model Context Protocol Servers | 🟢 Low |
-| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | Claude Code skill implementing Manus-style persistent markdown planning | 🟢 Low |
-| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📚 | A collection of notebooks/recipes showcasing fun and effective ways of using Claude | 🟢 Low |
-| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 📚 | A curated list of awesome Claude Skills, resources, and tools | 🟢 Low |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | Claude Code skill implementing Manus-style persistent planning | 🟢 Low |
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📚 | Notebooks/recipes showcasing effective ways of using Claude | 🟢 Low |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 📚 | A curated list of awesome Claude Skills and tools | 🟢 Low |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | 📚 | A command-line productivity tool powered by AI LLMs | 🟢 Low |
+| [aichat](https://github.com/sigoden/aichat) | 📚 | All-in-one LLM CLI tool with Shell Assistant and Chat | 🟡 Medium |
 
 ---
 
