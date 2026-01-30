@@ -1,76 +1,88 @@
-# Skill of Skills
+# 🧠 Skill of Skills
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
 
-**12 tools** discovered and indexed
+**20 tools** discovered and indexed
 
-| 7 resources | 3 collections | 1 cli tools | 1 plugins
+📚 14 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
 
-## Trending
+## 🔥 Trending
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | ⭐11,781 | 📈 +56.9 |
 
+## 📦 By Category
 
-## By Category
-
-### Official
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) | Collection | Official Anthropic plugin directory | Low |
-
-### Development
+### ✅ Official
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [plate](https://github.com/udecode/plate) | Resource | Rich-text editor with AI, MCP, and shadcn/ui | Low |
-| [xtdb](https://github.com/xtdb/xtdb) | Resource | An immutable SQL database for application development, time- | Low |
-| [add-skill](https://github.com/vercel-labs/add-skill) | CLI | Universal skill installer for 17+ agents | Low |
+| [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) | 📦 | Official Anthropic plugin directory | 🟢 Low |
 
-### Documentation
+### 🛠️ Development
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [Cartographer](https://github.com/kingbootoshi/cartographer) | Plugin | Maps codebases with AI subagents | Low |
+| [plate](https://github.com/udecode/plate) | 📚 | Rich-text editor with AI, MCP, and shadcn/ui | 🟢 Low |
+| [xtdb](https://github.com/xtdb/xtdb) | 📚 | An immutable SQL database for application development | 🟢 Low |
+| [add-skill](https://github.com/vercel-labs/add-skill) | ⌨️ | Universal skill installer for 17+ agents | 🟢 Low |
 
-### Marketing
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | Collection | 23 marketing skills for Claude Code | Low |
-
-### Productivity
+### 📚 Documentation
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | Resource | Improve your resumes with Resume Matcher. Get insights, keyw | Low |
+| [Cartographer](https://github.com/kingbootoshi/cartographer) | 🔌 | Maps codebases with AI subagents | 🟢 Low |
 
-### Media
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [Remotion Skills](https://github.com/remotion-dev/skills) | Collection | Video creation with Remotion | Low |
-
-### Research
+### 📣 Marketing
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [pytorch](https://github.com/pytorch/pytorch) | Resource | Tensors and Dynamic neural networks in Python with strong GP | Low |
+| [Marketing Skills](https://github.com/coreyhaines31/marketingskills) | 📦 | 23 marketing skills for Claude Code | 🟢 Low |
 
-### Integrations
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [n8n](https://github.com/n8n-io/n8n) | Resource | Fair-code workflow automation platform with native AI capabi | Low |
-
-### Agents
+### ⚡ Productivity
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [claude-flow](https://github.com/ruvnet/claude-flow) | Resource | The leading agent orchestration platform for Claude. Depl | Medium |
-| [swarm](https://github.com/openai/swarm) | Resource | Educational framework exploring ergonomic, lightweight multi | Low |
+| [Resume-Matcher](https://github.com/srbhr/Resume-Matcher) | 📚 | Improve your resumes with Resume Matcher | 🟢 Low |
 
+### 🎬 Media
+
+| Tool | Type | Description | Risk |
+|------|------|-------------|------|
+| [Remotion Skills](https://github.com/remotion-dev/skills) | 📦 | Video creation with Remotion | 🟢 Low |
+
+### 🔬 Research
+
+| Tool | Type | Description | Risk |
+|------|------|-------------|------|
+| [pytorch](https://github.com/pytorch/pytorch) | 📚 | Tensors and Dynamic neural networks in Python with strong GPU acceleration | 🟢 Low |
+
+### 🔗 Integrations
+
+| Tool | Type | Description | Risk |
+|------|------|-------------|------|
+| [n8n](https://github.com/n8n-io/n8n) | 📚 | Fair-code workflow automation platform with native AI capabilities | 🟢 Low |
+
+### 🤖 Agents
+
+| Tool | Type | Description | Risk |
+|------|------|-------------|------|
+| [claude-flow](https://github.com/ruvnet/claude-flow) | 📚 | 🌊 The leading agent orchestration platform for Claude | 🟡 Medium |
+| [swarm](https://github.com/openai/swarm) | 📚 | Educational framework exploring ergonomic, lightweight multi-agent orchestration | 🟢 Low |
+
+### 📦 Uncategorized
+
+| Tool | Type | Description | Risk |
+|------|------|-------------|------|
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | A curated list of awesome skills, hooks, slash-commands, agent orchestrators | 🟢 Low |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | Complete Claude Code configuration collection - agents, skills, hooks, commands | 🟢 Low |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | An AI SKILL that provides design intelligence for building professional UI/UX | 🟢 Low |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | A Claude Code plugin that automatically captures everything Claude does | 🟢 Low |
+| [servers](https://github.com/modelcontextprotocol/servers) | 📚 | Model Context Protocol Servers | 🟢 Low |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | Claude Code skill implementing Manus-style persistent markdown planning | 🟢 Low |
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📚 | A collection of notebooks/recipes showcasing fun and effective ways of using Claude | 🟢 Low |
+| [awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) | 📚 | A curated list of awesome Claude Skills, resources, and tools | 🟢 Low |
 
 ---
 
@@ -78,96 +90,25 @@
 
 | Icon | Type | Install Method |
 |------|------|----------------|
-| Skill | Skill | `npx add-skill owner/repo` |
-| Plugin | Plugin | `/plugin install name@directory` |
-| Collection | Collection | `npx add-skill owner/repo` |
-| CLI | CLI Tool | `npm install -g package` |
-| MCP Server | MCP Server | Configure in MCP settings |
-| Prompt Pack | Prompt Pack | Copy/reference |
-| Workflow | Workflow | Import workflow |
-| Extension | Extension | Install from store |
-| Resource | Resource | Read/reference |
+| 📄 | Skill | `npx add-skill owner/repo` |
+| 🔌 | Plugin | `/plugin install name@directory` |
+| 📦 | Collection | `npx add-skill owner/repo` |
+| ⌨️ | CLI Tool | `npm install -g package` |
+| 🔗 | MCP Server | Configure in MCP settings |
+| 📝 | Prompt Pack | Copy/reference |
+| 🔄 | Workflow | Import workflow |
+| 🧩 | Extension | Install from store |
+| 📚 | Resource | Read/reference |
 
 ## Risk Levels
 
-| Level | Description |
-|-------|-------------|
-| Low | Standard permissions |
-| Medium | Extended permissions (shell, subagents) |
-| High | Broad system access |
-| Critical | Manual review required |
+| Icon | Level | Description |
+|------|-------|-------------|
+| 🟢 | Low | Standard permissions |
+| 🟡 | Medium | Extended permissions (shell, subagents) |
+| 🔴 | High | Broad system access |
+| ⚫ | Critical | Manual review required |
 
 ---
 
-## Architecture
-
-The data pipeline uses n8n workflows with staggered schedules, linked through PostgreSQL:
-
-```mermaid
-flowchart TB
-    subgraph Triggers["Automated Schedules"]
-        T1["Every 6h"]
-        T2["Every 2h"]
-        T3["Every 4h"]
-    end
-
-    subgraph Collectors["Discovery Layer"]
-        GH["01 - GitHub Collector<br/>Searches GitHub API"]
-    end
-
-    subgraph Processing["Processing Layer"]
-        VAL["05 - Tool Validator<br/>Fetches repo, classifies, validates"]
-        SCORE["06 - Score Calculator<br/>Calculates composite scores"]
-    end
-
-    subgraph Output["Output Layer"]
-        README["07 - README Generator<br/>Generates catalog"]
-        WEB["Web App<br/>localhost:3002"]
-    end
-
-    subgraph Database["PostgreSQL"]
-        DQ[("discovery_queue<br/>pending repos")]
-        TOOLS[("tools<br/>validated tools")]
-        HIST[("score_history<br/>trend tracking")]
-    end
-
-    T1 --> GH
-    T2 --> VAL
-    T3 --> SCORE
-
-    GH -->|"INSERT new repos"| DQ
-    DQ -->|"SELECT pending"| VAL
-    VAL -->|"INSERT validated"| TOOLS
-    VAL -->|"UPDATE processed"| DQ
-    TOOLS -->|"SELECT all"| SCORE
-    SCORE -->|"UPDATE scores"| TOOLS
-    SCORE -->|"INSERT"| HIST
-    TOOLS -->|"SELECT"| README
-    TOOLS -->|"Prisma ORM"| WEB
-
-    style DQ fill:#f9f,stroke:#333
-    style TOOLS fill:#9f9,stroke:#333
-    style HIST fill:#99f,stroke:#333
-```
-
-### Data Flow
-
-1. **GitHub Collector** (every 6h) - discovers repos - `discovery_queue`
-2. **Tool Validator** (every 2h) - validates in batches - `tools`
-3. **Score Calculator** (every 4h) - updates rankings - `score_history`
-4. **Web App** - reads via Prisma ORM - displays to users
-
-### Running Locally
-
-```bash
-cd docker
-cp .env.example .env  # Add your GITHUB_TOKEN
-docker-compose up -d
-```
-
-- **Web App**: http://localhost:3002
-- **n8n Workflows**: http://localhost:5679
-
----
-
-*Generated by [Skill of Skills](https://github.com/911fund/skill-of-skills)*
+*Generated by [Skill of Skills](https://github.com/the911fund/skill-of-skills) • [Browse Tools](https://skills.911fund.io)*
