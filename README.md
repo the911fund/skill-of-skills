@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [dev-browser](https://github.com/SawyerHood/dev-browser) | 📚 | ⭐3343 | 📈+47.6 |
 
 
 ## 📦 By Category
