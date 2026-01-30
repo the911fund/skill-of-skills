@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance) | 📚 | ⭐4815 | 📈+52.3 |
 
 
 ## 📦 By Category
