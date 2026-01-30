@@ -2,15 +2,15 @@
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
 
-**19 tools** discovered and indexed
+**20 tools** discovered and indexed
 
-📚 14 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
+📚 15 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
 
 ## 🔥 Trending
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
-| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | ⭐15382 | 📈+57.2 |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | ⭐11781 | 📈+56.9 |
 
 
 ## 📦 By Category
