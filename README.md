@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [FunClip](https://github.com/modelscope/FunClip) | 📚 | ⭐5311 | 📈+30.8 |
 
 
 ## 📦 By Category
