@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin) | 📚 | ⭐6699 | 📈+55.9 |
 
 
 ## 📦 By Category
