@@ -1,1 +1,0 @@
-.nodes |= (.[0:5] + $contrib[0] + .[5:]) | .nodes[6].position[0] += 220 | .nodes[7].position[0] += 220 | .nodes[8].position[0] += 220 | .nodes[9].position[0] += 220 | .nodes[10].position[0] += 220 | .connections["Fetch Repo Info"].main[0][0].node = "fetch-contributors" | .connections += {"Fetch Contributors":{"main":[[{"node":"Fetch Contents","type":"main","index":0}]]}}

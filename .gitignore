@@ -8,32 +8,70 @@ out/
 # Environment files
 .env
 .env.local
-.env*.local
+.env.*.local
+.env.production
+.env.development
+docker/.env
 
-# Debug
+# Credentials & Secrets
+*.pem
+*.key
+credentials.json
+secrets.json
+service-account.json
+*.p12
+*.pfx
+
+# n8n workflows (contain credential references)
+n8n-workflows/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+*.sql.gz
+*.dump
+*.backup
+database/backups/
+database/dumps/
+
+# Debug & Logs
 npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
 
 # OS
 .DS_Store
 Thumbs.db
+Desktop.ini
 
 # IDE
 .idea/
 .vscode/
 *.swp
+*.swo
+*~
 
 # Build
 dist/
 build/
+coverage/
 
 # Prisma
-*.db
+prisma/*.db
 
 # Claude
 .claude/
 
 # Planning & Internal Docs
 .planning/
+.events/
 
 # Project instructions (may contain sensitive info)
 CLAUDE.md
+
+# Temp files
+tmp/
+temp/
+*.tmp

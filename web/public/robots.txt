@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://skills.911fund.io/sitemap.xml

@@ -1,5 +1,6 @@
 export const dynamic = 'force-dynamic'
 
+import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { ToolGrid } from '@/components/tools/ToolGrid'
 import { getCategoryBySlug } from '@/lib/queries/categories'
@@ -8,6 +9,37 @@ import { getCategoryIcon } from '@/lib/utils'
 
 interface Props {
   params: { slug: string }
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const category = await getCategoryBySlug(params.slug)
+
+  if (!category) {
+    return {
+      title: 'Category Not Found',
+    }
+  }
+
+  const description =
+    category.description ||
+    `Browse ${category.name} tools for Claude Code - skills, plugins, and MCP servers`
+
+  return {
+    title: category.name,
+    description,
+    openGraph: {
+      title: `${category.name} - Skill of Skills`,
+      description,
+      url: `https://skills.911fund.io/categories/${params.slug}`,
+      images: ['/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${category.name} - Skill of Skills`,
+      description,
+      images: ['/og-image.png'],
+    },
+  }
 }
 
 export default async function CategoryPage({ params }: Props) {

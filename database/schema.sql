@@ -155,6 +155,47 @@ CREATE TABLE metrics_history (
   UNIQUE(tool_id, recorded_date)
 );
 
+-- Grace period tracking for tools that fall below star threshold
+ALTER TABLE tools ADD COLUMN IF NOT EXISTS first_fell_below_threshold_at TIMESTAMPTZ;
+
+-- Archived tools (rejected or dropped below threshold)
+CREATE TABLE archived_tools (
+  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  name TEXT NOT NULL,
+  slug TEXT NOT NULL,
+  repo_url TEXT UNIQUE,
+  repo_owner TEXT,
+  repo_name TEXT,
+  tool_type tool_type NOT NULL DEFAULT 'skill',
+  category_id UUID REFERENCES categories(id),
+  tags TEXT[] DEFAULT '{}',
+  description TEXT,
+  install_command TEXT,
+  has_skill_md BOOLEAN DEFAULT FALSE,
+  has_claude_plugin BOOLEAN DEFAULT FALSE,
+  has_mcp_json BOOLEAN DEFAULT FALSE,
+  risk_level risk_level DEFAULT 'low',
+  risk_reasons TEXT[] DEFAULT '{}',
+  validation_status validation_status DEFAULT 'failed',
+  last_validated_at TIMESTAMPTZ,
+  spawns_subagents BOOLEAN DEFAULT FALSE,
+  stars INTEGER DEFAULT 0,
+  forks INTEGER DEFAULT 0,
+  last_commit_at TIMESTAMPTZ,
+  license TEXT,
+  source discovery_source NOT NULL,
+  source_url TEXT,
+  discovered_by TEXT,
+  -- Archive-specific fields
+  archived_reason TEXT NOT NULL,
+  archived_at TIMESTAMPTZ DEFAULT NOW(),
+  original_discovered_at TIMESTAMPTZ,
+  original_tool_id UUID
+);
+
+CREATE INDEX idx_archived_tools_repo_url ON archived_tools(repo_url);
+CREATE INDEX idx_archived_tools_archived_at ON archived_tools(archived_at DESC);
+
 -- Indexes
 CREATE INDEX idx_tools_composite ON tools(composite_score DESC);
 CREATE INDEX idx_tools_trending ON tools(trending_score DESC);
@@ -190,3 +231,35 @@ CREATE VIEW v_unknown_tools AS
 SELECT um.*, i.username as influencer_username, i.trust_score
 FROM unknown_mentions um LEFT JOIN influencers i ON um.influencer_id = i.id
 WHERE um.status = 'pending' ORDER BY i.trust_score DESC NULLS LAST;
+
+-- User engagement tables
+CREATE TABLE ratings (
+  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  tool_id UUID NOT NULL REFERENCES tools(id) ON DELETE CASCADE,
+  session_id TEXT NOT NULL,
+  rating INTEGER NOT NULL,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  UNIQUE(tool_id, session_id)
+);
+
+CREATE TABLE comments (
+  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  tool_id UUID NOT NULL REFERENCES tools(id) ON DELETE CASCADE,
+  session_id TEXT NOT NULL,
+  author TEXT,
+  content TEXT NOT NULL,
+  status TEXT DEFAULT 'pending',
+  created_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+CREATE TABLE favorites (
+  id UUID PRIMARY KEY DEFAULT uuid_generate_v4(),
+  tool_id UUID NOT NULL REFERENCES tools(id) ON DELETE CASCADE,
+  session_id TEXT NOT NULL,
+  created_at TIMESTAMPTZ DEFAULT NOW(),
+  UNIQUE(tool_id, session_id)
+);
+
+CREATE INDEX idx_ratings_tool_id ON ratings(tool_id);
+CREATE INDEX idx_comments_tool_id ON comments(tool_id);
+CREATE INDEX idx_favorites_tool_id ON favorites(tool_id);
