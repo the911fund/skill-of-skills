@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [obsidian-skills](https://github.com/kepano/obsidian-skills) | 📚 | ⭐8641 | 📈+56.4 |
 
 
 ## 📦 By Category
