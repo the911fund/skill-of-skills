@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [humanizer](https://github.com/blader/humanizer) | 📚 | ⭐3540 | 📈+52.5 |
 
 
 ## 📦 By Category
