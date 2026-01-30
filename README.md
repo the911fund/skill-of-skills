@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-code-guide](https://github.com/zebbern/claude-code-guide) | 📚 | ⭐3251 | 📈+54.2 |
 
 
 ## 📦 By Category
