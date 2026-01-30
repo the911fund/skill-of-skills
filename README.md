@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-scientific-skills](https://github.com/K-Dense-AI/claude-scientific-skills) | 📚 | ⭐7517 | 📈+56.0 |
 
 
 ## 📦 By Category
