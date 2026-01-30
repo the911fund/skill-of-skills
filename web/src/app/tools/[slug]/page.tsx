@@ -1,5 +1,6 @@
 export const dynamic = 'force-dynamic'
 
+import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { ToolDetail } from '@/components/tools/ToolDetail'
 import { CommentSection } from '@/components/engagement/CommentSection'
@@ -7,6 +8,35 @@ import { getToolBySlug } from '@/lib/queries/tools'
 
 interface Props {
   params: { slug: string }
+}
+
+export async function generateMetadata({ params }: Props): Promise<Metadata> {
+  const tool = await getToolBySlug(params.slug)
+
+  if (!tool) {
+    return {
+      title: 'Tool Not Found',
+    }
+  }
+
+  const description = tool.description || `${tool.name} - A ${tool.toolType} for Claude Code`
+
+  return {
+    title: tool.name,
+    description,
+    openGraph: {
+      title: `${tool.name} - Skill of Skills`,
+      description,
+      url: `https://skills.911fund.io/tools/${params.slug}`,
+      images: ['/og-image.png'],
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: `${tool.name} - Skill of Skills`,
+      description,
+      images: ['/og-image.png'],
+    },
+  }
 }
 
 export default async function ToolPage({ params }: Props) {

@@ -75,7 +75,7 @@ export async function getToolBySlug(slug: string): Promise<Tool | null> {
 }
 
 export async function getTrendingTools(limit = 10): Promise<Tool[]> {
-  const tools = await prisma.tool.findMany({
+  let tools = await prisma.tool.findMany({
     where: {
       isActive: true,
       validationStatus: { in: ['passed', 'skipped'] },
@@ -85,5 +85,19 @@ export async function getTrendingTools(limit = 10): Promise<Tool[]> {
     orderBy: { trendingScore: 'desc' },
     take: limit,
   })
+
+  // Fallback to top-scoring tools if no trending
+  if (tools.length === 0) {
+    tools = await prisma.tool.findMany({
+      where: {
+        isActive: true,
+        validationStatus: { in: ['passed', 'skipped'] },
+      },
+      include: { category: true },
+      orderBy: { compositeScore: 'desc' },
+      take: limit,
+    })
+  }
+
   return tools as unknown as Tool[]
 }
