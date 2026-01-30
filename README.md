@@ -10,6 +10,9 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | 📚 | ⭐11723 | 📈+56.9 |
+| [aichat](https://github.com/sigoden/aichat) | 📚 | ⭐9171 | 📈+48.4 |
+| [claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase) | 📚 | ⭐8687 | 📈+32.1 |
 
 
 ## 📦 By Category
