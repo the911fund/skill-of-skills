@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [code2prompt](https://github.com/mufeedvh/code2prompt) | 📚 | ⭐7089 | 📈+55.6 |
 
 
 ## 📦 By Category
