@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [gptme](https://github.com/gptme/gptme) | 📚 | ⭐4178 | 📈+55.1 |
 
 
 ## 📦 By Category
