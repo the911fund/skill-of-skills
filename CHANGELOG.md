@@ -7,6 +7,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Fixed
+- AI categorization now works for new tools (was defaulting to "Uncategorized")
+  - Added `ANTHROPIC_API_KEY` to web service environment
+  - Added AI Categorize step to Tool Validator workflow (05)
+- Discord webhook URLs in n8n workflows (was malformed `[object Object]` syntax)
+- n8n HTTP access via `N8N_SECURE_COOKIE=false`
+
 ### Added
 - Initial public release
 - Automated discovery from GitHub, X/Twitter, and Reddit
