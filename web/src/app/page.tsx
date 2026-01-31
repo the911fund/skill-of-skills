@@ -42,7 +42,7 @@ export default async function HomePage() {
             </div>
             <div className="flex items-start gap-2">
               <span className="inline-flex px-2 py-0.5 rounded text-xs font-medium bg-gray-100 text-gray-800 dark:bg-gray-700 dark:text-gray-200 whitespace-nowrap">Verified</span>
-              <p className="text-gray-600 dark:text-gray-300">Passed <strong>automated validation</strong>: sandbox execution, security scan, and dependency audit by Skill of Skills.</p>
+              <p className="text-gray-600 dark:text-gray-300"><em>(pending)</em> Will pass <strong>automated validation</strong>: sandbox execution, security scan, and dependency audit.</p>
             </div>
           </div>
           <div className="space-y-3">
@@ -117,9 +117,9 @@ export default async function HomePage() {
               (skills, plugins, MCP servers). We search for specific file patterns like <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">SKILL.md</code>,
               <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">mcp.json</code>, and keywords in descriptions.
             </p>
-            <h3 className="font-semibold dark:text-gray-100 mb-2">Validation</h3>
+            <h3 className="font-semibold dark:text-gray-100 mb-2">Validation <span className="text-xs text-gray-400">(pending)</span></h3>
             <p className="text-gray-600 dark:text-gray-300">
-              Each tool is validated in a sandbox environment. We check for proper structure,
+              Each tool will be validated in a sandbox environment. We&apos;ll check for proper structure,
               run security scans, and audit dependencies before listing.
             </p>
           </div>
