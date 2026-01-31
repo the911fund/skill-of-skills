@@ -14,6 +14,7 @@
 
 ## Contents
 
+- [Trending](#-trending)
 - [Official](#-official)
 - [Development](#-development)
 - [Documentation](#-documentation)
@@ -25,6 +26,7 @@
 - [Integrations](#-integrations)
 - [Agents](#-agents)
 - [Uncategorized](#-uncategorized)
+- [How It Works](#how-it-works)
 
 ---
 
