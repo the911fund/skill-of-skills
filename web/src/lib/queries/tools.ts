@@ -15,6 +15,11 @@ export async function getTools(
   if (filters.category) where.category = { slug: filters.category }
   if (filters.risk) where.riskLevel = filters.risk
 
+  // Only show tools with strong trending scores on trending page
+  if (filters.sort === 'trending') {
+    where.trendingScore = { gte: 45 }
+  }
+
   const orderBy: any = {}
   switch (filters.sort) {
     case 'stars':
