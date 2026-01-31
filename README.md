@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [last30days-skill](https://github.com/mvanhorn/last30days-skill) | 📚 | ⭐1732 | 📈+52.0 |
 
 
 ## 📦 By Category
