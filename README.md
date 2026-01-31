@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [claude-hud](https://github.com/jarrodwatts/claude-hud) | 📚 | ⭐2853 | 📈+52.4 |
 
 
 ## 📦 By Category
