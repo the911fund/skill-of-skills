@@ -89,7 +89,7 @@ export default async function HomePage() {
         <ToolGrid tools={recent.data} />
       </section>
 
-      <section>
+      <section className="mb-12">
         <h2 className="text-2xl font-bold dark:text-gray-100 mb-6">📂 Categories</h2>
         <div className="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-6 gap-4">
           {categories.map((cat) => (
@@ -103,6 +103,41 @@ export default async function HomePage() {
               <p className="text-sm text-gray-500 dark:text-gray-400">{cat._count?.tools || 0} tools</p>
             </Link>
           ))}
+        </div>
+      </section>
+
+      {/* How It Works - Transparency Section */}
+      <section className="p-6 bg-gray-50 dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700">
+        <h2 className="text-lg font-bold dark:text-gray-100 mb-4">🔍 How It Works</h2>
+        <div className="grid md:grid-cols-2 gap-6 text-sm">
+          <div>
+            <h3 className="font-semibold dark:text-gray-100 mb-2">Discovery</h3>
+            <p className="text-gray-600 dark:text-gray-300 mb-3">
+              Repos are automatically discovered by scanning GitHub for Claude Code related projects
+              (skills, plugins, MCP servers). We search for specific file patterns like <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">SKILL.md</code>,
+              <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">mcp.json</code>, and keywords in descriptions.
+            </p>
+            <h3 className="font-semibold dark:text-gray-100 mb-2">Validation</h3>
+            <p className="text-gray-600 dark:text-gray-300">
+              Each tool is validated in a sandbox environment. We check for proper structure,
+              run security scans, and audit dependencies before listing.
+            </p>
+          </div>
+          <div>
+            <h3 className="font-semibold dark:text-gray-100 mb-2">Trending Score</h3>
+            <p className="text-gray-600 dark:text-gray-300 mb-2">
+              Scores are recalculated every 6 hours based on:
+            </p>
+            <ul className="text-gray-600 dark:text-gray-300 space-y-1 ml-4 list-disc">
+              <li><strong>GitHub Activity (25%)</strong> — Stars relative to ecosystem</li>
+              <li><strong>Social Mentions (35%)</strong> — X/Twitter and Reddit discussions</li>
+              <li><strong>Recency (25%)</strong> — Recent commits decay over 90 days</li>
+              <li><strong>Influencer Endorsements (15%)</strong> — Mentions by trusted sources</li>
+            </ul>
+            <p className="text-gray-500 dark:text-gray-400 mt-2 text-xs">
+              Risk level and verification status apply multipliers to final scores.
+            </p>
+          </div>
         </div>
       </section>
     </div>

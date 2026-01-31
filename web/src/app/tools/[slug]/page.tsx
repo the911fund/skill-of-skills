@@ -3,7 +3,6 @@ export const dynamic = 'force-dynamic'
 import type { Metadata } from 'next'
 import { notFound } from 'next/navigation'
 import { ToolDetail } from '@/components/tools/ToolDetail'
-import { CommentSection } from '@/components/engagement/CommentSection'
 import { getToolBySlug } from '@/lib/queries/tools'
 
 interface Props {
@@ -49,9 +48,6 @@ export default async function ToolPage({ params }: Props) {
   return (
     <div className="mx-auto max-w-4xl px-4 py-8 sm:px-6 lg:px-8">
       <ToolDetail tool={tool} />
-      <div className="mt-8">
-        <CommentSection toolId={tool.id} comments={[]} />
-      </div>
     </div>
   )
 }
