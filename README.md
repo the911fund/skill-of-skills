@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [awesome-llm-security](https://github.com/corca-ai/awesome-llm-security) | 📚 | ⭐1517 | 📈+27.4 |
 
 
 ## 📦 By Category
