@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claudian](https://github.com/YishenTu/claudian) | 📚 | ⭐1791 | 📈+52.8 |
 
 
 ## 📦 By Category
