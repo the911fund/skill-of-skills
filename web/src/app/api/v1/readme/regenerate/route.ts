@@ -97,7 +97,7 @@ async function generateReadme(): Promise<string> {
 
 **${totalTools} tools** discovered across ${totalCategories} categories
 
-🌐 **[Browse the Directory](https://skillofskills.dev)** | 📊 **[Analytics](https://skillofskills.dev/analytics)** | ➕ **[Submit a Tool](https://skillofskills.dev/submit)**
+🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
 ---
 
@@ -144,7 +144,7 @@ ${categorySections}
 
 ## Contributing
 
-Found a great Claude Code tool? [Submit it here](https://skillofskills.dev/submit) or open a PR!
+Found a great Claude Code tool? Open a PR or create an issue!
 
 See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
