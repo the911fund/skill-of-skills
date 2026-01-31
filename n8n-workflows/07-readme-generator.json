@@ -177,7 +177,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "url": "={{$env.DISCORD_WEBHOOK_URL}}",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "={\n  \"embeds\": [{\n    \"title\": \"✅ README Updated\",\n    \"color\": 65280,\n    \"fields\": [\n      {\n        \"name\": \"Tools Indexed\",\n        \"value\": \"{{ $('Generate README').item.json.stats.total }}\",\n        \"inline\": true\n      },\n      {\n        \"name\": \"Commit\",\n        \"value\": \"[View on GitHub]({{ $json.commit.html_url }})\",\n        \"inline\": true\n      }\n    ],\n    \"timestamp\": \"{{ new Date().toISOString() }}\"\n  }]\n}",
@@ -192,7 +192,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "url": "={{$env.DISCORD_WEBHOOK_URL}}",
         "sendBody": true,
         "specifyBody": "json",
         "jsonBody": "={\n  \"embeds\": [{\n    \"title\": \"❌ README Push Failed\",\n    \"color\": 16711680,\n    \"fields\": [\n      {\n        \"name\": \"Error\",\n        \"value\": \"{{ $json.error || $json.message || 'Unknown error' }}\",\n        \"inline\": false\n      },\n      {\n        \"name\": \"Tools Generated\",\n        \"value\": \"{{ $('Generate README').item.json.stats.total }}\",\n        \"inline\": true\n      }\n    ],\n    \"timestamp\": \"{{ new Date().toISOString() }}\"\n  }]\n}",
