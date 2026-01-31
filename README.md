@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [playwright-skill](https://github.com/lackeyjb/playwright-skill) | 📚 | ⭐1543 | 📈+34.4 |
 
 
 ## 📦 By Category
