@@ -103,7 +103,9 @@ async function generateReadme(): Promise<string> {
 
 ## Contents
 
+- [Trending](#-trending)
 ${categories.map(c => `- [${c.name}](#-${c.slug})`).join('\n')}
+- [How It Works](#how-it-works)
 
 ---
 
