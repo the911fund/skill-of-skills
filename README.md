@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [pinme](https://github.com/glitternetwork/pinme) | 📚 | ⭐2706 | 📈+53.0 |
 
 
 ## 📦 By Category
