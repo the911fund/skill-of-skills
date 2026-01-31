@@ -263,3 +263,17 @@ CREATE TABLE favorites (
 CREATE INDEX idx_ratings_tool_id ON ratings(tool_id);
 CREATE INDEX idx_comments_tool_id ON comments(tool_id);
 CREATE INDEX idx_favorites_tool_id ON favorites(tool_id);
+
+-- Job deduplication tracking for n8n workflows
+CREATE TABLE seen_jobs (
+  id SERIAL PRIMARY KEY,
+  job_url TEXT UNIQUE NOT NULL,
+  normalized_url TEXT UNIQUE NOT NULL,
+  job_title TEXT,
+  company TEXT,
+  first_seen_at TIMESTAMPTZ DEFAULT NOW(),
+  last_seen_at TIMESTAMPTZ DEFAULT NOW()
+);
+
+CREATE INDEX idx_seen_jobs_normalized_url ON seen_jobs(normalized_url);
+CREATE INDEX idx_seen_jobs_first_seen ON seen_jobs(first_seen_at DESC);
