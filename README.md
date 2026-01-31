@@ -144,12 +144,6 @@
 
 ---
 
-## Contributing
-
-Found a great Claude Code tool? Open a PR or create an issue!
-
-See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
-
 ## How It Works
 
 This directory is automatically updated **every hour** by the Skill of Skills discovery engine:
