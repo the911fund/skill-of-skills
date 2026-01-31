@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claude-code-tips](https://github.com/ykdojo/claude-code-tips) | 📚 | ⭐1762 | 📈+52.6 |
 
 
 ## 📦 By Category
