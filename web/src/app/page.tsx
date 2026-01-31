@@ -129,13 +129,11 @@ export default async function HomePage() {
               Scores are recalculated every 6 hours based on:
             </p>
             <ul className="text-gray-600 dark:text-gray-300 space-y-1 ml-4 list-disc">
-              <li><strong>GitHub Activity (25%)</strong> — Stars relative to ecosystem</li>
-              <li><strong>Social Mentions (35%)</strong> — X/Twitter and Reddit discussions</li>
-              <li><strong>Recency (25%)</strong> — Recent commits decay over 90 days</li>
-              <li><strong>Influencer Endorsements (15%)</strong> — Mentions by trusted sources</li>
+              <li><strong>GitHub Stars (50%)</strong> — Stars relative to ecosystem (capped at 10k)</li>
+              <li><strong>Recency (50%)</strong> — Exponential decay based on last commit (90-day half-life)</li>
             </ul>
             <p className="text-gray-500 dark:text-gray-400 mt-2 text-xs">
-              Risk level and verification status apply multipliers to final scores.
+              Multipliers applied for risk level and verification status.
             </p>
           </div>
         </div>
