@@ -126,7 +126,7 @@ export default async function HomePage() {
           <div>
             <h3 className="font-semibold dark:text-gray-100 mb-2">Trending Score</h3>
             <p className="text-gray-600 dark:text-gray-300 mb-2">
-              Scores are recalculated every 6 hours based on:
+              Scores are recalculated every hour based on:
             </p>
             <ul className="text-gray-600 dark:text-gray-300 space-y-1 ml-4 list-disc">
               <li><strong>GitHub Stars (50%)</strong> — Stars relative to ecosystem (capped at 10k)</li>
