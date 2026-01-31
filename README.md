@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [harbor](https://github.com/av/harbor) | 📚 | ⭐2393 | 📈+53.4 |
 
 
 ## 📦 By Category
