@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [Humanizer-zh](https://github.com/op7418/Humanizer-zh) | 📚 | ⭐1932 | 📈+49.7 |
 
 
 ## 📦 By Category
