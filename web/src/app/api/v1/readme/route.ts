@@ -36,11 +36,17 @@ const CATEGORY_ICONS: Record<string, string> = {
 
 export async function GET() {
   try {
-    const [tools, categories, starsResult] = await Promise.all([
+    const [tools, trendingTools, categories, starsResult] = await Promise.all([
       prisma.tool.findMany({
         where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] } },
         include: { category: true },
         orderBy: { compositeScore: 'desc' },
+      }),
+      // Separate query for trending (top 6 by trendingScore) - matches home page
+      prisma.tool.findMany({
+        where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] }, trendingScore: { gt: 0 } },
+        orderBy: { trendingScore: 'desc' },
+        take: 6,
       }),
       prisma.category.findMany({ orderBy: { displayOrder: 'asc' } }),
       prisma.tool.aggregate({
@@ -53,10 +59,9 @@ export async function GET() {
     const totalCategories = categories.length
     const totalStars = starsResult._sum.stars || 0
 
-    // Generate trending section (top 5 by score)
-    const trending = tools.slice(0, 5)
-    const trendingSection = trending.length > 0
-      ? trending.map(t => {
+    // Generate trending section (top 6 by trendingScore - matches home page)
+    const trendingSection = trendingTools.length > 0
+      ? trendingTools.map(t => {
           const icon = TOOL_TYPE_ICONS[t.toolType] || '📄'
           const risk = RISK_ICONS[t.riskLevel] || '🟢'
           const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars

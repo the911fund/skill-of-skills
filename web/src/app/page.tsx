@@ -70,11 +70,11 @@ export default async function HomePage() {
       </section>
 
       <section className="mb-12">
-        <div className="flex items-center justify-between mb-6">
+        <div className="mb-6">
           <h2 className="text-2xl font-bold dark:text-gray-100">🔥 Trending</h2>
-          <Link href="/trending" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300">
-            View all →
-          </Link>
+          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">
+            Top 6 tools by GitHub activity, social mentions, and recency
+          </p>
         </div>
         <ToolGrid tools={trending} />
       </section>
