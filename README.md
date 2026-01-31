@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [yek](https://github.com/mohsen1/yek) | 📚 | ⭐2405 | 📈+50.8 |
 
 
 ## 📦 By Category
