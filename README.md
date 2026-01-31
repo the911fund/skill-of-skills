@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [Claudeception](https://github.com/blader/Claudeception) | 📚 | ⭐1518 | 📈+43.1 |
 
 
 ## 📦 By Category
