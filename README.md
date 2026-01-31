@@ -27,7 +27,14 @@ Scores are recalculated every 6 hours based on:
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | ⭐22298 | 📈+49.7 |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | ⭐34518 | 📈+49.6 |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | ⭐24935 | 📈+49.5 |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | ⭐15382 | 📈+49.4 |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | 📚 | ⭐11723 | 📈+49.2 |
+| [servers](https://github.com/modelcontextprotocol/servers) | 📚 | ⭐77437 | 📈+49.1 |
 
 
 ## 📦 By Category
