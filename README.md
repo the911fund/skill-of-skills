@@ -10,6 +10,16 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | ⭐22298 | 📈+0.5 |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | ⭐34518 | 📈+0.5 |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | ⭐24935 | 📈+0.5 |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | ⭐15382 | 📈+0.5 |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | 📚 | ⭐11723 | 📈+0.5 |
+| [servers](https://github.com/modelcontextprotocol/servers) | 📚 | ⭐77437 | 📈+0.5 |
+| [planning-with-files](https://github.com/OthmanAdi/planning-with-files) | 📚 | ⭐11781 | 📈+0.5 |
+| [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📚 | ⭐32065 | 📈+0.5 |
+| [n8n](https://github.com/n8n-io/n8n) | 📚 | ⭐171470 | 📈+0.5 |
+| [pytorch](https://github.com/pytorch/pytorch) | 📚 | ⭐96958 | 📈+0.5 |
 
 
 ## 📦 By Category
