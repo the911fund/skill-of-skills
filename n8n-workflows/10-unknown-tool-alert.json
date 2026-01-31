@@ -28,7 +28,7 @@
     {
       "parameters": {
         "method": "POST",
-        "url": "={{[object Object].DISCORD_WEBHOOK_URL}}",
+        "url": "={{$env.DISCORD_WEBHOOK_URL}}",
         "sendHeaders": true,
         "headerParameters": {
           "parameters": [
