@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [py-gpt](https://github.com/szczyglis-dev/py-gpt) | 📚 | ⭐1576 | 📈+45.9 |
 
 
 ## 📦 By Category
