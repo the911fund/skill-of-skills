@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) | 📚 | ⭐2079 | 📈+52.4 |
 
 
 ## 📦 By Category
