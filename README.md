@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | 📚 | ⭐1519 | 📈+49.4 |
 
 
 ## 📦 By Category
