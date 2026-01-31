@@ -2,9 +2,9 @@ import Link from 'next/link'
 
 const navItems = [
   { href: '/tools', label: 'Browse' },
+  { href: '/trending', label: 'Trending' },
   { href: '/categories', label: 'Categories' },
   { href: '/search', label: 'Search' },
-  { href: '/submit', label: 'Submit' },
   { href: '/analytics', label: 'Stats' },
 ]
 

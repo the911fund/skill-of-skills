@@ -4,8 +4,6 @@ import { Button } from '@/components/ui/Button'
 import { RiskBadge } from './RiskBadge'
 import { TypeBadge } from './TypeBadge'
 import { InstallCommand } from './InstallCommand'
-import { RatingStars } from '@/components/engagement/RatingStars'
-import { FavoriteButton } from '@/components/engagement/FavoriteButton'
 import { formatNumber, formatDate, getCategoryIcon } from '@/lib/utils'
 import type { Tool } from '@/types'
 
@@ -37,7 +35,6 @@ export function ToolDetail({ tool }: ToolDetailProps) {
               </p>
             )}
           </div>
-          <FavoriteButton toolId={tool.id} />
         </div>
 
         <p className="text-gray-600 mb-6">{tool.description || 'No description available'}</p>
@@ -58,10 +55,6 @@ export function ToolDetail({ tool }: ToolDetailProps) {
           <div>
             <p className="text-sm text-gray-500">License</p>
             <p className="text-xl font-semibold">{tool.license || 'Unknown'}</p>
-          </div>
-          <div>
-            <p className="text-sm text-gray-500">Rating</p>
-            <RatingStars toolId={tool.id} initialRating={tool.averageRating || 0} count={tool.ratingCount || 0} />
           </div>
         </div>
 
