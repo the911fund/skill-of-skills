@@ -17,6 +17,23 @@
     },
     {
       "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "hours",
+              "triggerAtMinute": 25
+            }
+          ]
+        }
+      },
+      "id": "schedule-trigger",
+      "name": "Every Hour at :25",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [240, 450]
+    },
+    {
+      "parameters": {
         "operation": "executeQuery",
         "query": "SELECT t.*, c.name as category_name, c.slug as category_slug, c.icon as category_icon FROM tools t LEFT JOIN categories c ON t.category_id=c.id WHERE t.is_active=TRUE AND t.validation_status IN ('passed','skipped') ORDER BY t.composite_score DESC",
         "options": {}
@@ -201,6 +218,9 @@
   ],
   "connections": {
     "Webhook": {
+      "main": [[{"node": "Get All Tools", "type": "main", "index": 0}, {"node": "Get Trending", "type": "main", "index": 0}, {"node": "Get Categories", "type": "main", "index": 0}]]
+    },
+    "Every Hour at :25": {
       "main": [[{"node": "Get All Tools", "type": "main", "index": 0}, {"node": "Get Trending", "type": "main", "index": 0}, {"node": "Get Categories", "type": "main", "index": 0}]]
     },
     "Get All Tools": {

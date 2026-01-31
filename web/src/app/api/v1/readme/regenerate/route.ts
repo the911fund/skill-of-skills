@@ -150,12 +150,32 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 ## How It Works
 
-This directory is automatically updated by the Skill of Skills discovery engine:
+This directory is automatically updated **every hour** by the Skill of Skills discovery engine:
 
-1. **Discovery** — Scans GitHub, X/Twitter, and Reddit for Claude Code tools
-2. **Validation** — Tests tools in a sandbox environment
-3. **Scoring** — Ranks by GitHub stars, social mentions, and recency
-4. **Publishing** — Updates this README and the web directory
+\`\`\`mermaid
+flowchart LR
+    A[":00 Discovery"] -->|"10 min"| B[":10 Validation"]
+    B -->|"10 min"| C[":20 Scoring"]
+    C -->|"5 min"| D[":25 README"]
+    D -->|"GitHub Push"| E["📤"]
+
+    style A fill:#4CAF50,color:#fff
+    style B fill:#2196F3,color:#fff
+    style C fill:#FF9800,color:#fff
+    style D fill:#00BCD4,color:#fff
+\`\`\`
+
+| Stage | Time | Duration | Description |
+|-------|------|----------|-------------|
+| **Discovery** | :00 | ~5 min | Scans GitHub for Claude Code tools |
+| **Validation** | :10 | ~5 min | Validates tools, AI categorizes |
+| **Scoring** | :20 | ~2 min | Recalculates trending scores |
+| **Publishing** | :25 | ~10 sec | Updates README & web directory |
+
+### Trending Score Formula
+- **GitHub Stars (50%)** — Relative to ecosystem (capped at 10k)
+- **Recency (50%)** — Exponential decay (90-day half-life)
+- **Multipliers** — Risk level & verification status
 
 ## License
 
