@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression) | 📚 | ⭐1768 | 📈+30.1 |
 
 
 ## 📦 By Category
