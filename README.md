@@ -10,6 +10,7 @@
 
 | Tool | Type | Stars | Trend |
 |------|------|-------|-------|
+| [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📚 | ⭐2975 | 📈+34.7 |
 
 
 ## 📦 By Category
