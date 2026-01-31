@@ -27,7 +27,14 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) | 📚 | ⭐22298 | 📈+99.3 |
+| [everything-claude-code](https://github.com/affaan-m/everything-claude-code) | 📚 | ⭐34518 | 📈+99.2 |
+| [ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill) | 📚 | ⭐24935 | 📈+99.1 |
+| [claude-mem](https://github.com/thedotmack/claude-mem) | 📚 | ⭐15382 | 📈+98.7 |
+| [shell_gpt](https://github.com/TheR1D/shell_gpt) | 📚 | ⭐11723 | 📈+98.3 |
+| [servers](https://github.com/modelcontextprotocol/servers) | 📚 | ⭐77437 | 📈+98.2 |
 
 
 ## 📦 By Category
