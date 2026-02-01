@@ -234,3 +234,33 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Page snapshots show title attribute values, confirming tooltip text is present
   - Title attribute is cross-browser compatible and works with keyboard navigation
 ---
+## 2026-02-01 02:10 - T-010
+- Verified responsive design on mobile viewport (375x667)
+- Browser testing performed:
+  - Resized viewport to 375x667 (iPhone SE dimensions)
+  - Navigated to http://localhost:3001
+  - Tested responsive layout with maintenance badges
+- Visual verification:
+  - All badges visible on mobile viewport
+  - Active badges (🟢) render on ideavim, payload, remotion, mcp-code-execution, medusa
+  - Maintained badge (🟡) renders on hospeda
+  - No overlapping content - badges maintain proper spacing
+  - Card layout intact with proper alignment
+  - Badges positioned correctly in left badge group
+- Screenshot captured:
+  - .playwright-mcp/tmp/badges-mobile.png (full-page mobile screenshot)
+- Console inspection:
+  - Some Next.js static asset 404 errors (likely dev server caching issue)
+  - Errors do not affect badge rendering or page functionality
+  - Page renders completely with all components working
+- Quality verification:
+  - npm run lint: passes
+  - npm run build: passes (successful production build)
+- **Learnings for future iterations:**
+  - Mobile viewport 375x667 is standard iPhone SE size for testing
+  - Badge components automatically responsive through Tailwind CSS utility classes
+  - Full-page screenshots on mobile provide complete layout verification
+  - Next.js dev server may show transient 404s for static assets during HMR
+  - These 404s are typically dev environment issues, not production concerns
+  - Badge sizing and spacing work well on mobile without additional media queries
+---

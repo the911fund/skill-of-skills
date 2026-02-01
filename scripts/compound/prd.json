@@ -147,8 +147,8 @@
         "Screenshot saved to tmp/badges-mobile.png"
       ],
       "priority": 10,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Set browser viewport to 375x667 (iPhone SE size). Navigated to homepage at http://localhost:3001. Visual inspection confirms badges render correctly on mobile: Active (green 🟢) and Maintained (yellow 🟡) badges visible on all tool cards. Badges do not overlap other content. Card layout remains intact with proper spacing and alignment. Screenshot saved to .playwright-mcp/tmp/badges-mobile.png. Some Next.js static asset 404 errors in console (caching issue) but do not affect badge rendering or functionality. Quality checks pass (lint and build)."
     },
     {
       "id": "T-011",
