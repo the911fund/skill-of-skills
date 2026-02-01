@@ -5,7 +5,14 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.1.0] - 2026-02-01
+
+### Changed
+- Removed trending section and scoring system from README and web UI
+  - Trending scores were unreliable and added complexity without clear value
+  - Disabled Trending Score Recalculation workflow (12)
+- Simplified pipeline schedule: :10 discovery/validation, :25 publishing
+- Added Mermaid pipeline diagram to README "How It Works" section
 
 ### Fixed
 - AI categorization now works for new tools (was defaulting to "Uncategorized")
@@ -13,6 +20,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Added AI Categorize step to Tool Validator workflow (05)
 - Discord webhook URLs in n8n workflows (was malformed `[object Object]` syntax)
 - n8n HTTP access via `N8N_SECURE_COOKIE=false`
+- Web container environment variables now properly include all required keys
+
+## [1.0.0] - 2026-01-30
 
 ### Added
 - Initial public release
