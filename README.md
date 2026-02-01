@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [raptor](https://github.com/gadievron/raptor) | 📚 | ⭐1045 | 📈+50.8 |
 
 
 ## 📦 By Category
