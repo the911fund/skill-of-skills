@@ -145,3 +145,21 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Tooltip text should be descriptive and include specific time thresholds for clarity
   - No tooltip component library exists in this project - prefer native solutions
 ---
+## 2026-02-01 01:45 - T-006
+- Integrated MaintenanceBadge component into ToolCard
+- Files modified:
+  - web/src/components/tools/ToolCard.tsx
+- Implementation details:
+  - Imported MaintenanceBadge component from './MaintenanceBadge'
+  - Imported getMaintenanceStatus utility function from '@/utils/maintenanceStatus'
+  - Added maintenance status calculation using getMaintenanceStatus(tool.lastCommitAt)
+  - Badge positioned in left badge group (after TypeBadge, before Official/Verified badges)
+  - Badge appears in top-left area of card alongside other status indicators
+- Quality checks: Both npm run lint and npm run build pass with exit code 0
+- **Learnings for future iterations:**
+  - Badge components should be placed with other status badges for visual consistency
+  - Calculate status values once in component body to avoid repeated computation
+  - Position new badges based on their importance and relationship to existing badges
+  - Tool cards have a two-section badge layout: left (status badges) and right (risk badge)
+  - The lastCommitAt field from Tool type can be passed directly to getMaintenanceStatus
+---

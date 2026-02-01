@@ -89,8 +89,8 @@
         "Run `npm run typecheck` - exits with code 0"
       ],
       "priority": 6,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "MaintenanceBadge imported into ToolCard.tsx. getMaintenanceStatus utility imported and used. Badge positioned in left badge group after TypeBadge, before Official/Verified badges (top-left area of card). npm run build passes with exit code 0 (includes type checking)."
     },
     {
       "id": "T-007",
