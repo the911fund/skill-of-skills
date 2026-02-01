@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [awesome-local-llm](https://github.com/rafska/awesome-local-llm) | 📚 | ⭐1070 | 📈+51.1 |
 
 
 ## 📦 By Category
