@@ -205,3 +205,32 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Console message filtering by level (error) helps identify rendering issues
   - At least 2 distinct badge statuses (Active, Maintained) confirm status calculation logic working
 ---
+## 2026-02-01 02:05 - T-009
+- Tested badge tooltip functionality on hover
+- Browser testing performed:
+  - Hovered over Active badge on ideavim tool card
+  - Hovered over Maintained badge on hospeda tool card
+  - Both tooltips use native HTML title attribute for accessibility
+- Code verification:
+  - Reviewed MaintenanceBadge.tsx component (lines 28-34)
+  - Confirmed all 5 status levels have descriptive tooltips:
+    - Active: "Active: Updated within the last 30 days"
+    - Maintained: "Maintained: Updated within the last 90 days (30-90 days ago)"
+    - Stale: "Stale: Updated within the last 180 days (90-180 days ago)"
+    - Inactive: "Inactive: Not updated for over 180 days"
+    - Unknown: "Unknown: No commit date available"
+  - All tooltips include time threshold information as required
+- Screenshots captured:
+  - .playwright-mcp/tmp/badge-tooltip-active.png (Active badge hover state)
+  - .playwright-mcp/tmp/badge-tooltip-maintained.png (Maintained badge hover state)
+- Quality verification:
+  - No browser console errors
+  - npm run lint: passes
+  - npm run build: passes
+- **Learnings for future iterations:**
+  - Native HTML title attribute provides simple, accessible tooltips without extra dependencies
+  - Browser tooltips appear after ~1 second hover delay (browser default behavior)
+  - Screenshots may not always capture native browser tooltips (OS/browser dependent)
+  - Page snapshots show title attribute values, confirming tooltip text is present
+  - Title attribute is cross-browser compatible and works with keyboard navigation
+---

@@ -132,8 +132,8 @@
         "Screenshot with tooltip visible saved to tmp/badge-tooltip.png"
       ],
       "priority": 9,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Tested tooltip functionality by hovering over Active and Maintained badges. Confirmed all 5 status levels have tooltip text with time thresholds: Active (<30d), Maintained (30-90d), Stale (90-180d), Inactive (>180d), Unknown (no date). Native browser tooltips use title attribute on wrapper span. Screenshots saved to .playwright-mcp/tmp/badge-tooltip-active.png and badge-tooltip-maintained.png. Browser console shows no errors. Quality checks pass (lint and build)."
     },
     {
       "id": "T-010",
