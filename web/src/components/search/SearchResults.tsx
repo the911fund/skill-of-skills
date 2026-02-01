@@ -10,7 +10,7 @@ export function SearchResults({ tools, query }: SearchResultsProps) {
   return (
     <div>
       <p className="text-sm text-gray-500 mb-4">
-        {tools.length} result{tools.length !== 1 ? 's' : ''} for "{query}"
+        {tools.length} result{tools.length !== 1 ? 's' : ''} for &quot;{query}&quot;
       </p>
       <ToolGrid tools={tools} />
     </div>

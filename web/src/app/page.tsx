@@ -2,6 +2,7 @@ export const dynamic = 'force-dynamic'
 
 import { SearchBar } from '@/components/search/SearchBar'
 import { ToolGrid } from '@/components/tools/ToolGrid'
+import { MaintenanceStatusLegend } from '@/components/tools/MaintenanceStatusLegend'
 import { getTools } from '@/lib/queries/tools'
 import { getCategories } from '@/lib/queries/categories'
 import Link from 'next/link'
@@ -76,6 +77,10 @@ export default async function HomePage() {
           </Link>
         </div>
         <ToolGrid tools={recent.data} />
+      </section>
+
+      <section className="mb-12">
+        <MaintenanceStatusLegend />
       </section>
 
       <section className="mb-12">
