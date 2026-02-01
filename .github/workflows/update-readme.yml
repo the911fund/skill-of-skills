@@ -20,17 +20,30 @@ jobs:
       - name: Fetch README from API
         id: fetch
         run: |
-          RESPONSE=$(curl -s "https://skills.911fund.io/api/v1/readme/regenerate")
+          # Retry up to 3 times with exponential backoff
+          for i in 1 2 3; do
+            echo "Attempt $i: Fetching README..."
+            RESPONSE=$(curl -s --max-time 30 "https://skills.911fund.io/api/v1/readme/regenerate")
 
-          # Extract readme_content from JSON response
-          echo "$RESPONSE" | jq -r '.readme_content' > README.md
+            # Check if response looks like JSON
+            if echo "$RESPONSE" | jq -e '.readme_content' > /dev/null 2>&1; then
+              echo "$RESPONSE" | jq -r '.readme_content' > README.md
+              break
+            else
+              echo "Received non-JSON response: ${RESPONSE:0:200}"
+              if [ $i -lt 3 ]; then
+                echo "Waiting before retry..."
+                sleep $((i * 5))
+              fi
+            fi
+          done
 
           # Check if README was updated
           if [ -s README.md ] && [ "$(head -c 10 README.md)" != "null" ]; then
             echo "updated=true" >> $GITHUB_OUTPUT
           else
             echo "updated=false" >> $GITHUB_OUTPUT
-            echo "Failed to fetch README content"
+            echo "Failed to fetch README content after 3 attempts"
             exit 1
           fi
 
