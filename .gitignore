@@ -57,12 +57,16 @@ Desktop.ini
 dist/
 build/
 coverage/
+*.tsbuildinfo
 
 # Prisma
 prisma/*.db
 
 # Claude
 .claude/
+
+# Playwright MCP
+.playwright-mcp/
 
 # Planning & Internal Docs
 .planning/
