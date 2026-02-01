@@ -19,6 +19,7 @@ export interface Tool {
   validationStatus: string
   stars: number
   forks: number
+  lastCommitAt: Date | null
   license: string | null
   xMentionCount: number
   xRecommendationCount: number

@@ -14,8 +14,8 @@
         "Run `cd [web-ui-dir] && npm run typecheck` - exits with code 0 OR note if no typecheck"
       ],
       "priority": 1,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Web UI located at: web/src\nTool card component: web/src/components/tools/ToolCard.tsx\nDatabase field name: lastCommitAt (not lastCommitDate) in schema.prisma line 95\nAdded lastCommitAt: Date | null to Tool type in web/src/types/index.ts\nNo dedicated typecheck script - used npm run build instead which includes type checking\nBuild passes with exit code 0"
     },
     {
       "id": "T-002",
