@@ -1,5 +1,14 @@
 import { NextResponse } from 'next/server'
 import { prisma } from '@/lib/prisma'
+import { getMaintenanceStatus } from '@/utils/maintenanceStatus'
+
+const MAINTENANCE_ICONS: Record<string, string> = {
+  Active: '🟢',
+  Maintained: '🟡',
+  Stale: '🟠',
+  Inactive: '🔴',
+  Unknown: '⚪',
+}
 
 const TOOL_TYPE_ICONS: Record<string, string> = {
   skill: '📄',
@@ -35,7 +44,7 @@ const CATEGORY_ICONS: Record<string, string> = {
 }
 
 async function generateReadme(): Promise<string> {
-  const [tools, categories, starsResult] = await Promise.all([
+  const [tools, categories, starsResult, latestTools] = await Promise.all([
     prisma.tool.findMany({
       where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] } },
       include: { category: true },
@@ -46,11 +55,28 @@ async function generateReadme(): Promise<string> {
       where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] } },
       _sum: { stars: true },
     }),
+    prisma.tool.findMany({
+      where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] } },
+      include: { category: true },
+      orderBy: { discoveredAt: 'desc' },
+      take: 5,
+    }),
   ])
 
   const totalTools = tools.length
   const totalCategories = categories.length
   const totalStars = starsResult._sum.stars || 0
+
+  // Generate Latest section
+  const latestSection = latestTools.map(t => {
+    const typeIcon = TOOL_TYPE_ICONS[t.toolType] || '📄'
+    const risk = RISK_ICONS[t.riskLevel] || '🟢'
+    const maintenance = getMaintenanceStatus(t.lastCommitAt)
+    const maintIcon = MAINTENANCE_ICONS[maintenance.status] || '⚪'
+    const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars
+    const author = t.repoOwner ? ` by ${t.repoOwner}` : ''
+    return `- ${typeIcon} **[${t.name}](${t.repoUrl})** ${risk} ${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
+  }).join('\n')
 
   // Generate category sections
   const categorySections = categories.map(cat => {
@@ -61,9 +87,11 @@ async function generateReadme(): Promise<string> {
     const toolsList = catTools.map(t => {
       const typeIcon = TOOL_TYPE_ICONS[t.toolType] || '📄'
       const risk = RISK_ICONS[t.riskLevel] || '🟢'
+      const maintenance = getMaintenanceStatus(t.lastCommitAt)
+      const maintIcon = MAINTENANCE_ICONS[maintenance.status] || '⚪'
       const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars
       const author = t.repoOwner ? ` by ${t.repoOwner}` : ''
-      return `- ${typeIcon} **[${t.name}](${t.repoUrl})** ${risk} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
+      return `- ${typeIcon} **[${t.name}](${t.repoUrl})** ${risk} ${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
     }).join('\n')
 
     return `## ${icon} ${cat.name}\n\n${toolsList}`
@@ -87,8 +115,15 @@ async function generateReadme(): Promise<string> {
 
 ## Contents
 
+- [Latest](#-latest)
 ${categories.map(c => `- [${c.name}](#-${c.slug})`).join('\n')}
 - [How It Works](#how-it-works)
+
+---
+
+## 🆕 Latest
+
+${latestSection}
 
 ---
 
@@ -118,6 +153,16 @@ ${categorySections}
 | 🟡 | Medium | Extended permissions (shell access, subagents) |
 | 🔴 | High | Broad system access, review before use |
 | ⚫ | Critical | Manual review required |
+
+## Maintenance Status
+
+| Icon | Status | Description |
+|:----:|--------|-------------|
+| 🟢 | Active | Updated within last 30 days |
+| 🟡 | Maintained | Updated within last 90 days |
+| 🟠 | Stale | Updated within last 180 days |
+| 🔴 | Inactive | Not updated for over 180 days |
+| ⚪ | Unknown | No commit date available |
 
 ---
 
