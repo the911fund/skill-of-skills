@@ -185,3 +185,23 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Full-page screenshots useful for documenting UI state
   - Browser console logging can be checked programmatically to detect errors
 ---
+## 2026-02-01 02:00 - T-008
+- Verified maintenance badges render correctly on all tool cards
+- Browser testing performed:
+  - Navigated to http://localhost:3001 (dev server running)
+  - Visual inspection confirmed badges present on all tools in Recently Added section
+  - Multiple statuses visible: Active (green 🟢) and Maintained (yellow 🟡)
+  - Specific tools verified: ideavim, payload, remotion, mcp-code-execution, medusa (Active); hospeda (Maintained)
+- Quality verification:
+  - No browser console errors related to badge rendering
+  - Screenshot captured to .playwright-mcp/tmp/skills-badges-rendered.png
+  - npm run lint: passes (no warnings or errors)
+  - npm run build: passes (successful production build)
+- **Learnings for future iterations:**
+  - Browser automation with Playwright provides thorough visual verification
+  - Page snapshots (YAML format) allow detailed inspection of rendered elements
+  - Tooltip attributes visible in snapshot as title attributes on badge wrappers
+  - Full-page screenshots capture complete UI state for documentation
+  - Console message filtering by level (error) helps identify rendering issues
+  - At least 2 distinct badge statuses (Active, Maintained) confirm status calculation logic working
+---

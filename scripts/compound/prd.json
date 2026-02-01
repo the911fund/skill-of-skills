@@ -118,8 +118,8 @@
         "Browser console shows no errors related to badge rendering"
       ],
       "priority": 8,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Navigated to skills directory page (http://localhost:3001). Visual inspection confirms badges render on all tool cards in Recently Added section. Multiple badge colors visible: Active (green 🟢) on ideavim, payload, remotion, mcp-code-execution, medusa; Maintained (yellow 🟡) on hospeda. Browser console shows no errors related to badge rendering. Screenshot saved to .playwright-mcp/tmp/skills-badges-rendered.png. All acceptance criteria met."
     },
     {
       "id": "T-009",
