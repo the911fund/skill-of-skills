@@ -35,17 +35,11 @@ const CATEGORY_ICONS: Record<string, string> = {
 }
 
 async function generateReadme(): Promise<string> {
-  const [tools, trendingTools, categories, starsResult] = await Promise.all([
+  const [tools, categories, starsResult] = await Promise.all([
     prisma.tool.findMany({
       where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] } },
       include: { category: true },
       orderBy: { compositeScore: 'desc' },
-    }),
-    // Top 6 by trendingScore - matches home page
-    prisma.tool.findMany({
-      where: { isActive: true, validationStatus: { in: ['passed', 'skipped'] }, trendingScore: { gt: 0 } },
-      orderBy: { trendingScore: 'desc' },
-      take: 6,
     }),
     prisma.category.findMany({ orderBy: { displayOrder: 'asc' } }),
     prisma.tool.aggregate({
@@ -57,16 +51,6 @@ async function generateReadme(): Promise<string> {
   const totalTools = tools.length
   const totalCategories = categories.length
   const totalStars = starsResult._sum.stars || 0
-
-  // Generate trending section (top 6 by trendingScore)
-  const trendingSection = trendingTools.length > 0
-    ? trendingTools.map(t => {
-        const icon = TOOL_TYPE_ICONS[t.toolType] || '📄'
-        const risk = RISK_ICONS[t.riskLevel] || '🟢'
-        const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars
-        return `- ${icon} **[${t.name}](${t.repoUrl})** ${risk} — ${t.description || 'No description'} *(${stars} ⭐)*`
-      }).join('\n')
-    : '*No trending tools yet*'
 
   // Generate category sections
   const categorySections = categories.map(cat => {
@@ -103,15 +87,8 @@ async function generateReadme(): Promise<string> {
 
 ## Contents
 
-- [Trending](#-trending)
 ${categories.map(c => `- [${c.name}](#-${c.slug})`).join('\n')}
 - [How It Works](#how-it-works)
-
----
-
-## 🔥 Trending
-
-${trendingSection}
 
 ---
 
@@ -146,32 +123,13 @@ ${categorySections}
 
 ## How It Works
 
-This directory is automatically updated **every hour** by the Skill of Skills discovery engine:
+This directory is automatically updated by the Skill of Skills discovery engine:
 
-\`\`\`mermaid
-flowchart LR
-    A[":00 Discovery"] -->|"10 min"| B[":10 Validation"]
-    B -->|"10 min"| C[":20 Scoring"]
-    C -->|"5 min"| D[":25 README"]
-    D -->|"GitHub Push"| E["📤"]
-
-    style A fill:#4CAF50,color:#fff
-    style B fill:#2196F3,color:#fff
-    style C fill:#FF9800,color:#fff
-    style D fill:#00BCD4,color:#fff
-\`\`\`
-
-| Stage | Time | Duration | Description |
-|-------|------|----------|-------------|
-| **Discovery** | :00 | ~5 min | Scans GitHub for Claude Code tools |
-| **Validation** | :10 | ~5 min | Validates tools, AI categorizes |
-| **Scoring** | :20 | ~2 min | Recalculates trending scores |
-| **Publishing** | :25 | ~10 sec | Updates README & web directory |
-
-### Trending Score Formula
-- **GitHub Stars (50%)** — Relative to ecosystem (capped at 10k)
-- **Recency (50%)** — Exponential decay (90-day half-life)
-- **Multipliers** — Risk level & verification status
+| Stage | Description |
+|-------|-------------|
+| **Discovery** | Scans GitHub for Claude Code tools |
+| **Validation** | Validates tools & AI categorizes them |
+| **Publishing** | Updates README & web directory |
 
 ## License
 
