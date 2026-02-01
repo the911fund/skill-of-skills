@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) | 📚 | ⭐974 | 📈+46.2 |
 
 
 ## 📦 By Category
