@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net) | 📚 | ⭐951 | 📈+42.4 |
 
 
 ## 📦 By Category
