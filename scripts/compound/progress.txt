@@ -8,6 +8,8 @@ Started: Sun Feb  1 00:08:56 MST 2026
 - GitHub stars stored in `stars` field (not github_stars) in Tool model
 - API endpoints follow pattern: web/src/app/api/v1/{resource}/{action}/route.ts
 - Current fallback uses compositeScore instead of stars (PRD requires stars)
+- Testing framework: Vitest with happy-dom environment, tests placed alongside source files with .test.ts suffix
+- Quality checks: npm run lint and npm run build must both pass before committing
 
 ---
 
@@ -82,4 +84,30 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - String dates converted using new Date() constructor
   - Invalid dates detected with isNaN(date.getTime())
   - Build includes both linting and type checking (npm run build)
+---
+## 2026-02-01 00:35 - T-003
+- Added unit tests for maintenance status calculation edge cases
+- Files created/modified:
+  - Created web/vitest.config.ts - Vitest configuration with happy-dom environment
+  - Created web/src/utils/maintenanceStatus.test.ts - 17 comprehensive test cases
+  - Modified web/package.json - Added test and test:watch scripts
+  - Created web/.eslintrc.json - ESLint configuration for Next.js
+  - Fixed web/src/components/search/SearchResults.tsx - Pre-existing ESLint error (unescaped quotes)
+- Test coverage:
+  - Active status: 15d, 1d, 29d boundary tests
+  - Maintained status: 60d, 30d boundary, 89d boundary tests
+  - Stale status: 120d, 90d boundary, 179d boundary tests
+  - Inactive status: 200d, 180d boundary, 365d tests
+  - Unknown status: null, undefined, invalid date string tests
+  - String date input: ISO string handling tests
+- All 17 tests pass with exit code 0
+- **Learnings for future iterations:**
+  - Project did not have testing framework set up initially
+  - Vitest is a good choice for Next.js/React projects (fast, modern)
+  - Use happy-dom for lightweight DOM environment in tests
+  - Helper function pattern (daysAgo) makes date testing clean and readable
+  - Boundary testing is critical for threshold-based logic
+  - Pre-existing lint errors should be fixed to pass quality checks
+  - npm run lint requires .eslintrc.json configuration file
+  - Quality checks (lint + build) both pass after changes
 ---
