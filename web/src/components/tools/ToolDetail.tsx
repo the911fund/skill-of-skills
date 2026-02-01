@@ -3,8 +3,10 @@ import { Badge } from '@/components/ui/Badge'
 import { Button } from '@/components/ui/Button'
 import { RiskBadge } from './RiskBadge'
 import { TypeBadge } from './TypeBadge'
+import { MaintenanceBadge } from './MaintenanceBadge'
 import { InstallCommand } from './InstallCommand'
 import { formatNumber, formatDate, getCategoryIcon } from '@/lib/utils'
+import { getMaintenanceStatus } from '@/utils/maintenanceStatus'
 import type { Tool } from '@/types'
 
 interface ToolDetailProps {
@@ -12,6 +14,8 @@ interface ToolDetailProps {
 }
 
 export function ToolDetail({ tool }: ToolDetailProps) {
+  const maintenanceStatus = getMaintenanceStatus(tool.lastCommitAt)
+
   return (
     <div className="space-y-6">
       <Card>
@@ -19,6 +23,7 @@ export function ToolDetail({ tool }: ToolDetailProps) {
           <div>
             <div className="flex flex-wrap items-center gap-2 mb-2">
               <TypeBadge type={tool.toolType} />
+              <MaintenanceBadge status={maintenanceStatus.status} />
               {tool.isOfficial && <Badge variant="success">Official</Badge>}
               {tool.isVerified && <Badge variant="default">Verified</Badge>}
               <RiskBadge level={tool.riskLevel} />
@@ -121,6 +126,16 @@ export function ToolDetail({ tool }: ToolDetailProps) {
               {tool.riskLevel === 'medium' && 'Requires extended permissions (shell access, subagents). Review before use.'}
               {tool.riskLevel === 'high' && 'Broad system access required. Carefully review permissions before installing.'}
               {tool.riskLevel === 'critical' && 'Manual security review required. Use with extreme caution.'}
+            </p>
+          </div>
+          <div className="flex items-start gap-2">
+            <MaintenanceBadge status={maintenanceStatus.status} />
+            <p className="text-gray-600 dark:text-gray-300">
+              {maintenanceStatus.status === 'Active' && 'Updated within the last 30 days. Actively maintained.'}
+              {maintenanceStatus.status === 'Maintained' && 'Updated within the last 90 days. Regular maintenance.'}
+              {maintenanceStatus.status === 'Stale' && 'Last updated 90-180 days ago. May need attention.'}
+              {maintenanceStatus.status === 'Inactive' && 'Not updated for over 180 days. May be abandoned.'}
+              {maintenanceStatus.status === 'Unknown' && 'No commit date available.'}
             </p>
           </div>
           {!tool.isOfficial && !tool.isVerified && (
