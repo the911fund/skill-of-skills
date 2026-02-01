@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) | 📚 | ⭐883 | 📈+50.9 |
 
 
 ## 📦 By Category
