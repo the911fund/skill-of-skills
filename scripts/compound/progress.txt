@@ -8,6 +8,7 @@ Started: Sun Feb  1 00:08:56 MST 2026
 - GitHub stars stored in `stars` field (not github_stars) in Tool model
 - API endpoints follow pattern: web/src/app/api/v1/{resource}/{action}/route.ts
 - Current fallback uses compositeScore instead of stars (PRD requires stars)
+- Quality checks: `cd web && npm run build` (lint not configured)
 
 ---
 
@@ -34,4 +35,44 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Homepage uses `getTools({ sort: 'recent' }, 1, 6)` for recent tools
   - The main task is to fix the fallback in getTrendingTools() to use stars instead of compositeScore
   - No need to add trending section to homepage - just fix the fallback logic
+---
+
+## 2026-02-01 00:14 - T-003
+- Documented current query logic from web/src/lib/queries/tools.ts
+- Primary query (lines 79-88):
+  - WHERE: isActive=true, validationStatus IN ['passed','skipped'], trendingScore > 0
+  - ORDER BY: trendingScore DESC
+  - LIMIT: parameterized (default 10, README API uses 6)
+- Fallback query (lines 91-100):
+  - WHERE: same as primary but NO trendingScore filter
+  - ORDER BY: compositeScore DESC (THIS NEEDS TO CHANGE TO stars DESC)
+  - LIMIT: same as primary
+- **Learnings for future iterations:**
+  - Empty detection already exists (line 91: if tools.length === 0)
+  - Only need to change orderBy from compositeScore to stars in fallback
+---
+
+## 2026-02-01 00:15 - T-004
+- Verified database schema in web/prisma/schema.prisma
+- Confirmed 'tools' table (line 72) has 'stars' field (line 93)
+- Field type: Int @default(0)
+- No schema changes required
+- **Learnings for future iterations:**
+  - Field is named 'stars' NOT 'github_stars'
+  - Ready to proceed with implementation - all prerequisites met
+---
+
+## 2026-02-01 00:16 - T-005 through T-008
+- Implemented core functionality changes in web/src/lib/queries/tools.ts
+- Changes made:
+  1. T-005: Empty detection already present (line 91)
+  2. T-006: Changed orderBy from `compositeScore: 'desc'` to `stars: 'desc'` (line 99)
+  3. T-007: Confirmed both queries return to same variable (no changes needed)
+  4. T-008: Added console.log statements for fallback activation tracking
+- Updated comment on line 91 to reflect new behavior: "Fallback to top starred tools"
+- Build verification: `cd web && npm run build` - ✓ Compiled successfully
+- **Learnings for future iterations:**
+  - Single line change was the core fix (compositeScore → stars)
+  - Existing architecture was well-designed - minimal changes needed
+  - Logging added for debugging/monitoring fallback activation
 ---
