@@ -17,14 +17,6 @@ Repos are automatically discovered by scanning GitHub for Claude Code related pr
 Each tool will be validated in a sandbox environment. We'll check for proper structure, run security scans, and audit dependencies before listing.
 
 ---
-
-## 🔥 Trending
-
-| Tool | Type | Stars | Trend |
-|------|------|-------|-------|
-| [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 📚 | ⭐1229 | 📈+47.6 |
-
-
 ## 📦 By Category
 
 ### ✅ Official
