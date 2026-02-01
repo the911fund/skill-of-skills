@@ -191,8 +191,8 @@
         "Screenshot saved to tmp/status-legend.png"
       ],
       "priority": 13,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Navigated to http://localhost:3001 in desktop viewport (1280x800). Legend visible below Recently Added section, above Categories. All 5 status categories displayed with correct colors: Active (green), Maintained (yellow), Stale (orange), Inactive (red), Unknown (gray). Each status shows icon, name, description, and time threshold. Colors match MaintenanceBadge exactly. Screenshot saved to .playwright-mcp/tmp/status-legend.png. Some 500 errors for tool detail page prefetch (unrelated to legend). Quality checks pass (lint and build)."
     },
     {
       "id": "T-014",
