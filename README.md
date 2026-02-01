@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills) | 📚 | ⭐787 | 📈+40.0 |
 
 
 ## 📦 By Category
