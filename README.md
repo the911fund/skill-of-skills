@@ -16,13 +16,6 @@ Repos are automatically discovered by scanning GitHub for Claude Code related pr
 ### Validation *(pending)*
 Each tool will be validated in a sandbox environment. We'll check for proper structure, run security scans, and audit dependencies before listing.
 
-### Trending Score
-Scores are recalculated every 6 hours based on:
-- **GitHub Stars (50%)** — Stars relative to ecosystem (capped at 10k)
-- **Recency (50%)** — Exponential decay based on last commit (90-day half-life)
-
-Multipliers applied for risk level and verification status.
-
 ---
 
 ## 🔥 Trending
