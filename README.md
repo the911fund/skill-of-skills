@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [wooyun-legacy](https://github.com/tanweai/wooyun-legacy) | 📚 | ⭐1103 | 📈+49.1 |
 
 
 ## 📦 By Category
