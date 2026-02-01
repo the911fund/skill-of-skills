@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [synalinks-skills](https://github.com/SynaLinks/synalinks-skills) | 📚 | ⭐894 | 📈+44.8 |
 
 
 ## 📦 By Category
