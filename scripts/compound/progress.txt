@@ -129,3 +129,19 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Use aria-label on icon spans for screen reader accessibility
   - Stale status uses 'warning' variant (same as Maintained) but different emoji
 ---
+## 2026-02-01 01:35 - T-005
+- Added hover tooltips to MaintenanceBadge component
+- Files modified:
+  - web/src/components/tools/MaintenanceBadge.tsx
+- Implementation details:
+  - Wrapped Badge component in a span with title attribute for native browser tooltips
+  - Created tooltips mapping with explanatory text for all 5 status levels
+  - Tooltip format: "[Status]: [Description] ([Time threshold])"
+  - Examples: "Active: Updated within the last 30 days", "Maintained: Updated within the last 90 days (30-90 days ago)"
+- Quality checks: Both npm run lint and npm run build pass with exit code 0
+- **Learnings for future iterations:**
+  - Native HTML title attribute provides simple, accessible tooltip without requiring additional dependencies
+  - Wrapping components in span with title preserves all styling and functionality
+  - Tooltip text should be descriptive and include specific time thresholds for clarity
+  - No tooltip component library exists in this project - prefer native solutions
+---

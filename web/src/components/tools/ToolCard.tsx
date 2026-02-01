@@ -3,7 +3,9 @@ import { Card } from '@/components/ui/Card'
 import { Badge } from '@/components/ui/Badge'
 import { RiskBadge } from './RiskBadge'
 import { TypeBadge } from './TypeBadge'
+import { MaintenanceBadge } from './MaintenanceBadge'
 import { formatNumber, getCategoryIcon } from '@/lib/utils'
+import { getMaintenanceStatus } from '@/utils/maintenanceStatus'
 import type { Tool } from '@/types'
 
 interface ToolCardProps {
@@ -11,12 +13,15 @@ interface ToolCardProps {
 }
 
 export function ToolCard({ tool }: ToolCardProps) {
+  const maintenanceStatus = getMaintenanceStatus(tool.lastCommitAt)
+
   return (
     <Link href={`/tools/${tool.slug}`}>
       <Card className="h-full hover:shadow-md transition-shadow cursor-pointer">
         <div className="flex items-start justify-between mb-3">
           <div className="flex items-center gap-2">
             <TypeBadge type={tool.toolType} />
+            <MaintenanceBadge status={maintenanceStatus.status} />
             {tool.isOfficial && <Badge variant="success">Official</Badge>}
             {tool.isVerified && <Badge variant="default">Verified</Badge>}
           </div>
