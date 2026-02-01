@@ -2,14 +2,13 @@ export const dynamic = 'force-dynamic'
 
 import { SearchBar } from '@/components/search/SearchBar'
 import { ToolGrid } from '@/components/tools/ToolGrid'
-import { getTrendingTools, getTools } from '@/lib/queries/tools'
+import { getTools } from '@/lib/queries/tools'
 import { getCategories } from '@/lib/queries/categories'
 import Link from 'next/link'
 import { getCategoryIcon } from '@/lib/utils'
 
 export default async function HomePage() {
-  const [trending, recent, categories] = await Promise.all([
-    getTrendingTools(6),
+  const [recent, categories] = await Promise.all([
     getTools({ sort: 'recent' }, 1, 6),
     getCategories(),
   ])
@@ -70,16 +69,6 @@ export default async function HomePage() {
       </section>
 
       <section className="mb-12">
-        <div className="mb-6">
-          <h2 className="text-2xl font-bold dark:text-gray-100">🔥 Trending</h2>
-          <p className="text-sm text-gray-500 dark:text-gray-400 mt-1">
-            Top 6 tools by GitHub activity, social mentions, and recency
-          </p>
-        </div>
-        <ToolGrid tools={trending} />
-      </section>
-
-      <section className="mb-12">
         <div className="flex items-center justify-between mb-6">
           <h2 className="text-2xl font-bold dark:text-gray-100">🆕 Recently Added</h2>
           <Link href="/tools?sort=recent" className="text-primary-600 hover:text-primary-700 dark:text-primary-400 dark:hover:text-primary-300">
@@ -112,28 +101,17 @@ export default async function HomePage() {
         <div className="grid md:grid-cols-2 gap-6 text-sm">
           <div>
             <h3 className="font-semibold dark:text-gray-100 mb-2">Discovery</h3>
-            <p className="text-gray-600 dark:text-gray-300 mb-3">
+            <p className="text-gray-600 dark:text-gray-300">
               Repos are automatically discovered by scanning GitHub for Claude Code related projects
               (skills, plugins, MCP servers). We search for specific file patterns like <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">SKILL.md</code>,
               <code className="bg-gray-200 dark:bg-gray-700 px-1 rounded">mcp.json</code>, and keywords in descriptions.
             </p>
+          </div>
+          <div>
             <h3 className="font-semibold dark:text-gray-100 mb-2">Validation <span className="text-xs text-gray-400">(pending)</span></h3>
             <p className="text-gray-600 dark:text-gray-300">
               Each tool will be validated in a sandbox environment. We&apos;ll check for proper structure,
               run security scans, and audit dependencies before listing.
-            </p>
-          </div>
-          <div>
-            <h3 className="font-semibold dark:text-gray-100 mb-2">Trending Score</h3>
-            <p className="text-gray-600 dark:text-gray-300 mb-2">
-              Scores are recalculated every hour based on:
-            </p>
-            <ul className="text-gray-600 dark:text-gray-300 space-y-1 ml-4 list-disc">
-              <li><strong>GitHub Stars (50%)</strong> — Stars relative to ecosystem (capped at 10k)</li>
-              <li><strong>Recency (50%)</strong> — Exponential decay based on last commit (90-day half-life)</li>
-            </ul>
-            <p className="text-gray-500 dark:text-gray-400 mt-2 text-xs">
-              Multipliers applied for risk level and verification status.
             </p>
           </div>
         </div>
