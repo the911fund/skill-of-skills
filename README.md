@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [makepad-skills](https://github.com/ZhangHanDong/makepad-skills) | 📚 | ⭐701 | 📈+47.3 |
 
 
 ## 📦 By Category
