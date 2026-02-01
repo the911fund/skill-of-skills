@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) | 📚 | ⭐1059 | 📈+51.2 |
 
 
 ## 📦 By Category
