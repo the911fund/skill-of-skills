@@ -66,3 +66,20 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - ToolCard component receives full Tool object, so has access to all Tool properties including lastCommitAt
   - Tool type interface must stay in sync with Prisma schema
 ---
+## 2026-02-01 01:25 - T-002
+- Created maintenance status utility function file
+- Files created:
+  - web/src/utils/maintenanceStatus.ts
+- Implementation details:
+  - Function: getMaintenanceStatus(lastCommitDate: Date | string | null)
+  - Returns: { status: MaintenanceStatus, color: string }
+  - Thresholds: Active <30d, Maintained 30-90d, Stale 90-180d, Inactive >180d
+  - Colors: Active (green #22c55e), Maintained (yellow #eab308), Stale (orange #f97316), Inactive (red #ef4444), Unknown (gray #6b7280)
+  - Handles null/undefined input and invalid dates gracefully
+- **Learnings for future iterations:**
+  - TypeScript strict typing required for all exports
+  - Date calculations use Math.floor for consistent day counting
+  - String dates converted using new Date() constructor
+  - Invalid dates detected with isNaN(date.getTime())
+  - Build includes both linting and type checking (npm run build)
+---
