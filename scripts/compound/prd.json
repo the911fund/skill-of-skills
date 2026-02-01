@@ -28,8 +28,8 @@
         "Confirm this connects to the trending query from T-001"
       ],
       "priority": 2,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "FOUND: Homepage at web/src/app/page.tsx currently displays 'Recently Added' (line 72-79), NOT trending tools. The getTrendingTools() function exists but is only used in: 1) README generation API (web/src/app/api/v1/readme/route.ts line 45-50), 2) Trending API endpoint (web/src/app/api/v1/tools/trending/route.ts). The fallback currently uses compositeScore instead of stars (web/src/lib/queries/tools.ts line 98)."
     },
     {
       "id": "T-003",
