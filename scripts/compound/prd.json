@@ -42,8 +42,8 @@
         "Log LIMIT value (should be 6 tools) to notes"
       ],
       "priority": 3,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Current query in web/src/lib/queries/tools.ts lines 78-104:\n1. Primary query: WHERE isActive=true AND validationStatus IN ['passed','skipped'] AND trendingScore > 0, ORDER BY trendingScore DESC, LIMIT=limit (default 10)\n2. Fallback query (line 91-100): Same WHERE except NO trendingScore filter, ORDER BY compositeScore DESC, LIMIT=limit\n3. Limit is parameterized (default 10), README API uses limit=6\n4. Uses Prisma ORM with prisma.tool.findMany()\n5. Includes category relation"
     },
     {
       "id": "T-004",
@@ -56,8 +56,8 @@
         "No schema changes required (verify only)"
       ],
       "priority": 4,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "CONFIRMED: Schema file at web/prisma/schema.prisma. Table name is 'tools' (line 72), field is 'stars' (line 93) with type Int @default(0). Note: The field is named 'stars' NOT 'github_stars' as mentioned in acceptance criteria. No schema changes required."
     },
     {
       "id": "T-005",
@@ -70,8 +70,8 @@
         "Run `npm run typecheck` - exits with code 0 (if TypeScript project)"
       ],
       "priority": 5,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "ALREADY EXISTS: Empty detection logic already present at line 91 in web/src/lib/queries/tools.ts (if tools.length === 0). No changes needed."
     },
     {
       "id": "T-006",
@@ -84,8 +84,8 @@
         "Add comment explaining fallback query purpose"
       ],
       "priority": 6,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "COMPLETED: Changed orderBy from compositeScore to stars in fallback query at line 99. Updated comment to reflect new behavior. Limit already matches trending query (parameterized)."
     },
     {
       "id": "T-007",
@@ -98,8 +98,8 @@
         "Run `npm run typecheck` - exits with code 0 (if TypeScript project)"
       ],
       "priority": 7,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "ALREADY CORRECT: Both queries assign to same 'tools' variable (lines 79 and 92). Same return statement at line 103. Data structure identical (both include category relation). No frontend changes needed."
     },
     {
       "id": "T-008",
@@ -112,8 +112,8 @@
         "Code compiles without errors"
       ],
       "priority": 8,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "COMPLETED: Added console.log statements at lines 92 and 101. Logs indicate fallback activation and number of tools returned."
     },
     {
       "id": "T-009",
