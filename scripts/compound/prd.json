@@ -42,8 +42,8 @@
         "Log LIMIT value (should be 6 tools) to notes"
       ],
       "priority": 3,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Current query in web/src/lib/queries/tools.ts lines 78-104:\n1. Primary query: WHERE isActive=true AND validationStatus IN ['passed','skipped'] AND trendingScore > 0, ORDER BY trendingScore DESC, LIMIT=limit (default 10)\n2. Fallback query (line 91-100): Same WHERE except NO trendingScore filter, ORDER BY compositeScore DESC, LIMIT=limit\n3. Limit is parameterized (default 10), README API uses limit=6\n4. Uses Prisma ORM with prisma.tool.findMany()\n5. Includes category relation"
     },
     {
       "id": "T-004",
