@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [kaguya](https://github.com/ykdojo/kaguya) | 📚 | ⭐1195 | 📈+26.7 |
 
 
 ## 📦 By Category
