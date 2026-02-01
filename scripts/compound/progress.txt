@@ -291,3 +291,23 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Time thresholds provide quick reference without needing to read full tooltip text
   - Gray background (bg-gray-50) distinguishes legend from main content area
 ---
+## 2026-02-01 02:20 - T-012
+- Integrated MaintenanceStatusLegend into homepage
+- Files modified:
+  - web/src/app/page.tsx
+- Implementation details:
+  - Added import: MaintenanceStatusLegend from '@/components/tools/MaintenanceStatusLegend'
+  - Rendered legend in new section between "Recently Added" and "Categories"
+  - Legend positioned in middle of page, not obscuring tool cards
+  - Wrapped in section with mb-12 class for consistent spacing with other sections
+  - Legend is compact by design (no collapse functionality needed)
+- Quality verification:
+  - npm run lint: passes (no warnings or errors)
+  - npm run build: passes (successful production build)
+- **Learnings for future iterations:**
+  - Legend placement between sections provides good visibility without being intrusive
+  - Compact legend design eliminates need for collapse/expand functionality
+  - Responsive grid in legend automatically adjusts for mobile/tablet/desktop
+  - Section wrapper with margin-bottom maintains consistent page rhythm
+  - Import organization follows project pattern (components before lib imports)
+---

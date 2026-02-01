@@ -176,8 +176,8 @@
         "Run `npm run typecheck` - exits with code 0"
       ],
       "priority": 12,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "Integrated MaintenanceStatusLegend component into web/src/app/page.tsx homepage. Legend positioned between Recently Added section and Categories section (middle of page, does not obscure tool cards). Legend is compact with responsive grid layout. Import added at top of file. Component wrapped in own section for proper spacing (mb-12 margin). Quality checks pass (npm run lint and npm run build)."
     },
     {
       "id": "T-013",
