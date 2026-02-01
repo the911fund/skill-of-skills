@@ -257,6 +257,26 @@ async function pushToGitHub(content: string): Promise<{ success: boolean; messag
   }
 }
 
+// GET returns readme content for GitHub Actions to use
+export async function GET() {
+  try {
+    const readme = await generateReadme()
+    return NextResponse.json({
+      readme_content: readme,
+      timestamp: new Date().toISOString()
+    })
+  } catch (error) {
+    return NextResponse.json(
+      {
+        error: 'Failed to generate README',
+        details: error instanceof Error ? error.message : 'Unknown error'
+      },
+      { status: 500 }
+    )
+  }
+}
+
+// POST generates and pushes README to GitHub
 export async function POST() {
   try {
     // Generate README content

@@ -17,12 +17,10 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch README from n8n
+      - name: Fetch README from API
         id: fetch
         run: |
-          RESPONSE=$(curl -s -X POST "${{ secrets.N8N_README_WEBHOOK }}" \
-            -H "Content-Type: application/json" \
-            -d '{"trigger": "github_action"}')
+          RESPONSE=$(curl -s "https://skills.911fund.io/api/v1/readme/regenerate")
 
           # Extract readme_content from JSON response
           echo "$RESPONSE" | jq -r '.readme_content' > README.md
