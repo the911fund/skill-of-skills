@@ -27,7 +27,10 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 📚 | ⭐1215 | 📈+51.8 |
+| [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 📚 | ⭐1092 | 📈+50.8 |
 
 
 ## 📦 By Category
