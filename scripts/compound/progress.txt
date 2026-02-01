@@ -23,3 +23,15 @@ Started: Sun Feb  1 00:08:56 MST 2026
   - Database field is named `stars` not `github_stars` in schema
   - Query uses Prisma ORM with prisma.tool.findMany()
 ---
+
+## 2026-02-01 00:12 - T-002
+- Located homepage rendering code
+- Homepage file: web/src/app/page.tsx
+- Currently displays "Recently Added" section (lines 71-79), NOT trending tools
+- getTrendingTools() function exists but not used on homepage
+- README generation API (web/src/app/api/v1/readme/route.ts) shows same issue - displays "*No trending tools yet*" when no trending data
+- **Learnings for future iterations:**
+  - Homepage uses `getTools({ sort: 'recent' }, 1, 6)` for recent tools
+  - The main task is to fix the fallback in getTrendingTools() to use stars instead of compositeScore
+  - No need to add trending section to homepage - just fix the fallback logic
+---
