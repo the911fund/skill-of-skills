@@ -14,8 +14,8 @@
         "File exists and is readable"
       ],
       "priority": 1,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "FOUND: web/src/lib/queries/tools.ts (getTrendingTools function, lines 78-104) and web/src/app/api/v1/tools/trending/route.ts (API endpoint). Currently has a fallback to compositeScore but PRD requires fallback to GitHub stars instead."
     },
     {
       "id": "T-002",

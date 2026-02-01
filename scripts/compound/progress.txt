@@ -1,0 +1,25 @@
+# Compound Product Progress Log
+Started: Sun Feb  1 00:08:56 MST 2026
+---
+
+## Codebase Patterns
+- Trending query located in web/src/lib/queries/tools.ts (getTrendingTools function)
+- Database schema uses Prisma ORM defined in web/prisma/schema.prisma
+- GitHub stars stored in `stars` field (not github_stars) in Tool model
+- API endpoints follow pattern: web/src/app/api/v1/{resource}/{action}/route.ts
+- Current fallback uses compositeScore instead of stars (PRD requires stars)
+
+---
+
+## 2026-02-01 00:10 - T-001
+- Located trending tools query in codebase
+- Files identified:
+  - web/src/lib/queries/tools.ts - contains getTrendingTools() function (lines 78-104)
+  - web/src/app/api/v1/tools/trending/route.ts - API endpoint that exposes trending tools
+- **Learnings for future iterations:**
+  - Existing code already has fallback mechanism (lines 90-101 in tools.ts)
+  - Current fallback uses `compositeScore DESC` ordering
+  - PRD requirement is to use `stars DESC` (GitHub stars) instead
+  - Database field is named `stars` not `github_stars` in schema
+  - Query uses Prisma ORM with prisma.tool.findMany()
+---
