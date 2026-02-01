@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 📚 | ⭐1229 | 📈+47.6 |
 
 
 ## 📦 By Category
