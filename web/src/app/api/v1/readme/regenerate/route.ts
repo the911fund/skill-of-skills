@@ -123,13 +123,26 @@ ${categorySections}
 
 ## How It Works
 
-This directory is automatically updated by the Skill of Skills discovery engine:
+This directory is automatically updated by the Skill of Skills discovery engine every hour:
 
-| Stage | Description |
-|-------|-------------|
-| **Discovery** | Scans GitHub for Claude Code tools |
-| **Validation** | Validates tools & AI categorizes them |
-| **Publishing** | Updates README & web directory |
+\`\`\`mermaid
+flowchart LR
+    subgraph ":10 Discovery & Validation"
+        A[🔍 GitHub Scan] --> B[📋 Tool Validation]
+        B --> C[🤖 AI Categorization]
+    end
+    subgraph ":25 Publishing"
+        C --> D[📝 README Update]
+        D --> E[🌐 Web Directory]
+    end
+    E --> F[✅ Live on GitHub]
+\`\`\`
+
+| Schedule | Stage | Description |
+|:--------:|-------|-------------|
+| **:10** | Discovery | Scans GitHub for new Claude Code tools |
+| **:10** | Validation | Validates structure & AI categorizes |
+| **:25** | Publishing | Updates README & web directory |
 
 ## License
 
