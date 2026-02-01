@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [zev](https://github.com/dtnewman/zev) | 📚 | ⭐703 | 📈+25.3 |
 
 
 ## 📦 By Category
