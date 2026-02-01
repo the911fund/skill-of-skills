@@ -67,6 +67,11 @@ export default async function HomePage() {
         <p className="text-xs text-gray-500 dark:text-gray-400 mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
           ⚠️ <strong>Unverified tools</strong> have not been reviewed. Always inspect source code from unknown authors before installation.
         </p>
+
+        {/* Maintenance Status - integrated into Trust section */}
+        <div className="mt-4 pt-4 border-t border-gray-200 dark:border-gray-700">
+          <MaintenanceStatusLegend />
+        </div>
       </section>
 
       <section className="mb-12">
@@ -77,10 +82,6 @@ export default async function HomePage() {
           </Link>
         </div>
         <ToolGrid tools={recent.data} />
-      </section>
-
-      <section className="mb-12">
-        <MaintenanceStatusLegend />
       </section>
 
       <section className="mb-12">

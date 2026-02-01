@@ -46,21 +46,21 @@ export function MaintenanceStatusLegend() {
   ]
 
   return (
-    <div className="bg-gray-50 border border-gray-200 rounded-lg p-4">
-      <h3 className="text-sm font-semibold text-gray-700 mb-3">
-        📊 Maintenance Status Guide
+    <div className="bg-gray-100 dark:bg-gray-700 border border-gray-200 dark:border-gray-600 rounded-lg p-4">
+      <h3 className="text-sm font-semibold text-gray-700 dark:text-gray-200 mb-3">
+        📊 Maintenance Status
       </h3>
-      <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-5 gap-3">
-        {statuses.map(({ status, color, icon, description, threshold }) => (
+      <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-3">
+        {statuses.map(({ status, icon, description, threshold }) => (
           <div key={status} className="flex flex-col">
             <div className="flex items-center gap-1.5 mb-1">
               <span role="img" aria-label={`${status} status`}>
                 {icon}
               </span>
-              <span className="text-sm font-medium text-gray-900">{status}</span>
+              <span className="text-sm font-medium text-gray-900 dark:text-gray-100">{status}</span>
             </div>
-            <p className="text-xs text-gray-600">{description}</p>
-            <p className="text-xs text-gray-500 mt-0.5">{threshold}</p>
+            <p className="text-xs text-gray-600 dark:text-gray-300">{description}</p>
+            <p className="text-xs text-gray-500 dark:text-gray-400 mt-0.5">{threshold}</p>
           </div>
         ))}
       </div>
