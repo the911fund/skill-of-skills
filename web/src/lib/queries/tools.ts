@@ -87,17 +87,19 @@ export async function getTrendingTools(limit = 10): Promise<Tool[]> {
     take: limit,
   })
 
-  // Fallback to top-scoring tools if no trending
+  // Fallback to top starred tools if no trending data available
   if (tools.length === 0) {
+    console.log('[getTrendingTools] No trending tools found, falling back to top starred tools')
     tools = await prisma.tool.findMany({
       where: {
         isActive: true,
         validationStatus: { in: ['passed', 'skipped'] },
       },
       include: { category: true },
-      orderBy: { compositeScore: 'desc' },
+      orderBy: { stars: 'desc' },
       take: limit,
     })
+    console.log(`[getTrendingTools] Fallback query returned ${tools.length} tools`)
   }
 
   return tools as unknown as Tool[]

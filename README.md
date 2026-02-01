@@ -2,9 +2,9 @@
 
 > The Autonomous Discovery Engine for the Claude Code Ecosystem
 
-**71 tools** discovered and indexed
+**81 tools** discovered and indexed
 
-📚 66 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
+📚 76 resources | 📦 3 collections | ⌨️ 1 cli tools | 🔌 1 plugins
 
 ---
 
@@ -27,10 +27,7 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-| Tool | Type | Stars | Trend |
-|------|------|-------|-------|
-| [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 📚 | ⭐1215 | 📈+51.8 |
-| [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 📚 | ⭐1092 | 📈+50.8 |
+*No trending data available*
 
 
 ## 📦 By Category
@@ -63,10 +60,10 @@ Multipliers applied for risk level and verification status.
 | [claude-hud](https://github.com/jarrodwatts/claude-hud) | 📚 | A Claude Code plugin that shows what's happening - context u | 🟢 |
 | [claude-code-tools](https://github.com/pchalasani/claude-code-tools) | 📚 | Practical productivity tools for Claude Code, Codex-CLI, and | 🟢 |
 | [pg-aiguide](https://github.com/timescale/pg-aiguide) | 📚 | MCP server and Claude plugin for Postgres skills and documen | 🟢 |
+| [idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui) | 📚 | IDEA Claude Code GUI Plugin | 🟢 |
+| [awesome-local-llm](https://github.com/rafska/awesome-local-llm) | 📚 | A curated list of awesome platforms, tools, practices and re | 🟢 |
+| [chatgpt-cli](https://github.com/kardolus/chatgpt-cli) | 📚 | ChatGPT CLI is a powerful, multi-provider command-line inter | 🟢 |
 | [axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills) | 📚 | Visual Skills Pack for Obsidian: generate Canvas, Excalidraw | 🟢 |
-| [yek](https://github.com/mohsen1/yek) | 📚 | A fast Rust based tool to serialize text-based files in a re | 🟢 |
-| [claudekit-skills](https://github.com/mrgoonie/claudekit-skills) | 📚 | All powerful skills of ClaudeKit.cc! | 🟢 |
-| [claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase) | 📚 | Comprehensive Claude Code project configuration example with | 🟢 |
 
 ### 📚 Documentation
 
@@ -139,11 +136,15 @@ Multipliers applied for risk level and verification status.
 | [claudian](https://github.com/YishenTu/claudian) | 📚 | An Obsidian plugin that embeds Claude Code as an AI collabor | 🟢 |
 | [papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero) | 📚 | A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3,  | 🟢 |
 | [claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills) | 📚 | 270+ Claude Code plugins with 739 agent skills. Production o | 🟢 |
+| [raptor](https://github.com/gadievron/raptor) | 📚 | Raptor turns Claude Code into a general-purpose AI offensive | 🟢 |
+| [agentica](https://github.com/wrtnlabs/agentica) | 📚 | TypeScript AI AI Function Calling Framework enhanced by comp | 🟢 |
 | [claude-flow](https://github.com/ruvnet/claude-flow) | 📚 | 🌊 The leading agent orchestration platform for Claude. Depl | 🟡 |
 | [claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2) | 📚 | Universal Claude Code workflow plugin with agents, skills, h | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📚 | A CLI host application that enables Large Language Models (L | 🟢 |
+| [skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator) | 📚 | 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述P | 🟢 |
 | [oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) | 📚 | Multi-agent orchestration for Claude Code with 5 execution m | 🟡 |
 | [py-gpt](https://github.com/szczyglis-dev/py-gpt) | 📚 | Desktop AI Assistant powered by GPT-5, GPT-4, o1, o3, Gemini | 🟢 |
+| [synalinks-skills](https://github.com/SynaLinks/synalinks-skills) | 📚 | Claude skills for Synalinks | 🟢 |
 | [claude-skills](https://github.com/alirezarezvani/claude-skills) | 📚 | A Collection of Skills for Claude Code and Claude AI for rea | 🟡 |
 | [Claudeception](https://github.com/blader/Claudeception) | 📚 | A Claude Code skill for autonomous skill extraction and cont | 🟡 |
 | [swarm](https://github.com/openai/swarm) | 📚 | Educational framework exploring ergonomic, lightweight multi | 🟢 |
