@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [agentica](https://github.com/wrtnlabs/agentica) | 📚 | ⭐988 | 📈+50.6 |
 
 
 ## 📦 By Category
