@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [terraform-skill](https://github.com/antonbabenko/terraform-skill) | 📚 | ⭐857 | 📈+47.2 |
 
 
 ## 📦 By Category
