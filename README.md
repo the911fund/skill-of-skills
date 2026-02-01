@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [n-skills](https://github.com/numman-ali/n-skills) | 📚 | ⭐873 | 📈+46.7 |
 
 
 ## 📦 By Category
