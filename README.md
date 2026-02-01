@@ -27,7 +27,9 @@ Multipliers applied for risk level and verification status.
 
 ## 🔥 Trending
 
-*No trending data available*
+| Tool | Type | Stars | Trend |
+|------|------|-------|-------|
+| [claude-code-config](https://github.com/jarrodwatts/claude-code-config) | 📚 | ⭐891 | 📈+47.8 |
 
 
 ## 📦 By Category
