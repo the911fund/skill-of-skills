@@ -70,8 +70,8 @@
         "Run `npm run typecheck` - exits with code 0 (if TypeScript project)"
       ],
       "priority": 5,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "ALREADY EXISTS: Empty detection logic already present at line 91 in web/src/lib/queries/tools.ts (if tools.length === 0). No changes needed."
     },
     {
       "id": "T-006",
@@ -84,8 +84,8 @@
         "Add comment explaining fallback query purpose"
       ],
       "priority": 6,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "COMPLETED: Changed orderBy from compositeScore to stars in fallback query at line 99. Updated comment to reflect new behavior. Limit already matches trending query (parameterized)."
     },
     {
       "id": "T-007",
@@ -98,8 +98,8 @@
         "Run `npm run typecheck` - exits with code 0 (if TypeScript project)"
       ],
       "priority": 7,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "ALREADY CORRECT: Both queries assign to same 'tools' variable (lines 79 and 92). Same return statement at line 103. Data structure identical (both include category relation). No frontend changes needed."
     },
     {
       "id": "T-008",
@@ -112,8 +112,8 @@
         "Code compiles without errors"
       ],
       "priority": 8,
-      "passes": false,
-      "notes": ""
+      "passes": true,
+      "notes": "COMPLETED: Added console.log statements at lines 92 and 101. Logs indicate fallback activation and number of tools returned."
     },
     {
       "id": "T-009",

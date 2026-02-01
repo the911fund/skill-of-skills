@@ -8,6 +8,7 @@ Started: Sun Feb  1 00:08:56 MST 2026
 - GitHub stars stored in `stars` field (not github_stars) in Tool model
 - API endpoints follow pattern: web/src/app/api/v1/{resource}/{action}/route.ts
 - Current fallback uses compositeScore instead of stars (PRD requires stars)
+- Quality checks: `cd web && npm run build` (lint not configured)
 
 ---
 
@@ -59,4 +60,19 @@ Started: Sun Feb  1 00:08:56 MST 2026
 - **Learnings for future iterations:**
   - Field is named 'stars' NOT 'github_stars'
   - Ready to proceed with implementation - all prerequisites met
+---
+
+## 2026-02-01 00:16 - T-005 through T-008
+- Implemented core functionality changes in web/src/lib/queries/tools.ts
+- Changes made:
+  1. T-005: Empty detection already present (line 91)
+  2. T-006: Changed orderBy from `compositeScore: 'desc'` to `stars: 'desc'` (line 99)
+  3. T-007: Confirmed both queries return to same variable (no changes needed)
+  4. T-008: Added console.log statements for fallback activation tracking
+- Updated comment on line 91 to reflect new behavior: "Fallback to top starred tools"
+- Build verification: `cd web && npm run build` - ✓ Compiled successfully
+- **Learnings for future iterations:**
+  - Single line change was the core fix (compositeScore → stars)
+  - Existing architecture was well-designed - minimal changes needed
+  - Logging added for debugging/monitoring fallback activation
 ---
