@@ -10,27 +10,28 @@
 
 ## 🔍 How It Works
 
-### Discovery
-Repos are automatically discovered by scanning GitHub for Claude Code related projects (skills, plugins, MCP servers). We search for specific file patterns like `SKILL.md`, `mcp.json`, and keywords in repo descriptions.
+This directory is automatically updated by the Skill of Skills discovery engine every hour:
 
-### Validation *(pending)*
-Each tool will be validated in a sandbox environment. We'll check for proper structure, run security scans, and audit dependencies before listing.
+```mermaid
+flowchart LR
+    subgraph ":10 Discovery & Validation"
+        A[🔍 GitHub Scan] --> B[📋 Tool Validation]
+        B --> C[🤖 AI Categorization]
+    end
+    subgraph ":25 Publishing"
+        C --> D[📝 README Update]
+        D --> E[🌐 Web Directory]
+    end
+    E --> F[✅ Live on GitHub]
+```
 
-### Trending Score
-Scores are recalculated every 6 hours based on:
-- **GitHub Stars (50%)** — Stars relative to ecosystem (capped at 10k)
-- **Recency (50%)** — Exponential decay based on last commit (90-day half-life)
-
-Multipliers applied for risk level and verification status.
+| Schedule | Stage | Description |
+|:--------:|-------|-------------|
+| **:10** | Discovery | Scans GitHub for new Claude Code tools |
+| **:10** | Validation | Validates structure & AI categorizes |
+| **:25** | Publishing | Updates README & web directory |
 
 ---
-
-## 🔥 Trending
-
-| Tool | Type | Stars | Trend |
-|------|------|-------|-------|
-| [kaguya](https://github.com/ykdojo/kaguya) | 📚 | ⭐1195 | 📈+26.7 |
-
 
 ## 📦 By Category
 
@@ -175,4 +176,4 @@ Multipliers applied for risk level and verification status.
 
 ---
 
-*Generated 2026-02-01 by [Skill of Skills](https://github.com/911fund/skill-of-skills)*
+*Generated 2026-02-01 by [Skill of Skills](https://github.com/the911fund/skill-of-skills)*
