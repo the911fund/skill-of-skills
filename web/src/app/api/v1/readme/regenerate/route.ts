@@ -80,7 +80,7 @@ async function generateReadme(): Promise<string> {
     const maintIcon = MAINTENANCE_ICONS[maintenance.status] || '⚪'
     const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars
     const author = t.repoOwner ? ` by ${t.repoOwner}` : ''
-    return `- ${typeIcon} **[${t.name}](${t.repoUrl})** ${risk} ${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
+    return `- ${typeIcon} **[${t.name}](${t.repoUrl})** R:${risk} M:${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
   }).join('\n')
 
   // Generate category sections
@@ -96,7 +96,7 @@ async function generateReadme(): Promise<string> {
       const maintIcon = MAINTENANCE_ICONS[maintenance.status] || '⚪'
       const stars = t.stars >= 1000 ? `${(t.stars / 1000).toFixed(1)}k` : t.stars
       const author = t.repoOwner ? ` by ${t.repoOwner}` : ''
-      return `- ${typeIcon} **[${t.name}](${t.repoUrl})** ${risk} ${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
+      return `- ${typeIcon} **[${t.name}](${t.repoUrl})** R:${risk} M:${maintIcon} — ${t.description || 'No description'}${author} *(${stars} ⭐)*`
     }).join('\n')
 
     return `## ${icon} ${cat.name}\n\n${toolsList}`
