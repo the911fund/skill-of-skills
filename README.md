@@ -76,6 +76,7 @@
 - 📚 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)** R:🟢 M:🟢 — A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs. by jonigl *(519 ⭐)*
 - 📚 **[claude-code-config](https://github.com/jarrodwatts/claude-code-config)** R:🟢 M:🟢 — My personal Claude Code configuration - rules, hooks, agents, skills, and commands by jarrodwatts *(891 ⭐)*
 - 📚 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟢 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(701 ⭐)*
+- 📚 **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** R:🟢 M:🟢 — A command-line interface tool for serving LLM using vLLM. by Chen-zexi *(467 ⭐)*
 - 📚 **[terraform-skill](https://github.com/antonbabenko/terraform-skill)** R:🟢 M:🟢 — The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns by antonbabenko *(857 ⭐)*
 - 📚 **[call-me](https://github.com/ZeframLou/call-me)** R:🟢 M:🟢 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.2k ⭐)*
 - 📚 **[dev-browser](https://github.com/SawyerHood/dev-browser)** R:🟢 M:🟢 — A Claude Skill to give your agent the ability to use a web browser by SawyerHood *(3.3k ⭐)*
@@ -88,7 +89,6 @@
 - 📚 **[kaguya](https://github.com/ykdojo/kaguya)** R:🟢 M:🔴 — A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/claude-code-tips) by ykdojo *(1.2k ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
-- 📚 **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** R:🟢 M:🟢 — A command-line interface tool for serving LLM using vLLM. by Chen-zexi *(467 ⭐)*
 
 ## 📚 Documentation
 
