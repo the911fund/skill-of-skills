@@ -64,8 +64,13 @@ async function generateReadme(): Promise<string> {
   ])
 
   const totalTools = tools.length
-  const totalCategories = categories.length
   const totalStars = starsResult._sum.stars || 0
+
+  // Filter to only categories that have tools
+  const nonEmptyCategories = categories.filter(cat =>
+    tools.some(t => t.categoryId === cat.id)
+  )
+  const totalCategories = nonEmptyCategories.length
 
   // Generate Latest section
   const latestSection = latestTools.map(t => {
@@ -116,7 +121,7 @@ async function generateReadme(): Promise<string> {
 ## Contents
 
 - [Latest](#-latest)
-${categories.map(c => `- [${c.name}](#-${c.slug})`).join('\n')}
+${nonEmptyCategories.map(c => `- [${c.name}](#-${c.slug})`).join('\n')}
 - [How It Works](#how-it-works)
 
 ---
