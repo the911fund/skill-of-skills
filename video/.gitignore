@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Output videos
+out/
+
+# Remotion cache
+.remotion/
+
+# Build artifacts
+*.tsbuildinfo
