@@ -169,11 +169,11 @@
 - 📚 **[claude-skills](https://github.com/alirezarezvani/claude-skills)** R:🟡 M:🟢 — A Collection of Skills for Claude Code and Claude AI for real-world Usage. Including Claude Code Subagents, Claude Code Commnads by alirezarezvani *(1.5k ⭐)*
 - 📚 **[Claudeception](https://github.com/blader/Claudeception)** R:🟡 M:🟢 — A Claude Code skill for autonomous skill extraction and continuous learning. Have Claude Code get smarter as it works. by blader *(1.5k ⭐)*
 - 📚 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(611 ⭐)*
+- 📚 **[gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace)** R:🟡 M:🟢 — Claude Code plugins for reliable AI coding. Flow-Next: plan-first workflows, Ralph autonomous mode (overnight coding with fresh context), multi-model review gates via RepoPrompt/Codex, re-anchoring to prevent drift, receipt-based gating. by gmickel *(485 ⭐)*
 - 📚 **[SkillForge](https://github.com/tripleyak/SkillForge)** R:🟢 M:🟡 — The ultimate meta-skill for generating best-in-class Claude Code skills. by tripleyak *(495 ⭐)*
 - 📚 **[claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor)** R:🟡 M:🟢 — A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow by alirezarezvani *(491 ⭐)*
 - 📚 **[swarm](https://github.com/openai/swarm)** R:🟢 M:🔴 — Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. by openai *(20.8k ⭐)*
 - 📚 **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** R:🟢 M:🟠 — Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents by diet103 *(8.7k ⭐)*
-- 📚 **[gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace)** R:🟡 M:🟢 — Claude Code plugins for reliable AI coding. Flow-Next: plan-first workflows, Ralph autonomous mode (overnight coding with fresh context), multi-model review gates via RepoPrompt/Codex, re-anchoring to prevent drift, receipt-based gating. by gmickel *(485 ⭐)*
 
 ---
 
