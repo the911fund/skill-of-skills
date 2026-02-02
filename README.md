@@ -154,12 +154,12 @@
 
 ## 📦 Uncategorized
 
+- 📚 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** 🟢 🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(750 ⭐)*
 - 📚 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** 🟢 🟢 — Build App with Makepad and AI skills by ZhangHanDong *(701 ⭐)*
 - 📚 **[terraform-skill](https://github.com/antonbabenko/terraform-skill)** 🟢 🟢 — The Claude Agent Skill for Terraform and OpenTofu - testing, modules, CI/CD, and production patterns by antonbabenko *(857 ⭐)*
 - 📚 **[DAILA](https://github.com/mahaloz/DAILA)** 🟢 🟡 — A decompiler-agnostic plugin for interacting with AI in your decompiler. GPT-4, Claude, and local models supported! by mahaloz *(676 ⭐)*
 - 📚 **[awesome-llm-skills](https://github.com/Prat011/awesome-llm-skills)** 🟢 🟡 — A curated list of awesome LLM and AI Agent Skills, resources and tools for customising AI Agent workflows - that works with Claude Code, Codex, Gemini CLI and your custom AI Agents by Prat011 *(787 ⭐)*
 - 📚 **[zev](https://github.com/dtnewman/zev)** 🟢 🔴 — A simple CLI tool to help you remember terminal commands by dtnewman *(703 ⭐)*
-- 📚 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** 🟢 🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(750 ⭐)*
 
 ---
 
