@@ -3,10 +3,10 @@
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
 [![Tools](https://img.shields.io/badge/tools-88-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-796k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**88 tools** discovered across 11 categories
+**88 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -25,7 +25,6 @@
 - [Security](#-security)
 - [Integrations](#-integrations)
 - [Agents](#-agents)
-- [Uncategorized](#-uncategorized)
 - [How It Works](#how-it-works)
 
 ---
