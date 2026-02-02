@@ -127,9 +127,9 @@
 ## 🔒 Security
 
 - 📚 **[skills](https://github.com/trailofbits/skills)** R:🟢 M:🟢 — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows by trailofbits *(2.2k ⭐)*
+- 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
 - 📚 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:🟡 — A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. by cckuailong *(643 ⭐)*
 - 📚 **[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)** R:🟢 M:🟠 — A curation of awesome tools, documents and projects about LLM Security. by corca-ai *(1.5k ⭐)*
-- 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
 
 ## 🔗 Integrations
 
