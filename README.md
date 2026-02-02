@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-106-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-107-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-806k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**106 tools** discovered across 10 categories
+**107 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** R:🟢 M:🟢 — A command-line interface tool for serving LLM using vLLM. by Chen-zexi *(467 ⭐)*
 - 📚 **[gmickel-claude-marketplace](https://github.com/gmickel/gmickel-claude-marketplace)** R:🟡 M:🟢 — Claude Code plugins for reliable AI coding. Flow-Next: plan-first workflows, Ralph autonomous mode (overnight coding with fresh context), multi-model review gates via RepoPrompt/Codex, re-anchoring to prevent drift, receipt-based gating. by gmickel *(485 ⭐)*
 - 📚 **[claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor)** R:🟡 M:🟢 — A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow by alirezarezvani *(491 ⭐)*
 - 📚 **[awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools)** R:🟢 M:🔴 — A curated list of large language model tools for cybersecurity research. by tenable *(480 ⭐)*
 - 📚 **[SkillForge](https://github.com/tripleyak/SkillForge)** R:🟢 M:🟡 — The ultimate meta-skill for generating best-in-class Claude Code skills. by tripleyak *(495 ⭐)*
-- 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
 
 ---
 
@@ -88,6 +88,7 @@
 - 📚 **[kaguya](https://github.com/ykdojo/kaguya)** R:🟢 M:🔴 — A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/claude-code-tips) by ykdojo *(1.2k ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
+- 📚 **[vllm-cli](https://github.com/Chen-zexi/vllm-cli)** R:🟢 M:🟢 — A command-line interface tool for serving LLM using vLLM. by Chen-zexi *(467 ⭐)*
 
 ## 📚 Documentation
 
