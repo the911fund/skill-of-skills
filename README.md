@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-91-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-92-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-798k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**91 tools** discovered across 10 categories
+**92 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:🟡 — Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. by onejune2018 *(606 ⭐)*
 - 📚 **[llxprt-code](https://github.com/vybestack/llxprt-code)** R:🟢 M:🟢 — An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal. by vybestack *(620 ⭐)*
 - 📚 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(633 ⭐)*
 - 📚 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:🟡 — A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. by cckuailong *(643 ⭐)*
 - 📚 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** R:🟢 M:🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(750 ⭐)*
-- 📚 **[DAILA](https://github.com/mahaloz/DAILA)** R:🟢 M:🟡 — A decompiler-agnostic plugin for interacting with AI in your decompiler. GPT-4, Claude, and local models supported! by mahaloz *(676 ⭐)*
 
 ---
 
@@ -120,6 +120,7 @@
 - 📚 **[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)** R:🟢 M:🟢 — 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. by georgezouq *(4.8k ⭐)*
 - 📚 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** R:🟢 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(1.7k ⭐)*
 - 📚 **[Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression)** R:🟢 M:🟡 — Awesome LLM compression research papers and tools. by HuangOwen *(1.8k ⭐)*
+- 📚 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:🟡 — Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. by onejune2018 *(606 ⭐)*
 
 ## 🔒 Security
 
