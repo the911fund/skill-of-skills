@@ -71,6 +71,7 @@
 - 📚 **[llxprt-code](https://github.com/vybestack/llxprt-code)** R:🟢 M:🟢 — An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal. by vybestack *(620 ⭐)*
 - 📚 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** R:🟢 M:🟢 — All powerful skills of ClaudeKit.cc! by mrgoonie *(1.5k ⭐)*
 - 📚 **[wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** R:🟢 M:🟢 — wooyun-legacy skill for claude code  by tanweai *(1.1k ⭐)*
+- 📚 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** R:🟢 M:🟢 — Claude Code plugins for power users by team-attention *(472 ⭐)*
 - 📚 **[claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** R:🟢 M:🟢 — Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows by ChrisWiles *(5.2k ⭐)*
 - 📚 **[buildwithclaude](https://github.com/davepoon/buildwithclaude)** R:🟢 M:🟢 — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code by davepoon *(2.3k ⭐)*
 - 📚 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)** R:🟢 M:🟢 — A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs. by jonigl *(519 ⭐)*
@@ -89,7 +90,6 @@
 - 📚 **[kaguya](https://github.com/ykdojo/kaguya)** R:🟢 M:🔴 — A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/claude-code-tips) by ykdojo *(1.2k ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
-- 📚 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** R:🟢 M:🟢 — Claude Code plugins for power users by team-attention *(472 ⭐)*
 
 ## 📚 Documentation
 
