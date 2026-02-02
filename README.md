@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-100-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-101-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-803k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**100 tools** discovered across 10 categories
+**101 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:🟢 — Claude Code skill for publishing Markdown articles to X (Twitter) Articles by wshuyi *(522 ⭐)*
 - 📚 **[skill-codex](https://github.com/skills-directory/skill-codex)** R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(519 ⭐)*
 - 📚 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)** R:🟢 M:🟢 — A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs. by jonigl *(519 ⭐)*
 - 📚 **[claude-code-skills](https://github.com/daymade/claude-code-skills)** R:🟢 M:🟢 — Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows. by daymade *(532 ⭐)*
 - 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
-- 📚 **[LLMs-local](https://github.com/0xSojalSec/LLMs-local)** R:🟢 M:🟡 —  list of awesome platforms, tools, and resources   run for LLMs locally by 0xSojalSec *(540 ⭐)*
 
 ---
 
@@ -168,6 +168,7 @@
 - 📚 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(611 ⭐)*
 - 📚 **[swarm](https://github.com/openai/swarm)** R:🟢 M:🔴 — Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. by openai *(20.8k ⭐)*
 - 📚 **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** R:🟢 M:🟠 — Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents by diet103 *(8.7k ⭐)*
+- 📚 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:🟢 — Claude Code skill for publishing Markdown articles to X (Twitter) Articles by wshuyi *(522 ⭐)*
 
 ---
 
