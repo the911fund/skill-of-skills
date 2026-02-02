@@ -5,6 +5,19 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.1] - 2026-02-02
+
+### Fixed
+- AI categorization "Official" category was incorrectly classifying community tools
+  - Removed `'claude'` keyword from official detection (caused false positives)
+  - Now uses `repo_owner` field to verify official status (must be "anthropics")
+  - Added category priority order and disambiguation rules to AI prompt
+- Recategorized 4 miscategorized tools:
+  - `cc-marketplace` → Integrations (was Official)
+  - `everything-claude-code` → Documentation (was Official)
+  - `compound-engineering-plugin` → Development (was Official)
+  - `claude-cookbooks` → Official with `is_official=true` (was Documentation)
+
 ## [1.1.0] - 2026-02-01
 
 ### Changed
