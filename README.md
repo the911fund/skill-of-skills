@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-94-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-95-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-799k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-800k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**94 tools** discovered across 10 categories
+**95 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(572 ⭐)*
 - 📚 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(611 ⭐)*
 - 📚 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:🟡 — Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. by onejune2018 *(606 ⭐)*
 - 📚 **[llxprt-code](https://github.com/vybestack/llxprt-code)** R:🟢 M:🟢 — An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal. by vybestack *(620 ⭐)*
-- 📚 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(633 ⭐)*
 
 ---
 
@@ -85,6 +85,7 @@
 - 📚 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** R:🟡 M:🟡 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(1.5k ⭐)*
 - ⌨️ **[add-skill](https://github.com/vercel-labs/add-skill)** R:🟢 M:⚪ — Universal skill installer for 17+ agents by vercel-labs *(1.8k ⭐)*
 - 📚 **[kaguya](https://github.com/ykdojo/kaguya)** R:🟢 M:🔴 — A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/claude-code-tips) by ykdojo *(1.2k ⭐)*
+- 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 
 ## 📚 Documentation
 
