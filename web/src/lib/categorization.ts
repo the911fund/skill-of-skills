@@ -5,8 +5,8 @@ export const CATEGORIES = [
   {
     slug: 'official',
     name: 'Official',
-    description: 'Tools from Anthropic or verified partners with official endorsement',
-    keywords: ['anthropic', 'official', 'claude', 'partner'],
+    description: 'Tools directly from Anthropic (repo owner is "anthropics")',
+    keywords: ['anthropic'],
   },
   {
     slug: 'development',
@@ -84,6 +84,7 @@ export interface CategorizationInput {
   readmeContent?: string | null
   tags?: string[]
   repoUrl?: string | null
+  repoOwner?: string | null
 }
 
 /**
@@ -100,11 +101,26 @@ Available categories:
 ${categoryList}
 
 IMPORTANT RULES:
-1. Only use "official" for tools explicitly from Anthropic or verified partners
-2. If a tool could fit multiple categories, choose the most specific one
+1. CRITICAL: Only use "official" if the repository owner is "anthropics" - tools that MENTION Claude Code are NOT automatically official, they must be FROM Anthropic
+2. If a tool could fit multiple categories, use this priority order:
+   - agents: ONLY if the primary purpose is autonomous multi-step reasoning (not just uses AI)
+   - security: if primary purpose is security/auth (even if it's also a dev tool)
+   - media: if primary purpose is image/video/audio processing
+   - integrations: if primary purpose is connecting external services/APIs
+   - development: general coding/debugging/testing tools
+   - documentation: README/docs generation tools
+   - marketing: SEO/copywriting/social media tools
+   - productivity: task management/automation (not dev automation)
+   - research: data analysis/scraping/summarization
 3. Default to "uncategorized" only when genuinely unclear
 4. Provide a confidence score between 0.0 and 1.0
 5. Keep reasoning brief (1-2 sentences)
+
+CATEGORY DISAMBIGUATION:
+- agents vs development: Use "agents" only if tool creates autonomous AI agents that plan and execute multi-step tasks. Regular AI-powered dev tools go in "development"
+- documentation vs marketing: Technical docs/READMEs → documentation. Sales copy/SEO → marketing
+- productivity vs integrations: Workflow automation → productivity. API connectors → integrations
+- research vs development: Data science/analysis tools → research. Code analysis tools → development
 
 Always respond with valid JSON in this exact format:
 {"category": "slug", "confidence": 0.85, "reasoning": "Brief explanation"}`
@@ -126,6 +142,10 @@ function buildUserPrompt(input: CategorizationInput): string {
 
   if (input.repoUrl) {
     parts.push(`Repository: ${input.repoUrl}`)
+  }
+
+  if (input.repoOwner) {
+    parts.push(`Repository Owner: ${input.repoOwner}`)
   }
 
   if (input.readmeContent) {

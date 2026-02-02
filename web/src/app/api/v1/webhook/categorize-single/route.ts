@@ -75,6 +75,7 @@ export async function POST(
         readmeContent: readme_content,
         tags: tool.tags,
         repoUrl: tool.repoUrl,
+        repoOwner: tool.repoOwner,
       })
     } catch (aiError) {
       console.error('AI categorization failed:', aiError)
