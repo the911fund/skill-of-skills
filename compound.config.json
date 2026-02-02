@@ -1,9 +1,0 @@
-{
-  "tool": "claude",
-  "reportsDir": "./reports",
-  "outputDir": "./scripts/compound",
-  "qualityChecks": ["cd web && npm run lint", "cd web && npm run build"],
-  "maxIterations": 25,
-  "branchPrefix": "compound/",
-  "analyzeCommand": ""
-}

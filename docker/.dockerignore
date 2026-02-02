@@ -1,7 +1,0 @@
-# Environment files
-.env
-.env.local
-*.env
-
-# n8n workflows (imported separately, contain credential references)
-n8n-workflows/

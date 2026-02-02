@@ -79,3 +79,46 @@ CLAUDE.md
 tmp/
 temp/
 *.tmp
+
+# ===========================================
+# OPERATIONAL CODE - Lives on AWS only
+# GitHub repo is showcase + submission portal
+# ===========================================
+
+# Web application
+web/
+
+# Scripts & automation
+scripts/
+
+# Configuration
+config/
+compound.config.json
+
+# Database schemas & migrations
+database/
+
+# Docker deployment
+docker/
+.dockerignore
+
+# Video generation
+video/
+
+# Internal skill definitions
+skills/
+
+# Task/PRD files
+tasks/
+
+# Templates
+templates/
+
+# Internal reports
+reports/
+
+# Internal documentation
+docs/
+
+# GitHub workflows (managed separately)
+.github/workflows/
