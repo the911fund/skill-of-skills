@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-96-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-97-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-800k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-801k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**96 tools** discovered across 10 categories
+**97 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
 - 📚 **[LLMs-local](https://github.com/0xSojalSec/LLMs-local)** R:🟢 M:🟡 —  list of awesome platforms, tools, and resources   run for LLMs locally by 0xSojalSec *(540 ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(572 ⭐)*
 - 📚 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(611 ⭐)*
-- 📚 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:🟡 — Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. by onejune2018 *(606 ⭐)*
 
 ---
 
@@ -129,6 +129,7 @@
 - 📚 **[skills](https://github.com/trailofbits/skills)** R:🟢 M:🟢 — Trail of Bits Claude Code skills for security research, vulnerability detection, and audit workflows by trailofbits *(2.2k ⭐)*
 - 📚 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:🟡 — A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. by cckuailong *(643 ⭐)*
 - 📚 **[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)** R:🟢 M:🟠 — A curation of awesome tools, documents and projects about LLM Security. by corca-ai *(1.5k ⭐)*
+- 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
 
 ## 🔗 Integrations
 
