@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-89-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-90-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-796k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-797k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**89 tools** discovered across 10 categories
+**90 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(633 ⭐)*
 - 📚 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:🟡 — A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. by cckuailong *(643 ⭐)*
 - 📚 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** R:🟢 M:🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(750 ⭐)*
 - 📚 **[DAILA](https://github.com/mahaloz/DAILA)** R:🟢 M:🟡 — A decompiler-agnostic plugin for interacting with AI in your decompiler. GPT-4, Claude, and local models supported! by mahaloz *(676 ⭐)*
 - 📚 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟢 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(701 ⭐)*
-- 📚 **[zev](https://github.com/dtnewman/zev)** R:🟢 M:🔴 — A simple CLI tool to help you remember terminal commands by dtnewman *(703 ⭐)*
 
 ---
 
@@ -44,6 +44,7 @@
 - 📚 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(34.5k ⭐)*
 - 📚 **[compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** R:🟢 M:🟢 — Official Claude Code compound engineering plugin by EveryInc *(6.7k ⭐)*
 - 📦 **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** R:🟢 M:⚪ — Official Anthropic plugin directory by anthropics *(4.6k ⭐)*
+- 📚 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(633 ⭐)*
 
 ## 🛠️ Development
 
