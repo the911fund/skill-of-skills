@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-103-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-104-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-804k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-805k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**103 tools** discovered across 10 categories
+**104 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools)** R:🟢 M:🔴 — A curated list of large language model tools for cybersecurity research. by tenable *(480 ⭐)*
 - 📚 **[SkillForge](https://github.com/tripleyak/SkillForge)** R:🟢 M:🟡 — The ultimate meta-skill for generating best-in-class Claude Code skills. by tripleyak *(495 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
 - 📚 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:🟢 — Claude Code skill for publishing Markdown articles to X (Twitter) Articles by wshuyi *(522 ⭐)*
 - 📚 **[skill-codex](https://github.com/skills-directory/skill-codex)** R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(519 ⭐)*
-- 📚 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)** R:🟢 M:🟢 — A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs. by jonigl *(519 ⭐)*
 
 ---
 
@@ -132,6 +132,7 @@
 - 📚 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(554 ⭐)*
 - 📚 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:🟡 — A curated list of awesome security tools, experimental case or other interesting things with LLM or GPT. by cckuailong *(643 ⭐)*
 - 📚 **[awesome-llm-security](https://github.com/corca-ai/awesome-llm-security)** R:🟢 M:🟠 — A curation of awesome tools, documents and projects about LLM Security. by corca-ai *(1.5k ⭐)*
+- 📚 **[awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools)** R:🟢 M:🔴 — A curated list of large language model tools for cybersecurity research. by tenable *(480 ⭐)*
 
 ## 🔗 Integrations
 
