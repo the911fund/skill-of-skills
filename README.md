@@ -120,9 +120,9 @@
 - 📚 **[AI-research-SKILLs](https://github.com/Orchestra-Research/AI-research-SKILLs)** R:🟢 M:🟢 — Comprehensive open-source library of AI research and engineering skills for any AI model. Package the skills and your claude code/codex/gemini agent will be an AI research agent with full horsepower. Maintained by Orchestra Research. by Orchestra-Research *(2.0k ⭐)*
 - 📚 **[awesome-ai-in-finance](https://github.com/georgezouq/awesome-ai-in-finance)** R:🟢 M:🟢 — 🔬 A curated list of awesome LLMs & deep learning strategies & tools in financial market. by georgezouq *(4.8k ⭐)*
 - 📚 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** R:🟢 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(1.7k ⭐)*
+- 📚 **[LLMs-local](https://github.com/0xSojalSec/LLMs-local)** R:🟢 M:🟡 —  list of awesome platforms, tools, and resources   run for LLMs locally by 0xSojalSec *(540 ⭐)*
 - 📚 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:🟡 — Awesome-LLM-Eval: a curated list of tools, datasets/benchmark, demos, leaderboard, papers, docs and models, mainly for Evaluation on LLMs.  一个由工具、基准/数据、演示、排行榜和大模型等组成的精选列表，主要面向基础大模型评测，旨在探求生成式AI的技术边界. by onejune2018 *(606 ⭐)*
 - 📚 **[Awesome-LLM-Compression](https://github.com/HuangOwen/Awesome-LLM-Compression)** R:🟢 M:🟡 — Awesome LLM compression research papers and tools. by HuangOwen *(1.8k ⭐)*
-- 📚 **[LLMs-local](https://github.com/0xSojalSec/LLMs-local)** R:🟢 M:🟡 —  list of awesome platforms, tools, and resources   run for LLMs locally by 0xSojalSec *(540 ⭐)*
 
 ## 🔒 Security
 
