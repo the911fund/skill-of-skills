@@ -151,6 +151,7 @@
 - 📚 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** R:🟢 M:🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(750 ⭐)*
 - 📚 **[claude-flow](https://github.com/ruvnet/claude-flow)** R:🟡 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. by ruvnet *(13.0k ⭐)*
 - 📚 **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** R:🟢 M:🟢 — Universal Claude Code workflow plugin with agents, skills, hooks, and commands by CloudAI-X *(1.2k ⭐)*
+- 📚 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(572 ⭐)*
 - 📚 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:🟢 — A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). by mark3labs *(1.5k ⭐)*
 - 📚 **[skill-prompt-generator](https://github.com/huangserva/skill-prompt-generator)** R:🟢 M:🟢 — 这是一个基于Claude Skill的**AI人像Prompt生成系统**，能够从特征库中智能组合生成高质量的人像描述Prompt，并具备自动学习和库扩展能力。 核心能力: Prompt生成、特征提取、自动学习、智能审核、版本控制 by huangserva *(974 ⭐)*
 - 📚 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(3.7k ⭐)*
@@ -161,7 +162,6 @@
 - 📚 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(611 ⭐)*
 - 📚 **[swarm](https://github.com/openai/swarm)** R:🟢 M:🔴 — Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. by openai *(20.8k ⭐)*
 - 📚 **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** R:🟢 M:🟠 — Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents by diet103 *(8.7k ⭐)*
-- 📚 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(572 ⭐)*
 
 ---
 
