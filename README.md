@@ -166,6 +166,7 @@
 - 📚 **[claude-flow](https://github.com/ruvnet/claude-flow)** R:🟡 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code support via MCP protocol. Ranked #1 in agent-based frameworks. by ruvnet *(13.0k ⭐)*
 - 📚 **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)** R:🟢 M:🟢 — Universal Claude Code workflow plugin with agents, skills, hooks, and commands by CloudAI-X *(1.2k ⭐)*
 - 📚 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:🟢 — Claude Code skill for publishing Markdown articles to X (Twitter) Articles by wshuyi *(522 ⭐)*
+- 📚 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:🟢 — A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more. by abubakarsiddik31 *(419 ⭐)*
 - 📚 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(572 ⭐)*
 - 📚 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:🟢 — A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus. by zscole *(470 ⭐)*
 - 📚 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:🟢 — A CLI host application that enables Large Language Models (LLMs) to interact with external tools through the Model Context Protocol (MCP). by mark3labs *(1.5k ⭐)*
@@ -181,7 +182,6 @@
 - 📚 **[claude-code-tresor](https://github.com/alirezarezvani/claude-code-tresor)** R:🟡 M:🟢 — A world-class collection of Claude Code utilities: autonomous skills, expert agents, slash commands, and prompts that supercharge your development workflow by alirezarezvani *(491 ⭐)*
 - 📚 **[swarm](https://github.com/openai/swarm)** R:🟢 M:🔴 — Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team. by openai *(20.8k ⭐)*
 - 📚 **[claude-code-infrastructure-showcase](https://github.com/diet103/claude-code-infrastructure-showcase)** R:🟢 M:🟠 — Examples of my Claude Code infrastructure with skill auto-activation, hooks, and agents by diet103 *(8.7k ⭐)*
-- 📚 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:🟢 — A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more. by abubakarsiddik31 *(419 ⭐)*
 
 ---
 
