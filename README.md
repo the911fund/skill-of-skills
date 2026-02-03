@@ -73,6 +73,7 @@
 - 📚 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** R:🟢 M:🟢 — All powerful skills of ClaudeKit.cc! by mrgoonie *(1.5k ⭐)*
 - 📚 **[wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** R:🟢 M:🟢 — wooyun-legacy skill for claude code  by tanweai *(1.1k ⭐)*
 - 📚 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** R:🟢 M:🟢 — Claude Code plugins for power users by team-attention *(472 ⭐)*
+- 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(338 ⭐)*
 - 📚 **[claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** R:🟢 M:🟢 — Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows by ChrisWiles *(5.2k ⭐)*
 - 📚 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(377 ⭐)*
 - 📚 **[buildwithclaude](https://github.com/davepoon/buildwithclaude)** R:🟢 M:🟢 — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code by davepoon *(2.3k ⭐)*
@@ -97,7 +98,6 @@
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
 - 📚 **[create-llm](https://github.com/theaniketgiri/create-llm)** R:🟢 M:🟡 — The fastest way to build and start training your own LLM. CLI tool that scaffolds production-ready PyTorch training projects in seconds. Like create-next-app but for language models. by theaniketgiri *(307 ⭐)*
-- 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(338 ⭐)*
 - 📚 **[gguf-tools](https://github.com/antirez/gguf-tools)** R:🟢 M:🟠 — GGUF implementation in C as a library and a tools CLI program by antirez *(301 ⭐)*
 
 ## 📚 Documentation
