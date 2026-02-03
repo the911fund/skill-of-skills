@@ -31,7 +31,6 @@
 
 ## 🆕 Latest
 
-- 📚 **[claude.vim](https://github.com/pasky/claude.vim)** R:🟢 M:⚪ — No description by null *(0 ⭐)*
 - 📚 **[claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory)** R:🟢 M:🟡 — Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup. by alirezarezvani *(455 ⭐)*
 - 📚 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** R:🟢 M:🟢 — Claude Code plugins for power users by team-attention *(472 ⭐)*
 - 📚 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:🟢 — A Claude Code plugin that iteratively refines product specifications by debating between multiple LLMs until all models reach consensus. by zscole *(470 ⭐)*
