@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-130-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-132-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-815k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-816k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**130 tools** discovered across 10 categories
+**132 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(338 ⭐)*
+- 📚 **[gguf-tools](https://github.com/antirez/gguf-tools)** R:🟢 M:🟠 — GGUF implementation in C as a library and a tools CLI program by antirez *(301 ⭐)*
 - 📚 **[create-llm](https://github.com/theaniketgiri/create-llm)** R:🟢 M:🟡 — The fastest way to build and start training your own LLM. CLI tool that scaffolds production-ready PyTorch training projects in seconds. Like create-next-app but for language models. by theaniketgiri *(307 ⭐)*
 - 📚 **[aix](https://github.com/projectdiscovery/aix)** R:🟢 M:🟢 — AIx is a cli tool to interact with Large Language Models (LLM) APIs. by projectdiscovery *(310 ⭐)*
 - 📚 **[clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse)** R:🟢 M:🟠 — Explorations into training LLMs to use clinical calculators from patient history, using open sourced models. Will start with Wells' Criteria by lucidrains *(316 ⭐)*
-- 📚 **[skillz](https://github.com/intellectronica/skillz)** R:🟢 M:🟢 — An MCP server for loading skills (shim for non-claude clients). by intellectronica *(347 ⭐)*
-- 📚 **[open-skills](https://github.com/instavm/open-skills)** R:🟢 M:🟢 — OpenSkills: Run Claude Skills Locally using any LLM by instavm *(357 ⭐)*
 
 ---
 
@@ -97,6 +97,8 @@
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
 - 📚 **[create-llm](https://github.com/theaniketgiri/create-llm)** R:🟢 M:🟡 — The fastest way to build and start training your own LLM. CLI tool that scaffolds production-ready PyTorch training projects in seconds. Like create-next-app but for language models. by theaniketgiri *(307 ⭐)*
+- 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(338 ⭐)*
+- 📚 **[gguf-tools](https://github.com/antirez/gguf-tools)** R:🟢 M:🟠 — GGUF implementation in C as a library and a tools CLI program by antirez *(301 ⭐)*
 
 ## 📚 Documentation
 
