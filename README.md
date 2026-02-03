@@ -88,9 +88,9 @@
 - 📚 **[playwright-skill](https://github.com/lackeyjb/playwright-skill)** R:🟡 M:🟡 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(1.5k ⭐)*
 - ⌨️ **[add-skill](https://github.com/vercel-labs/add-skill)** R:🟢 M:⚪ — Universal skill installer for 17+ agents by vercel-labs *(1.8k ⭐)*
 - 📚 **[kaguya](https://github.com/ykdojo/kaguya)** R:🟢 M:🔴 — A ChatGPT plugin that allows you to load and edit your local files in a controlled way, as well as run any Python, JavaScript, and bash script. (No longer active - check https://github.com/ykdojo/claude-code-tips) by ykdojo *(1.2k ⭐)*
+- 📚 **[claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory)** R:🟢 M:🟡 — Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup. by alirezarezvani *(455 ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
-- 📚 **[claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory)** R:🟢 M:🟡 — Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup. by alirezarezvani *(455 ⭐)*
 
 ## 📚 Documentation
 
