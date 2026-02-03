@@ -66,8 +66,8 @@
 - 📚 **[idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)** R:🟢 M:🟢 — IDEA Claude Code GUI Plugin by zhukunpenglinyutong *(1.1k ⭐)*
 - 📚 **[awesome-local-llm](https://github.com/rafska/awesome-local-llm)** R:🟢 M:🟢 — A curated list of awesome platforms, tools, practices and resources that helps run LLMs locally by rafska *(1.1k ⭐)*
 - 📚 **[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)** R:🟢 M:🟢 — ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, prompt files, image/audio I/O, MCP tool calls, and an experimental agent mode for safe, multi-step automation. by kardolus *(883 ⭐)*
-- 📚 **[axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** R:🟢 M:🟢 — Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code by axtonliu *(1.1k ⭐)*
 - 📚 **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** R:🟢 M:🟢 — Create beautiful slides on the web using Claude's frontend skills by zarazhangrui *(755 ⭐)*
+- 📚 **[axton-obsidian-visual-skills](https://github.com/axtonliu/axton-obsidian-visual-skills)** R:🟢 M:🟢 — Visual Skills Pack for Obsidian: generate Canvas, Excalidraw, and Mermaid diagrams from text with Claude Code by axtonliu *(1.1k ⭐)*
 - 📚 **[yek](https://github.com/mohsen1/yek)** R:🟢 M:🟢 — A fast Rust based tool to serialize text-based files in a repository or directory for LLM consumption by mohsen1 *(2.4k ⭐)*
 - 📚 **[llxprt-code](https://github.com/vybestack/llxprt-code)** R:🟢 M:🟢 — An open-source multi-provider AI assisted CLI development tool. Use whatever LLM you want to code in your terminal. by vybestack *(620 ⭐)*
 - 📚 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** R:🟢 M:🟢 — All powerful skills of ClaudeKit.cc! by mrgoonie *(1.5k ⭐)*
@@ -153,6 +153,7 @@
 - 📚 **[context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)** R:🟢 M:🟢 — Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline. by NeoLabHQ *(379 ⭐)*
 - 📚 **[claude-code-skills](https://github.com/daymade/claude-code-skills)** R:🟢 M:🟢 — Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows. by daymade *(532 ⭐)*
 - 📚 **[superpowers-marketplace](https://github.com/obra/superpowers-marketplace)** R:🟢 M:🟢 — Curated Claude Code plugin marketplace by obra *(424 ⭐)*
+- 📚 **[aix](https://github.com/projectdiscovery/aix)** R:🟢 M:🟢 — AIx is a cli tool to interact with Large Language Models (LLM) APIs. by projectdiscovery *(310 ⭐)*
 - 📚 **[skillz](https://github.com/intellectronica/skillz)** R:🟢 M:🟢 — An MCP server for loading skills (shim for non-claude clients). by intellectronica *(347 ⭐)*
 - 📚 **[n-skills](https://github.com/numman-ali/n-skills)** R:🟢 M:🟢 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(873 ⭐)*
 - 📚 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(633 ⭐)*
@@ -161,7 +162,6 @@
 - 📚 **[notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** R:🟢 M:🟡 — Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base. by PleasePrompto *(3.0k ⭐)*
 - 📚 **[chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator)** R:🟢 M:🟡 — Efficient translation tool based on ChatGPT or any OpenAI compatible LLM chat completion API by Cerlancism *(365 ⭐)*
 - 📚 **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** R:🟡 M:🟠 — Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code by ccplugins *(428 ⭐)*
-- 📚 **[aix](https://github.com/projectdiscovery/aix)** R:🟢 M:🟢 — AIx is a cli tool to interact with Large Language Models (LLM) APIs. by projectdiscovery *(310 ⭐)*
 
 ## 🤖 Agents
 
