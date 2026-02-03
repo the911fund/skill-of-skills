@@ -5,6 +5,25 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.2] - 2026-02-02
+
+### Security
+- **Tightened tool validator to prevent low-quality/malicious entries**
+  - Added 5 validation gates to `05-tool-validator.json`:
+    1. Repo must exist (API response valid)
+    2. Owner required (reject null/missing)
+    3. Description required (minimum 10 characters)
+    4. Quality threshold: 25+ stars OR 10+ stars with Claude markers OR Anthropic official
+    5. Freshness check: reject repos with no commits in 12+ months
+  - Purged `claude.vim` tool that entered with 0 stars, null owner, no description
+  - Root cause: validator had no quality thresholds - any GitHub repo was auto-approved
+
+### Changed
+- Simplified trust system approach after code review
+  - Rejected complex 3-layer architecture with X/Reddit APIs ($30/mo)
+  - Implemented minimal fix: 5 validation gates in existing workflow
+  - No database changes required
+
 ## [1.1.1] - 2026-02-02
 
 ### Fixed
