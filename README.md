@@ -74,6 +74,7 @@
 - 📚 **[wooyun-legacy](https://github.com/tanweai/wooyun-legacy)** R:🟢 M:🟢 — wooyun-legacy skill for claude code  by tanweai *(1.1k ⭐)*
 - 📚 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** R:🟢 M:🟢 — Claude Code plugins for power users by team-attention *(472 ⭐)*
 - 📚 **[claude-code-showcase](https://github.com/ChrisWiles/claude-code-showcase)** R:🟢 M:🟢 — Comprehensive Claude Code project configuration example with hooks, skills, agents, commands, and GitHub Actions workflows by ChrisWiles *(5.2k ⭐)*
+- 📚 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(377 ⭐)*
 - 📚 **[buildwithclaude](https://github.com/davepoon/buildwithclaude)** R:🟢 M:🟢 — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code by davepoon *(2.3k ⭐)*
 - 📚 **[mcp-client-for-ollama](https://github.com/jonigl/mcp-client-for-ollama)** R:🟢 M:🟢 — A text-based user interface (TUI) client for interacting with MCP servers using Ollama. Features include agent mode, multi-server, model switching, streaming responses, tool management, human-in-the-loop, thinking mode, model params config, MCP prompts, custom system prompt and saved preferences. Built for developers working with local LLMs. by jonigl *(519 ⭐)*
 - 📚 **[claude-code-config](https://github.com/jarrodwatts/claude-code-config)** R:🟢 M:🟢 — My personal Claude Code configuration - rules, hooks, agents, skills, and commands by jarrodwatts *(891 ⭐)*
@@ -83,6 +84,7 @@
 - 📚 **[call-me](https://github.com/ZeframLou/call-me)** R:🟢 M:🟢 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.2k ⭐)*
 - 📚 **[dev-browser](https://github.com/SawyerHood/dev-browser)** R:🟢 M:🟢 — A Claude Skill to give your agent the ability to use a web browser by SawyerHood *(3.3k ⭐)*
 - 📚 **[n8n-skills](https://github.com/czlonkowski/n8n-skills)** R:🟢 M:🟢 — n8n skillset for Claude Code to build flawless n8n workflows by czlonkowski *(2.3k ⭐)*
+- 📚 **[open-skills](https://github.com/instavm/open-skills)** R:🟢 M:🟢 — OpenSkills: Run Claude Skills Locally using any LLM by instavm *(357 ⭐)*
 - 📚 **[repren](https://github.com/jlevy/repren)** R:🟢 M:🟢 — Power rename/refactor tool (now with Claude Code skill support!) by jlevy *(369 ⭐)*
 - 📚 **[claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net)** R:🟡 M:🟢 — A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. by kenryu42 *(951 ⭐)*
 - 📚 **[DAILA](https://github.com/mahaloz/DAILA)** R:🟢 M:🟡 — A decompiler-agnostic plugin for interacting with AI in your decompiler. GPT-4, Claude, and local models supported! by mahaloz *(676 ⭐)*
@@ -94,8 +96,6 @@
 - 📚 **[claude-code-skill-factory](https://github.com/alirezarezvani/claude-code-skill-factory)** R:🟢 M:🟡 — Claude Code Skill Factory — A powerful open-source toolkit for building and deploying production-ready Claude Skills, Code Agents, custom Slash Commands, and LLM Prompts at scale. Easily generate structured skill templates, automate workflow integration, and accelerate AI agent development with a clean, developer-friendly setup. by alirezarezvani *(455 ⭐)*
 - 📚 **[git2txt](https://github.com/addyosmani/git2txt)** R:🟢 M:🔴 — CLI tool to convert GitHub repositories to text files for LLMs by addyosmani *(547 ⭐)*
 - 📚 **[superpowers-skills](https://github.com/obra/superpowers-skills)** R:🟢 M:🟠 — Community-editable skills for Claude Code's superpowers plugin by obra *(497 ⭐)*
-- 📚 **[open-skills](https://github.com/instavm/open-skills)** R:🟢 M:🟢 — OpenSkills: Run Claude Skills Locally using any LLM by instavm *(357 ⭐)*
-- 📚 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(377 ⭐)*
 
 ## 📚 Documentation
 
