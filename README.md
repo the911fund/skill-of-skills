@@ -113,6 +113,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -138,15 +139,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -253,6 +245,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -278,16 +271,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -393,6 +377,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -418,15 +403,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -533,6 +509,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -558,15 +535,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -673,6 +641,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -698,15 +667,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -813,6 +773,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -838,16 +799,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -953,6 +905,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -978,15 +931,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1093,6 +1037,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1118,15 +1063,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1233,6 +1169,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1258,15 +1195,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1373,6 +1301,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1398,16 +1327,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -1513,6 +1433,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1538,15 +1459,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1653,6 +1565,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1678,15 +1591,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1793,6 +1697,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1818,15 +1723,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -1933,6 +1829,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -1958,16 +1855,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -2073,6 +1961,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2098,15 +1987,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -2213,6 +2093,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2238,15 +2119,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -2353,6 +2225,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2378,15 +2251,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -2493,6 +2357,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2518,16 +2383,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -2633,6 +2489,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2658,15 +2515,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -2773,6 +2621,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2798,15 +2647,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -2913,6 +2753,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -2938,15 +2779,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -3053,6 +2885,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3078,16 +2911,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -3193,6 +3017,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3218,15 +3043,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -3333,6 +3149,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3358,15 +3175,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -3473,6 +3281,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3498,15 +3307,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -3613,6 +3413,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3638,16 +3439,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -3753,6 +3545,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3778,15 +3571,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -3893,6 +3677,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -3918,15 +3703,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -4033,6 +3809,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4058,15 +3835,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -4173,6 +3941,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4198,16 +3967,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -4313,6 +4073,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4338,15 +4099,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -4453,6 +4205,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4478,15 +4231,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -4593,6 +4337,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4618,15 +4363,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -4733,6 +4469,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4758,16 +4495,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -4873,6 +4601,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -4898,15 +4627,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5013,6 +4733,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5038,15 +4759,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5153,6 +4865,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5178,15 +4891,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5293,6 +4997,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5318,16 +5023,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -5433,6 +5129,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5458,15 +5155,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5573,6 +5261,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5598,15 +5287,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5713,6 +5393,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5738,15 +5419,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -5853,6 +5525,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -5878,16 +5551,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -5993,6 +5657,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6019,19 +5684,10 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
+### ✅ Official
 
 | Tool | Type | Description | Risk |
 |------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
-### ✅ Official
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
 | [Claude Plugins Official](https://github.com/anthropics/claude-plugins-official) | 📦 | Official Anthropic plugin directory | 🟢 |
 | [claude-cookbooks](https://github.com/anthropics/claude-cookbooks) | 📄 | A collection of notebooks/recipes showcasing some fun and ef | 🟢 |
 | [anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python) | 📚 | anthropic-sdk-python | 🟢 |
@@ -6133,6 +5789,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6158,15 +5815,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -6273,6 +5921,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6298,15 +5947,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -6413,6 +6053,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6438,15 +6079,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -6553,6 +6185,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6578,15 +6211,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -6693,6 +6317,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6718,16 +6343,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -6833,6 +6449,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6858,15 +6475,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -6973,6 +6581,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -6998,15 +6607,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -7113,6 +6713,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7138,15 +6739,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -7253,6 +6845,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7278,15 +6871,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -7393,6 +6977,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7419,15 +7004,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -7533,6 +7109,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7558,16 +7135,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -7673,6 +7241,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7698,15 +7267,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -7813,6 +7373,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7838,15 +7399,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -7953,6 +7505,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -7978,15 +7531,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8093,6 +7637,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8118,15 +7663,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8233,6 +7769,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8259,15 +7796,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -8373,6 +7901,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8398,15 +7927,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8513,6 +8033,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8538,15 +8059,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8653,6 +8165,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8678,15 +8191,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8793,6 +8297,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8818,15 +8323,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -8933,6 +8429,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -8959,15 +8456,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -9073,6 +8561,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9098,16 +8587,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -9213,6 +8693,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9238,15 +8719,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -9353,6 +8825,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9378,15 +8851,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -9493,6 +8957,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9518,15 +8983,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -9633,6 +9089,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9658,15 +9115,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -9773,6 +9221,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9798,16 +9247,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -9913,6 +9353,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -9938,15 +9379,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -10053,6 +9485,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10078,15 +9511,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -10193,6 +9617,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10218,15 +9643,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -10333,6 +9749,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10358,15 +9775,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -10473,6 +9881,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10499,15 +9908,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -10613,6 +10013,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10638,16 +10039,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -10753,6 +10145,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10778,15 +10171,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -10893,6 +10277,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -10918,15 +10303,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -11033,6 +10409,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11058,15 +10435,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -11173,6 +10541,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11199,15 +10568,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -11313,6 +10673,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11338,16 +10699,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -11453,6 +10805,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11478,15 +10831,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -11593,6 +10937,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11618,15 +10963,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -11733,6 +11069,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11758,15 +11095,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -11873,6 +11201,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -11898,15 +11227,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12013,6 +11333,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12039,15 +11360,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -12153,6 +11465,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12178,15 +11491,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12293,6 +11597,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12318,15 +11623,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12433,6 +11729,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12458,15 +11755,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12573,6 +11861,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12598,15 +11887,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12713,6 +11993,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12739,15 +12020,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -12853,6 +12125,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -12878,15 +12151,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -12993,6 +12257,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13018,15 +12283,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13133,6 +12389,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13158,15 +12415,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13273,6 +12521,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13298,15 +12547,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13413,6 +12653,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13438,15 +12679,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13553,6 +12785,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13578,16 +12811,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -13693,6 +12917,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13718,15 +12943,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13833,6 +13049,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13858,15 +13075,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -13973,6 +13181,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -13998,15 +13207,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14113,6 +13313,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14138,15 +13339,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14253,6 +13445,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14278,16 +13471,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -14393,6 +13577,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14418,15 +13603,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14533,6 +13709,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14558,15 +13735,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14673,6 +13841,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14698,15 +13867,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14813,6 +13973,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14838,15 +13999,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -14953,6 +14105,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -14979,15 +14132,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -15093,6 +14237,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15118,16 +14263,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -15233,6 +14369,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15258,15 +14395,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -15373,6 +14501,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15398,15 +14527,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -15513,6 +14633,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15538,15 +14659,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -15653,6 +14765,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15679,15 +14792,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -15793,6 +14897,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15818,16 +14923,7 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
 
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -15933,6 +15029,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -15958,15 +15055,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16073,6 +15161,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16098,15 +15187,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16213,6 +15293,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16238,15 +15319,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16353,6 +15425,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16378,15 +15451,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16493,6 +15557,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16519,15 +15584,6 @@
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
 
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
-
 ### ✅ Official
 
 | Tool | Type | Description | Risk |
@@ -16633,6 +15689,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16658,15 +15715,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16773,6 +15821,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16798,15 +15847,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 ### ✅ Official
 
@@ -16913,6 +15953,7 @@
 | [notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill) | 📄 | Use this skill to enable Claude Code to communicate directly | 🟢 |
 | [chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator) | 📄 | Efficient translation tool based on ChatGPT or any OpenAI co | 🟢 |
 | [awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins) | 📄 | Awesome Claude Code plugins — a curated list of slash comman | 🟢 |
+| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
 
 ### 🤖 Agents
 
@@ -16938,15 +15979,6 @@
 | [dotagents](https://github.com/iannuttall/dotagents) | 📄 | One location for all of your hooks, commands, skills, and AG | 🟢 |
 | [adversarial-spec](https://github.com/zscole/adversarial-spec) | 📄 | A Claude Code plugin that iteratively refines product specif | 🟢 |
 | [mcphost](https://github.com/mark3labs/mcphost) | 📄 | A CLI host application that enables Large Language Models (L | 🟢 |
-
-### 📦 Uncategorized
-
-| Tool | Type | Description | Risk |
-|------|------|-------------|------|
-| [zotero-mcp](https://github.com/cookjohn/zotero-mcp) | 📄 | Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 | 🟢 |
-| [webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill) | 📄 | A Claude skill for developing WebGPU applications with Three | 🟢 |
-| [gguf-tools](https://github.com/antirez/gguf-tools) | 📄 | GGUF implementation in C as a library and a tools CLI progra | 🟢 |
-| [create-llm](https://github.com/theaniketgiri/create-llm) | 📄 | The fastest way to build and start training your own LLM. CL | 🟢 |
 
 
 ---
