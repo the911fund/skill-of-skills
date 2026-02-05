@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-82-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-83-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-11k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**82 tools** discovered across 10 categories
+**83 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[pinescript-mcp-server](https://github.com/cklose2000/pinescript-mcp-server)** R:🟢 M:🔴 — A Model Context Protocol (MCP) server for working with TradingView PineScript by cklose2000 *(86 ⭐)*
 - 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
 - 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
 - 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:⚪ — One location for all of your hooks, commands, skills, and AG by iannuttall *(0 ⭐)*
 - 📄 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:⚪ — A curated collection of official and community-built Claude by abubakarsiddik31 *(0 ⭐)*
-- 📄 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:⚪ — Claude Code skill for publishing Markdown articles to X (Twi by wshuyi *(0 ⭐)*
 
 ---
 
@@ -145,6 +145,7 @@
 - 📄 **[agent-resources](https://github.com/kasperjunge/agent-resources)** R:🟢 M:⚪ — A package manager for AI agents. Install agent skills from G by kasperjunge *(0 ⭐)*
 - 📄 **[OpenContext](https://github.com/0xranx/OpenContext)** R:🟢 M:⚪ — A personal context store for AI agents and assistants—reuse by 0xranx *(0 ⭐)*
 - 📄 **[claude-flow](https://github.com/ruvnet/claude-flow)** R:🟢 M:⚪ — 🌊 The leading agent orchestration platform for Claude. Depl by ruvnet *(0 ⭐)*
+- 📄 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:⚪ — Claude Code skill for publishing Markdown articles to X (Twi by wshuyi *(0 ⭐)*
 
 ---
 
