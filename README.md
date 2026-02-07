@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-144-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-147-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-2603k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-2604k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**144 tools** discovered across 11 categories
+**147 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[orchestrator](https://github.com/claudeforge/orchestrator)** R:🟡 M:🟢 — Autonomous Development System for Claude Code by claudeforge *(33 ⭐)*
+- 📚 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
+- 📚 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** R:🟢 M:🟡 — A guide on how to use the Figma MCP server by figma *(224 ⭐)*
+- 📚 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
 - 📚 **[mcp-use](https://github.com/mcp-use/mcp-use)** R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(9.1k ⭐)*
-- 📚 **[dotai](https://github.com/udecode/dotai)** R:🟢 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
 - 📚 **[react-native](https://github.com/storybookjs/react-native)** R:🟢 M:🟢 — 📓 Storybook for React Native! by storybookjs *(1.3k ⭐)*
-- 📚 **[ralph](https://github.com/snarktank/ralph)** R:🟡 M:🟢 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(9.7k ⭐)*
 
 ---
 
@@ -184,12 +184,15 @@
 - 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
 - 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
 - 📚 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(41.4k ⭐)*
+- 📚 **[ralph](https://github.com/snarktank/ralph)** R:🟡 M:🟢 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(9.7k ⭐)*
 - 📚 **[FastGPT](https://github.com/labring/FastGPT)** R:🟢 M:🟢 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. by labring *(27.1k ⭐)*
 - 📚 **[openclaw](https://github.com/openclaw/openclaw)** R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(172.0k ⭐)*
 - 📚 **[browser-use](https://github.com/browser-use/browser-use)** R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(78.0k ⭐)*
 - 📚 **[hive](https://github.com/adenhq/hive)** R:🟢 M:🟢 — Outcome driven agent development framework that evolves by adenhq *(5.6k ⭐)*
 - 📚 **[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** R:🟢 M:🟢 — CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。 by zhayujie *(41.1k ⭐)*
 - 📚 **[continue](https://github.com/continuedev/continue)** R:🟢 M:🟢 — ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent by continuedev *(31.3k ⭐)*
+- 📚 **[dotai](https://github.com/udecode/dotai)** R:🟢 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
+- 📚 **[orchestrator](https://github.com/claudeforge/orchestrator)** R:🟡 M:🟢 — Autonomous Development System for Claude Code by claudeforge *(33 ⭐)*
 
 ## 📦 Uncategorized
 
