@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-165-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-167-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2611k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**165 tools** discovered across 11 categories
+**167 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
+- 📚 **[pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)** R:🟢 M:🟢 — High-performance AI coding agent CLI written in Rust by Dicklesworthstone *(26 ⭐)*
+- 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
 - 📚 **[vvm](https://github.com/karanchawla/vvm)** R:🟢 M:🟢 — vibe virtual machine by karanchawla *(67 ⭐)*
+- 📚 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
 - 📚 **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
-- 📚 **[rules](https://github.com/project-codeguard/rules)** R:🟢 M:🟢 — Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance. by project-codeguard *(387 ⭐)*
-- 📚 **[bulk-summarize](https://github.com/smerchek/bulk-summarize)** R:🟢 M:🟡 — A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project. by smerchek *(38 ⭐)*
 
 ---
 
@@ -139,6 +139,7 @@
 - 📄 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:⚪ — Awesome-LLM-Eval: a curated list of tools, datasets/benchmar by onejune2018 *(0 ⭐)*
 - 📄 **[clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse)** R:🟢 M:⚪ — Explorations into training LLMs to use clinical calculators by lucidrains *(0 ⭐)*
 - 📚 **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** R:🟢 M:🟢 — ClickHouse® is a real-time analytics database management system by ClickHouse *(45.7k ⭐)*
+- 📚 **[bulk-summarize](https://github.com/smerchek/bulk-summarize)** R:🟢 M:🟡 — A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project. by smerchek *(38 ⭐)*
 
 ## 🔒 Security
 
@@ -147,6 +148,7 @@
 - 📄 **[awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools)** R:🟢 M:⚪ — A curated list of large language model tools for cybersecuri by tenable *(0 ⭐)*
 - 📄 **[skills](https://github.com/trailofbits/skills)** R:🟢 M:🟢 — Trail of Bits Claude Code skills for security research, vuln by trailofbits *(64.9k ⭐)*
 - 📚 **[prowler](https://github.com/prowler-cloud/prowler)** R:🟢 M:🟢 — Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. by prowler-cloud *(12.9k ⭐)*
+- 📚 **[rules](https://github.com/project-codeguard/rules)** R:🟢 M:🟢 — Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance. by project-codeguard *(387 ⭐)*
 
 ## 🔗 Integrations
 
