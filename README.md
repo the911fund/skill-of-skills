@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-122-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-130-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-2091k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-2435k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**122 tools** discovered across 11 categories
+**130 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** R:🟢 M:🟢 — CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。 by zhayujie *(41.1k ⭐)*
-- 📚 **[slidev](https://github.com/slidevjs/slidev)** R:🟢 M:🟢 — Presentation Slides for Developers by slidevjs *(44.2k ⭐)*
-- 📚 **[prowler](https://github.com/prowler-cloud/prowler)** R:🟢 M:🟢 — Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. by prowler-cloud *(12.9k ⭐)*
-- 📚 **[fastmcp](https://github.com/jlowin/fastmcp)** R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(22.7k ⭐)*
-- 📚 **[browser-use](https://github.com/browser-use/browser-use)** R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(78.0k ⭐)*
+- 📚 **[heroui](https://github.com/heroui-inc/heroui)** R:🟢 M:🟢 — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) by heroui-inc *(28.1k ⭐)*
+- 📚 **[next.js](https://github.com/vercel/next.js)** R:🟢 M:🟢 — The React Framework by vercel *(137.6k ⭐)*
+- 📚 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(41.4k ⭐)*
+- 📚 **[cal.com](https://github.com/calcom/cal.com)** R:🟢 M:🟢 — Scheduling infrastructure for absolutely everyone. by calcom *(40.1k ⭐)*
+- 📚 **[dagger](https://github.com/dagger/dagger)** R:🟢 M:🟢 — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud by dagger *(15.4k ⭐)*
 
 ---
 
@@ -76,7 +76,11 @@
 - 📚 **[posthog](https://github.com/PostHog/posthog)** R:🟢 M:🟢 — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. by PostHog *(31.1k ⭐)*
 - 📚 **[wp-calypso](https://github.com/Automattic/wp-calypso)** R:🟢 M:🟢 — The JavaScript and API powered WordPress.com by Automattic *(12.6k ⭐)*
 - 📚 **[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** R:🟢 M:🟢 — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. by SuperClaude-Org *(20.7k ⭐)*
+- 📚 **[fastmcp](https://github.com/jlowin/fastmcp)** R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(22.7k ⭐)*
 - 📚 **[tantivy](https://github.com/quickwit-oss/tantivy)** R:🟢 M:🟢 — Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust by quickwit-oss *(14.5k ⭐)*
+- 📚 **[slidev](https://github.com/slidevjs/slidev)** R:🟢 M:🟢 — Presentation Slides for Developers by slidevjs *(44.2k ⭐)*
+- 📚 **[turborepo](https://github.com/vercel/turborepo)** R:🟢 M:🟢 — Build system optimized for JavaScript and TypeScript, written in Rust by vercel *(29.8k ⭐)*
+- 📚 **[awesome-copilot](https://github.com/github/awesome-copilot)** R:🟢 M:🟢 — Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. by github *(20.4k ⭐)*
 
 ## 📚 Documentation
 
@@ -122,6 +126,7 @@
 - 📄 **[awesome-gpt-security](https://github.com/cckuailong/awesome-gpt-security)** R:🟢 M:⚪ — A curated list of awesome security tools, experimental case by cckuailong *(0 ⭐)*
 - 📄 **[awesome-llm-cybersecurity-tools](https://github.com/tenable/awesome-llm-cybersecurity-tools)** R:🟢 M:⚪ — A curated list of large language model tools for cybersecuri by tenable *(0 ⭐)*
 - 📄 **[skills](https://github.com/trailofbits/skills)** R:🟢 M:🟢 — Trail of Bits Claude Code skills for security research, vuln by trailofbits *(64.9k ⭐)*
+- 📚 **[prowler](https://github.com/prowler-cloud/prowler)** R:🟢 M:🟢 — Prowler is the world’s most widely used open-source cloud security platform that automates security and compliance across any cloud environment. by prowler-cloud *(12.9k ⭐)*
 
 ## 🔗 Integrations
 
@@ -168,7 +173,10 @@
 - 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
 - 📚 **[FastGPT](https://github.com/labring/FastGPT)** R:🟢 M:🟢 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. by labring *(27.1k ⭐)*
 - 📚 **[openclaw](https://github.com/openclaw/openclaw)** R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(172.0k ⭐)*
+- 📚 **[browser-use](https://github.com/browser-use/browser-use)** R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(78.0k ⭐)*
 - 📚 **[hive](https://github.com/adenhq/hive)** R:🟢 M:🟢 — Outcome driven agent development framework that evolves by adenhq *(5.6k ⭐)*
+- 📚 **[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)** R:🟢 M:🟢 — CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。 by zhayujie *(41.1k ⭐)*
+- 📚 **[continue](https://github.com/continuedev/continue)** R:🟢 M:🟢 — ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent by continuedev *(31.3k ⭐)*
 
 ## 📦 Uncategorized
 
