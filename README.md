@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-161-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-162-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2611k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**161 tools** discovered across 11 categories
+**162 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit)** R:🟢 M:🟢 — Databricks Toolkit for Coding Agents provided by Field Engineering by databricks-solutions *(153 ⭐)*
+- 📚 **[rules](https://github.com/project-codeguard/rules)** R:🟢 M:🟢 — Project CodeGuard is an AI model-agnostic security framework and ruleset that embeds secure-by-default practices into AI coding workflows (generation and review). It ships core security rules, translators for popular coding agents, and validators to test rule compliance. by project-codeguard *(387 ⭐)*
 - 📚 **[bulk-summarize](https://github.com/smerchek/bulk-summarize)** R:🟢 M:🟡 — A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project. by smerchek *(38 ⭐)*
 - 📚 **[flowbite-mcp](https://github.com/themesberg/flowbite-mcp)** R:🟢 M:🟡 — Convert Figma design to code with the official Flowbite MCP server by themesberg *(26 ⭐)*
 - 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(369 ⭐)*
-- 📚 **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(264 ⭐)*
+- 📚 **[ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit)** R:🟢 M:🟢 — Databricks Toolkit for Coding Agents provided by Field Engineering by databricks-solutions *(153 ⭐)*
 
 ---
 
@@ -207,6 +207,7 @@
 - 📚 **[ralphex](https://github.com/umputun/ralphex)** R:🟡 M:🟢 — Extended Ralph loop for autonomous AI-driven plan execution by umputun *(300 ⭐)*
 - 📚 **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(170 ⭐)*
 - 📚 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(5.1k ⭐)*
+- 📚 **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(264 ⭐)*
 
 ## 📦 Uncategorized
 
