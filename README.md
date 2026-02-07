@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-147-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-149-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2604k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**147 tools** discovered across 11 categories
+**149 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
-- 📚 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** R:🟢 M:🟡 — A guide on how to use the Figma MCP server by figma *(224 ⭐)*
+- 📚 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(36 ⭐)*
+- 📚 **[claude-skills](https://github.com/trkbt10/claude-skills)** R:🟢 M:🟢 — てるきちの楽しいCalude Skills by trkbt10 *(35 ⭐)*
 - 📚 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
-- 📚 **[mcp-use](https://github.com/mcp-use/mcp-use)** R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(9.1k ⭐)*
-- 📚 **[react-native](https://github.com/storybookjs/react-native)** R:🟢 M:🟢 — 📓 Storybook for React Native! by storybookjs *(1.3k ⭐)*
+- 📚 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** R:🟢 M:🟡 — A guide on how to use the Figma MCP server by figma *(224 ⭐)*
+- 📚 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
 
 ---
 
@@ -89,6 +89,8 @@
 - 📚 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(23.4k ⭐)*
 - 📚 **[litestream](https://github.com/benbjohnson/litestream)** R:🟢 M:🟢 — Streaming replication for SQLite. by benbjohnson *(13.2k ⭐)*
 - 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟢 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.6k ⭐)*
+- 📚 **[react-native](https://github.com/storybookjs/react-native)** R:🟢 M:🟢 — 📓 Storybook for React Native! by storybookjs *(1.3k ⭐)*
+- 📚 **[mcp-use](https://github.com/mcp-use/mcp-use)** R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(9.1k ⭐)*
 
 ## 📚 Documentation
 
