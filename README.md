@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-140-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-144-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-2592k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-2603k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**140 tools** discovered across 11 categories
+**144 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[L7](https://github.com/antvis/L7)** R:🟢 M:🟢 — 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine. by antvis *(4.0k ⭐)*
+- 📚 **[orchestrator](https://github.com/claudeforge/orchestrator)** R:🟡 M:🟢 — Autonomous Development System for Claude Code by claudeforge *(33 ⭐)*
+- 📚 **[mcp-use](https://github.com/mcp-use/mcp-use)** R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(9.1k ⭐)*
+- 📚 **[dotai](https://github.com/udecode/dotai)** R:🟢 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
+- 📚 **[react-native](https://github.com/storybookjs/react-native)** R:🟢 M:🟢 — 📓 Storybook for React Native! by storybookjs *(1.3k ⭐)*
 - 📚 **[ralph](https://github.com/snarktank/ralph)** R:🟡 M:🟢 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(9.7k ⭐)*
-- 📚 **[cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)** R:🟢 M:🟢 — Cloudflare’s documentation by cloudflare *(4.4k ⭐)*
-- 📚 **[react-email](https://github.com/resend/react-email)** R:🟢 M:🟢 — 💌 Build and send emails using React by resend *(18.0k ⭐)*
-- 📚 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(23.4k ⭐)*
 
 ---
 
@@ -75,15 +75,18 @@
 - 📚 **[nx](https://github.com/nrwl/nx)** R:🟢 M:🟢 — Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents. by nrwl *(28.1k ⭐)*
 - 📚 **[posthog](https://github.com/PostHog/posthog)** R:🟢 M:🟢 — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. by PostHog *(31.1k ⭐)*
 - 📚 **[wp-calypso](https://github.com/Automattic/wp-calypso)** R:🟢 M:🟢 — The JavaScript and API powered WordPress.com by Automattic *(12.6k ⭐)*
+- 📚 **[react-email](https://github.com/resend/react-email)** R:🟢 M:🟢 — 💌 Build and send emails using React by resend *(18.0k ⭐)*
 - 📚 **[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** R:🟢 M:🟢 — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. by SuperClaude-Org *(20.7k ⭐)*
 - 📚 **[fastmcp](https://github.com/jlowin/fastmcp)** R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(22.7k ⭐)*
 - 📚 **[tantivy](https://github.com/quickwit-oss/tantivy)** R:🟢 M:🟢 — Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust by quickwit-oss *(14.5k ⭐)*
 - 📚 **[slidev](https://github.com/slidevjs/slidev)** R:🟢 M:🟢 — Presentation Slides for Developers by slidevjs *(44.2k ⭐)*
+- 📚 **[L7](https://github.com/antvis/L7)** R:🟢 M:🟢 — 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine. by antvis *(4.0k ⭐)*
 - 📚 **[heroui](https://github.com/heroui-inc/heroui)** R:🟢 M:🟢 — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) by heroui-inc *(28.1k ⭐)*
 - 📚 **[next.js](https://github.com/vercel/next.js)** R:🟢 M:🟢 — The React Framework by vercel *(137.6k ⭐)*
 - 📚 **[dagger](https://github.com/dagger/dagger)** R:🟢 M:🟢 — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud by dagger *(15.4k ⭐)*
 - 📚 **[turborepo](https://github.com/vercel/turborepo)** R:🟢 M:🟢 — Build system optimized for JavaScript and TypeScript, written in Rust by vercel *(29.8k ⭐)*
 - 📚 **[awesome-copilot](https://github.com/github/awesome-copilot)** R:🟢 M:🟢 — Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. by github *(20.4k ⭐)*
+- 📚 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(23.4k ⭐)*
 - 📚 **[litestream](https://github.com/benbjohnson/litestream)** R:🟢 M:🟢 — Streaming replication for SQLite. by benbjohnson *(13.2k ⭐)*
 - 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟢 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.6k ⭐)*
 
@@ -96,6 +99,7 @@
 - 📄 **[claude-code-guide](https://github.com/zebbern/claude-code-guide)** R:🟢 M:⚪ — Master Claude Code with this Guide! Includes: Setup, SKILL.m by zebbern *(0 ⭐)*
 - 📄 **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** R:🟢 M:⚪ — Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 by op7418 *(0 ⭐)*
 - 📄 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)** R:🟢 M:⚪ — A curated list of awesome resources, tools, and other shiny by snwfdhmp *(0 ⭐)*
+- 📚 **[cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)** R:🟢 M:🟢 — Cloudflare’s documentation by cloudflare *(4.4k ⭐)*
 - 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
 - 📚 **[reactive-resume](https://github.com/amruthpillai/reactive-resume)** R:🟢 M:🟢 — A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! by amruthpillai *(35.0k ⭐)*
 
