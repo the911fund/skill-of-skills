@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-149-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-153-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2604k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**149 tools** discovered across 11 categories
+**153 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(36 ⭐)*
+- 📚 **[promptify-skill](https://github.com/tolibear/promptify-skill)** R:🟢 M:🟢 — Prompt optimization commands for Claude Code. Transform vague prompts into clear, effective ones. by tolibear *(28 ⭐)*
+- 📚 **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(170 ⭐)*
+- 📚 **[ralphex](https://github.com/umputun/ralphex)** R:🟡 M:🟢 — Extended Ralph loop for autonomous AI-driven plan execution by umputun *(300 ⭐)*
+- 📚 **[hoyeon](https://github.com/team-attention/hoyeon)** R:🟢 M:🟢 — Multi-agent development workflow toolkit for Claude Code by team-attention *(49 ⭐)*
 - 📚 **[claude-skills](https://github.com/trkbt10/claude-skills)** R:🟢 M:🟢 — てるきちの楽しいCalude Skills by trkbt10 *(35 ⭐)*
-- 📚 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
-- 📚 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** R:🟢 M:🟡 — A guide on how to use the Figma MCP server by figma *(224 ⭐)*
-- 📚 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
 
 ---
 
@@ -91,6 +91,8 @@
 - 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟢 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.6k ⭐)*
 - 📚 **[react-native](https://github.com/storybookjs/react-native)** R:🟢 M:🟢 — 📓 Storybook for React Native! by storybookjs *(1.3k ⭐)*
 - 📚 **[mcp-use](https://github.com/mcp-use/mcp-use)** R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(9.1k ⭐)*
+- 📚 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
+- 📚 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(36 ⭐)*
 
 ## 📚 Documentation
 
@@ -104,6 +106,7 @@
 - 📚 **[cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)** R:🟢 M:🟢 — Cloudflare’s documentation by cloudflare *(4.4k ⭐)*
 - 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
 - 📚 **[reactive-resume](https://github.com/amruthpillai/reactive-resume)** R:🟢 M:🟢 — A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! by amruthpillai *(35.0k ⭐)*
+- 📚 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** R:🟢 M:🟡 — A guide on how to use the Figma MCP server by figma *(224 ⭐)*
 
 ## 📣 Marketing
 
@@ -195,6 +198,7 @@
 - 📚 **[continue](https://github.com/continuedev/continue)** R:🟢 M:🟢 — ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent by continuedev *(31.3k ⭐)*
 - 📚 **[dotai](https://github.com/udecode/dotai)** R:🟢 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
 - 📚 **[orchestrator](https://github.com/claudeforge/orchestrator)** R:🟡 M:🟢 — Autonomous Development System for Claude Code by claudeforge *(33 ⭐)*
+- 📚 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
 
 ## 📦 Uncategorized
 
