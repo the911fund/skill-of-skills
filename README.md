@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-93-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-100-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-1000k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-1254k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**93 tools** discovered across 11 categories
+**100 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** R:🟢 M:🟢 — ClickHouse® is a real-time analytics database management system by ClickHouse *(45.7k ⭐)*
-- 📚 **[playwright](https://github.com/microsoft/playwright)** R:🟢 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(82.3k ⭐)*
-- 📚 **[bun](https://github.com/oven-sh/bun)** R:🟢 M:🟢 — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one by oven-sh *(87.1k ⭐)*
-- 📚 **[metabase](https://github.com/metabase/metabase)** R:🟢 M:🟢 — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: by metabase *(45.9k ⭐)*
-- 📚 **[core](https://github.com/home-assistant/core)** R:🟢 M:🟢 — :house_with_garden: Open source home automation that puts local control and privacy first. by home-assistant *(84.6k ⭐)*
+- 📚 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)** R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(25.2k ⭐)*
+- 📚 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** R:🟢 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(34.6k ⭐)*
+- 📚 **[sentry](https://github.com/getsentry/sentry)** R:🟢 M:🟢 — Developer-first error tracking and performance monitoring by getsentry *(43.1k ⭐)*
+- 📚 **[cockroach](https://github.com/cockroachdb/cockroach)** R:🟢 M:🟢 — CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. by cockroachdb *(31.8k ⭐)*
+- 📚 **[streamlit](https://github.com/streamlit/streamlit)** R:🟢 M:🟢 — Streamlit — A faster way to build and share data apps. by streamlit *(43.4k ⭐)*
 
 ---
 
@@ -104,6 +104,7 @@
 - 📄 **[LLMs-local](https://github.com/0xSojalSec/LLMs-local)** R:🟢 M:⚪ — list of awesome platforms, tools, and resources   run for LL by 0xSojalSec *(0 ⭐)*
 - 📄 **[Awesome-LLM-Eval](https://github.com/onejune2018/Awesome-LLM-Eval)** R:🟢 M:⚪ — Awesome-LLM-Eval: a curated list of tools, datasets/benchmar by onejune2018 *(0 ⭐)*
 - 📄 **[clinical-calculator-tooluse](https://github.com/lucidrains/clinical-calculator-tooluse)** R:🟢 M:⚪ — Explorations into training LLMs to use clinical calculators by lucidrains *(0 ⭐)*
+- 📚 **[ClickHouse](https://github.com/ClickHouse/ClickHouse)** R:🟢 M:🟢 — ClickHouse® is a real-time analytics database management system by ClickHouse *(45.7k ⭐)*
 
 ## 🔒 Security
 
@@ -130,6 +131,7 @@
 - 📄 **[zotero-mcp](https://github.com/cookjohn/zotero-mcp)** R:🟢 M:⚪ — Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 by cookjohn *(0 ⭐)*
 - 📚 **[pinescript-mcp-server](https://github.com/cklose2000/pinescript-mcp-server)** R:🟢 M:🔴 — A Model Context Protocol (MCP) server for working with TradingView PineScript by cklose2000 *(86 ⭐)*
 - 📚 **[n8n](https://github.com/n8n-io/n8n)** R:🟢 M:🟢 — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. by n8n-io *(173.4k ⭐)*
+- 📚 **[Ghost](https://github.com/TryGhost/Ghost)** R:🟢 M:🟢 — Independent technology for modern publishing, memberships, subscriptions and newsletters. by TryGhost *(51.8k ⭐)*
 
 ## 🤖 Agents
 
@@ -157,9 +159,14 @@
 ## 📦 Uncategorized
 
 - 📚 **[electron](https://github.com/electron/electron)** R:🟢 M:🟢 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS by electron *(120.0k ⭐)*
+- 📚 **[core](https://github.com/home-assistant/core)** R:🟢 M:🟢 — :house_with_garden: Open source home automation that puts local control and privacy first. by home-assistant *(84.6k ⭐)*
 - 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
 - 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
 - 📚 **[react](https://github.com/facebook/react)** R:🟢 M:🟢 — The library for web and native user interfaces. by facebook *(242.8k ⭐)*
+- 📚 **[bun](https://github.com/oven-sh/bun)** R:🟢 M:🟢 — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one by oven-sh *(87.1k ⭐)*
+- 📚 **[metabase](https://github.com/metabase/metabase)** R:🟢 M:🟢 — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: by metabase *(45.9k ⭐)*
+- 📚 **[playwright](https://github.com/microsoft/playwright)** R:🟢 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(82.3k ⭐)*
+- 📚 **[mlflow](https://github.com/mlflow/mlflow)** R:🟢 M:🟢 — The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform. by mlflow *(24.0k ⭐)*
 
 ---
 
