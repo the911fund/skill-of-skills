@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-100-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-107-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-1254k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-1493k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**100 tools** discovered across 11 categories
+**107 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)** R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(25.2k ⭐)*
-- 📚 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** R:🟢 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(34.6k ⭐)*
-- 📚 **[sentry](https://github.com/getsentry/sentry)** R:🟢 M:🟢 — Developer-first error tracking and performance monitoring by getsentry *(43.1k ⭐)*
-- 📚 **[cockroach](https://github.com/cockroachdb/cockroach)** R:🟢 M:🟢 — CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. by cockroachdb *(31.8k ⭐)*
-- 📚 **[streamlit](https://github.com/streamlit/streamlit)** R:🟢 M:🟢 — Streamlit — A faster way to build and share data apps. by streamlit *(43.4k ⭐)*
+- 📚 **[medusa](https://github.com/medusajs/medusa)** R:🟢 M:🟢 — The world's most flexible commerce platform. by medusajs *(32.0k ⭐)*
+- 📚 **[remotion](https://github.com/remotion-dev/remotion)** R:🟢 M:🟢 — 🎥      Make videos programmatically with React by remotion-dev *(35.4k ⭐)*
+- 📚 **[nanochat](https://github.com/karpathy/nanochat)** R:🟢 M:🟢 — The best ChatGPT that $100 can buy. by karpathy *(42.4k ⭐)*
+- 📚 **[tldraw](https://github.com/tldraw/tldraw)** R:🟢 M:🟢 — very good whiteboard infinite canvas SDK by tldraw *(45.1k ⭐)*
+- 📚 **[livewire](https://github.com/livewire/livewire)** R:🟢 M:🟢 — A full-stack framework for Laravel that takes the pain out of building dynamic UIs. by livewire *(23.4k ⭐)*
 
 ---
 
@@ -166,7 +166,14 @@
 - 📚 **[bun](https://github.com/oven-sh/bun)** R:🟢 M:🟢 — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one by oven-sh *(87.1k ⭐)*
 - 📚 **[metabase](https://github.com/metabase/metabase)** R:🟢 M:🟢 — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: by metabase *(45.9k ⭐)*
 - 📚 **[playwright](https://github.com/microsoft/playwright)** R:🟢 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(82.3k ⭐)*
+- 📚 **[sentry](https://github.com/getsentry/sentry)** R:🟢 M:🟢 — Developer-first error tracking and performance monitoring by getsentry *(43.1k ⭐)*
+- 📚 **[cockroach](https://github.com/cockroachdb/cockroach)** R:🟢 M:🟢 — CockroachDB — the cloud native, distributed SQL database designed for high availability, effortless scale, and control over data placement. by cockroachdb *(31.8k ⭐)*
+- 📚 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)** R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(25.2k ⭐)*
+- 📚 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** R:🟢 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(34.6k ⭐)*
+- 📚 **[streamlit](https://github.com/streamlit/streamlit)** R:🟢 M:🟢 — Streamlit — A faster way to build and share data apps. by streamlit *(43.4k ⭐)*
 - 📚 **[mlflow](https://github.com/mlflow/mlflow)** R:🟢 M:🟢 — The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform. by mlflow *(24.0k ⭐)*
+- 📚 **[airbyte](https://github.com/airbytehq/airbyte)** R:🟢 M:🟢 — The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted. by airbytehq *(20.6k ⭐)*
+- 📚 **[payload](https://github.com/payloadcms/payload)** R:🟢 M:🟢 — Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. by payloadcms *(40.4k ⭐)*
 
 ---
 
