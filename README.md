@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-107-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-113-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-1493k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-1615k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**107 tools** discovered across 11 categories
+**113 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[medusa](https://github.com/medusajs/medusa)** R:🟢 M:🟢 — The world's most flexible commerce platform. by medusajs *(32.0k ⭐)*
-- 📚 **[remotion](https://github.com/remotion-dev/remotion)** R:🟢 M:🟢 — 🎥      Make videos programmatically with React by remotion-dev *(35.4k ⭐)*
-- 📚 **[nanochat](https://github.com/karpathy/nanochat)** R:🟢 M:🟢 — The best ChatGPT that $100 can buy. by karpathy *(42.4k ⭐)*
-- 📚 **[tldraw](https://github.com/tldraw/tldraw)** R:🟢 M:🟢 — very good whiteboard infinite canvas SDK by tldraw *(45.1k ⭐)*
-- 📚 **[livewire](https://github.com/livewire/livewire)** R:🟢 M:🟢 — A full-stack framework for Laravel that takes the pain out of building dynamic UIs. by livewire *(23.4k ⭐)*
+- 📚 **[nx](https://github.com/nrwl/nx)** R:🟢 M:🟢 — Get to green PRs in half the time. Nx optimizes your builds, scales your CI, and fixes failed PRs. Built for developers and AI agents. by nrwl *(28.1k ⭐)*
+- 📚 **[posthog](https://github.com/PostHog/posthog)** R:🟢 M:🟢 — 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data warehouse, a CDP, and an AI product assistant to help debug your code, ship features faster, and keep all your usage and customer data in one stack. by PostHog *(31.1k ⭐)*
+- 📚 **[ideavim](https://github.com/JetBrains/ideavim)** R:🟢 M:🟢 — IdeaVim – A Vim engine for JetBrains IDEs by JetBrains *(10.1k ⭐)*
+- 📚 **[G2](https://github.com/antvis/G2)** R:🟢 M:🟢 — 📊 The concise and progressive visualization grammar. by antvis *(12.5k ⭐)*
+- 📚 **[wp-calypso](https://github.com/Automattic/wp-calypso)** R:🟢 M:🟢 — The JavaScript and API powered WordPress.com by Automattic *(12.6k ⭐)*
 
 ---
 
@@ -68,6 +68,8 @@
 - 📄 **[awesome-local-llm](https://github.com/rafska/awesome-local-llm)** R:🟢 M:⚪ — A curated list of awesome platforms, tools, practices and re by rafska *(0 ⭐)*
 - 📄 **[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)** R:🟢 M:⚪ — ChatGPT CLI is a powerful, multi-provider command-line inter by kardolus *(0 ⭐)*
 - 📄 **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** R:🟢 M:⚪ — Create beautiful slides on the web using Claude's frontend s by zarazhangrui *(0 ⭐)*
+- 📚 **[react](https://github.com/facebook/react)** R:🟢 M:🟢 — The library for web and native user interfaces. by facebook *(242.8k ⭐)*
+- 📚 **[tldraw](https://github.com/tldraw/tldraw)** R:🟢 M:🟢 — very good whiteboard infinite canvas SDK by tldraw *(45.1k ⭐)*
 
 ## 📚 Documentation
 
@@ -78,6 +80,7 @@
 - 📄 **[claude-code-guide](https://github.com/zebbern/claude-code-guide)** R:🟢 M:⚪ — Master Claude Code with this Guide! Includes: Setup, SKILL.m by zebbern *(0 ⭐)*
 - 📄 **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** R:🟢 M:⚪ — Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 by op7418 *(0 ⭐)*
 - 📄 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)** R:🟢 M:⚪ — A curated list of awesome resources, tools, and other shiny by snwfdhmp *(0 ⭐)*
+- 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
 
 ## 📣 Marketing
 
@@ -131,6 +134,7 @@
 - 📄 **[zotero-mcp](https://github.com/cookjohn/zotero-mcp)** R:🟢 M:⚪ — Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 by cookjohn *(0 ⭐)*
 - 📚 **[pinescript-mcp-server](https://github.com/cklose2000/pinescript-mcp-server)** R:🟢 M:🔴 — A Model Context Protocol (MCP) server for working with TradingView PineScript by cklose2000 *(86 ⭐)*
 - 📚 **[n8n](https://github.com/n8n-io/n8n)** R:🟢 M:🟢 — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. by n8n-io *(173.4k ⭐)*
+- 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
 - 📚 **[Ghost](https://github.com/TryGhost/Ghost)** R:🟢 M:🟢 — Independent technology for modern publishing, memberships, subscriptions and newsletters. by TryGhost *(51.8k ⭐)*
 
 ## 🤖 Agents
@@ -155,14 +159,12 @@
 - 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:⚪ — One location for all of your hooks, commands, skills, and AG by iannuttall *(0 ⭐)*
 - 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
 - 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
+- 📚 **[FastGPT](https://github.com/labring/FastGPT)** R:🟢 M:🟢 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. by labring *(27.1k ⭐)*
 
 ## 📦 Uncategorized
 
 - 📚 **[electron](https://github.com/electron/electron)** R:🟢 M:🟢 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS by electron *(120.0k ⭐)*
 - 📚 **[core](https://github.com/home-assistant/core)** R:🟢 M:🟢 — :house_with_garden: Open source home automation that puts local control and privacy first. by home-assistant *(84.6k ⭐)*
-- 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
-- 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
-- 📚 **[react](https://github.com/facebook/react)** R:🟢 M:🟢 — The library for web and native user interfaces. by facebook *(242.8k ⭐)*
 - 📚 **[bun](https://github.com/oven-sh/bun)** R:🟢 M:🟢 — Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one by oven-sh *(87.1k ⭐)*
 - 📚 **[metabase](https://github.com/metabase/metabase)** R:🟢 M:🟢 — The easy-to-use open source Business Intelligence and Embedded Analytics tool that lets everyone work with data :bar_chart: by metabase *(45.9k ⭐)*
 - 📚 **[playwright](https://github.com/microsoft/playwright)** R:🟢 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(82.3k ⭐)*
@@ -172,6 +174,10 @@
 - 📚 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)** R:🟢 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(34.6k ⭐)*
 - 📚 **[streamlit](https://github.com/streamlit/streamlit)** R:🟢 M:🟢 — Streamlit — A faster way to build and share data apps. by streamlit *(43.4k ⭐)*
 - 📚 **[mlflow](https://github.com/mlflow/mlflow)** R:🟢 M:🟢 — The open source developer platform to build AI agents and models with confidence. Enhance your AI applications with end-to-end tracking, observability, and evaluations, all in one integrated platform. by mlflow *(24.0k ⭐)*
+- 📚 **[nanochat](https://github.com/karpathy/nanochat)** R:🟢 M:🟢 — The best ChatGPT that $100 can buy. by karpathy *(42.4k ⭐)*
+- 📚 **[medusa](https://github.com/medusajs/medusa)** R:🟢 M:🟢 — The world's most flexible commerce platform. by medusajs *(32.0k ⭐)*
+- 📚 **[remotion](https://github.com/remotion-dev/remotion)** R:🟢 M:🟢 — 🎥      Make videos programmatically with React by remotion-dev *(35.4k ⭐)*
+- 📚 **[livewire](https://github.com/livewire/livewire)** R:🟢 M:🟢 — A full-stack framework for Laravel that takes the pain out of building dynamic UIs. by livewire *(23.4k ⭐)*
 - 📚 **[airbyte](https://github.com/airbytehq/airbyte)** R:🟢 M:🟢 — The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted. by airbytehq *(20.6k ⭐)*
 - 📚 **[payload](https://github.com/payloadcms/payload)** R:🟢 M:🟢 — Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. by payloadcms *(40.4k ⭐)*
 
