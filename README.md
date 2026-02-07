@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-130-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-140-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-2435k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-2592k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**130 tools** discovered across 11 categories
+**140 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[heroui](https://github.com/heroui-inc/heroui)** R:🟢 M:🟢 — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) by heroui-inc *(28.1k ⭐)*
-- 📚 **[next.js](https://github.com/vercel/next.js)** R:🟢 M:🟢 — The React Framework by vercel *(137.6k ⭐)*
-- 📚 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(41.4k ⭐)*
-- 📚 **[cal.com](https://github.com/calcom/cal.com)** R:🟢 M:🟢 — Scheduling infrastructure for absolutely everyone. by calcom *(40.1k ⭐)*
-- 📚 **[dagger](https://github.com/dagger/dagger)** R:🟢 M:🟢 — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud by dagger *(15.4k ⭐)*
+- 📚 **[L7](https://github.com/antvis/L7)** R:🟢 M:🟢 — 🌎 Large-scale WebGL-powered Geospatial Data Visualization analysis engine. by antvis *(4.0k ⭐)*
+- 📚 **[ralph](https://github.com/snarktank/ralph)** R:🟡 M:🟢 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(9.7k ⭐)*
+- 📚 **[cloudflare-docs](https://github.com/cloudflare/cloudflare-docs)** R:🟢 M:🟢 — Cloudflare’s documentation by cloudflare *(4.4k ⭐)*
+- 📚 **[react-email](https://github.com/resend/react-email)** R:🟢 M:🟢 — 💌 Build and send emails using React by resend *(18.0k ⭐)*
+- 📚 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(23.4k ⭐)*
 
 ---
 
@@ -79,8 +79,13 @@
 - 📚 **[fastmcp](https://github.com/jlowin/fastmcp)** R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(22.7k ⭐)*
 - 📚 **[tantivy](https://github.com/quickwit-oss/tantivy)** R:🟢 M:🟢 — Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust by quickwit-oss *(14.5k ⭐)*
 - 📚 **[slidev](https://github.com/slidevjs/slidev)** R:🟢 M:🟢 — Presentation Slides for Developers by slidevjs *(44.2k ⭐)*
+- 📚 **[heroui](https://github.com/heroui-inc/heroui)** R:🟢 M:🟢 — 🚀 Beautiful, fast and modern React UI library. (Previously NextUI) by heroui-inc *(28.1k ⭐)*
+- 📚 **[next.js](https://github.com/vercel/next.js)** R:🟢 M:🟢 — The React Framework by vercel *(137.6k ⭐)*
+- 📚 **[dagger](https://github.com/dagger/dagger)** R:🟢 M:🟢 — Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud by dagger *(15.4k ⭐)*
 - 📚 **[turborepo](https://github.com/vercel/turborepo)** R:🟢 M:🟢 — Build system optimized for JavaScript and TypeScript, written in Rust by vercel *(29.8k ⭐)*
 - 📚 **[awesome-copilot](https://github.com/github/awesome-copilot)** R:🟢 M:🟢 — Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. by github *(20.4k ⭐)*
+- 📚 **[litestream](https://github.com/benbjohnson/litestream)** R:🟢 M:🟢 — Streaming replication for SQLite. by benbjohnson *(13.2k ⭐)*
+- 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟢 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.6k ⭐)*
 
 ## 📚 Documentation
 
@@ -92,6 +97,7 @@
 - 📄 **[Humanizer-zh](https://github.com/op7418/Humanizer-zh)** R:🟢 M:⚪ — Humanizer 的汉化版本，Claude Code Skills，旨在消除文本中 AI 生成的痕迹。 by op7418 *(0 ⭐)*
 - 📄 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)** R:🟢 M:⚪ — A curated list of awesome resources, tools, and other shiny by snwfdhmp *(0 ⭐)*
 - 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
+- 📚 **[reactive-resume](https://github.com/amruthpillai/reactive-resume)** R:🟢 M:🟢 — A one-of-a-kind resume builder that keeps your privacy in mind. Completely secure, customizable, portable, open-source and free forever. Try it out today! by amruthpillai *(35.0k ⭐)*
 
 ## 📣 Marketing
 
@@ -103,6 +109,7 @@
 - 📄 **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)** R:🟢 M:⚪ — Improve your resumes with Resume Matcher. Get insights, keyw by srbhr *(0 ⭐)*
 - 📄 **[aichat](https://github.com/sigoden/aichat)** R:🟢 M:⚪ — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL by sigoden *(0 ⭐)*
 - 📄 **[zev](https://github.com/dtnewman/zev)** R:🟢 M:⚪ — A simple CLI tool to help you remember terminal commands by dtnewman *(0 ⭐)*
+- 📚 **[cal.com](https://github.com/calcom/cal.com)** R:🟢 M:🟢 — Scheduling infrastructure for absolutely everyone. by calcom *(40.1k ⭐)*
 
 ## 🎬 Media
 
@@ -148,6 +155,7 @@
 - 📚 **[n8n](https://github.com/n8n-io/n8n)** R:🟢 M:🟢 — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. by n8n-io *(173.4k ⭐)*
 - 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
 - 📚 **[Ghost](https://github.com/TryGhost/Ghost)** R:🟢 M:🟢 — Independent technology for modern publishing, memberships, subscriptions and newsletters. by TryGhost *(51.8k ⭐)*
+- 📚 **[daily](https://github.com/dailydotdev/daily)** R:🟢 M:🟢 — daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 by dailydotdev *(19.7k ⭐)*
 
 ## 🤖 Agents
 
@@ -171,6 +179,7 @@
 - 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:⚪ — One location for all of your hooks, commands, skills, and AG by iannuttall *(0 ⭐)*
 - 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
 - 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
+- 📚 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(41.4k ⭐)*
 - 📚 **[FastGPT](https://github.com/labring/FastGPT)** R:🟢 M:🟢 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. by labring *(27.1k ⭐)*
 - 📚 **[openclaw](https://github.com/openclaw/openclaw)** R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(172.0k ⭐)*
 - 📚 **[browser-use](https://github.com/browser-use/browser-use)** R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(78.0k ⭐)*
@@ -197,6 +206,7 @@
 - 📚 **[livewire](https://github.com/livewire/livewire)** R:🟢 M:🟢 — A full-stack framework for Laravel that takes the pain out of building dynamic UIs. by livewire *(23.4k ⭐)*
 - 📚 **[airbyte](https://github.com/airbytehq/airbyte)** R:🟢 M:🟢 — The leading data integration platform for ETL / ELT data pipelines from APIs, databases & files to data warehouses, data lakes & data lakehouses. Both self-hosted and Cloud-hosted. by airbytehq *(20.6k ⭐)*
 - 📚 **[payload](https://github.com/payloadcms/payload)** R:🟢 M:🟢 — Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building powerful applications. by payloadcms *(40.4k ⭐)*
+- 📚 **[AionUi](https://github.com/iOfficeAI/AionUi)** R:🟢 M:🟢 — Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! by iOfficeAI *(12.5k ⭐)*
 
 ---
 
