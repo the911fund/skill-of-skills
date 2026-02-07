@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-157-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-161-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-2610k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-2611k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**157 tools** discovered across 11 categories
+**161 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit)** R:🟢 M:🟢 — Databricks Toolkit for Coding Agents provided by Field Engineering by databricks-solutions *(153 ⭐)*
+- 📚 **[bulk-summarize](https://github.com/smerchek/bulk-summarize)** R:🟢 M:🟡 — A bulk version of Peter Steinberger's summarize package, capable of scanning youtube playlists or podcasts as part of research project. by smerchek *(38 ⭐)*
+- 📚 **[flowbite-mcp](https://github.com/themesberg/flowbite-mcp)** R:🟢 M:🟡 — Convert Figma design to code with the official Flowbite MCP server by themesberg *(26 ⭐)*
+- 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(369 ⭐)*
 - 📚 **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(264 ⭐)*
-- 📚 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(5.1k ⭐)*
-- 📚 **[kiro](https://github.com/jasonkneen/kiro)** R:🟢 M:🟢 — Complete System Prompts for Kiro IDE by Amazon by jasonkneen *(511 ⭐)*
-- 📚 **[hyperpowers](https://github.com/withzombies/hyperpowers)** R:🟢 M:🟢 — Claude Code superpowers with beads task tracking and refinement by withzombies *(47 ⭐)*
-- 📚 **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(170 ⭐)*
 
 ---
 
@@ -121,6 +121,7 @@
 - 📄 **[aichat](https://github.com/sigoden/aichat)** R:🟢 M:⚪ — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL by sigoden *(0 ⭐)*
 - 📄 **[zev](https://github.com/dtnewman/zev)** R:🟢 M:⚪ — A simple CLI tool to help you remember terminal commands by dtnewman *(0 ⭐)*
 - 📚 **[cal.com](https://github.com/calcom/cal.com)** R:🟢 M:🟢 — Scheduling infrastructure for absolutely everyone. by calcom *(40.1k ⭐)*
+- 📚 **[hyperpowers](https://github.com/withzombies/hyperpowers)** R:🟢 M:🟢 — Claude Code superpowers with beads task tracking and refinement by withzombies *(47 ⭐)*
 
 ## 🎬 Media
 
@@ -167,6 +168,7 @@
 - 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
 - 📚 **[Ghost](https://github.com/TryGhost/Ghost)** R:🟢 M:🟢 — Independent technology for modern publishing, memberships, subscriptions and newsletters. by TryGhost *(51.8k ⭐)*
 - 📚 **[daily](https://github.com/dailydotdev/daily)** R:🟢 M:🟢 — daily.dev is a professional network for developers to learn, collaborate, and grow together 👩🏽‍💻 👨‍💻 by dailydotdev *(19.7k ⭐)*
+- 📚 **[kiro](https://github.com/jasonkneen/kiro)** R:🟢 M:🟢 — Complete System Prompts for Kiro IDE by Amazon by jasonkneen *(511 ⭐)*
 
 ## 🤖 Agents
 
@@ -203,6 +205,8 @@
 - 📚 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
 - 📚 **[hoyeon](https://github.com/team-attention/hoyeon)** R:🟢 M:🟢 — Multi-agent development workflow toolkit for Claude Code by team-attention *(49 ⭐)*
 - 📚 **[ralphex](https://github.com/umputun/ralphex)** R:🟡 M:🟢 — Extended Ralph loop for autonomous AI-driven plan execution by umputun *(300 ⭐)*
+- 📚 **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(170 ⭐)*
+- 📚 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(5.1k ⭐)*
 
 ## 📦 Uncategorized
 
