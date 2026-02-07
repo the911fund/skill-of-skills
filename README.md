@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-83-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-11k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-89-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-739k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**83 tools** discovered across 10 categories
+**89 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -25,17 +25,18 @@
 - [Security](#-security)
 - [Integrations](#-integrations)
 - [Agents](#-agents)
+- [Uncategorized](#-uncategorized)
 - [How It Works](#how-it-works)
 
 ---
 
 ## 🆕 Latest
 
-- 📚 **[pinescript-mcp-server](https://github.com/cklose2000/pinescript-mcp-server)** R:🟢 M:🔴 — A Model Context Protocol (MCP) server for working with TradingView PineScript by cklose2000 *(86 ⭐)*
-- 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
-- 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
-- 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:⚪ — One location for all of your hooks, commands, skills, and AG by iannuttall *(0 ⭐)*
-- 📄 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:⚪ — A curated collection of official and community-built Claude by abubakarsiddik31 *(0 ⭐)*
+- 📚 **[ccxt](https://github.com/ccxt/ccxt)** R:🟢 M:🟢 — A cryptocurrency trading API with more than 100 exchanges in JavaScript / TypeScript / Python / C# / PHP / Go by ccxt *(40.8k ⭐)*
+- 📚 **[core](https://github.com/home-assistant/core)** R:🟢 M:🟢 — :house_with_garden: Open source home automation that puts local control and privacy first. by home-assistant *(84.6k ⭐)*
+- 📚 **[33-js-concepts](https://github.com/leonardomso/33-js-concepts)** R:🟢 M:🟢 — 📜 33 JavaScript concepts every developer should know. by leonardomso *(66.2k ⭐)*
+- 📚 **[electron](https://github.com/electron/electron)** R:🟢 M:🟢 — :electron: Build cross-platform desktop apps with JavaScript, HTML, and CSS by electron *(120.0k ⭐)*
+- 📚 **[react](https://github.com/facebook/react)** R:🟢 M:🟢 — The library for web and native user interfaces. by facebook *(242.8k ⭐)*
 
 ---
 
@@ -127,6 +128,8 @@
 - 📄 **[chatgpt-subtitle-translator](https://github.com/Cerlancism/chatgpt-subtitle-translator)** R:🟢 M:⚪ — Efficient translation tool based on ChatGPT or any OpenAI co by Cerlancism *(0 ⭐)*
 - 📄 **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** R:🟢 M:⚪ — Awesome Claude Code plugins — a curated list of slash comman by ccplugins *(0 ⭐)*
 - 📄 **[zotero-mcp](https://github.com/cookjohn/zotero-mcp)** R:🟢 M:⚪ — Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成 by cookjohn *(0 ⭐)*
+- 📚 **[pinescript-mcp-server](https://github.com/cklose2000/pinescript-mcp-server)** R:🟢 M:🔴 — A Model Context Protocol (MCP) server for working with TradingView PineScript by cklose2000 *(86 ⭐)*
+- 📚 **[n8n](https://github.com/n8n-io/n8n)** R:🟢 M:🟢 — Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations. by n8n-io *(173.4k ⭐)*
 
 ## 🤖 Agents
 
@@ -146,6 +149,10 @@
 - 📄 **[OpenContext](https://github.com/0xranx/OpenContext)** R:🟢 M:⚪ — A personal context store for AI agents and assistants—reuse by 0xranx *(0 ⭐)*
 - 📄 **[claude-flow](https://github.com/ruvnet/claude-flow)** R:🟢 M:⚪ — 🌊 The leading agent orchestration platform for Claude. Depl by ruvnet *(0 ⭐)*
 - 📄 **[x-article-publisher-skill](https://github.com/wshuyi/x-article-publisher-skill)** R:🟢 M:⚪ — Claude Code skill for publishing Markdown articles to X (Twi by wshuyi *(0 ⭐)*
+- 📄 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:⚪ — A curated collection of official and community-built Claude by abubakarsiddik31 *(0 ⭐)*
+- 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:⚪ — One location for all of your hooks, commands, skills, and AG by iannuttall *(0 ⭐)*
+- 📄 **[adversarial-spec](https://github.com/zscole/adversarial-spec)** R:🟢 M:⚪ — A Claude Code plugin that iteratively refines product specif by zscole *(0 ⭐)*
+- 📄 **[mcphost](https://github.com/mark3labs/mcphost)** R:🟢 M:⚪ — A CLI host application that enables Large Language Models (L by mark3labs *(0 ⭐)*
 
 ---
 
