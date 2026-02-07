@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-168-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-172-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2612k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**168 tools** discovered across 11 categories
+**172 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[mcpctl](https://github.com/vessl-ai/mcpctl)** R:🟢 M:🟠 — mcpctl - mcpctl tool orchestrator by vessl-ai *(40 ⭐)*
+- 📚 **[dotfiles](https://github.com/posquit0/dotfiles)** R:🟢 M:🟡 — :zap: Awesome configurations for the development environments by posquit0 *(202 ⭐)*
+- 📚 **[reliverse](https://github.com/reliverse/reliverse)** R:🟢 M:🟡 — 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everything exactly the way you like. you can have it all, with all the tools already prepared for you. by reliverse *(118 ⭐)*
+- 📚 **[codeglide-mcpgen](https://github.com/CodeGlide/codeglide-mcpgen)** R:🟢 M:🟠 — Generation of Secure MCP (Model Context Protocol) Servers from API source code at Scale by CodeGlide *(76 ⭐)*
 - 📚 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(77 ⭐)*
-- 📚 **[pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)** R:🟢 M:🟢 — High-performance AI coding agent CLI written in Rust by Dicklesworthstone *(26 ⭐)*
-- 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
-- 📚 **[vvm](https://github.com/karanchawla/vvm)** R:🟢 M:🟢 — vibe virtual machine by karanchawla *(67 ⭐)*
-- 📚 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
 
 ---
 
@@ -96,7 +96,10 @@
 - 📚 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(36 ⭐)*
 - 📚 **[promptify-skill](https://github.com/tolibear/promptify-skill)** R:🟢 M:🟢 — Prompt optimization commands for Claude Code. Transform vague prompts into clear, effective ones. by tolibear *(28 ⭐)*
 - 📚 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(369 ⭐)*
+- 📚 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
 - 📚 **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
+- 📚 **[vvm](https://github.com/karanchawla/vvm)** R:🟢 M:🟢 — vibe virtual machine by karanchawla *(67 ⭐)*
+- 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
 
 ## 📚 Documentation
 
@@ -214,6 +217,7 @@
 - 📚 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(5.1k ⭐)*
 - 📚 **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(264 ⭐)*
 - 📚 **[ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit)** R:🟢 M:🟢 — Databricks Toolkit for Coding Agents provided by Field Engineering by databricks-solutions *(153 ⭐)*
+- 📚 **[pi_agent_rust](https://github.com/Dicklesworthstone/pi_agent_rust)** R:🟢 M:🟢 — High-performance AI coding agent CLI written in Rust by Dicklesworthstone *(26 ⭐)*
 
 ## 📦 Uncategorized
 
