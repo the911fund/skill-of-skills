@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-96-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-641k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-91-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-9-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-593k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**96 tools** discovered across 10 categories
+**91 tools** discovered across 9 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -19,7 +19,6 @@
 - [Development](#-development)
 - [Documentation](#-documentation)
 - [Marketing](#-marketing)
-- [Productivity](#-productivity)
 - [Media](#-media)
 - [Research](#-research)
 - [Security](#-security)
@@ -31,11 +30,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[mcpctl](https://github.com/vessl-ai/mcpctl)** R:🟢 M:🟠 — mcpctl - mcpctl tool orchestrator by vessl-ai *(40 ⭐)*
+- ⌨️ **[agent-reachout](https://github.com/vibe-with-me-tools/agent-reachout)** R:🟢 M:🟢 — Let Claude Code reach you on Telegram when it finishes work or needs decisions by vibe-with-me-tools *(36 ⭐)*
+- ⌨️ **[gtd-coach-plugin](https://github.com/iamzifei/gtd-coach-plugin)** R:🟢 M:🟢 — Claude Skill that break down everyday's todo with details action plan based on your goal/plan by iamzifei *(26 ⭐)*
+- ⌨️ **[langfuse-mcp](https://github.com/avivsinai/langfuse-mcp)** R:🟢 M:🟢 — A Model Context Protocol (MCP) server for Langfuse, enabling AI agents to query Langfuse trace data for enhanced debugging and observability by avivsinai *(45 ⭐)*
 - ⌨️ **[codeglide-mcpgen](https://github.com/CodeGlide/codeglide-mcpgen)** R:🟢 M:🟠 — Generation of Secure MCP (Model Context Protocol) Servers from API source code at Scale by CodeGlide *(76 ⭐)*
 - 📦 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(77 ⭐)*
-- ⌨️ **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟡 — claude code workflow by ysicing *(36 ⭐)*
-- ⌨️ **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
 
 ---
 
@@ -46,22 +45,19 @@
 
 ## 🛠️ Development
 
+- ⌨️ **[skills](https://github.com/vercel-labs/skills)** R:🟢 M:🟢 — The open agent skills tool - npx skills by vercel-labs *(5.0k ⭐)*
 - 📄 **[Skill_Seekers](https://github.com/yusufkaraaslan/Skill_Seekers)** R:🟢 M:🟢 — Convert documentation websites, GitHub repositories, and PDFs into Claude AI skills with automatic conflict detection by yusufkaraaslan *(9.1k ⭐)*
 - ⌨️ **[anthropic-sdk-python](https://github.com/anthropics/anthropic-sdk-python)** R:🟢 M:🟢 — anthropic-sdk-python by anthropics *(2.7k ⭐)*
-- 📄 **[code2prompt](https://github.com/mufeedvh/code2prompt)** R:🟢 M:🟢 — A CLI tool to convert your codebase into a single LLM prompt with source tree, prompt templating, and token counting. by mufeedvh *(7.1k ⭐)*
 - 📄 **[compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** R:🟢 M:🟢 — Official Claude Code compound engineering plugin by EveryInc *(7.4k ⭐)*
 - 📄 **[planning-with-files](https://github.com/OthmanAdi/planning-with-files)** R:🟢 M:🟢 — Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition. by OthmanAdi *(13.3k ⭐)*
-- 📄 **[plate](https://github.com/udecode/plate)** R:🟢 M:🟢 — Rich-text editor with AI, MCP, and shadcn/ui by udecode *(15.9k ⭐)*
 - 📄 **[ui-ux-pro-max-skill](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill)** R:🟢 M:🟢 — An AI SKILL that provide design intelligence for building professional UI/UX multiple platforms by nextlevelbuilder *(29.3k ⭐)*
 - 📄 **[claude-code-tips](https://github.com/ykdojo/claude-code-tips)** R:🟢 M:🟢 — 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin. by ykdojo *(2.1k ⭐)*
 - 📄 **[claude-code-tools](https://github.com/pchalasani/claude-code-tools)** R:🟢 M:🟢 — Practical productivity tools for Claude Code, Codex-CLI, and similar CLI coding agents. by pchalasani *(1.4k ⭐)*
 - 📄 **[frontend-slides](https://github.com/zarazhangrui/frontend-slides)** R:🟢 M:🟢 — Create beautiful slides on the web using Claude's frontend skills by zarazhangrui *(815 ⭐)*
-- 📄 **[harbor](https://github.com/av/harbor)** R:🟢 M:🟢 — One command brings a complete pre-wired LLM stack with hundreds of services to explore. by av *(2.4k ⭐)*
 - 📄 **[humanizer](https://github.com/blader/humanizer)** R:🟢 M:🟢 — Claude Code skill that removes signs of AI-generated writing from text by blader *(4.3k ⭐)*
 - 📄 **[idea-claude-code-gui](https://github.com/zhukunpenglinyutong/idea-claude-code-gui)** R:🟢 M:🟢 — IDEA Claude Code GUI Plugin by zhukunpenglinyutong *(1.1k ⭐)*
 - 📄 **[pg-aiguide](https://github.com/timescale/pg-aiguide)** R:🟢 M:🟢 — MCP server and Claude plugin for Postgres skills and documentation. Helps AI coding tools generate better PostgreSQL code. by timescale *(1.5k ⭐)*
 - 📄 **[pinme](https://github.com/glitternetwork/pinme)** R:🟢 M:🟢 — Deploy Your Frontend in a Single Command. Claude Code Skills supported. by glitternetwork *(2.7k ⭐)*
-- 📄 **[chatgpt-cli](https://github.com/kardolus/chatgpt-cli)** R:🟢 M:🟢 — ChatGPT CLI is a powerful, multi-provider command-line interface for working with modern LLMs. It supports OpenAI, Azure, Perplexity, LLaMA, and more, with features like streaming, interactive chat, prompt files, image/audio I/O, MCP tool calls, and an experimental agent mode for safe, multi-step automation. by kardolus *(885 ⭐)*
 - 📄 **[claude-hud](https://github.com/jarrodwatts/claude-hud)** R:🟢 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(3.1k ⭐)*
 - 📄 **[claude-mem](https://github.com/thedotmack/claude-mem)** R:🟢 M:🟢 — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. by thedotmack *(24.8k ⭐)*
 - 📄 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(65 ⭐)*
@@ -73,6 +69,8 @@
 - 📄 **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(264 ⭐)*
 - 📄 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
 - 🔌 **[cc-blueprint-toolkit](https://github.com/croffasia/cc-blueprint-toolkit)** R:🟢 M:🟡 — 🏗️  Claude Code Plugin for smart blueprint-driven development by croffasia *(180 ⭐)*
+- ⌨️ **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
+- ⌨️ **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟡 — claude code workflow by ysicing *(36 ⭐)*
 - 📦 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟢 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(41.4k ⭐)*
 - 📦 **[AionUi](https://github.com/iOfficeAI/AionUi)** R:🟢 M:🟢 — Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! by iOfficeAI *(12.5k ⭐)*
 
@@ -90,11 +88,6 @@
 
 - 📦 **[Marketing Skills](https://github.com/coreyhaines31/marketingskills)** R:🟢 M:🟢 — Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering. by coreyhaines31 *(6.6k ⭐)*
 
-## ⚡ Productivity
-
-- 📄 **[aichat](https://github.com/sigoden/aichat)** R:🟢 M:🟢 — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. by sigoden *(9.2k ⭐)*
-- 📄 **[shell_gpt](https://github.com/TheR1D/shell_gpt)** R:🟢 M:🟢 — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently. by TheR1D *(11.8k ⭐)*
-
 ## 🎬 Media
 
 - 📦 **[Remotion Skills](https://github.com/remotion-dev/skills)** R:🟢 M:🟢 — Agent Skills by remotion-dev *(1.5k ⭐)*
@@ -111,7 +104,6 @@
 
 ## 🔗 Integrations
 
-- 📄 **[aix](https://github.com/projectdiscovery/aix)** R:🟢 M:🟢 — AIx is a cli tool to interact with Large Language Models (LLM) APIs. by projectdiscovery *(311 ⭐)*
 - 📄 **[cc-marketplace](https://github.com/ananddtyagi/cc-marketplace)** R:🟢 M:🟢 — Marketplace repo for Claude Code Plugins by ananddtyagi *(639 ⭐)*
 - 📄 **[claude-code-skills](https://github.com/daymade/claude-code-skills)** R:🟢 M:🟢 — Professional Claude Code skills marketplace featuring production-ready skills for enhanced development workflows. by daymade *(559 ⭐)*
 - 📄 **[claude-plugins](https://github.com/Kamalnrf/claude-plugins)** R:🟢 M:🟢 — Lightweight registry to discover, install, and manage all public Claude plugins and agent skills for your favourite AI coding agent. by Kamalnrf *(436 ⭐)*
@@ -135,9 +127,7 @@
 
 - 📄 **[awesome-agent-skills](https://github.com/VoltAgent/awesome-agent-skills)** R:🟢 M:🟢 — Claude Code Skills and 200+ agent skills from official dev teams and the community, compatible with Codex, Antigravity, Gemini CLI, Cursor and others. by VoltAgent *(6.4k ⭐)*
 - 📄 **[claudian](https://github.com/YishenTu/claudian)** R:🟢 M:🟢 — An Obsidian plugin that embeds Claude Code as an AI collaborator in your vault by YishenTu *(2.1k ⭐)*
-- 📄 **[gptme](https://github.com/gptme/gptme)** R:🟢 M:🟢 — Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. by gptme *(4.2k ⭐)*
 - 📄 **[obsidian-skills](https://github.com/kepano/obsidian-skills)** R:🟢 M:🟢 — Agent skills for Obsidian by kepano *(9.3k ⭐)*
-- 📄 **[papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero)** R:🟢 M:🟢 — A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3, Claude, Grok, DeepSeek, OpenRouter, Kimi 2.5, GLM 4.7, SiliconFlow, GPT-oss, Gemma 3, Qwen 3 by papersgpt *(2.1k ⭐)*
 - 📄 **[raptor](https://github.com/gadievron/raptor)** R:🟢 M:🟢 — Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations. by gadievron *(1.1k ⭐)*
 - 📄 **[videocut-skills](https://github.com/Ceeon/videocut-skills)** R:🟢 M:🟢 — 用 Claude Code Skills 做的视频剪辑 Agent by Ceeon *(847 ⭐)*
 - 📄 **[OpenContext](https://github.com/0xranx/OpenContext)** R:🟢 M:🟢 — A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos. by 0xranx *(370 ⭐)*
@@ -151,6 +141,7 @@
 - 📄 **[agentica](https://github.com/wrtnlabs/agentica)** R:🟢 M:🟢 — TypeScript AI AI Function Calling Framework enhanced by compiler skills. by wrtnlabs *(990 ⭐)*
 - 📄 **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** R:🟢 M:🟢 — The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. by sickn33 *(7.8k ⭐)*
 - 📄 **[claude-code-plugins-plus-skills](https://github.com/jeremylongshore/claude-code-plugins-plus-skills)** R:🟢 M:🟢 — 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0 by jeremylongshore *(1.3k ⭐)*
+- 📚 **[dotai](https://github.com/udecode/dotai)** R:🟢 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
 - 📄 **[claude-codex-settings](https://github.com/fcakyon/claude-codex-settings)** R:🟢 M:🟢 — My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily. by fcakyon *(404 ⭐)*
 - 📄 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** R:🟢 M:🟢 — A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more. by abubakarsiddik31 *(426 ⭐)*
 - 📄 **[antigravity-skills](https://github.com/guanyang/antigravity-skills)** R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(170 ⭐)*
