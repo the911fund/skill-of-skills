@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-172-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-173-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-11-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-2612k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**172 tools** discovered across 11 categories
+**173 tools** discovered across 11 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +32,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[mcpctl](https://github.com/vessl-ai/mcpctl)** R:🟢 M:🟠 — mcpctl - mcpctl tool orchestrator by vessl-ai *(40 ⭐)*
+- 📚 **[react-debugger](https://github.com/reillyjodonnell/react-debugger)** R:🟢 M:🟠 — Supercharge agents with React runtime values. by reillyjodonnell *(25 ⭐)*
 - 📚 **[dotfiles](https://github.com/posquit0/dotfiles)** R:🟢 M:🟡 — :zap: Awesome configurations for the development environments by posquit0 *(202 ⭐)*
 - 📚 **[reliverse](https://github.com/reliverse/reliverse)** R:🟢 M:🟡 — 🏯 rse (prev. @reliverse/cli) is a js/ts, e.g. next.js, app creator inside your terminal. you can just use a template or start from scratch. you can set everything up automatically or configure everything exactly the way you like. you can have it all, with all the tools already prepared for you. by reliverse *(118 ⭐)*
 - 📚 **[codeglide-mcpgen](https://github.com/CodeGlide/codeglide-mcpgen)** R:🟢 M:🟠 — Generation of Secure MCP (Model Context Protocol) Servers from API source code at Scale by CodeGlide *(76 ⭐)*
-- 📚 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(77 ⭐)*
+- 📚 **[mcpctl](https://github.com/vessl-ai/mcpctl)** R:🟢 M:🟠 — mcpctl - mcpctl tool orchestrator by vessl-ai *(40 ⭐)*
 
 ---
 
@@ -100,6 +100,7 @@
 - 📚 **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
 - 📚 **[vvm](https://github.com/karanchawla/vvm)** R:🟢 M:🟢 — vibe virtual machine by karanchawla *(67 ⭐)*
 - 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
+- 📚 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(77 ⭐)*
 
 ## 📚 Documentation
 
@@ -307,5 +308,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-07 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-08 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
