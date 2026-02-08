@@ -99,7 +99,7 @@
 - 📚 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** R:🟢 M:🟡 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(42 ⭐)*
 - 📚 **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟡 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(40 ⭐)*
 - 📚 **[vvm](https://github.com/karanchawla/vvm)** R:🟢 M:🟢 — vibe virtual machine by karanchawla *(67 ⭐)*
-- 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
+- 📚 **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟡 — claude code workflow by ysicing *(36 ⭐)*
 - 📚 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(77 ⭐)*
 
 ## 📚 Documentation
