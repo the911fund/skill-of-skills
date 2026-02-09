@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-119-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-122-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-609k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**119 tools** discovered across 10 categories
+**122 tools** discovered across 10 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[buttercut](https://github.com/barefootford/buttercut)** R:🟢 M:🟡 — Edit Video with Claude Code by barefootford *(134 ⭐)*
+- ⌨️ **[claude-code-orchestrator-kit](https://github.com/maslennikov-ig/claude-code-orchestrator-kit)** R:🟢 M:🟢 — 🎼 Turn Claude Code into a production powerhouse. 33+ AI agents automate bug fixing, security scanning,   and dependency management. 19 slash commands, 6 MCP configs (600-5000 tokens), quality gates, and health monitoring. Ship faster, ship safer, ship smarter. by maslennikov-ig *(93 ⭐)*
+- ⌨️ **[splitrail](https://github.com/Piebald-AI/splitrail)** R:🟢 M:🟢 — Fast, cross-platform, real-time token usage tracker and cost monitor for Gemini CLI / Claude Code / Codex CLI / Qwen Code / Cline / Roo Code / Kilo Code / GitHub Copilot / OpenCode / Pi Agent / Piebald. by Piebald-AI *(103 ⭐)*
 - ⌨️ **[toolhive](https://github.com/stacklok/toolhive)** R:🟢 M:🟢 — ToolHive makes deploying MCP servers easy, secure and fun by stacklok *(1.6k ⭐)*
 - ⌨️ **[Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)** R:🟢 M:🟢 — Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. by parcadei *(3.5k ⭐)*
-- ⌨️ **[ContextX](https://github.com/yzfly/ContextX)** R:🟢 M:🔴 — ContextX: Context-driven AI development framework powered by Claude Code. Transform documents into complete projects with intelligent agent workflows. by yzfly *(62 ⭐)*
-- ⌨️ **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** R:🟢 M:🟢 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(342 ⭐)*
-- ⌨️ **[zacs-claude-skills](https://github.com/enbyaugust/zacs-claude-skills)** R:🟢 M:🟢 — Zac's collection of Claude Code skills for development workflows, testing, and quality assurance by enbyaugust *(30 ⭐)*
 
 ---
 
@@ -182,6 +182,9 @@
 - ⌨️ **[claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)** R:🟢 M:🟢 — Claude Code専用の開発ハーネス - 自律的なPlan→Work→Reviewサイクルで高品質な開発を実現 by Chachamaru127 *(167 ⭐)*
 - ⌨️ **[mcp-wordpress](https://github.com/docdyhr/mcp-wordpress)** R:🟢 M:🟢 — MCP Server to manage a Wordpress CMS system. by docdyhr *(63 ⭐)*
 - ⌨️ **[reddit-research-mcp](https://github.com/king-of-the-grackles/reddit-research-mcp)** R:🟢 M:🟡 — Turn Reddit's chaos into structured insights with full citations. MCP server for competitive analysis, customer discovery, and market research. Zero-setup hosted solution with semantic search across 20,000+ subreddits. by king-of-the-grackles *(83 ⭐)*
+- ⌨️ **[zacs-claude-skills](https://github.com/enbyaugust/zacs-claude-skills)** R:🟢 M:🟢 — Zac's collection of Claude Code skills for development workflows, testing, and quality assurance by enbyaugust *(30 ⭐)*
+- ⌨️ **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** R:🟢 M:🟢 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(342 ⭐)*
+- ⌨️ **[ContextX](https://github.com/yzfly/ContextX)** R:🟢 M:🔴 — ContextX: Context-driven AI development framework powered by Claude Code. Transform documents into complete projects with intelligent agent workflows. by yzfly *(62 ⭐)*
 
 ---
 
