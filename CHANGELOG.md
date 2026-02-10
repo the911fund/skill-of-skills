@@ -3,6 +3,31 @@
 All notable changes to Skill of Skills will be documented in this file.
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+## [2.0.0] - 2026-02-10
+
+### Added
+- **AI Risk Assessment**: New tools are analyzed by Claude Haiku for risk signals (shell access, subagents, credential handling)
+- **SBOM Dependency Scanning**: GitHub SBOM API checks for known CVEs in dependencies
+- **Daily Metadata Refresh** (Workflow 13): Automatically updates star counts, releases, and maintenance status at 3AM UTC
+- **4 new categories**: DevOps & Monitoring, Editor & IDE, Orchestration, Learning & Guides (15 total)
+- **Multi-signal maintenance status**: Active (<90d), Stable (>90d + releases), Stale (90-365d, no releases), Unmaintained (>365d), Unknown
+- **3-strike auto-deactivation**: Tools returning API errors on 3 consecutive daily refreshes are deactivated with Discord alert
+- **Machine-readable API**: `/llms.txt` endpoint for AI agent consumption
+- **Single-source taxonomy**: `config/taxonomy.json` with category keywords for AI categorization
+- **9 new database columns**: stars_verified_at, stars_previous, release_count, latest_release_at, open_issues_count, refresh_error_count, category_confidence, dep_vuln_count, dep_scan_date
+
+### Changed
+- Validator workflow (05) expanded from 14 to 19 nodes with risk assessment pipeline
+- Insert Tool now uses `ON CONFLICT DO UPDATE` instead of `DO NOTHING` (prevents silent pipeline breaks)
+- Maintenance statuses renamed: Maintained → Stable, Inactive → Unmaintained
+- Active threshold changed from 30 days to 90 days
+- Categorization prompt updated with disambiguation rules for new categories
+- All 134 active tools re-categorized with confidence scores
+
+### Removed
+- Deactivated Workflow 07 (README Generator) — replaced by web app API route
+- Removed old maintenance thresholds (30/90/180 days)
+
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## [1.1.2] - 2026-02-02
