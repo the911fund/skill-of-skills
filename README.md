@@ -253,26 +253,33 @@
 
 ## How It Works
 
-This directory is automatically updated by the Skill of Skills discovery engine every hour:
+This directory is automatically updated by the Skill of Skills discovery engine:
 
 ```mermaid
 flowchart LR
-    subgraph ":10 Discovery & Validation"
+    subgraph "Discovery & Validation"
         A[🔍 GitHub Scan] --> B[📋 Tool Validation]
-        B --> C[🤖 AI Categorization]
+        B --> C[🛡️ Risk Assessment]
+        C --> D[🤖 AI Categorization]
     end
-    subgraph ":25 Publishing"
-        C --> D[📝 README Update]
-        D --> E[🌐 Web Directory]
+    subgraph "Daily Refresh"
+        E[⭐ Star Count] --> F[📦 Releases]
+        F --> G[🔄 Maintenance Status]
     end
-    E --> F[✅ Live on GitHub]
+    subgraph "Publishing"
+        D --> H[📝 README Update]
+        G --> H
+        H --> I[🌐 Web Directory]
+    end
+    I --> J[✅ Live on GitHub]
 ```
 
 | Schedule | Stage | Description |
 |:--------:|-------|-------------|
-| **:10** | Discovery | Scans GitHub for new Claude Code tools |
-| **:10** | Validation | Validates structure & AI categorizes |
-| **:25** | Publishing | Updates README & web directory |
+| **Hourly** | Discovery | Scans GitHub for new Claude Code tools |
+| **Hourly** | Validation | Validates, risk-assesses & AI categorizes |
+| **Daily 3AM** | Metadata Refresh | Updates stars, releases, maintenance status |
+| **On Change** | Publishing | Regenerates README & web directory |
 
 ## License
 
