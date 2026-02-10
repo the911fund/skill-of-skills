@@ -2,71 +2,83 @@
 
 ## Risk Assessment Methodology
 
-Skill of Skills automatically assesses the risk level of discovered tools based on multiple factors.
+Skill of Skills uses AI-powered risk classification to assess discovered tools. Each tool entering the pipeline is analyzed by Claude Haiku, which examines the repository's code patterns, permissions, and capabilities.
 
 ### Risk Levels
 
-| Level | Icon | Score Multiplier | Description |
-|-------|------|------------------|-------------|
-| **Low** | 🟢 | 1.0 | Standard permissions, safe for general use |
-| **Medium** | 🟡 | 0.85 | Extended permissions, review recommended |
-| **High** | 🔴 | 0.6 | Broad system access, careful evaluation needed |
-| **Critical** | ⚫ | 0.1 | Requires manual review before use |
+| Level | Description |
+|-------|-------------|
+| **Low** | Standard permissions, safe for general use |
+| **Medium** | Extended permissions (shell access, file writes), review recommended |
+| **High** | Broad system access, credential handling, or dynamic code evaluation |
 
-### Risk Factors
+### What the AI Evaluates
 
-Tools are flagged for elevated risk if they contain:
+The risk assessment examines:
+
+- **SKILL.md / plugin manifest**: Declared permissions and capabilities
+- **File markers**: Presence of `mcp.json`, `claude-plugin.json`, `SKILL.md`
+- **Repository metadata**: License, description, organization
+- **Dependency vulnerabilities**: GitHub SBOM API for known CVEs
+
+### Signals That Elevate Risk
 
 **Medium Risk Indicators**
 - Shell command execution (`exec`, `spawn`, `child_process`)
-- Subprocess spawning
-- Subagent capabilities
-- File system modifications
+- Subprocess or subagent spawning
+- File system write operations
 - Network requests to external services
 
 **High Risk Indicators**
-- `sudo` or root access
+- `sudo` or root access patterns
 - Broad file system access (`rm -rf`, `chmod 777`)
-- Credential handling
+- Credential handling or storage
 - System configuration changes
 - Dynamic code evaluation (`eval`)
+- Multiple medium-risk indicators combined
 
-**Critical Risk Indicators**
-- Multiple high-risk factors combined
-- Known malicious patterns
-- Missing license or attribution
-- Heavily obfuscated code
+### Validation Gates
 
-### Validation Process
+Tools pass through validation before being indexed:
 
-1. **Automatic Scanning**: Code is scanned for risk patterns
-2. **Sandbox Testing**: Installation is tested in isolated GitHub Actions runner
-3. **Community Signals**: High engagement from trusted influencers increases confidence
-4. **Manual Review**: Critical-risk tools require human review
+1. **Claude Relevance Check**: Must be related to Claude Code, MCP, or Anthropic tooling
+2. **Star Threshold**: Minimum star count for community validation
+3. **AI Risk Classification**: Automated risk level assignment with reasoning
+4. **Dependency Scan**: GitHub SBOM checked for known vulnerabilities
+5. **3-Strike Deactivation**: Tools returning API errors on 3 consecutive daily refreshes are automatically deactivated
+
+## Maintenance Status
+
+Tool health is continuously monitored via daily metadata refresh:
+
+| Status | Criteria |
+|--------|----------|
+| **Active** | Committed within last 90 days |
+| **Stable** | >90 days since commit but has tagged releases (feature-complete) |
+| **Stale** | 90-365 days without commits and no releases |
+| **Unmaintained** | >365 days without commits |
 
 ## Recommendations
 
 ### Before Installing Any Tool
 
-1. **Check the Risk Level**: Look for the risk indicator
+1. **Check the Risk Level**: Displayed on each tool's detail page
 2. **Review the Source**: Visit the GitHub repository
-3. **Read the Code**: Especially for medium+ risk tools
-4. **Check Stars & Activity**: More stars and recent commits suggest active maintenance
-5. **Review Permissions**: Understand what access the tool requests
+3. **Check Maintenance Status**: Active and Stable tools are healthier choices
+4. **Review Permissions**: Understand what access the tool requests
+5. **Check Dependencies**: Vulnerability count is shown when available
 
 ### For Medium Risk Tools
 
 - Review the README and documentation
 - Check what shell commands are executed
 - Verify the author's reputation
-- Consider sandboxed testing first
 
-### For High/Critical Risk Tools
+### For High Risk Tools
 
 - Full code review recommended
 - Test in isolated environment
 - Verify with multiple sources
-- Contact maintainer if unclear
 
 ## Reporting Security Issues
 
@@ -89,17 +101,12 @@ If you find a security issue in a tool we've indexed:
 
 ## Disclaimer
 
-Skill of Skills provides risk assessments as guidance only. We do not guarantee the safety of any indexed tool. Always:
+Skill of Skills provides risk assessments as guidance only. AI classification is not a substitute for manual code review. Always:
 
 - Review code before running
 - Use sandboxed environments for testing
 - Follow your organization's security policies
-- Take responsibility for tools you install
-
-## Updates
-
-This security policy is reviewed and updated regularly. Check back for the latest guidance.
 
 ---
 
-*Security is a shared responsibility. Use tools wisely.* 🔒
+*Security is a shared responsibility. Use tools wisely.*
