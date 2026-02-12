@@ -184,7 +184,7 @@
 - ⌨️ **[pipecat-mcp-server](https://github.com/pipecat-ai/pipecat-mcp-server)** R:🟢 M:🟢 — Pipecat MCP server for your AI agents by pipecat-ai *(56 ⭐)*
 - ⌨️ **[claude-code-mcp](https://github.com/steipete/claude-code-mcp)** R:🟢 M:🟢 — Claude Code as one-shot MCP server to have an agent in your agent. by steipete *(1.1k ⭐)*
 - 📄 **[dotagents](https://github.com/iannuttall/dotagents)** R:🟢 M:🟢 — One location for all of your hooks, commands, skills, and AGENT/CLAUDE.md files. by iannuttall *(609 ⭐)*
-- ⌨️ **[orchestr8](https://github.com/seth-schultz/orchestr8)** R:🟢 M:🟢 — The Future of AI-Powered Development: Orchestr8 Transforms Claude Code Into a Complete Software Engineering Team by seth-schultz *(63 ⭐)*
+- ⌨️ **[orchestr8](https://github.com/seth-schultz/orchestr8)** R:🟢 M:✅ — The Future of AI-Powered Development: Orchestr8 Transforms Claude Code Into a Complete Software Engineering Team by seth-schultz *(63 ⭐)*
 - ⌨️ **[conductor_cc](https://github.com/pilotparpikhodjaev/conductor_cc)** R:🟢 M:🟢 — Conductor brings context-driven development to Claude Code. It turns your workflow into a disciplined lifecycle: Context -> Spec and Plan -> Implement. The result is deliberate, reviewable work that scales across teams and projects. by pilotparpikhodjaev *(41 ⭐)*
 - ⌨️ **[The-Claude-Protocol](https://github.com/AvivK5498/The-Claude-Protocol)** R:🟢 M:🟢 — Mutli-Agent orchestration workflow for Claude Code with automated task management using Beads CLI by AvivK5498 *(120 ⭐)*
 - ⌨️ **[Code-Index-MCP](https://github.com/ViperJuice/Code-Index-MCP)** R:🟢 M:🟢 — Code indexing MCP server to provide context to coding agents. by ViperJuice *(33 ⭐)*
@@ -288,5 +288,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-11 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-12 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
