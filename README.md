@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-134-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-135-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-14-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-569k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**134 tools** discovered across 14 categories
+**135 tools** discovered across 14 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -35,11 +35,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[worktree-manager-skill](https://github.com/Wirasm/worktree-manager-skill)** R:🟡 M:🟢 — a claude code skill for effortless worktree management by Wirasm *(119 ⭐)* — discovered Feb 13
 - ⌨️ **[skill-codex](https://github.com/skills-directory/skill-codex)** R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(555 ⭐)* — discovered Feb 10
 - ⌨️ **[n8n-skills](https://github.com/czlonkowski/n8n-skills)** R:🟢 M:🟢 — n8n skillset for Claude Code to build flawless n8n workflows by czlonkowski *(2.6k ⭐)* — discovered Feb 10
-- ⌨️ **[execute_code_py](https://github.com/rvantonder/execute_code_py)** R:🟢 M:🟢 — A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment. by rvantonder *(57 ⭐)* — discovered Feb 10
 - ⌨️ **[ai-daily-skill](https://github.com/geekjourneyx/ai-daily-skill)** R:🟢 M:🟢 — AI 资讯日报 Claude Code Skill - 每天自动获取、分析、归类 AI 前沿资讯 by geekjourneyx *(144 ⭐)* — discovered Feb 10
-- ⌨️ **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(407 ⭐)* — discovered Feb 10
+- ⌨️ **[execute_code_py](https://github.com/rvantonder/execute_code_py)** R:🟢 M:🟢 — A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment. by rvantonder *(57 ⭐)* — discovered Feb 10
 
 ---
 
@@ -140,6 +140,7 @@
 - ⌨️ **[ask-user-questions-mcp](https://github.com/paulp-o/ask-user-questions-mcp)** R:🟢 M:🟢 — Better 'AskUserQuestion' - A lightweight MCP server/OpenCode plugin/Agent Skills + CLI tool that allows your LLMs ask questions to you. Be the human in the human-in-the-loop! by paulp-o *(46 ⭐)*
 - 📄 **[claude-skills](https://github.com/trkbt10/claude-skills)** R:🟢 M:🟢 — てるきちの楽しいCalude Skills by trkbt10 *(35 ⭐)*
 - ⌨️ **[platform-design-skills](https://github.com/ehmo/platform-design-skills)** R:🟢 M:🟢 — Agent skills for building and evaluating apps against official design guidelines. 300+ actionable rules for iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android,   and Web — distilled from Apple HIG, Material Design 3, and WCAG 2.2. Works with Claude Code, Codex, and any agent that supports the Agent Skills format. by ehmo *(177 ⭐)*
+- ⌨️ **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(407 ⭐)*
 - ⌨️ **[ContextX](https://github.com/yzfly/ContextX)** R:🟢 M:🟠 — ContextX: Context-driven AI development framework powered by Claude Code. Transform documents into complete projects with intelligent agent workflows. by yzfly *(62 ⭐)*
 - 📄 **[OpenContext](https://github.com/0xranx/OpenContext)** R:🟢 M:🟢 — A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos. by 0xranx *(379 ⭐)*
 - 📄 **[raptor](https://github.com/gadievron/raptor)** R:🟢 M:🟢 — Raptor turns Claude Code into a general-purpose AI offensive/defensive security agent. By using Claude.md and creating rules, sub-agents, and skills, and orchestrating security tool usage, we configure the agent for adversarial thinking, and perform research or attack/defense operations. by gadievron *(1.1k ⭐)*
