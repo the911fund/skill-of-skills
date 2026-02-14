@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-158-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-160-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-574k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**158 tools** discovered across 15 categories
+**160 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[Textum](https://github.com/snakeying/Textum)** R:🟡 M:🟢 — Structured workflow that stops AI from forgetting your requirements. 4 phases with validation gates. Not smarter AI, just controllable process. Weave ideas into code that actually works. by snakeying *(41 ⭐)* — discovered Feb 14
+- 📚 **[plutonium-core](https://github.com/radioactive-labs/plutonium-core)** R:🟡 M:🟢 — Build production-ready Rails apps in minutes, not days. Convention-driven, fully customizable, AI-ready. by radioactive-labs *(54 ⭐)* — discovered Feb 14
 - 📚 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** R:🟡 M:🟠 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(911 ⭐)* — discovered Feb 14
 - 📚 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟡 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)* — discovered Feb 14
 - 📚 **[knowledge-manager](https://github.com/treylom/knowledge-manager)** R:🟡 M:🟢 — Knowledge Manager Agent for Claude Code - Extract and organize content from web, PDF, social media to Obsidian/Notion by treylom *(25 ⭐)* — discovered Feb 14
-- 📚 **[WordPress-Publishing-Skill-For-Claude](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude)** R:🟡 M:🟢 — WordPress Publishing Skill For Claude by Asif2BD *(27 ⭐)* — discovered Feb 14
-- 📚 **[claude-code-plugin](https://github.com/browserbase/claude-code-plugin)** R:🟡 M:🟢 — Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome by browserbase *(66 ⭐)* — discovered Feb 14
 
 ---
 
@@ -111,7 +111,6 @@
 
 - 📄 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(617 ⭐)*
 - ⌨️ **[claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net)** R:🟡 M:🟢 — A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. by kenryu42 *(986 ⭐)*
-- 📚 **[skills](https://github.com/trailofbits/skills)** R:🟡 M:🟢 — Agent skills for squirrelscan website audit tool by trailofbits *(2.5k ⭐)*
 
 ## 🔗 Integrations
 
@@ -166,6 +165,7 @@
 - ⌨️ **[ralph](https://github.com/snarktank/ralph)** R:🟡 M:🟢 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(9.9k ⭐)*
 - ⌨️ **[ralphex](https://github.com/umputun/ralphex)** R:🟡 M:🟢 — Extended Ralph loop for autonomous AI-driven plan execution by umputun *(318 ⭐)*
 - ⌨️ **[code-pilot](https://github.com/ysicing/code-pilot)** R:🟢 M:🟢 — claude code workflow by ysicing *(36 ⭐)*
+- 📚 **[skills](https://github.com/trailofbits/skills)** R:🟡 M:🟢 — Agent skills for squirrelscan website audit tool by trailofbits *(2.5k ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -232,11 +232,13 @@
 - 📚 **[solana-claude-config](https://github.com/solanabr/solana-claude-config)** R:🟡 M:🟢 — Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile and more. by solanabr *(26 ⭐)*
 - 📚 **[template-repo](https://github.com/AndrewAltimit/template-repo)** R:🟡 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(107 ⭐)*
 - 📚 **[claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter)** R:🟡 M:🟢 — Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go. by ArtemXTech *(92 ⭐)*
-- 📚 **[lisa](https://github.com/blencorp/lisa)** R:🟡 M:🟢 — Lisa plans. Ralph does. Interactive specification interview workflow for Claude Code that conducts in-depth feature interviews and generates comprehensive specs. by blencorp *(106 ⭐)*
 - 📚 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟡 M:🟢 — A simple memory system for claude code by rlancemartin *(318 ⭐)*
+- 📚 **[lisa](https://github.com/blencorp/lisa)** R:🟡 M:🟢 — Lisa plans. Ralph does. Interactive specification interview workflow for Claude Code that conducts in-depth feature interviews and generates comprehensive specs. by blencorp *(106 ⭐)*
+- 📚 **[WordPress-Publishing-Skill-For-Claude](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude)** R:🟡 M:🟢 — WordPress Publishing Skill For Claude by Asif2BD *(27 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 - 📚 **[mcp-filter](https://github.com/pro-vi/mcp-filter)** R:🟡 M:🟠 — A proxy MCP (Model Context Protocol) server that filters the upstream tool surface to just the tools you need. by pro-vi *(45 ⭐)*
 - 📚 **[Scientific-Papers-MCP](https://github.com/benedict2310/Scientific-Papers-MCP)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server that provides LLMs with real-time access to scientific papers from arXiv and OpenAlex. by benedict2310 *(40 ⭐)*
+- 📚 **[claude-code-plugin](https://github.com/browserbase/claude-code-plugin)** R:🟡 M:🟢 — Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome by browserbase *(66 ⭐)*
 - 📚 **[circuitron](https://github.com/Shaurya-Sethi/circuitron)** R:🟡 M:🟢 — Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. by Shaurya-Sethi *(60 ⭐)*
 - 📚 **[vm0](https://github.com/vm0-ai/vm0)** R:🟡 M:🟢 — the easiest way to run natural language-described workflows automatically by vm0-ai *(1.0k ⭐)*
 - 📚 **[everything-claude-code-mobile](https://github.com/ahmed3elshaer/everything-claude-code-mobile)** R:🟡 M:🟢 — Makes Claude code mobile first by ahmed3elshaer *(26 ⭐)*
