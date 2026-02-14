@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-215-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-220-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-617k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-624k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**215 tools** discovered across 15 categories
+**220 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔗 **[sora-devtools](https://github.com/shiguredo/sora-devtools)** R:🟡 M:🟢 — Sora DevTools by shiguredo *(25 ⭐)* — discovered Feb 14
-- 🔗 **[coder](https://github.com/coder/coder)** R:🟡 M:🟢 — Secure environments for developers and their agents by coder *(12.2k ⭐)* — discovered Feb 14
-- 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟡 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)* — discovered Feb 14
-- 🔗 **[speckit](https://github.com/jmanhype/speckit)** R:🟡 M:🟢 — Specification-Driven Development with Beads Integration - A comprehensive workflow system for AI-assisted software development by jmanhype *(10 ⭐)* — discovered Feb 14
-- ⌨️ **[juno-code](https://github.com/askbudi/juno-code)** R:🟡 M:🟢 — Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Gemini, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run. by askbudi *(48 ⭐)* — discovered Feb 14
+- 🔌 **[linkedin-article-publisher-skill](https://github.com/iamzifei/linkedin-article-publisher-skill)** R:🟡 M:🟢 — Claude Skill that publish on LinkedIn article by iamzifei *(10 ⭐)* — discovered Feb 14
+- 🔌 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** R:🟡 M:🟢 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(679 ⭐)* — discovered Feb 14
+- 🔌 **[claude-stt](https://github.com/jarrodwatts/claude-stt)** R:🟡 M:🟢 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(335 ⭐)* — discovered Feb 14
+- 🔌 **[myclaude](https://github.com/cexll/myclaude)** R:🟡 M:🟢 — Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) by cexll *(2.3k ⭐)* — discovered Feb 14
+- 🔗 **[MQTT-Explorer](https://github.com/thomasnordquist/MQTT-Explorer)** R:🟡 M:🟢 — An all-round MQTT client that provides a structured topic overview by thomasnordquist *(3.8k ⭐)* — discovered Feb 14
 
 ---
 
@@ -269,6 +269,11 @@
 - 🔌 **[agent-cli](https://github.com/basnijholt/agent-cli)** R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(112 ⭐)*
 - 🔌 **[universal-dev-standards](https://github.com/AsiaOstrich/universal-dev-standards)** R:🟡 M:🟢 — Universal, language-agnostic development standards for software projects. Includes coding standards, git workflows, testing guidelines, documentation structure, and AI collaboration rules. by AsiaOstrich *(36 ⭐)*
 - 🔌 **[a11y-specialist-skills](https://github.com/masuP9/a11y-specialist-skills)** R:🟡 M:🟢 — Accessibility specialist skills plugin for Claude Code. by masuP9 *(30 ⭐)*
+- 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟡 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)*
+- 🔗 **[speckit](https://github.com/jmanhype/speckit)** R:🟡 M:🟢 — Specification-Driven Development with Beads Integration - A comprehensive workflow system for AI-assisted software development by jmanhype *(10 ⭐)*
+- 🔗 **[sora-devtools](https://github.com/shiguredo/sora-devtools)** R:🟡 M:🟢 — Sora DevTools by shiguredo *(25 ⭐)*
+- 🔗 **[coder](https://github.com/coder/coder)** R:🟡 M:🟢 — Secure environments for developers and their agents by coder *(12.2k ⭐)*
+- ⌨️ **[juno-code](https://github.com/askbudi/juno-code)** R:🟡 M:🟢 — Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Gemini, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run. by askbudi *(48 ⭐)*
 - 🔌 **[Claude-Patent-Creator](https://github.com/RobThePCGuy/Claude-Patent-Creator)** R:🟡 M:🟢 — USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation. GPU-accelerated with skills and autonomous agents. by RobThePCGuy *(18 ⭐)*
 - 📚 **[linear-cli](https://github.com/joa23/linear-cli)** R:🟡 M:🟢 — A token-efficient CLI for Linear by joa23 *(32 ⭐)*
 - 📄 **[shannot](https://github.com/corv89/shannot)** R:🟡 M:🟢 — Human-in-the-loop execution for LLM agents by corv89 *(23 ⭐)*
