@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-191-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-198-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-601k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-604k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**191 tools** discovered across 15 categories
+**198 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[mobile-observability](https://github.com/nexus-labs-automation/mobile-observability)** R:🟡 M:🟢 — Claude Code plugin for mobile app observability: crash reporting, performance monitoring, and instrumentation for iOS, Android, and React Native by nexus-labs-automation *(100 ⭐)* — discovered Feb 14
-- 🔌 **[claude-code-settings](https://github.com/feiskyer/claude-code-settings)** R:🟡 M:🟢 — Claude Code settings, commands and agents for vibe coding by feiskyer *(1.2k ⭐)* — discovered Feb 14
-- 🔗 **[codex-as-mcp](https://github.com/evilpsycho42/codex-as-mcp)** R:🟡 M:🟢 — Convert codex CLI tool to an MCP — unleash the power of GPT-5 by evilpsycho42 *(139 ⭐)* — discovered Feb 14
-- 📚 **[action_mcp](https://github.com/seuros/action_mcp)** R:🟡 M:🟢 — Rails Engine with MCP compliant Spec. by seuros *(89 ⭐)* — discovered Feb 14
-- 📚 **[dingo](https://github.com/MadAppGang/dingo)** R:🟡 M:🟢 — A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility by MadAppGang *(1.4k ⭐)* — discovered Feb 14
+- 🔌 **[maui](https://github.com/shinyorg/maui)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(10 ⭐)* — discovered Feb 14
+- 🔗 **[autotask-mcp](https://github.com/asachs01/autotask-mcp)** R:🟡 M:🟢 — MCP server for Kaseya Autotask PSA — 39 tools for companies, tickets, projects, time entries, and more by asachs01 *(21 ⭐)* — discovered Feb 14
+- 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟡 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)* — discovered Feb 14
+- 🔌 **[cc-caffeine](https://github.com/samber/cc-caffeine)** R:🟡 M:🟢 — ☕️ Prevents your computer from sleeping while Claude Code works hard by samber *(17 ⭐)* — discovered Feb 14
+- 🔗 **[claude-banana-story-agent](https://github.com/vtrivedy/claude-banana-story-agent)** R:🟡 M:🟠 — 🍌 Autonomous story agent creating illustrated storybooks with Claude Code SDK by vtrivedy *(21 ⭐)* — discovered Feb 14
 
 ---
 
@@ -242,12 +242,19 @@
 - 🔌 **[fluxwing-skills](https://github.com/trabian/fluxwing-skills)** R:🟡 M:🟢 — Claude skills for generating ASCII components and screens for humans to review, and AI to build from. by trabian *(12 ⭐)*
 - 🔌 **[agent-skills](https://github.com/apify/agent-skills)** R:🟡 M:🟢 — Collection of Apify Agent Skills by apify *(194 ⭐)*
 - 🔌 **[claude-laravel](https://github.com/leeovery/claude-laravel)** R:🟡 M:🟢 — Opinionated Laravel Skills & Commands for Claude Code by leeovery *(15 ⭐)*
+- 🔗 **[codex-as-mcp](https://github.com/evilpsycho42/codex-as-mcp)** R:🟡 M:🟢 — Convert codex CLI tool to an MCP — unleash the power of GPT-5 by evilpsycho42 *(139 ⭐)*
+- 📚 **[action_mcp](https://github.com/seuros/action_mcp)** R:🟡 M:🟢 — Rails Engine with MCP compliant Spec. by seuros *(89 ⭐)*
+- 🔌 **[mobile-observability](https://github.com/nexus-labs-automation/mobile-observability)** R:🟡 M:🟢 — Claude Code plugin for mobile app observability: crash reporting, performance monitoring, and instrumentation for iOS, Android, and React Native by nexus-labs-automation *(100 ⭐)*
+- 🔌 **[claude-code-settings](https://github.com/feiskyer/claude-code-settings)** R:🟡 M:🟢 — Claude Code settings, commands and agents for vibe coding by feiskyer *(1.2k ⭐)*
+- 📚 **[dingo](https://github.com/MadAppGang/dingo)** R:🟡 M:🟢 — A meta-language for Go that adds Result types, error propagation (?), and pattern matching while maintaining 100% Go ecosystem compatibility by MadAppGang *(1.4k ⭐)*
 - 🔌 **[cleo](https://github.com/kryptobaseddev/cleo)** R:🟡 M:🟢 — Production-grade task management for Claude Code with anti-hallucination protection by kryptobaseddev *(98 ⭐)*
 - ⌨️ **[dora](https://github.com/butttons/dora)** R:🟡 M:🟢 — CLI built for AI agents to help navigate codebases better. An alternative to grep/find/glob by butttons *(79 ⭐)*
 - 📚 **[qcc_plus](https://github.com/yxhpy/qcc_plus)** R:🟡 M:🟢 — Claude Code CLI 代理服务器 - 多租户、自动故障切换、Web 管理界面 by yxhpy *(39 ⭐)*
 - 📚 **[copilot-ralph](https://github.com/brenbuilds1/copilot-ralph)** R:🟡 M:🟢 — Copilot ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by brenbuilds1 *(46 ⭐)*
 - ⌨️ **[workflow-js](https://github.com/upstash/workflow-js)** R:🟡 M:🟢 — Durable, Reliable and Performant Serverless Functions by upstash *(148 ⭐)*
 - ⌨️ **[vector-js](https://github.com/upstash/vector-js)** R:🟡 M:🟢 — Upstash Vector JS SDK by upstash *(69 ⭐)*
+- ⌨️ **[unifi-mcp-server](https://github.com/enuno/unifi-mcp-server)** R:🟡 M:🟢 — An MCP server that leverages official UniFi API by enuno *(32 ⭐)*
+- 🔌 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** R:🟡 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(76 ⭐)*
 - 📚 **[template-repo](https://github.com/AndrewAltimit/template-repo)** R:🟡 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(107 ⭐)*
 - 📚 **[claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter)** R:🟡 M:🟢 — Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go. by ArtemXTech *(92 ⭐)*
 - 📚 **[circuitron](https://github.com/Shaurya-Sethi/circuitron)** R:🟡 M:🟢 — Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. by Shaurya-Sethi *(60 ⭐)*
