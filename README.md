@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-198-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-206-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-604k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-605k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**198 tools** discovered across 15 categories
+**206 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[maui](https://github.com/shinyorg/maui)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(10 ⭐)* — discovered Feb 14
-- 🔗 **[autotask-mcp](https://github.com/asachs01/autotask-mcp)** R:🟡 M:🟢 — MCP server for Kaseya Autotask PSA — 39 tools for companies, tickets, projects, time entries, and more by asachs01 *(21 ⭐)* — discovered Feb 14
-- 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟡 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)* — discovered Feb 14
-- 🔌 **[cc-caffeine](https://github.com/samber/cc-caffeine)** R:🟡 M:🟢 — ☕️ Prevents your computer from sleeping while Claude Code works hard by samber *(17 ⭐)* — discovered Feb 14
-- 🔗 **[claude-banana-story-agent](https://github.com/vtrivedy/claude-banana-story-agent)** R:🟡 M:🟠 — 🍌 Autonomous story agent creating illustrated storybooks with Claude Code SDK by vtrivedy *(21 ⭐)* — discovered Feb 14
+- 🔌 **[bad-daves-robot-army](https://github.com/dgriffith/bad-daves-robot-army)** R:🟡 M:🟠 — Repository for Claude Code artifacts, including subagents, slash commands, and hooks by dgriffith *(54 ⭐)* — discovered Feb 14
+- 🔌 **[ProjectOdyssey](https://github.com/HomericIntelligence/ProjectOdyssey)** R:🟡 M:🟢 — Training framework written in Mojo by HomericIntelligence *(13 ⭐)* — discovered Feb 14
+- 🔌 **[awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)** R:🟡 M:🟢 — Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties by Eyadkelleh *(29 ⭐)* — discovered Feb 14
+- 📚 **[ship](https://github.com/cloudshipai/ship)** R:🟡 M:🟢 — CloudshipAI CLI by cloudshipai *(50 ⭐)* — discovered Feb 14
+- 🔌 **[rr](https://github.com/rileyhilliard/rr)** R:🟡 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(145 ⭐)* — discovered Feb 14
 
 ---
 
@@ -253,9 +253,17 @@
 - 📚 **[copilot-ralph](https://github.com/brenbuilds1/copilot-ralph)** R:🟡 M:🟢 — Copilot ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by brenbuilds1 *(46 ⭐)*
 - ⌨️ **[workflow-js](https://github.com/upstash/workflow-js)** R:🟡 M:🟢 — Durable, Reliable and Performant Serverless Functions by upstash *(148 ⭐)*
 - ⌨️ **[vector-js](https://github.com/upstash/vector-js)** R:🟡 M:🟢 — Upstash Vector JS SDK by upstash *(69 ⭐)*
+- 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟡 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)*
+- 🔌 **[cc-caffeine](https://github.com/samber/cc-caffeine)** R:🟡 M:🟢 — ☕️ Prevents your computer from sleeping while Claude Code works hard by samber *(17 ⭐)*
+- 🔌 **[maui](https://github.com/shinyorg/maui)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(10 ⭐)*
+- 🔗 **[autotask-mcp](https://github.com/asachs01/autotask-mcp)** R:🟡 M:🟢 — MCP server for Kaseya Autotask PSA — 39 tools for companies, tickets, projects, time entries, and more by asachs01 *(21 ⭐)*
+- 🔗 **[claude-banana-story-agent](https://github.com/vtrivedy/claude-banana-story-agent)** R:🟡 M:🟠 — 🍌 Autonomous story agent creating illustrated storybooks with Claude Code SDK by vtrivedy *(21 ⭐)*
 - ⌨️ **[unifi-mcp-server](https://github.com/enuno/unifi-mcp-server)** R:🟡 M:🟢 — An MCP server that leverages official UniFi API by enuno *(32 ⭐)*
 - 🔌 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** R:🟡 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(76 ⭐)*
 - 📚 **[template-repo](https://github.com/AndrewAltimit/template-repo)** R:🟡 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(107 ⭐)*
+- 🔌 **[agent-cli](https://github.com/basnijholt/agent-cli)** R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(112 ⭐)*
+- 🔌 **[universal-dev-standards](https://github.com/AsiaOstrich/universal-dev-standards)** R:🟡 M:🟢 — Universal, language-agnostic development standards for software projects. Includes coding standards, git workflows, testing guidelines, documentation structure, and AI collaboration rules. by AsiaOstrich *(36 ⭐)*
+- 🔌 **[a11y-specialist-skills](https://github.com/masuP9/a11y-specialist-skills)** R:🟡 M:🟢 — Accessibility specialist skills plugin for Claude Code. by masuP9 *(30 ⭐)*
 - 📚 **[claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter)** R:🟡 M:🟢 — Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go. by ArtemXTech *(92 ⭐)*
 - 📚 **[circuitron](https://github.com/Shaurya-Sethi/circuitron)** R:🟡 M:🟢 — Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. by Shaurya-Sethi *(60 ⭐)*
 - 📚 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟡 M:🟢 — A simple memory system for claude code by rlancemartin *(318 ⭐)*
