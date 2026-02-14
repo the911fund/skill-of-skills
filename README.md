@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-206-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-215-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-605k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-617k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**206 tools** discovered across 15 categories
+**215 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[bad-daves-robot-army](https://github.com/dgriffith/bad-daves-robot-army)** R:🟡 M:🟠 — Repository for Claude Code artifacts, including subagents, slash commands, and hooks by dgriffith *(54 ⭐)* — discovered Feb 14
-- 🔌 **[ProjectOdyssey](https://github.com/HomericIntelligence/ProjectOdyssey)** R:🟡 M:🟢 — Training framework written in Mojo by HomericIntelligence *(13 ⭐)* — discovered Feb 14
-- 🔌 **[awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)** R:🟡 M:🟢 — Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties by Eyadkelleh *(29 ⭐)* — discovered Feb 14
-- 📚 **[ship](https://github.com/cloudshipai/ship)** R:🟡 M:🟢 — CloudshipAI CLI by cloudshipai *(50 ⭐)* — discovered Feb 14
-- 🔌 **[rr](https://github.com/rileyhilliard/rr)** R:🟡 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(145 ⭐)* — discovered Feb 14
+- 🔗 **[sora-devtools](https://github.com/shiguredo/sora-devtools)** R:🟡 M:🟢 — Sora DevTools by shiguredo *(25 ⭐)* — discovered Feb 14
+- 🔗 **[coder](https://github.com/coder/coder)** R:🟡 M:🟢 — Secure environments for developers and their agents by coder *(12.2k ⭐)* — discovered Feb 14
+- 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟡 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)* — discovered Feb 14
+- 🔗 **[speckit](https://github.com/jmanhype/speckit)** R:🟡 M:🟢 — Specification-Driven Development with Beads Integration - A comprehensive workflow system for AI-assisted software development by jmanhype *(10 ⭐)* — discovered Feb 14
+- ⌨️ **[juno-code](https://github.com/askbudi/juno-code)** R:🟡 M:🟢 — Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Gemini, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run. by askbudi *(48 ⭐)* — discovered Feb 14
 
 ---
 
@@ -260,10 +260,19 @@
 - 🔗 **[claude-banana-story-agent](https://github.com/vtrivedy/claude-banana-story-agent)** R:🟡 M:🟠 — 🍌 Autonomous story agent creating illustrated storybooks with Claude Code SDK by vtrivedy *(21 ⭐)*
 - ⌨️ **[unifi-mcp-server](https://github.com/enuno/unifi-mcp-server)** R:🟡 M:🟢 — An MCP server that leverages official UniFi API by enuno *(32 ⭐)*
 - 🔌 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** R:🟡 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(76 ⭐)*
+- 🔌 **[awesome-claude-skills-security](https://github.com/Eyadkelleh/awesome-claude-skills-security)** R:🟡 M:🟢 — Security testing toolkit for Claude Code: curated SecLists wordlists, injection payloads, and expert agents for authorized pentesting, CTFs, and bug bounties by Eyadkelleh *(29 ⭐)*
+- 📚 **[ship](https://github.com/cloudshipai/ship)** R:🟡 M:🟢 — CloudshipAI CLI by cloudshipai *(50 ⭐)*
+- 🔌 **[bad-daves-robot-army](https://github.com/dgriffith/bad-daves-robot-army)** R:🟡 M:🟠 — Repository for Claude Code artifacts, including subagents, slash commands, and hooks by dgriffith *(54 ⭐)*
+- 🔌 **[ProjectOdyssey](https://github.com/HomericIntelligence/ProjectOdyssey)** R:🟡 M:🟢 — Training framework written in Mojo by HomericIntelligence *(13 ⭐)*
+- 🔌 **[rr](https://github.com/rileyhilliard/rr)** R:🟡 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(145 ⭐)*
 - 📚 **[template-repo](https://github.com/AndrewAltimit/template-repo)** R:🟡 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(107 ⭐)*
 - 🔌 **[agent-cli](https://github.com/basnijholt/agent-cli)** R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(112 ⭐)*
 - 🔌 **[universal-dev-standards](https://github.com/AsiaOstrich/universal-dev-standards)** R:🟡 M:🟢 — Universal, language-agnostic development standards for software projects. Includes coding standards, git workflows, testing guidelines, documentation structure, and AI collaboration rules. by AsiaOstrich *(36 ⭐)*
 - 🔌 **[a11y-specialist-skills](https://github.com/masuP9/a11y-specialist-skills)** R:🟡 M:🟢 — Accessibility specialist skills plugin for Claude Code. by masuP9 *(30 ⭐)*
+- 🔌 **[Claude-Patent-Creator](https://github.com/RobThePCGuy/Claude-Patent-Creator)** R:🟡 M:🟢 — USPTO patent creation system with MCP server + Claude Code plugin. Hybrid RAG search over   MPEP/USC/CFR, BigQuery access to 76M+ patents, automated 35 USC 112 compliance checks, prior   art search, diagram generation. GPU-accelerated with skills and autonomous agents. by RobThePCGuy *(18 ⭐)*
+- 📚 **[linear-cli](https://github.com/joa23/linear-cli)** R:🟡 M:🟢 — A token-efficient CLI for Linear by joa23 *(32 ⭐)*
+- 📄 **[shannot](https://github.com/corv89/shannot)** R:🟡 M:🟢 — Human-in-the-loop execution for LLM agents by corv89 *(23 ⭐)*
+- 🔌 **[ralph-wiggum](https://github.com/hmemcpy/ralph-wiggum)** R:🟡 M:🟢 — Ralph Wiggum loop generator for iterative AI-driven development. Supports Claude Code and Amp. by hmemcpy *(16 ⭐)*
 - 📚 **[claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter)** R:🟡 M:🟢 — Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go. by ArtemXTech *(92 ⭐)*
 - 📚 **[circuitron](https://github.com/Shaurya-Sethi/circuitron)** R:🟡 M:🟢 — Circuitron: Agentic PCB Design Accelerator — Generate, plan, and layout circuits from natural language prompts. by Shaurya-Sethi *(60 ⭐)*
 - 📚 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟡 M:🟢 — A simple memory system for claude code by rlancemartin *(318 ⭐)*
