@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-283-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-290-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-636k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**283 tools** discovered across 15 categories
+**290 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)** R:🟡 M:🟠 — AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration. by RaphaelRegnier *(42 ⭐)* — discovered Feb 15
-- 🔌 **[git-surgeon](https://github.com/raine/git-surgeon)** R:🟡 M:🟢 — Git primitives for autonomous coding agents by raine *(14 ⭐)* — discovered Feb 15
-- ⌨️ **[llm-codes](https://github.com/amantus-ai/llm-codes)** R:🟡 M:🟢 — Transform developer documentation to clean Markdown by amantus-ai *(253 ⭐)* — discovered Feb 15
-- ⌨️ **[deep-code-reasoning-mcp](https://github.com/haasonsaas/deep-code-reasoning-mcp)** R:🟡 M:🟢 — A Model Context Protocol (MCP) server that provides advanced code analysis and reasoning capabilities powered by Google's Gemini AI by haasonsaas *(102 ⭐)* — discovered Feb 15
-- 📚 **[gatekit](https://github.com/gatekit-ai/gatekit)** R:🟡 M:🟢 — A hackable Model Context Protocol (MCP) gateway by gatekit-ai *(38 ⭐)* — discovered Feb 15
+- 🔗 **[flabr](https://github.com/iska9der/flabr)** R:🟡 M:🟢 — habr client on flutter by iska9der *(29 ⭐)* — discovered Feb 15
+- 🔌 **[RTFD](https://github.com/aserper/RTFD)** R:🟡 M:🟢 — Spoonfeed your AI coding assistant with up to date documentation efficiently and without using a cloud service with the RTFD mcp server that runs on YOUR machine without any API key requirements! by aserper *(13 ⭐)* — discovered Feb 15
+- 🔗 **[AI-Werewolf](https://github.com/monad-developers/AI-Werewolf)** R:🟡 M:🟢 — CN Mission 3: MCP Werewolf by monad-developers *(33 ⭐)* — discovered Feb 15
+- 📚 **[jta](https://github.com/ckanner/jta)** R:🟡 M:🟠 — AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs by ckanner *(124 ⭐)* — discovered Feb 15
+- 🔌 **[ai-software-architect](https://github.com/codenamev/ai-software-architect)** R:🟡 M:🟢 — AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation. by codenamev *(43 ⭐)* — discovered Feb 15
 
 ---
 
@@ -84,11 +84,15 @@
 - 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)*
 - 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
 - 🔌 **[everyrow-sdk](https://github.com/futuresearch/everyrow-sdk)** R:🟡 M:🟢 — Intelligent pandas ops. LLM web research agents for every row. by futuresearch *(15 ⭐)*
+- ⌨️ **[deep-code-reasoning-mcp](https://github.com/haasonsaas/deep-code-reasoning-mcp)** R:🟡 M:🟢 — A Model Context Protocol (MCP) server that provides advanced code analysis and reasoning capabilities powered by Google's Gemini AI by haasonsaas *(102 ⭐)*
+- 📚 **[vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)** R:🟡 M:🟠 — AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration. by RaphaelRegnier *(42 ⭐)*
+- 📚 **[assassyn](https://github.com/Synthesys-Lab/assassyn)** R:🟡 M:🟢 — Asynchronous semantics for architectural simulation and synthesis. by Synthesys-Lab *(65 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
 
 - 📄 **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** R:🟢 M:🟠 — Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code by ccplugins *(459 ⭐)*
+- ⌨️ **[llm-codes](https://github.com/amantus-ai/llm-codes)** R:🟡 M:🟢 — Transform developer documentation to clean Markdown by amantus-ai *(253 ⭐)*
 
 ## 📣 Marketing
 
@@ -162,6 +166,7 @@
 - 🔌 **[claude-notifications-go](https://github.com/777genius/claude-notifications-go)** R:🟡 M:🟢 — 🔔 Cross-platform smart notifications plugin for Claude Code. 6 types. Instant. Analyze context. Zero dependencies. webhooks. Easy installation. Linux, MacOS, Windows. by 777genius *(250 ⭐)*
 - ⌨️ **[opensync](https://github.com/waynesutton/opensync)** R:🟡 M:🟢 — Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets. by waynesutton *(296 ⭐)*
 - 🔗 **[c64bridge](https://github.com/chrisgleissner/c64bridge)** R:🟡 M:🟢 — MCP server to control and program the Commodore 64 Ultimate and Ultimate 64 via REST API by chrisgleissner *(14 ⭐)*
+- ⌨️ **[esa-mcp-server](https://github.com/esaio/esa-mcp-server)** R:🟡 M:🟢 — esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版) by esaio *(45 ⭐)*
 - 📚 **[mcp-filter](https://github.com/pro-vi/mcp-filter)** R:🟡 M:🟠 — A proxy MCP (Model Context Protocol) server that filters the upstream tool surface to just the tools you need. by pro-vi *(45 ⭐)*
 
 ## 🤖 Agents
@@ -209,6 +214,7 @@
 - 🔗 **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(131 ⭐)*
 - 🔌 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(18 ⭐)*
 - 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)*
+- 🔌 **[git-surgeon](https://github.com/raine/git-surgeon)** R:🟡 M:🟢 — Git primitives for autonomous coding agents by raine *(14 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -263,6 +269,7 @@
 - ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(47 ⭐)*
 - 🔌 **[rag-cli](https://github.com/ItMeDiaTech/rag-cli)** R:🟡 M:🟠 — Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup. by ItMeDiaTech *(23 ⭐)*
 - 🔗 **[mindbridge-mcp](https://github.com/pinkpixel-dev/mindbridge-mcp)** R:🟡 M:🟠 — MindBridge is an AI orchestration MCP server that lets any app talk to any LLM — OpenAI, Anthropic, DeepSeek, Ollama, and more — through a single unified API. Route queries, compare models, get second opinions, and build smarter multi-LLM workflows. by pinkpixel-dev *(27 ⭐)*
+- 📚 **[gatekit](https://github.com/gatekit-ai/gatekit)** R:🟡 M:🟢 — A hackable Model Context Protocol (MCP) gateway by gatekit-ai *(38 ⭐)*
 - ⌨️ **[Relentless](https://github.com/ArvorCo/Relentless)** R:🟡 M:🟢 — Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete by ArvorCo *(82 ⭐)*
 
 ## 🎓 Learning & Guides
