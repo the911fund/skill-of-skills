@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-324-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-328-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-639k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-640k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**324 tools** discovered across 15 categories
+**328 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔗 **[v10](https://github.com/videojs/v10)** R:🟡 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(135 ⭐)* — discovered Feb 15
+- 🔌 **[stata-mcp](https://github.com/SepineTam/stata-mcp)** R:🟡 M:🟢 — Let LLM help you achieve your regression with Stata. Evolve from reg monkey to causal thinker. by SepineTam *(81 ⭐)* — discovered Feb 15
+- 📚 **[Arto](https://github.com/arto-app/Arto)** R:🟡 M:🟢 — 🅰️ Arto — the Art of Reading Markdown. by arto-app *(98 ⭐)* — discovered Feb 15
+- 📚 **[iPlug2OOS](https://github.com/iPlug2/iPlug2OOS)** R:🟡 M:🟢 — Template to build an iPlug2 project with CI/CD and publish a WAM to github pages by iPlug2 *(132 ⭐)* — discovered Feb 15
+- 🔌 **[prefect-mcp-server](https://github.com/PrefectHQ/prefect-mcp-server)** R:🟡 M:🟢 — Prefect MCP server by PrefectHQ *(26 ⭐)* — discovered Feb 15
 - ⌨️ **[goodable](https://github.com/ImGoodBai/goodable)** R:🟡 M:🟢 — Goodable is a local-first Desktop AI Workspace (Desktop Agent Runtime) powered by Claude Agent SDK, combining OS/file control, browser automation, and coding into composable Skills (tool + app modes) to build, run, and publish real AI apps. by ImGoodBai *(137 ⭐)* — discovered Feb 15
-- 📚 **[snowflake-dbt-demo](https://github.com/sfc-gh-dflippo/snowflake-dbt-demo)** R:🟡 M:🟢 — This project demonstrates many of dbt's features when used with the Snowflake Data Cloud by sfc-gh-dflippo *(26 ⭐)* — discovered Feb 15
-- 📚 **[MateBot](https://github.com/aresbit/MateBot)** R:🟡 M:🟢 — kimi code agent of tg, with Claude Code Yolo style by aresbit *(38 ⭐)* — discovered Feb 15
-- 📚 **[nia-rules-for-agents](https://github.com/nozomio-labs/nia-rules-for-agents)** R:🟡 M:🟢 — This repository provides pre-configured rules that teach AI coding agents how to effectively use Nia. by nozomio-labs *(56 ⭐)* — discovered Feb 15
 
 ---
 
@@ -94,6 +94,7 @@
 - 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)*
 - 🔌 **[my-ai-tools](https://github.com/jellydn/my-ai-tools)** R:🟡 M:🟢 — Comprehensive configuration management for AI coding tools - Replicate my complete setup for Claude Code, OpenCode, Amp, Codex and Claude Code Switch with custom configurations, MCP servers, plugins, and commands. by jellydn *(25 ⭐)*
 - 🔌 **[ai-drawio](https://github.com/GBSOSS/ai-drawio)** R:🟡 M:🟢 — AI-powered draw.io diagram generator for Claude Code. Generate flowcharts, architecture diagrams, mind maps from natural language with browser preview. by GBSOSS *(53 ⭐)*
+- 📚 **[snowflake-dbt-demo](https://github.com/sfc-gh-dflippo/snowflake-dbt-demo)** R:🟡 M:🟢 — This project demonstrates many of dbt's features when used with the Snowflake Data Cloud by sfc-gh-dflippo *(26 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -138,6 +139,7 @@
 - 🔌 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** R:🟡 M:🟢 — Suno Song Creator Skill by nwp *(11 ⭐)*
 - 🔗 **[jimeng-ai-mcp](https://github.com/freeleepm/jimeng-ai-mcp)** R:🟡 M:🟠 — 这是一个基于火山引擎即梦AI的多模态生成服务，支持图像生成、视频生成等功能，可通过MCP协议在Cursor、Claude Desktop等MCP客户端中使用，也可作为独立库调用。支持 macOS、Linux、Windows 及 WSL 环境。 by freeleepm *(21 ⭐)*
 - 🔗 **[nextalk](https://github.com/gonewx/nextalk)** R:🟡 M:🟢 — nextalk - High-performance offline voice input for Linux 实时语音识别系统 by gonewx *(16 ⭐)*
+- 🔗 **[v10](https://github.com/videojs/v10)** R:🟡 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(135 ⭐)*
 
 ## 🔬 Research
 
@@ -246,6 +248,7 @@
 - 📚 **[antigravity-agentic-skills](https://github.com/vuralserhat86/antigravity-agentic-skills)** R:🟡 M:🟢 — OS for Agents: 130+ Agentic Skills, Gemini Protocols, and Autonomous Workflows. (Antigravity System) by vuralserhat86 *(34 ⭐)*
 - ⌨️ **[hash](https://github.com/hashintel/hash)** R:🟡 M:🟢 — 🚀  The open-source, multi-tenant, self-building knowledge graph by hashintel *(1.4k ⭐)*
 - 🔌 **[paty](https://github.com/gjtorikian/paty)** R:🟡 M:🟢 — The most human-like AI agent you'll ever use. It insists on manners, gets distracted mid-task, sometimes   gives up entirely, occasionally claims it did something when it didn't, ignores its own output, and starts every session already feeling a bit off. by gjtorikian *(12 ⭐)*
+- 📚 **[nia-rules-for-agents](https://github.com/nozomio-labs/nia-rules-for-agents)** R:🟡 M:🟢 — This repository provides pre-configured rules that teach AI coding agents how to effectively use Nia. by nozomio-labs *(56 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -401,6 +404,7 @@
 - 🔌 **[worktree-task-plugin](https://github.com/ourines/worktree-task-plugin)** R:🟡 M:🟢 — Claude Code plugin for managing large coding tasks using git worktrees and background sessions by ourines *(36 ⭐)*
 - 🔌 **[streamlinear](https://github.com/obra/streamlinear)** R:🟡 M:🟢 — Streamlined Linear integration for Claude Code - one tool, six actions, zero bloat by obra *(55 ⭐)*
 - 🔌 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** R:🟡 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(20.2k ⭐)*
+- 📚 **[MateBot](https://github.com/aresbit/MateBot)** R:🟡 M:🟢 — kimi code agent of tg, with Claude Code Yolo style by aresbit *(38 ⭐)*
 - 📚 **[clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server)** R:🟡 M:🟠 — A Model Context Protocol (MCP) Server providing LLM tools for the official ClinicalTrials.gov REST API. Search and retrieve clinical trial data, including study details and more by cyanheads *(47 ⭐)*
 - 📚 **[solana-claude-config](https://github.com/solanabr/solana-claude-config)** R:🟡 M:🟢 — Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile and more. by solanabr *(26 ⭐)*
 - 🔌 **[claude-craft](https://github.com/TheBeardedBearSAS/claude-craft)** R:🟡 M:🟢 — Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stacks. by TheBeardedBearSAS *(86 ⭐)*
