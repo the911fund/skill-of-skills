@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-295-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-302-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-636k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-637k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**295 tools** discovered across 15 categories
+**302 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[this-little-wiggy](https://github.com/severity1/this-little-wiggy)** R:🟡 M:🟢 — Claude Code plugin that prepares prompts for ralph-wiggum loop plugin - named after The Simpsons episode by severity1 *(16 ⭐)* — discovered Feb 15
-- 📚 **[augo](https://github.com/kylesean/augo)** R:🟡 M:🟢 — 支持私有化部署的 AI 个人财务助理，适配 NAS 环境，数据完全自主掌控。 by kylesean *(32 ⭐)* — discovered Feb 15
-- 🔗 **[nextalk](https://github.com/gonewx/nextalk)** R:🟡 M:🟢 — nextalk - High-performance offline voice input for Linux 实时语音识别系统 by gonewx *(16 ⭐)* — discovered Feb 15
-- 🔌 **[llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)** R:🟡 M:🟢 — A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation, question-driven restructuring, and automated quality scoring. by alonw0 *(48 ⭐)* — discovered Feb 15
-- 🔌 **[co-researcher](https://github.com/poemswe/co-researcher)** R:🟡 M:🟢 — Plugin and Skills for Claude Code, Gemini CLI and Codex by poemswe *(19 ⭐)* — discovered Feb 15
+- 🔗 **[festapp](https://github.com/vkh-cr/festapp)** R:🟡 M:🟢 — Festapp - mobile app for festivals, conferences or events. by vkh-cr *(34 ⭐)* — discovered Feb 15
+- 🔗 **[llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules)** R:🟡 M:🟢 — Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects. by iloveitaly *(13 ⭐)* — discovered Feb 15
+- 🔌 **[agentguard](https://github.com/GoPlusSecurity/agentguard)** R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(136 ⭐)* — discovered Feb 15
+- 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟡 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)* — discovered Feb 15
+- ⌨️ **[hledger-mcp](https://github.com/iiAtlas/hledger-mcp)** R:🟡 M:🟠 — A local MCP server for interacting with the HLedger cli by iiAtlas *(37 ⭐)* — discovered Feb 15
 
 ---
 
@@ -97,6 +97,8 @@
 - 📄 **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** R:🟢 M:🟠 — Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code by ccplugins *(459 ⭐)*
 - ⌨️ **[llm-codes](https://github.com/amantus-ai/llm-codes)** R:🟡 M:🟢 — Transform developer documentation to clean Markdown by amantus-ai *(253 ⭐)*
 - 🔌 **[ai-software-architect](https://github.com/codenamev/ai-software-architect)** R:🟡 M:🟢 — AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation. by codenamev *(43 ⭐)*
+- 🔌 **[llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)** R:🟡 M:🟠 — A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation, question-driven restructuring, and automated quality scoring. by alonw0 *(48 ⭐)*
+- 🔌 **[project-multilevel-index](https://github.com/Claudate/project-multilevel-index)** R:🟡 M:🟢 — 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill by Claudate *(90 ⭐)*
 
 ## 📣 Marketing
 
@@ -125,6 +127,7 @@
 - ⌨️ **[buttercut](https://github.com/barefootford/buttercut)** R:🟢 M:🟢 — Edit Video with Claude Code by barefootford *(135 ⭐)*
 - 🔌 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** R:🟡 M:🟢 — Suno Song Creator Skill by nwp *(11 ⭐)*
 - 🔗 **[jimeng-ai-mcp](https://github.com/freeleepm/jimeng-ai-mcp)** R:🟡 M:🟠 — 这是一个基于火山引擎即梦AI的多模态生成服务，支持图像生成、视频生成等功能，可通过MCP协议在Cursor、Claude Desktop等MCP客户端中使用，也可作为独立库调用。支持 macOS、Linux、Windows 及 WSL 环境。 by freeleepm *(21 ⭐)*
+- 🔗 **[nextalk](https://github.com/gonewx/nextalk)** R:🟡 M:🟢 — nextalk - High-performance offline voice input for Linux 实时语音识别系统 by gonewx *(16 ⭐)*
 
 ## 🔬 Research
 
@@ -137,6 +140,7 @@
 - 🔌 **[messages](https://github.com/cardmagic/messages)** R:🟡 M:🟢 — Fuzzy search through Apple Messages (iMessage/SMS) - CLI and MCP server by cardmagic *(17 ⭐)*
 - 🔗 **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** R:🟡 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(23 ⭐)*
 - 🔗 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(182 ⭐)*
+- 🔌 **[co-researcher](https://github.com/poemswe/co-researcher)** R:🟡 M:🟢 — Plugin and Skills for Claude Code, Gemini CLI and Codex by poemswe *(19 ⭐)*
 
 ## 🔒 Security
 
@@ -220,6 +224,8 @@
 - 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)*
 - 🔌 **[git-surgeon](https://github.com/raine/git-surgeon)** R:🟡 M:🟢 — Git primitives for autonomous coding agents by raine *(14 ⭐)*
 - 🔗 **[AI-Werewolf](https://github.com/monad-developers/AI-Werewolf)** R:🟡 M:🟢 — CN Mission 3: MCP Werewolf by monad-developers *(33 ⭐)*
+- 📚 **[augo](https://github.com/kylesean/augo)** R:🟡 M:🟢 — 支持私有化部署的 AI 个人财务助理，适配 NAS 环境，数据完全自主掌控。 by kylesean *(32 ⭐)*
+- 🔌 **[claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)** R:🟡 M:🟢 — SRE thinking applied to Claude Code, based on Boris Cherny's Q&A. by elb-pr *(95 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -365,6 +371,7 @@
 - 📚 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟡 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)*
 - 📚 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** R:🟡 M:🟠 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(911 ⭐)*
 - 🔌 **[agents](https://github.com/slgoodrich/agents)** R:🟡 M:🟢 — AI PM Workflows for Claude Code by slgoodrich *(22 ⭐)*
+- 🔌 **[this-little-wiggy](https://github.com/severity1/this-little-wiggy)** R:🟡 M:🟢 — Claude Code plugin that prepares prompts for ralph-wiggum loop plugin - named after The Simpsons episode by severity1 *(16 ⭐)*
 - 📚 **[plutonium-core](https://github.com/radioactive-labs/plutonium-core)** R:🟡 M:🟢 — Build production-ready Rails apps in minutes, not days. Convention-driven, fully customizable, AI-ready. by radioactive-labs *(54 ⭐)*
 - 📚 **[Textum](https://github.com/snakeying/Textum)** R:🟡 M:🟢 — Structured workflow that stops AI from forgetting your requirements. 4 phases with validation gates. Not smarter AI, just controllable process. Weave ideas into code that actually works. by snakeying *(41 ⭐)*
 - 📚 **[granola-claude-plugin](https://github.com/varadhjain/granola-claude-plugin)** R:🟡 M:🟢 — Extract intelligence from Granola meeting notes with AI by varadhjain *(51 ⭐)*
