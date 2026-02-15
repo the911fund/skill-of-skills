@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-270-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-276-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-634k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-635k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**270 tools** discovered across 15 categories
+**276 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[skill-issue](https://github.com/daamitt/skill-issue)** R:🟡 M:🟢 — A plugin/skill to search other plugins/skills by daamitt *(18 ⭐)* — discovered Feb 15
-- 🔗 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(182 ⭐)* — discovered Feb 15
-- 📚 **[claude-code-skill-example](https://github.com/shikajiro/claude-code-skill-example)** R:🟡 M:🟢 — This is a sample of Cloud Code Skills. by shikajiro *(64 ⭐)* — discovered Feb 15
-- 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)* — discovered Feb 15
-- 🔌 **[claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory)** R:🟡 M:🟢 — Claude Code plugin that automatically maintains CLAUDE.md files by severity1 *(108 ⭐)* — discovered Feb 15
+- ⌨️ **[generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases)** R:🟡 M:🟢 — Application implementation with business use cases for safely utilizing generative AI in business operations by aws-samples *(1.3k ⭐)* — discovered Feb 15
+- 🔌 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(18 ⭐)* — discovered Feb 15
+- 🔗 **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** R:🟡 M:🟢 — My Cursor User Rules. by ModyQyW *(10 ⭐)* — discovered Feb 15
+- 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)* — discovered Feb 15
+- 🔌 **[everyrow-sdk](https://github.com/futuresearch/everyrow-sdk)** R:🟡 M:🟢 — Intelligent pandas ops. LLM web research agents for every row. by futuresearch *(15 ⭐)* — discovered Feb 15
 
 ---
 
@@ -80,7 +80,9 @@
 - 🔌 **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** R:🟡 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(20 ⭐)*
 - ⌨️ **[eldoraui](https://github.com/karthikmudunuri/eldoraui)** R:🟡 M:🟢 — Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. by karthikmudunuri *(1.9k ⭐)*
 - 🔌 **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** R:🟡 M:🟢 — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.1k ⭐)*
+- 🔌 **[claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory)** R:🟡 M:🟢 — Claude Code plugin that automatically maintains CLAUDE.md files by severity1 *(108 ⭐)*
 - 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)*
+- 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -105,6 +107,8 @@
 - 📚 **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** R:🟡 M:🟢 — Stop re-explaining your project to AI every session. Automatic context memory for Claude, VS Code, Cursor, and 13+ AI tools. by doobidoo *(1.3k ⭐)*
 - 🔌 **[_b00t_](https://github.com/elasticdotventures/_b00t_)** R:🟡 M:🟢 — 🥾 _b00t_:  brians dotfiles aka state of the art agentic tooling & context initialization by elasticdotventures *(12 ⭐)*
 - ⌨️ **[ever-teams](https://github.com/ever-co/ever-teams)** R:🟡 M:🟢 — Ever® Teams™ - Open Work and Project Management Platform - https://ever.team by ever-co *(483 ⭐)*
+- 🔌 **[skill-issue](https://github.com/daamitt/skill-issue)** R:🟡 M:🟢 — A plugin/skill to search other plugins/skills by daamitt *(18 ⭐)*
+- 🔌 **[my-gtd-buddy](https://github.com/realYushi/my-gtd-buddy)** R:🟡 M:🟢 — A Reminders-native Getting Things Done (GTD) workflow powered by Claude Code. This project implements a streamlined GTD system using Apple Reminders with an intelligent AI skill to orchestrate workflow management by realYushi *(16 ⭐)*
 
 ## 🎬 Media
 
@@ -123,6 +127,7 @@
 - 🔗 **[awesome-mcp-personas](https://github.com/toolprint/awesome-mcp-personas)** R:🟡 M:🟠 — A curated collection of persona-based mcp server & tool groupings. by toolprint *(35 ⭐)*
 - 🔌 **[messages](https://github.com/cardmagic/messages)** R:🟡 M:🟢 — Fuzzy search through Apple Messages (iMessage/SMS) - CLI and MCP server by cardmagic *(17 ⭐)*
 - 🔗 **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** R:🟡 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(23 ⭐)*
+- 🔗 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(182 ⭐)*
 
 ## 🔒 Security
 
@@ -338,6 +343,7 @@
 - 📚 **[claude-code-plugin](https://github.com/browserbase/claude-code-plugin)** R:🟡 M:🟢 — Browserbase plugin for Claude Code - Use cloud browsers with Claude Code instead of local Chrome by browserbase *(66 ⭐)*
 - 🔗 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** R:🟡 M:🟢 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.1k ⭐)*
 - 🔌 **[knowledge-manager](https://github.com/treylom/knowledge-manager)** R:🟡 M:🟢 — Knowledge Manager Agent for Claude Code - Extract and organize content from web, PDF, social media to Obsidian/Notion by treylom *(25 ⭐)*
+- 📚 **[claude-code-skill-example](https://github.com/shikajiro/claude-code-skill-example)** R:🟡 M:🟢 — This is a sample of Cloud Code Skills. by shikajiro *(64 ⭐)*
 - 📚 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟡 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)*
 - 📚 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** R:🟡 M:🟠 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(911 ⭐)*
 - 📚 **[plutonium-core](https://github.com/radioactive-labs/plutonium-core)** R:🟡 M:🟢 — Build production-ready Rails apps in minutes, not days. Convention-driven, fully customizable, AI-ready. by radioactive-labs *(54 ⭐)*
