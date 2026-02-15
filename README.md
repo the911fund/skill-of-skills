@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-276-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-283-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-635k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-636k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**276 tools** discovered across 15 categories
+**283 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases)** R:🟡 M:🟢 — Application implementation with business use cases for safely utilizing generative AI in business operations by aws-samples *(1.3k ⭐)* — discovered Feb 15
-- 🔌 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(18 ⭐)* — discovered Feb 15
-- 🔗 **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** R:🟡 M:🟢 — My Cursor User Rules. by ModyQyW *(10 ⭐)* — discovered Feb 15
-- 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)* — discovered Feb 15
-- 🔌 **[everyrow-sdk](https://github.com/futuresearch/everyrow-sdk)** R:🟡 M:🟢 — Intelligent pandas ops. LLM web research agents for every row. by futuresearch *(15 ⭐)* — discovered Feb 15
+- 📚 **[vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)** R:🟡 M:🟠 — AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration. by RaphaelRegnier *(42 ⭐)* — discovered Feb 15
+- 🔌 **[git-surgeon](https://github.com/raine/git-surgeon)** R:🟡 M:🟢 — Git primitives for autonomous coding agents by raine *(14 ⭐)* — discovered Feb 15
+- ⌨️ **[llm-codes](https://github.com/amantus-ai/llm-codes)** R:🟡 M:🟢 — Transform developer documentation to clean Markdown by amantus-ai *(253 ⭐)* — discovered Feb 15
+- ⌨️ **[deep-code-reasoning-mcp](https://github.com/haasonsaas/deep-code-reasoning-mcp)** R:🟡 M:🟢 — A Model Context Protocol (MCP) server that provides advanced code analysis and reasoning capabilities powered by Google's Gemini AI by haasonsaas *(102 ⭐)* — discovered Feb 15
+- 📚 **[gatekit](https://github.com/gatekit-ai/gatekit)** R:🟡 M:🟢 — A hackable Model Context Protocol (MCP) gateway by gatekit-ai *(38 ⭐)* — discovered Feb 15
 
 ---
 
@@ -83,6 +83,7 @@
 - 🔌 **[claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory)** R:🟡 M:🟢 — Claude Code plugin that automatically maintains CLAUDE.md files by severity1 *(108 ⭐)*
 - 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)*
 - 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
+- 🔌 **[everyrow-sdk](https://github.com/futuresearch/everyrow-sdk)** R:🟡 M:🟢 — Intelligent pandas ops. LLM web research agents for every row. by futuresearch *(15 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -206,6 +207,8 @@
 - 🔌 **[gepetto](https://github.com/softaworks/gepetto)** R:🟡 M:🟢 — 🪵 Transform rough ideas into living implementation plans in Claude. Like Geppetto carved Pinocchio, craft detailed specs through research, interviews, and multi-LLM review. by softaworks *(18 ⭐)*
 - 🔗 **[Polymind](https://github.com/Remy2404/Polymind)** R:🟡 M:🟢 — A powerful, multi-modal Telegram bot leveraging cutting-edge AI technologies including Gemini, DeepSeek, OpenRouter, and 50+ AI models for comprehensive conversational assistance, media processing, and collaborative features with MCP (Model Context Protocol) integration. by Remy2404 *(12 ⭐)*
 - 🔗 **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(131 ⭐)*
+- 🔌 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(18 ⭐)*
+- 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -231,6 +234,7 @@
 - 🔌 **[atelier-ui](https://github.com/heyman333/atelier-ui)** R:🟡 M:🟢 — atelier-ui skills for ai by heyman333 *(16 ⭐)*
 - 🔗 **[allein](https://github.com/szilarddoro/allein)** R:🟡 M:🟢 — A Markdown editor powered by your LLM. Like GitHub Copilot, but local and free. by szilarddoro *(16 ⭐)*
 - 🔌 **[claude-mem-jp](https://github.com/Chachamaru127/claude-mem-jp)** R:🟡 M:🟢 — claude-memを検知して日本語化するためのプラグイン by Chachamaru127 *(15 ⭐)*
+- 🔗 **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** R:🟡 M:🟢 — My Cursor User Rules. by ModyQyW *(10 ⭐)*
 
 ## 🔀 Orchestration
 
@@ -259,6 +263,7 @@
 - ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(47 ⭐)*
 - 🔌 **[rag-cli](https://github.com/ItMeDiaTech/rag-cli)** R:🟡 M:🟠 — Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup. by ItMeDiaTech *(23 ⭐)*
 - 🔗 **[mindbridge-mcp](https://github.com/pinkpixel-dev/mindbridge-mcp)** R:🟡 M:🟠 — MindBridge is an AI orchestration MCP server that lets any app talk to any LLM — OpenAI, Anthropic, DeepSeek, Ollama, and more — through a single unified API. Route queries, compare models, get second opinions, and build smarter multi-LLM workflows. by pinkpixel-dev *(27 ⭐)*
+- ⌨️ **[Relentless](https://github.com/ArvorCo/Relentless)** R:🟡 M:🟢 — Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete by ArvorCo *(82 ⭐)*
 
 ## 🎓 Learning & Guides
 
@@ -277,6 +282,7 @@
 - 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟡 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.8k ⭐)*
 - 🔌 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟡 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(43.1k ⭐)*
 - 🔌 **[agent-skills](https://github.com/apify/agent-skills)** R:🟡 M:🟢 — Odoo Skills Documentation by apify *(194 ⭐)*
+- ⌨️ **[generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases)** R:🟡 M:🟢 — Application implementation with business use cases for safely utilizing generative AI in business operations by aws-samples *(1.3k ⭐)*
 
 ## 📦 Uncategorized
 
@@ -346,6 +352,7 @@
 - 📚 **[claude-code-skill-example](https://github.com/shikajiro/claude-code-skill-example)** R:🟡 M:🟢 — This is a sample of Cloud Code Skills. by shikajiro *(64 ⭐)*
 - 📚 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟡 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)*
 - 📚 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** R:🟡 M:🟠 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(911 ⭐)*
+- 🔌 **[agents](https://github.com/slgoodrich/agents)** R:🟡 M:🟢 — AI PM Workflows for Claude Code by slgoodrich *(22 ⭐)*
 - 📚 **[plutonium-core](https://github.com/radioactive-labs/plutonium-core)** R:🟡 M:🟢 — Build production-ready Rails apps in minutes, not days. Convention-driven, fully customizable, AI-ready. by radioactive-labs *(54 ⭐)*
 - 📚 **[Textum](https://github.com/snakeying/Textum)** R:🟡 M:🟢 — Structured workflow that stops AI from forgetting your requirements. 4 phases with validation gates. Not smarter AI, just controllable process. Weave ideas into code that actually works. by snakeying *(41 ⭐)*
 - 📚 **[granola-claude-plugin](https://github.com/varadhjain/granola-claude-plugin)** R:🟡 M:🟢 — Extract intelligence from Granola meeting notes with AI by varadhjain *(51 ⭐)*
