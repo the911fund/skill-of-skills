@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-290-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-295-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-636k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**290 tools** discovered across 15 categories
+**295 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔗 **[flabr](https://github.com/iska9der/flabr)** R:🟡 M:🟢 — habr client on flutter by iska9der *(29 ⭐)* — discovered Feb 15
-- 🔌 **[RTFD](https://github.com/aserper/RTFD)** R:🟡 M:🟢 — Spoonfeed your AI coding assistant with up to date documentation efficiently and without using a cloud service with the RTFD mcp server that runs on YOUR machine without any API key requirements! by aserper *(13 ⭐)* — discovered Feb 15
-- 🔗 **[AI-Werewolf](https://github.com/monad-developers/AI-Werewolf)** R:🟡 M:🟢 — CN Mission 3: MCP Werewolf by monad-developers *(33 ⭐)* — discovered Feb 15
-- 📚 **[jta](https://github.com/ckanner/jta)** R:🟡 M:🟠 — AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs by ckanner *(124 ⭐)* — discovered Feb 15
-- 🔌 **[ai-software-architect](https://github.com/codenamev/ai-software-architect)** R:🟡 M:🟢 — AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation. by codenamev *(43 ⭐)* — discovered Feb 15
+- 🔌 **[this-little-wiggy](https://github.com/severity1/this-little-wiggy)** R:🟡 M:🟢 — Claude Code plugin that prepares prompts for ralph-wiggum loop plugin - named after The Simpsons episode by severity1 *(16 ⭐)* — discovered Feb 15
+- 📚 **[augo](https://github.com/kylesean/augo)** R:🟡 M:🟢 — 支持私有化部署的 AI 个人财务助理，适配 NAS 环境，数据完全自主掌控。 by kylesean *(32 ⭐)* — discovered Feb 15
+- 🔗 **[nextalk](https://github.com/gonewx/nextalk)** R:🟡 M:🟢 — nextalk - High-performance offline voice input for Linux 实时语音识别系统 by gonewx *(16 ⭐)* — discovered Feb 15
+- 🔌 **[llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)** R:🟡 M:🟢 — A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation, question-driven restructuring, and automated quality scoring. by alonw0 *(48 ⭐)* — discovered Feb 15
+- 🔌 **[co-researcher](https://github.com/poemswe/co-researcher)** R:🟡 M:🟢 — Plugin and Skills for Claude Code, Gemini CLI and Codex by poemswe *(19 ⭐)* — discovered Feb 15
 
 ---
 
@@ -86,6 +86,9 @@
 - 🔌 **[everyrow-sdk](https://github.com/futuresearch/everyrow-sdk)** R:🟡 M:🟢 — Intelligent pandas ops. LLM web research agents for every row. by futuresearch *(15 ⭐)*
 - ⌨️ **[deep-code-reasoning-mcp](https://github.com/haasonsaas/deep-code-reasoning-mcp)** R:🟡 M:🟢 — A Model Context Protocol (MCP) server that provides advanced code analysis and reasoning capabilities powered by Google's Gemini AI by haasonsaas *(102 ⭐)*
 - 📚 **[vibe-annotations](https://github.com/RaphaelRegnier/vibe-annotations)** R:🟡 M:🟠 — AI-powered annotations for localhost development. Create visual feedback on your apps and let AI coding agents automatically implement fixes via MCP integration. by RaphaelRegnier *(42 ⭐)*
+- 📚 **[jta](https://github.com/ckanner/jta)** R:🟡 M:🟠 — AI-powered JSON translation tool with agentic reflection using OpenAI, Anthropic, and Gemini APIs by ckanner *(124 ⭐)*
+- 🔗 **[flabr](https://github.com/iska9der/flabr)** R:🟡 M:🟢 — habr client on flutter by iska9der *(29 ⭐)*
+- 🔌 **[RTFD](https://github.com/aserper/RTFD)** R:🟡 M:🟢 — Spoonfeed your AI coding assistant with up to date documentation efficiently and without using a cloud service with the RTFD mcp server that runs on YOUR machine without any API key requirements! by aserper *(13 ⭐)*
 - 📚 **[assassyn](https://github.com/Synthesys-Lab/assassyn)** R:🟡 M:🟢 — Asynchronous semantics for architectural simulation and synthesis. by Synthesys-Lab *(65 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
@@ -93,6 +96,7 @@
 
 - 📄 **[awesome-claude-code-plugins](https://github.com/ccplugins/awesome-claude-code-plugins)** R:🟢 M:🟠 — Awesome Claude Code plugins — a curated list of slash commands, subagents, MCP servers, and hooks for Claude Code by ccplugins *(459 ⭐)*
 - ⌨️ **[llm-codes](https://github.com/amantus-ai/llm-codes)** R:🟡 M:🟢 — Transform developer documentation to clean Markdown by amantus-ai *(253 ⭐)*
+- 🔌 **[ai-software-architect](https://github.com/codenamev/ai-software-architect)** R:🟡 M:🟢 — AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation. by codenamev *(43 ⭐)*
 
 ## 📣 Marketing
 
@@ -215,6 +219,7 @@
 - 🔌 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(18 ⭐)*
 - 🔌 **[design-system-skills](https://github.com/dylantarre/design-system-skills)** R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(14 ⭐)*
 - 🔌 **[git-surgeon](https://github.com/raine/git-surgeon)** R:🟡 M:🟢 — Git primitives for autonomous coding agents by raine *(14 ⭐)*
+- 🔗 **[AI-Werewolf](https://github.com/monad-developers/AI-Werewolf)** R:🟡 M:🟢 — CN Mission 3: MCP Werewolf by monad-developers *(33 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
