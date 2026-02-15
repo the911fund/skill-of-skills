@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-267-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-270-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-634k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**267 tools** discovered across 15 categories
+**270 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)* — discovered Feb 15
+- 🔌 **[skill-issue](https://github.com/daamitt/skill-issue)** R:🟡 M:🟢 — A plugin/skill to search other plugins/skills by daamitt *(18 ⭐)* — discovered Feb 15
+- 🔗 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(182 ⭐)* — discovered Feb 15
+- 📚 **[claude-code-skill-example](https://github.com/shikajiro/claude-code-skill-example)** R:🟡 M:🟢 — This is a sample of Cloud Code Skills. by shikajiro *(64 ⭐)* — discovered Feb 15
 - 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)* — discovered Feb 15
-- 🔌 **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** R:🟡 M:🟢 — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.1k ⭐)* — discovered Feb 15
 - 🔌 **[claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory)** R:🟡 M:🟢 — Claude Code plugin that automatically maintains CLAUDE.md files by severity1 *(108 ⭐)* — discovered Feb 15
-- 🔗 **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(131 ⭐)* — discovered Feb 15
 
 ---
 
@@ -79,6 +79,8 @@
 - 🔌 **[ubrowser](https://github.com/Lulzx/ubrowser)** R:🟡 M:🟢 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(11 ⭐)*
 - 🔌 **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** R:🟡 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(20 ⭐)*
 - ⌨️ **[eldoraui](https://github.com/karthikmudunuri/eldoraui)** R:🟡 M:🟢 — Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. by karthikmudunuri *(1.9k ⭐)*
+- 🔌 **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** R:🟡 M:🟢 — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.1k ⭐)*
+- 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -198,6 +200,7 @@
 - 🔌 **[double-shot-latte](https://github.com/obra/double-shot-latte)** R:🟡 M:🟢 — Claude Code plugin that automatically evaluates whether Claude should continue working instead of stopping prematurely by obra *(63 ⭐)*
 - 🔌 **[gepetto](https://github.com/softaworks/gepetto)** R:🟡 M:🟢 — 🪵 Transform rough ideas into living implementation plans in Claude. Like Geppetto carved Pinocchio, craft detailed specs through research, interviews, and multi-LLM review. by softaworks *(18 ⭐)*
 - 🔗 **[Polymind](https://github.com/Remy2404/Polymind)** R:🟡 M:🟢 — A powerful, multi-modal Telegram bot leveraging cutting-edge AI technologies including Gemini, DeepSeek, OpenRouter, and 50+ AI models for comprehensive conversational assistance, media processing, and collaborative features with MCP (Model Context Protocol) integration. by Remy2404 *(12 ⭐)*
+- 🔗 **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(131 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
