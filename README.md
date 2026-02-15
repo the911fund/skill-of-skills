@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-346-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-354-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-641k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**346 tools** discovered across 15 categories
+**354 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[100cims](https://github.com/jvidalv/100cims)** R:🟡 M:🟢 — React Native mobile app. Track your mountain summits and join hiking challenges by jvidalv *(73 ⭐)* — discovered Feb 15
-- ⌨️ **[MarketBot](https://github.com/EthanAlgoX/MarketBot)** R:🟡 M:🟢 — MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support. by EthanAlgoX *(35 ⭐)* — discovered Feb 15
-- 🔗 **[claude_agent_desktop](https://github.com/Fergana-Labs/claude_agent_desktop)** R:🟡 M:🟠 — GUI wrapper built on top of Claude Agent SDK by Fergana-Labs *(14 ⭐)* — discovered Feb 15
-- 📚 **[cargo-coupling](https://github.com/nwiizo/cargo-coupling)** R:🟡 M:🟢 — A coupling analysis tool for Rust projects - measuring the 'right distance' in your code by nwiizo *(66 ⭐)* — discovered Feb 15
-- 🔗 **[cldmemory](https://github.com/david-strejc/cldmemory)** R:🟡 M:🟠 — MCP Memory Server with human-like memory system for Claude by david-strejc *(14 ⭐)* — discovered Feb 15
+- 🔌 **[claude-mermaid](https://github.com/veelenga/claude-mermaid)** R:🟡 M:🟢 — MCP Server to previewing mermaid diagrams by veelenga *(63 ⭐)* — discovered Feb 15
+- 🔗 **[glados-mcp](https://github.com/halfaipg/glados-mcp)** R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(11 ⭐)* — discovered Feb 15
+- 🔗 **[pourpoise](https://github.com/brazil-bench/pourpoise)** R:🟡 M:🟢 — Purpose management for this organization by brazil-bench *(10 ⭐)* — discovered Feb 15
+- 🔗 **[pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server enabling AI agents to intelligently search, retrieve, and analyze biomedical literature from PubMed via NCBI E-utilities. Includes a research agent scaffold. STDIO & HTTP by cyanheads *(54 ⭐)* — discovered Feb 15
+- 🔗 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** R:🟡 M:🟢 — F2C MCP Server by f2c-ai *(358 ⭐)* — discovered Feb 15
 
 ---
 
@@ -96,7 +96,9 @@
 - 📚 **[snowflake-dbt-demo](https://github.com/sfc-gh-dflippo/snowflake-dbt-demo)** R:🟡 M:🟢 — This project demonstrates many of dbt's features when used with the Snowflake Data Cloud by sfc-gh-dflippo *(26 ⭐)*
 - 📚 **[iPlug2OOS](https://github.com/iPlug2/iPlug2OOS)** R:🟡 M:🟢 — Template to build an iPlug2 project with CI/CD and publish a WAM to github pages by iPlug2 *(132 ⭐)*
 - 🔌 **[tugtool](https://github.com/tugtool/tugtool)** R:🟡 M:🟢 — Refactoring tool for AI coding agents by tugtool *(13 ⭐)*
+- 📚 **[cargo-coupling](https://github.com/nwiizo/cargo-coupling)** R:🟡 M:🟢 — A coupling analysis tool for Rust projects - measuring the 'right distance' in your code by nwiizo *(66 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
+- 🔌 **[vibe-to-prod](https://github.com/muyen/vibe-to-prod)** R:🟡 M:🟢 — From Vibe Coding to Production in Days, Not Months - A production-ready full-stack template with AI-native development workflow by muyen *(25 ⭐)*
 
 ## 📚 Documentation
 
@@ -134,8 +136,10 @@
 - 🔌 **[The-Crucible-Writing-System-For-Claude](https://github.com/forsonny/The-Crucible-Writing-System-For-Claude)** R:🟡 M:🟢 — The Crucible Writing System is an integrated suite of three Claude skills designed to guide writers from initial story concept to completed first draft. Built around the Crucible Structure—a 36-beat narrative framework with three interwoven story strands. by forsonny *(38 ⭐)*
 - 📚 **[Arto](https://github.com/arto-app/Arto)** R:🟡 M:🟢 — 🅰️ Arto — the Art of Reading Markdown. by arto-app *(98 ⭐)*
 - 📚 **[pagecord](https://github.com/lylo/pagecord)** R:🟡 M:🟢 — Blogging as easy as sending an email. by lylo *(160 ⭐)*
+- ⌨️ **[100cims](https://github.com/jvidalv/100cims)** R:🟡 M:🟢 — React Native mobile app. Track your mountain summits and join hiking challenges by jvidalv *(73 ⭐)*
 - 📚 **[worktree-manager-skill](https://github.com/Wirasm/worktree-manager-skill)** R:🟡 M:🟢 — a claude code skill for effortless worktree management by Wirasm *(119 ⭐)*
 - 📚 **[macro](https://github.com/macro-inc/macro)** R:🟡 M:🟢 — One system for email, messaging, tasks, docs, and files — all @linked. Get paid to contribute. by macro-inc *(40 ⭐)*
+- 🔗 **[brainqub3](https://github.com/brainqub3/brainqub3)** R:🟡 M:🟢 — A second brain for your business or personal needs by brainqub3 *(10 ⭐)*
 
 ## 🎬 Media
 
@@ -189,7 +193,7 @@
 - 📄 **[zotero-mcp](https://github.com/cookjohn/zotero-mcp)** R:🟢 M:🟢 — Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.  by cookjohn *(336 ⭐)*
 - 📦 **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(78 ⭐)*
 - 📚 **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)** R:🟡 M:🟢 — The official Pinecone marketplace for Claude Code Plugins by pinecone-io *(39 ⭐)*
-- 📚 **[claude-imessage](https://github.com/dvdsgl/claude-imessage)** R:🟡 M:🟢 — iMessage integration for Claude Code - autonomous agent via iMessage by dvdsgl *(31 ⭐)*
+- 🔌 **[claude-imessage](https://github.com/dvdsgl/claude-imessage)** R:🟡 M:🟢 — iMessage integration for Claude Code - autonomous agent via iMessage by dvdsgl *(31 ⭐)*
 - 🔗 **[mysql-query-mcp-server](https://github.com/devakone/mysql-query-mcp-server)** R:🟡 M:🟠 — MySQL Query MCP server for AI assistants - execute read-only MySQL queries by devakone *(11 ⭐)*
 - 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟡 M:🟢 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)*
 - 🔌 **[firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin)** R:🟡 M:🟢 — Firecrawl plugin for Claude Code - web scraping and crawling by firecrawl *(17 ⭐)*
@@ -262,7 +266,11 @@
 - ⌨️ **[goodable](https://github.com/ImGoodBai/goodable)** R:🟡 M:🟢 — Goodable is a local-first Desktop AI Workspace (Desktop Agent Runtime) powered by Claude Agent SDK, combining OS/file control, browser automation, and coding into composable Skills (tool + app modes) to build, run, and publish real AI apps. by ImGoodBai *(137 ⭐)*
 - 📚 **[nia-rules-for-agents](https://github.com/nozomio-labs/nia-rules-for-agents)** R:🟡 M:🟢 — This repository provides pre-configured rules that teach AI coding agents how to effectively use Nia. by nozomio-labs *(56 ⭐)*
 - 📚 **[local-life-manager](https://github.com/TaylorHuston/local-life-manager)** R:🟡 M:🟢 — A customizable life management framework for Claude Code - skills, agents, and workflows for personal productivity by TaylorHuston *(32 ⭐)*
+- 🔗 **[claude_agent_desktop](https://github.com/Fergana-Labs/claude_agent_desktop)** R:🟡 M:🟠 — GUI wrapper built on top of Claude Agent SDK by Fergana-Labs *(14 ⭐)*
+- ⌨️ **[MarketBot](https://github.com/EthanAlgoX/MarketBot)** R:🟡 M:🟢 — MarketBot is a finance-customized version of openclaw, built as a dedicated AI agent for market intelligence, trading analysis, and decision support. by EthanAlgoX *(35 ⭐)*
+- 🔗 **[cldmemory](https://github.com/david-strejc/cldmemory)** R:🟡 M:🟠 — MCP Memory Server with human-like memory system for Claude by david-strejc *(14 ⭐)*
 - 📚 **[solana-claude-config](https://github.com/solanabr/solana-claude-config)** R:🟡 M:🟢 — Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile and more. by solanabr *(26 ⭐)*
+- 🔌 **[meta-cc](https://github.com/yaleh/meta-cc)** R:🟡 M:🟢 — Meta-Cognition tool for Claude Code - analyze session history for workflow optimization. by yaleh *(16 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
