@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-302-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-306-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-637k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**302 tools** discovered across 15 categories
+**306 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔗 **[festapp](https://github.com/vkh-cr/festapp)** R:🟡 M:🟢 — Festapp - mobile app for festivals, conferences or events. by vkh-cr *(34 ⭐)* — discovered Feb 15
+- 🔌 **[jira-skill](https://github.com/netresearch/jira-skill)** R:🟡 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(23 ⭐)* — discovered Feb 15
+- ⌨️ **[claude-historian-mcp](https://github.com/Vvkmnn/claude-historian-mcp)** R:🟡 M:🟢 — 🤖 An MCP server for surfacing useful Claude Code conversation history by Vvkmnn *(219 ⭐)* — discovered Feb 15
+- 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)* — discovered Feb 15
+- 🔗 **[firewalla-mcp-server](https://github.com/amittell/firewalla-mcp-server)** R:🟡 M:🟠 — Firewalla MCP Server - Claude integration for network security monitoring and firewall management by amittell *(15 ⭐)* — discovered Feb 15
 - 🔗 **[llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules)** R:🟡 M:🟢 — Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects. by iloveitaly *(13 ⭐)* — discovered Feb 15
-- 🔌 **[agentguard](https://github.com/GoPlusSecurity/agentguard)** R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(136 ⭐)* — discovered Feb 15
-- 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟡 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)* — discovered Feb 15
-- ⌨️ **[hledger-mcp](https://github.com/iiAtlas/hledger-mcp)** R:🟡 M:🟠 — A local MCP server for interacting with the HLedger cli by iiAtlas *(37 ⭐)* — discovered Feb 15
 
 ---
 
@@ -90,6 +90,7 @@
 - 🔗 **[flabr](https://github.com/iska9der/flabr)** R:🟡 M:🟢 — habr client on flutter by iska9der *(29 ⭐)*
 - 🔌 **[RTFD](https://github.com/aserper/RTFD)** R:🟡 M:🟢 — Spoonfeed your AI coding assistant with up to date documentation efficiently and without using a cloud service with the RTFD mcp server that runs on YOUR machine without any API key requirements! by aserper *(13 ⭐)*
 - 📚 **[assassyn](https://github.com/Synthesys-Lab/assassyn)** R:🟡 M:🟢 — Asynchronous semantics for architectural simulation and synthesis. by Synthesys-Lab *(65 ⭐)*
+- 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟡 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -120,6 +121,8 @@
 - ⌨️ **[ever-teams](https://github.com/ever-co/ever-teams)** R:🟡 M:🟢 — Ever® Teams™ - Open Work and Project Management Platform - https://ever.team by ever-co *(483 ⭐)*
 - 🔌 **[skill-issue](https://github.com/daamitt/skill-issue)** R:🟡 M:🟢 — A plugin/skill to search other plugins/skills by daamitt *(18 ⭐)*
 - 🔌 **[my-gtd-buddy](https://github.com/realYushi/my-gtd-buddy)** R:🟡 M:🟢 — A Reminders-native Getting Things Done (GTD) workflow powered by Claude Code. This project implements a streamlined GTD system using Apple Reminders with an intelligent AI skill to orchestrate workflow management by realYushi *(16 ⭐)*
+- 🔗 **[festapp](https://github.com/vkh-cr/festapp)** R:🟡 M:🟢 — Festapp - mobile app for festivals, conferences or events. by vkh-cr *(34 ⭐)*
+- ⌨️ **[hledger-mcp](https://github.com/iiAtlas/hledger-mcp)** R:🟡 M:🟠 — A local MCP server for interacting with the HLedger cli by iiAtlas *(37 ⭐)*
 
 ## 🎬 Media
 
@@ -146,6 +149,7 @@
 
 - 📄 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(617 ⭐)*
 - ⌨️ **[claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net)** R:🟡 M:🟢 — A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. by kenryu42 *(986 ⭐)*
+- 🔌 **[agentguard](https://github.com/GoPlusSecurity/agentguard)** R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(136 ⭐)*
 
 ## 🔗 Integrations
 
