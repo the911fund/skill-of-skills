@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-306-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-309-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-637k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**306 tools** discovered across 15 categories
+**309 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[jira-skill](https://github.com/netresearch/jira-skill)** R:🟡 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(23 ⭐)* — discovered Feb 15
+- 🔌 **[stepwise-dev](https://github.com/nikeyes/stepwise-dev)** R:🟡 M:🟢 — Dev workflow for Claude Code by nikeyes *(15 ⭐)* — discovered Feb 15
+- 🔗 **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(13 ⭐)* — discovered Feb 15
+- 🔌 **[claude-mountaineering-skills](https://github.com/dreamiurg/claude-mountaineering-skills)** R:🟡 M:🟢 — Automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources to generate detailed route beta reports with weather, avalanche conditions, and trip reports. by dreamiurg *(14 ⭐)* — discovered Feb 15
 - ⌨️ **[claude-historian-mcp](https://github.com/Vvkmnn/claude-historian-mcp)** R:🟡 M:🟢 — 🤖 An MCP server for surfacing useful Claude Code conversation history by Vvkmnn *(219 ⭐)* — discovered Feb 15
-- 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)* — discovered Feb 15
 - 🔗 **[firewalla-mcp-server](https://github.com/amittell/firewalla-mcp-server)** R:🟡 M:🟠 — Firewalla MCP Server - Claude integration for network security monitoring and firewall management by amittell *(15 ⭐)* — discovered Feb 15
-- 🔗 **[llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules)** R:🟡 M:🟢 — Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects. by iloveitaly *(13 ⭐)* — discovered Feb 15
 
 ---
 
@@ -91,6 +91,7 @@
 - 🔌 **[RTFD](https://github.com/aserper/RTFD)** R:🟡 M:🟢 — Spoonfeed your AI coding assistant with up to date documentation efficiently and without using a cloud service with the RTFD mcp server that runs on YOUR machine without any API key requirements! by aserper *(13 ⭐)*
 - 📚 **[assassyn](https://github.com/Synthesys-Lab/assassyn)** R:🟡 M:🟢 — Asynchronous semantics for architectural simulation and synthesis. by Synthesys-Lab *(65 ⭐)*
 - 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟡 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)*
+- 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -171,7 +172,6 @@
 - 📚 **[claude-imessage](https://github.com/dvdsgl/claude-imessage)** R:🟡 M:🟢 — iMessage integration for Claude Code - autonomous agent via iMessage by dvdsgl *(31 ⭐)*
 - 🔗 **[mysql-query-mcp-server](https://github.com/devakone/mysql-query-mcp-server)** R:🟡 M:🟠 — MySQL Query MCP server for AI assistants - execute read-only MySQL queries by devakone *(11 ⭐)*
 - 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟡 M:🟢 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)*
-- 🔌 **[skills](https://github.com/trailofbits/skills)** R:🟡 M:🟢 — Skills for teaching agents how to build on Cloudflare. by trailofbits *(2.5k ⭐)*
 - 🔌 **[firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin)** R:🟡 M:🟢 — Firecrawl plugin for Claude Code - web scraping and crawling by firecrawl *(17 ⭐)*
 - 🔌 **[han](https://github.com/TheBushidoCollective/han)** R:🟡 M:🟢 — A curated marketplace of Claude Code plugins that embody the principles of ethical and professional software development. by TheBushidoCollective *(88 ⭐)*
 - 🔌 **[claude-genkit-plugin](https://github.com/amitpatole/claude-genkit-plugin)** R:🟡 M:🟢 — Firebase Genkit Plugin for Claude Code by amitpatole *(11 ⭐)*
@@ -179,6 +179,7 @@
 - ⌨️ **[opensync](https://github.com/waynesutton/opensync)** R:🟡 M:🟢 — Cloud-synced dashboards for OpenCode and Claude Code. Track sessions, search with semantic lookup, export eval datasets. by waynesutton *(296 ⭐)*
 - 🔗 **[c64bridge](https://github.com/chrisgleissner/c64bridge)** R:🟡 M:🟢 — MCP server to control and program the Commodore 64 Ultimate and Ultimate 64 via REST API by chrisgleissner *(14 ⭐)*
 - ⌨️ **[esa-mcp-server](https://github.com/esaio/esa-mcp-server)** R:🟡 M:🟢 — esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版) by esaio *(45 ⭐)*
+- 🔌 **[jira-skill](https://github.com/netresearch/jira-skill)** R:🟡 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(23 ⭐)*
 - 📚 **[mcp-filter](https://github.com/pro-vi/mcp-filter)** R:🟡 M:🟠 — A proxy MCP (Model Context Protocol) server that filters the upstream tool surface to just the tools you need. by pro-vi *(45 ⭐)*
 
 ## 🤖 Agents
@@ -256,6 +257,7 @@
 - 🔗 **[allein](https://github.com/szilarddoro/allein)** R:🟡 M:🟢 — A Markdown editor powered by your LLM. Like GitHub Copilot, but local and free. by szilarddoro *(16 ⭐)*
 - 🔌 **[claude-mem-jp](https://github.com/Chachamaru127/claude-mem-jp)** R:🟡 M:🟢 — claude-memを検知して日本語化するためのプラグイン by Chachamaru127 *(15 ⭐)*
 - 🔗 **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** R:🟡 M:🟢 — My Cursor User Rules. by ModyQyW *(10 ⭐)*
+- 🔗 **[llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules)** R:🟡 M:🟢 — Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects. by iloveitaly *(13 ⭐)*
 
 ## 🔀 Orchestration
 
@@ -365,6 +367,7 @@
 - 🔗 **[ultrafast-mcp-sequential-thinking](https://github.com/techgopal/ultrafast-mcp-sequential-thinking)** R:🟡 M:🟠 — Rust-based MCP server for sequential thinking using UltraFast MCP. by techgopal *(13 ⭐)*
 - 📚 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟡 M:🟢 — A simple memory system for claude code by rlancemartin *(318 ⭐)*
 - 📚 **[vm0](https://github.com/vm0-ai/vm0)** R:🟡 M:🟢 — the easiest way to run natural language-described workflows automatically by vm0-ai *(1.0k ⭐)*
+- 📚 **[skills](https://github.com/trailofbits/skills)** R:🟡 M:🟢 — Public registry for OpenHands skills. by trailofbits *(2.5k ⭐)*
 - 📚 **[everything-claude-code-mobile](https://github.com/ahmed3elshaer/everything-claude-code-mobile)** R:🟡 M:🟢 — Makes Claude code mobile first by ahmed3elshaer *(26 ⭐)*
 - 🔌 **[lisa](https://github.com/blencorp/lisa)** R:🟡 M:🟢 — Lisa plans. Ralph does. Interactive specification interview workflow for Claude Code that conducts in-depth feature interviews and generates comprehensive specs. by blencorp *(106 ⭐)*
 - 🔌 **[WordPress-Publishing-Skill-For-Claude](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude)** R:🟡 M:🟢 — WordPress Publishing Skill For Claude by Asif2BD *(27 ⭐)*
