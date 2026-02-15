@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-261-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-267-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-632k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-634k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**261 tools** discovered across 15 categories
+**267 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[ever-teams](https://github.com/ever-co/ever-teams)** R:🟡 M:🟢 — Ever® Teams™ - Open Work and Project Management Platform - https://ever.team by ever-co *(483 ⭐)* — discovered Feb 15
-- 🔌 **[gepetto](https://github.com/softaworks/gepetto)** R:🟡 M:🟢 — 🪵 Transform rough ideas into living implementation plans in Claude. Like Geppetto carved Pinocchio, craft detailed specs through research, interviews, and multi-LLM review. by softaworks *(18 ⭐)* — discovered Feb 15
-- 🔌 **[double-shot-latte](https://github.com/obra/double-shot-latte)** R:🟡 M:🟢 — Claude Code plugin that automatically evaluates whether Claude should continue working instead of stopping prematurely by obra *(63 ⭐)* — discovered Feb 15
-- ⌨️ **[eldoraui](https://github.com/karthikmudunuri/eldoraui)** R:🟡 M:🟢 — Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. by karthikmudunuri *(1.9k ⭐)* — discovered Feb 15
-- 🔗 **[Polymind](https://github.com/Remy2404/Polymind)** R:🟡 M:🟢 — A powerful, multi-modal Telegram bot leveraging cutting-edge AI technologies including Gemini, DeepSeek, OpenRouter, and 50+ AI models for comprehensive conversational assistance, media processing, and collaborative features with MCP (Model Context Protocol) integration. by Remy2404 *(12 ⭐)* — discovered Feb 15
+- 🔗 **[mcp-server-starter-ts](https://github.com/alexanderop/mcp-server-starter-ts)** R:🟡 M:🟢 — A minimal TypeScript starter template for building Model Context Protocol (MCP) servers. by alexanderop *(26 ⭐)* — discovered Feb 15
+- 🔗 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** R:🟡 M:🟠 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)* — discovered Feb 15
+- 🔌 **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** R:🟡 M:🟢 — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.1k ⭐)* — discovered Feb 15
+- 🔌 **[claude-code-auto-memory](https://github.com/severity1/claude-code-auto-memory)** R:🟡 M:🟢 — Claude Code plugin that automatically maintains CLAUDE.md files by severity1 *(108 ⭐)* — discovered Feb 15
+- 🔗 **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(131 ⭐)* — discovered Feb 15
 
 ---
 
@@ -78,6 +78,7 @@
 - 📚 **[goandroid](https://github.com/kunaldawn/goandroid)** R:🟡 M:🟠 — Android automation library for GO by kunaldawn *(30 ⭐)*
 - 🔌 **[ubrowser](https://github.com/Lulzx/ubrowser)** R:🟡 M:🟢 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(11 ⭐)*
 - 🔌 **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** R:🟡 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(20 ⭐)*
+- ⌨️ **[eldoraui](https://github.com/karthikmudunuri/eldoraui)** R:🟡 M:🟢 — Eldora UI is a collection of re-usable components that you can copy and paste into your web apps. It primarily features components, blocks, and templates. by karthikmudunuri *(1.9k ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -101,6 +102,7 @@
 - 🔌 **[claudio](https://github.com/vinnie357/claudio)** R:🟡 M:🟢 — prompts, commands, and tools for working with jean claude by vinnie357 *(12 ⭐)*
 - 📚 **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** R:🟡 M:🟢 — Stop re-explaining your project to AI every session. Automatic context memory for Claude, VS Code, Cursor, and 13+ AI tools. by doobidoo *(1.3k ⭐)*
 - 🔌 **[_b00t_](https://github.com/elasticdotventures/_b00t_)** R:🟡 M:🟢 — 🥾 _b00t_:  brians dotfiles aka state of the art agentic tooling & context initialization by elasticdotventures *(12 ⭐)*
+- ⌨️ **[ever-teams](https://github.com/ever-co/ever-teams)** R:🟡 M:🟢 — Ever® Teams™ - Open Work and Project Management Platform - https://ever.team by ever-co *(483 ⭐)*
 
 ## 🎬 Media
 
@@ -193,6 +195,9 @@
 - 🔌 **[subcog](https://github.com/zircote/subcog)** R:🟡 M:🟢 — Persistent memory system for AI coding assistants. Captures decisions, learnings, and context from coding sessions. Features hybrid search (semantic + BM25), MCP server integration, SQLite persistence with knowledge graph, and proactive memory surfacing. Written in Rust. by zircote *(12 ⭐)*
 - 🔗 **[jules-mcp-server](https://github.com/CodeAgentBridge/jules-mcp-server)** R:🟡 M:🟠 — Unofficial MCP server for Google Jules agent 🐙 by CodeAgentBridge *(23 ⭐)*
 - 📚 **[agentic_auxilary](https://github.com/allisoneer/agentic_auxilary)** R:🟡 M:🟢 — A collection of software tools to aid myself (and optionally others) in improved agentic ai development by allisoneer *(56 ⭐)*
+- 🔌 **[double-shot-latte](https://github.com/obra/double-shot-latte)** R:🟡 M:🟢 — Claude Code plugin that automatically evaluates whether Claude should continue working instead of stopping prematurely by obra *(63 ⭐)*
+- 🔌 **[gepetto](https://github.com/softaworks/gepetto)** R:🟡 M:🟢 — 🪵 Transform rough ideas into living implementation plans in Claude. Like Geppetto carved Pinocchio, craft detailed specs through research, interviews, and multi-LLM review. by softaworks *(18 ⭐)*
+- 🔗 **[Polymind](https://github.com/Remy2404/Polymind)** R:🟡 M:🟢 — A powerful, multi-modal Telegram bot leveraging cutting-edge AI technologies including Gemini, DeepSeek, OpenRouter, and 50+ AI models for comprehensive conversational assistance, media processing, and collaborative features with MCP (Model Context Protocol) integration. by Remy2404 *(12 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -245,6 +250,7 @@
 - 🔗 **[workflows-mcp-server](https://github.com/cyanheads/workflows-mcp-server)** R:🟡 M:🟠 — Model Context Protocol server that enables AI agents to discover, create, and execute complex, multi-step workflows defined in simple YAML files. Allow your AI agents to better organize their tool usage and provide a more structured way to handle complex multi-step tasks. by cyanheads *(29 ⭐)*
 - ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(47 ⭐)*
 - 🔌 **[rag-cli](https://github.com/ItMeDiaTech/rag-cli)** R:🟡 M:🟠 — Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup. by ItMeDiaTech *(23 ⭐)*
+- 🔗 **[mindbridge-mcp](https://github.com/pinkpixel-dev/mindbridge-mcp)** R:🟡 M:🟠 — MindBridge is an AI orchestration MCP server that lets any app talk to any LLM — OpenAI, Anthropic, DeepSeek, Ollama, and more — through a single unified API. Route queries, compare models, get second opinions, and build smarter multi-LLM workflows. by pinkpixel-dev *(27 ⭐)*
 
 ## 🎓 Learning & Guides
 
