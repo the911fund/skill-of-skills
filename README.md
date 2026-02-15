@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-240-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-245-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-625k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-629k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**240 tools** discovered across 15 categories
+**245 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(47 ⭐)* — discovered Feb 15
-- 🔌 **[messages](https://github.com/cardmagic/messages)** R:🟡 M:🟢 — Fuzzy search through Apple Messages (iMessage/SMS) - CLI and MCP server by cardmagic *(17 ⭐)* — discovered Feb 15
-- 🔌 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** R:🟡 M:🟢 — Suno Song Creator Skill by nwp *(11 ⭐)* — discovered Feb 15
-- 🔌 **[ubrowser](https://github.com/Lulzx/ubrowser)** R:🟡 M:🟢 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(11 ⭐)* — discovered Feb 15
-- 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟡 M:🟢 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)* — discovered Feb 15
+- 📚 **[mcp-memory-service](https://github.com/doobidoo/mcp-memory-service)** R:🟡 M:🟢 — Stop re-explaining your project to AI every session. Automatic context memory for Claude, VS Code, Cursor, and 13+ AI tools. by doobidoo *(1.3k ⭐)* — discovered Feb 15
+- 🔌 **[firecrawl-claude-plugin](https://github.com/firecrawl/firecrawl-claude-plugin)** R:🟡 M:🟢 — Firecrawl plugin for Claude Code - web scraping and crawling by firecrawl *(17 ⭐)* — discovered Feb 15
+- 🔌 **[atelier-ui](https://github.com/heyman333/atelier-ui)** R:🟡 M:🟢 — atelier-ui skills for ai by heyman333 *(16 ⭐)* — discovered Feb 15
+- 🔌 **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** R:🟡 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(20 ⭐)* — discovered Feb 15
+- 🔗 **[quay](https://github.com/quay/quay)** R:🟡 M:🟢 — Build, Store, and Distribute your Applications and Containers by quay *(2.7k ⭐)* — discovered Feb 15
 
 ---
 
@@ -76,6 +76,7 @@
 - 🔌 **[minimal-claude](https://github.com/KenKaiii/minimal-claude)** R:🟡 M:🟢 — Intelligent Claude Code plugin that auto-configures linting, typechecking, and parallel agent-based fixing by KenKaiii *(16 ⭐)*
 - 🔗 **[music21-mcp-server](https://github.com/brightlikethelight/music21-mcp-server)** R:🟡 M:🟢 — 🎵 Production-ready MCP server for music analysis & generation | FastMCP • music21 • OAuth2 • Docker | First music21 MCP integration with enterprise features by brightlikethelight *(11 ⭐)*
 - 📚 **[goandroid](https://github.com/kunaldawn/goandroid)** R:🟡 M:🟠 — Android automation library for GO by kunaldawn *(30 ⭐)*
+- 🔌 **[ubrowser](https://github.com/Lulzx/ubrowser)** R:🟡 M:🟢 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(11 ⭐)*
 - 📚 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 
 ## 📚 Documentation
@@ -102,6 +103,7 @@
 
 - 🔌 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(37 ⭐)*
 - ⌨️ **[buttercut](https://github.com/barefootford/buttercut)** R:🟢 M:🟢 — Edit Video with Claude Code by barefootford *(135 ⭐)*
+- 🔌 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** R:🟡 M:🟢 — Suno Song Creator Skill by nwp *(11 ⭐)*
 - 🔗 **[jimeng-ai-mcp](https://github.com/freeleepm/jimeng-ai-mcp)** R:🟡 M:🟠 — 这是一个基于火山引擎即梦AI的多模态生成服务，支持图像生成、视频生成等功能，可通过MCP协议在Cursor、Claude Desktop等MCP客户端中使用，也可作为独立库调用。支持 macOS、Linux、Windows 及 WSL 环境。 by freeleepm *(21 ⭐)*
 
 ## 🔬 Research
@@ -112,6 +114,7 @@
 - ⌨️ **[quick-data-mcp](https://github.com/disler/quick-data-mcp)** R:🟢 M:🟠 — Prompt focused MCP Server for .json and .csv agentic data analytics for Claude Code by disler *(143 ⭐)*
 - 📚 **[research-to-diagram](https://github.com/wshuyi/research-to-diagram)** R:🟡 M:🟢 — Deep research and auto-generate knowledge relationship diagrams in PDF. From research to visualization in one tool. 深度调研并自动生成知识关系图谱PDF。 by wshuyi *(92 ⭐)*
 - 🔗 **[awesome-mcp-personas](https://github.com/toolprint/awesome-mcp-personas)** R:🟡 M:🟠 — A curated collection of persona-based mcp server & tool groupings. by toolprint *(35 ⭐)*
+- 🔌 **[messages](https://github.com/cardmagic/messages)** R:🟡 M:🟢 — Fuzzy search through Apple Messages (iMessage/SMS) - CLI and MCP server by cardmagic *(17 ⭐)*
 
 ## 🔒 Security
 
@@ -137,6 +140,7 @@
 - 📚 **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)** R:🟡 M:🟢 — The official Pinecone marketplace for Claude Code Plugins by pinecone-io *(39 ⭐)*
 - 📚 **[claude-imessage](https://github.com/dvdsgl/claude-imessage)** R:🟡 M:🟢 — iMessage integration for Claude Code - autonomous agent via iMessage by dvdsgl *(31 ⭐)*
 - 🔗 **[mysql-query-mcp-server](https://github.com/devakone/mysql-query-mcp-server)** R:🟡 M:🟠 — MySQL Query MCP server for AI assistants - execute read-only MySQL queries by devakone *(11 ⭐)*
+- 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟡 M:🟢 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)*
 - 📚 **[mcp-filter](https://github.com/pro-vi/mcp-filter)** R:🟡 M:🟠 — A proxy MCP (Model Context Protocol) server that filters the upstream tool surface to just the tools you need. by pro-vi *(45 ⭐)*
 
 ## 🤖 Agents
@@ -223,6 +227,7 @@
 - 🔌 **[claude-orchestration](https://github.com/mbruhler/claude-orchestration)** R:🟡 M:🟢 — Multi-agent workflow orchestration plugin for Claude Code by mbruhler *(198 ⭐)*
 - 🔌 **[claude-router](https://github.com/0xrdan/claude-router)** R:🟡 M:🟢 — Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity. It also includes many more features. If this project is working well for you and would like to support me, just help spread the word. Thanks! by 0xrdan *(27 ⭐)*
 - 🔗 **[workflows-mcp-server](https://github.com/cyanheads/workflows-mcp-server)** R:🟡 M:🟠 — Model Context Protocol server that enables AI agents to discover, create, and execute complex, multi-step workflows defined in simple YAML files. Allow your AI agents to better organize their tool usage and provide a more structured way to handle complex multi-step tasks. by cyanheads *(29 ⭐)*
+- ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(47 ⭐)*
 - 🔌 **[rag-cli](https://github.com/ItMeDiaTech/rag-cli)** R:🟡 M:🟠 — Local Retrieval-Augmented Generation (RAG) plugin for Claude Code that combines Chroma db vector embeddings with intelligent info retrieval with Multi-Agent Framework (MAF) orchestration for context-aware development assistance. Uses Open Source / Free frameworks. Implements bridge to Claude Code CLI so no token use. And it's easy to setup. by ItMeDiaTech *(23 ⭐)*
 
 ## 🎓 Learning & Guides
@@ -241,6 +246,7 @@
 - 📄 **[claude-code-tips](https://github.com/ykdojo/claude-code-tips)** R:🟢 M:🟢 — 45 tips for getting the most out of Claude Code, from basics to advanced - includes a custom status line script, cutting the system prompt in half, using Gemini CLI as Claude Code's minion, and Claude Code running itself in a container. Also includes the dx plugin. by ykdojo *(2.4k ⭐)*
 - 📚 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** R:🟡 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(16.8k ⭐)*
 - 🔌 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟡 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(43.1k ⭐)*
+- 🔌 **[agent-skills](https://github.com/apify/agent-skills)** R:🟡 M:🟢 — Odoo Skills Documentation by apify *(194 ⭐)*
 
 ## 📦 Uncategorized
 
@@ -253,7 +259,6 @@
 - 🔌 **[claude-code-frontend-dev](https://github.com/hemangjoshi37a/claude-code-frontend-dev)** R:🟡 M:🟢 — 🚀 First multimodal AI-powered visual testing plugin for Claude Code. AI that can SEE your UI! 10x faster frontend development with closed-loop testing, browser automation, and Claude 4.5 Sonnet vision. by hemangjoshi37a *(10 ⭐)*
 - 📚 **[Scientific-Papers-MCP](https://github.com/benedict2310/Scientific-Papers-MCP)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server that provides LLMs with real-time access to scientific papers from arXiv and OpenAlex. by benedict2310 *(40 ⭐)*
 - 🔌 **[fluxwing-skills](https://github.com/trabian/fluxwing-skills)** R:🟡 M:🟢 — Claude skills for generating ASCII components and screens for humans to review, and AI to build from. by trabian *(12 ⭐)*
-- 🔌 **[agent-skills](https://github.com/apify/agent-skills)** R:🟡 M:🟢 — Collection of Apify Agent Skills by apify *(194 ⭐)*
 - 🔌 **[claude-laravel](https://github.com/leeovery/claude-laravel)** R:🟡 M:🟢 — Opinionated Laravel Skills & Commands for Claude Code by leeovery *(15 ⭐)*
 - 🔗 **[codex-as-mcp](https://github.com/evilpsycho42/codex-as-mcp)** R:🟡 M:🟢 — Convert codex CLI tool to an MCP — unleash the power of GPT-5 by evilpsycho42 *(139 ⭐)*
 - 📚 **[action_mcp](https://github.com/seuros/action_mcp)** R:🟡 M:🟢 — Rails Engine with MCP compliant Spec. by seuros *(89 ⭐)*
