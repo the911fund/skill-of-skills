@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-309-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-317-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-637k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-639k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**309 tools** discovered across 15 categories
+**317 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[stepwise-dev](https://github.com/nikeyes/stepwise-dev)** R:🟡 M:🟢 — Dev workflow for Claude Code by nikeyes *(15 ⭐)* — discovered Feb 15
-- 🔗 **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(13 ⭐)* — discovered Feb 15
-- 🔌 **[claude-mountaineering-skills](https://github.com/dreamiurg/claude-mountaineering-skills)** R:🟡 M:🟢 — Automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources to generate detailed route beta reports with weather, avalanche conditions, and trip reports. by dreamiurg *(14 ⭐)* — discovered Feb 15
-- ⌨️ **[claude-historian-mcp](https://github.com/Vvkmnn/claude-historian-mcp)** R:🟡 M:🟢 — 🤖 An MCP server for surfacing useful Claude Code conversation history by Vvkmnn *(219 ⭐)* — discovered Feb 15
-- 🔗 **[firewalla-mcp-server](https://github.com/amittell/firewalla-mcp-server)** R:🟡 M:🟠 — Firewalla MCP Server - Claude integration for network security monitoring and firewall management by amittell *(15 ⭐)* — discovered Feb 15
+- 📚 **[markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser)** R:🟡 M:🟢 — Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams structured Markdown + provenance back to AI agents and pipelines by Dicklesworthstone *(122 ⭐)* — discovered Feb 15
+- 🔌 **[my-ai-tools](https://github.com/jellydn/my-ai-tools)** R:🟡 M:🟢 — Comprehensive configuration management for AI coding tools - Replicate my complete setup for Claude Code, OpenCode, Amp, Codex and Claude Code Switch with custom configurations, MCP servers, plugins, and commands. by jellydn *(25 ⭐)* — discovered Feb 15
+- 🔗 **[obsidian-mcp-server-enhanced](https://github.com/BoweyLou/obsidian-mcp-server-enhanced)** R:🟡 M:🟢 — This is an enhanced version of the excellent cyanheads/obsidian-mcp-server with additional features specifically tailored for remote Claude.ai integration, advanced task querying, and security via Tailscale. by BoweyLou *(22 ⭐)* — discovered Feb 15
+- 🔌 **[ai-drawio](https://github.com/GBSOSS/ai-drawio)** R:🟡 M:🟢 — AI-powered draw.io diagram generator for Claude Code. Generate flowcharts, architecture diagrams, mind maps from natural language with browser preview. by GBSOSS *(53 ⭐)* — discovered Feb 15
+- 📚 **[antigravity-agentic-skills](https://github.com/vuralserhat86/antigravity-agentic-skills)** R:🟡 M:🟢 — OS for Agents: 130+ Agentic Skills, Gemini Protocols, and Autonomous Workflows. (Antigravity System) by vuralserhat86 *(34 ⭐)* — discovered Feb 15
 
 ---
 
@@ -124,6 +124,8 @@
 - 🔌 **[my-gtd-buddy](https://github.com/realYushi/my-gtd-buddy)** R:🟡 M:🟢 — A Reminders-native Getting Things Done (GTD) workflow powered by Claude Code. This project implements a streamlined GTD system using Apple Reminders with an intelligent AI skill to orchestrate workflow management by realYushi *(16 ⭐)*
 - 🔗 **[festapp](https://github.com/vkh-cr/festapp)** R:🟡 M:🟢 — Festapp - mobile app for festivals, conferences or events. by vkh-cr *(34 ⭐)*
 - ⌨️ **[hledger-mcp](https://github.com/iiAtlas/hledger-mcp)** R:🟡 M:🟠 — A local MCP server for interacting with the HLedger cli by iiAtlas *(37 ⭐)*
+- ⌨️ **[claude-historian-mcp](https://github.com/Vvkmnn/claude-historian-mcp)** R:🟡 M:🟢 — 🤖 An MCP server for surfacing useful Claude Code conversation history by Vvkmnn *(219 ⭐)*
+- 📚 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** R:🟡 M:🟢 — A collection of Claude skills I have concocted to optimise my Ops/Product workflows. by ElliotJLT *(47 ⭐)*
 
 ## 🎬 Media
 
@@ -145,12 +147,14 @@
 - 🔗 **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** R:🟡 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(23 ⭐)*
 - 🔗 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(182 ⭐)*
 - 🔌 **[co-researcher](https://github.com/poemswe/co-researcher)** R:🟡 M:🟢 — Plugin and Skills for Claude Code, Gemini CLI and Codex by poemswe *(19 ⭐)*
+- 🔌 **[claude-mountaineering-skills](https://github.com/dreamiurg/claude-mountaineering-skills)** R:🟡 M:🟢 — Automates mountain route research for North American peaks. Aggregates data from 10+ mountaineering sources to generate detailed route beta reports with weather, avalanche conditions, and trip reports. by dreamiurg *(14 ⭐)*
 
 ## 🔒 Security
 
 - 📄 **[iothackbot](https://github.com/BrownFineSecurity/iothackbot)** R:🟢 M:🟢 — IoT HackBot: A collection of Claude Skills and custom tooling for hybrid IoT pentesting by BrownFineSecurity *(617 ⭐)*
 - ⌨️ **[claude-code-safety-net](https://github.com/kenryu42/claude-code-safety-net)** R:🟡 M:🟢 — A Claude Code plugin that acts as a safety net, catching destructive git and filesystem commands before they execute. by kenryu42 *(986 ⭐)*
 - 🔌 **[agentguard](https://github.com/GoPlusSecurity/agentguard)** R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(136 ⭐)*
+- 🔗 **[firewalla-mcp-server](https://github.com/amittell/firewalla-mcp-server)** R:🟡 M:🟠 — Firewalla MCP Server - Claude integration for network security monitoring and firewall management by amittell *(15 ⭐)*
 
 ## 🔗 Integrations
 
@@ -231,6 +235,10 @@
 - 🔗 **[AI-Werewolf](https://github.com/monad-developers/AI-Werewolf)** R:🟡 M:🟢 — CN Mission 3: MCP Werewolf by monad-developers *(33 ⭐)*
 - 📚 **[augo](https://github.com/kylesean/augo)** R:🟡 M:🟢 — 支持私有化部署的 AI 个人财务助理，适配 NAS 环境，数据完全自主掌控。 by kylesean *(32 ⭐)*
 - 🔌 **[claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)** R:🟡 M:🟢 — SRE thinking applied to Claude Code, based on Boris Cherny's Q&A. by elb-pr *(95 ⭐)*
+- 🔗 **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(13 ⭐)*
+- 🔌 **[stepwise-dev](https://github.com/nikeyes/stepwise-dev)** R:🟡 M:🟢 — Dev workflow for Claude Code by nikeyes *(15 ⭐)*
+- ⌨️ **[hash](https://github.com/hashintel/hash)** R:🟡 M:🟢 — 🚀  The open-source, multi-tenant, self-building knowledge graph by hashintel *(1.4k ⭐)*
+- 🔌 **[paty](https://github.com/gjtorikian/paty)** R:🟡 M:🟢 — The most human-like AI agent you'll ever use. It insists on manners, gets distracted mid-task, sometimes   gives up entirely, occasionally claims it did something when it didn't, ignores its own output, and starts every session already feeling a bit off. by gjtorikian *(12 ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
