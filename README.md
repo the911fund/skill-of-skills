@@ -2,11 +2,11 @@
 
 > A curated directory of Claude Code skills, plugins, MCP servers, and tools for the AI coding ecosystem.
 
-[![Tools](https://img.shields.io/badge/tools-356-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-358-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-642k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-645k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**356 tools** discovered across 15 categories
+**358 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[perry](https://github.com/gricha/perry)** R:🟡 M:🟢 — Workspace orchestration for local development environments using docker-in-docker by gricha *(26 ⭐)* — discovered Feb 15
+- ⌨️ **[WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History)** R:🟡 M:🟢 — 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed. by bonny *(314 ⭐)* — discovered Feb 16
+- 🔗 **[langwatch](https://github.com/langwatch/langwatch)** R:🟡 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(2.8k ⭐)* — discovered Feb 16
 - 📚 **[claude-config](https://github.com/Aurealibe/claude-config)** R:🟡 M:🟢 — Comprehensive Claude Code framework: 6 specialized agents, 7 workflow commands, audio notifications - stack agnostic by Aurealibe *(65 ⭐)* — discovered Feb 15
+- ⌨️ **[perry](https://github.com/gricha/perry)** R:🟡 M:🟢 — Workspace orchestration for local development environments using docker-in-docker by gricha *(26 ⭐)* — discovered Feb 15
 - 🔗 **[glados-mcp](https://github.com/halfaipg/glados-mcp)** R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(11 ⭐)* — discovered Feb 15
-- 🔗 **[pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server enabling AI agents to intelligently search, retrieve, and analyze biomedical literature from PubMed via NCBI E-utilities. Includes a research agent scaffold. STDIO & HTTP by cyanheads *(54 ⭐)* — discovered Feb 15
-- 🔗 **[pourpoise](https://github.com/brazil-bench/pourpoise)** R:🟡 M:🟢 — Purpose management for this organization by brazil-bench *(10 ⭐)* — discovered Feb 15
 
 ---
 
@@ -146,6 +146,7 @@
 - ⌨️ **[100cims](https://github.com/jvidalv/100cims)** R:🟡 M:🟢 — React Native mobile app. Track your mountain summits and join hiking challenges by jvidalv *(73 ⭐)*
 - 📚 **[worktree-manager-skill](https://github.com/Wirasm/worktree-manager-skill)** R:🟡 M:🟢 — a claude code skill for effortless worktree management by Wirasm *(119 ⭐)*
 - 📚 **[macro](https://github.com/macro-inc/macro)** R:🟡 M:🟢 — One system for email, messaging, tasks, docs, and files — all @linked. Get paid to contribute. by macro-inc *(40 ⭐)*
+- 🔗 **[pourpoise](https://github.com/brazil-bench/pourpoise)** R:🟡 M:🟢 — Purpose management for this organization by brazil-bench *(10 ⭐)*
 - 🔗 **[brainqub3](https://github.com/brainqub3/brainqub3)** R:🟡 M:🟢 — A second brain for your business or personal needs by brainqub3 *(10 ⭐)*
 
 ## 🎬 Media
@@ -174,6 +175,7 @@
 - 🔌 **[stata-mcp](https://github.com/SepineTam/stata-mcp)** R:🟡 M:🟢 — Let LLM help you achieve your regression with Stata. Evolve from reg monkey to causal thinker. by SepineTam *(81 ⭐)*
 - 🔌 **[protein-design-skills](https://github.com/adaptyvbio/protein-design-skills)** R:🟡 M:🟢 — Claude Code skills for protein design by adaptyvbio *(95 ⭐)*
 - 🔌 **[lex](https://github.com/i-dot-ai/lex)** R:🟡 M:🟢 — UK legal API for AI agents and researchers. by i-dot-ai *(28 ⭐)*
+- 🔗 **[pubmed-mcp-server](https://github.com/cyanheads/pubmed-mcp-server)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server enabling AI agents to intelligently search, retrieve, and analyze biomedical literature from PubMed via NCBI E-utilities. Includes a research agent scaffold. STDIO & HTTP by cyanheads *(54 ⭐)*
 - 🔗 **[Scientific-Papers-MCP](https://github.com/benedict2310/Scientific-Papers-MCP)** R:🟡 M:🟠 — A Model Context Protocol (MCP) server that provides LLMs with real-time access to scientific papers from arXiv and OpenAlex. by benedict2310 *(40 ⭐)*
 - 🔗 **[clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server)** R:🟡 M:🟠 — A Model Context Protocol (MCP) Server providing LLM tools for the official ClinicalTrials.gov REST API. Search and retrieve clinical trial data, including study details and more by cyanheads *(47 ⭐)*
 
@@ -514,5 +516,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-15 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-16 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
