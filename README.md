@@ -1,6 +1,6 @@
 # 🎯 Skill of Skills
 
-> The autonomous discovery engine for the Claude Code ecosystem — indexing skills, plugins, MCP servers, agents, dev tools, and integrations across 14 categories.
+> The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
 [![Tools](https://img.shields.io/badge/tools-346-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-14-green)](https://github.com/the911fund/skill-of-skills)
