@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-452-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-453-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-688k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**452 tools** discovered across 15 categories
+**453 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[onchain-mcp](https://github.com/Bankless/onchain-mcp)** R:🟢 M:🟢 — Bringing the bankless onchain API to MCP by Bankless *(72 ⭐)* — discovered Feb 16
 - 🔌 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(543 ⭐)* — discovered Feb 16
 - 🔌 **[blz](https://github.com/outfitter-dev/blz)** R:🟢 M:🟢 — Local-first, line-accurate search for blazing-fast lookups of llms.txt documentation. Human-friendly, Agent-ready. by outfitter-dev *(20 ⭐)* — discovered Feb 16
 - 🔌 **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(11 ⭐)* — discovered Feb 16
-- ⌨️ **[local-mcp-gateway](https://github.com/DXHeroes/local-mcp-gateway)** R:🟢 M:🟢 — Aggregate multiple MCP servers into a single endpoint with web UI, OAuth 2.1, and profile-based tool management by DXHeroes *(14 ⭐)* — discovered Feb 16
-- ⌨️ **[server-google-jobs](https://github.com/ChanMeng666/server-google-jobs)** R:🟢 M:🟢 — 【Every star you give feeds a hungry developer's motivation!⭐️】A Model Context Protocol (MCP) server implementation that provides Google Jobs search capabilities via SerpAPI integration. Features multi-language support, comprehensive search parameters, and smart error handling. by ChanMeng666 *(18 ⭐)* — discovered Feb 16
+- ⌨️ **[mcp-prompts](https://github.com/sparesparrow/mcp-prompts)** R:🟢 M:🟢 — Model Context Protocol server for managing, storing, and providing prompts and prompt templates for LLM interactions. by sparesparrow *(105 ⭐)* — discovered Feb 16
 
 ---
 
@@ -187,7 +187,6 @@
 - ⌨️ **[hledger-mcp](https://github.com/iiAtlas/hledger-mcp)** R:🟢 M:🟠 — A local MCP server for interacting with the HLedger cli by iiAtlas *(37 ⭐)*
 - 🔗 **[festapp](https://github.com/vkh-cr/festapp)** R:🟢 M:🟢 — Festapp - mobile app for festivals, conferences or events. by vkh-cr *(34 ⭐)*
 - 📚 **[Black-Friday-Deals](https://github.com/mRs-/Black-Friday-Deals)** R:🟢 M:🟢 — Black Friday Deals for macOS / iOS Software & Books by mRs- *(2.3k ⭐)*
-- ⌨️ **[mcp-prompts](https://github.com/sparesparrow/mcp-prompts)** R:🟢 M:🟢 — Model Context Protocol server for managing, storing, and providing prompts and prompt templates for LLM interactions. by sparesparrow *(105 ⭐)*
 - ⌨️ **[claude-historian-mcp](https://github.com/Vvkmnn/claude-historian-mcp)** R:🟢 M:🟢 — 🤖 An MCP server for surfacing useful Claude Code conversation history by Vvkmnn *(219 ⭐)*
 - 📚 **[Claude-Skill-Potions](https://github.com/ElliotJLT/Claude-Skill-Potions)** R:🟢 M:🟢 — A collection of Claude skills I have concocted to optimise my Ops/Product workflows. by ElliotJLT *(47 ⭐)*
 - 🔌 **[The-Crucible-Writing-System-For-Claude](https://github.com/forsonny/The-Crucible-Writing-System-For-Claude)** R:🟢 M:🟢 — The Crucible Writing System is an integrated suite of three Claude skills designed to guide writers from initial story concept to completed first draft. Built around the Crucible Structure—a 36-beat narrative framework with three interwoven story strands. by forsonny *(38 ⭐)*
@@ -304,6 +303,8 @@
 - 🔗 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)*
 - ⌨️ **[esa-mcp-server](https://github.com/esaio/esa-mcp-server)** R:🟢 M:🟢 — esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版) by esaio *(45 ⭐)*
 - 📚 **[perplexica-mcp](https://github.com/thetom42/perplexica-mcp)** R:🟢 M:🟢 — MCP server for Perplexica by thetom42 *(31 ⭐)*
+- ⌨️ **[server-google-jobs](https://github.com/ChanMeng666/server-google-jobs)** R:🟢 M:🟢 — 【Every star you give feeds a hungry developer's motivation!⭐️】A Model Context Protocol (MCP) server implementation that provides Google Jobs search capabilities via SerpAPI integration. Features multi-language support, comprehensive search parameters, and smart error handling. by ChanMeng666 *(18 ⭐)*
+- ⌨️ **[local-mcp-gateway](https://github.com/DXHeroes/local-mcp-gateway)** R:🟢 M:🟢 — Aggregate multiple MCP servers into a single endpoint with web UI, OAuth 2.1, and profile-based tool management by DXHeroes *(14 ⭐)*
 - 🔌 **[jira-skill](https://github.com/netresearch/jira-skill)** R:🟢 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(23 ⭐)*
 - 🔌 **[granola-claude-plugin](https://github.com/varadhjain/granola-claude-plugin)** R:🟢 M:🟢 — Extract intelligence from Granola meeting notes with AI by varadhjain *(51 ⭐)*
 - 🔗 **[obsidian-mcp-server-enhanced](https://github.com/BoweyLou/obsidian-mcp-server-enhanced)** R:🟡 M:🟠 — This is an enhanced version of the excellent cyanheads/obsidian-mcp-server with additional features specifically tailored for remote Claude.ai integration, advanced task querying, and security via Tailscale. by BoweyLou *(22 ⭐)*
