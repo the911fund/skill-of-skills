@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-346-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/categories-14-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-619k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-357-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-637k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**346 tools** discovered across 14 categories
+**357 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -29,17 +29,18 @@
 - [Editor & IDE](#-editor)
 - [Orchestration](#-orchestration)
 - [Learning & Guides](#-learning)
+- [Uncategorized](#-uncategorized)
 - [How It Works](#how-it-works)
 
 ---
 
 ## 🆕 Latest
 
-- ⌨️ **[WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History)** R:🟡 M:🟢 — 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed. by bonny *(314 ⭐)* — discovered Feb 16
-- 🔗 **[langwatch](https://github.com/langwatch/langwatch)** R:🟡 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(2.8k ⭐)* — discovered Feb 16
-- 📚 **[claude-config](https://github.com/Aurealibe/claude-config)** R:🟡 M:🟢 — Comprehensive Claude Code framework: 6 specialized agents, 7 workflow commands, audio notifications - stack agnostic by Aurealibe *(65 ⭐)* — discovered Feb 15
-- ⌨️ **[perry](https://github.com/gricha/perry)** R:🟡 M:🟢 — Workspace orchestration for local development environments using docker-in-docker by gricha *(26 ⭐)* — discovered Feb 15
-- 🔗 **[glados-mcp](https://github.com/halfaipg/glados-mcp)** R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(11 ⭐)* — discovered Feb 15
+- 🔌 **[sgrep](https://github.com/Rika-Labs/sgrep)** R:🟡 M:🟢 — Semantic code search that scales from private local processing to cloud-scale GPU acceleration by Rika-Labs *(38 ⭐)* — discovered Feb 16
+- 🔌 **[claude-marketplace-elixir](https://github.com/bradleygolden/claude-marketplace-elixir)** R:🟡 M:🟢 — Claude Marketplace for Elixir by bradleygolden *(163 ⭐)* — discovered Feb 16
+- 🔌 **[walkerOS](https://github.com/elbwalker/walkerOS)** R:🟡 M:🟢 — Open-source tag manager for developers by elbwalker *(318 ⭐)* — discovered Feb 16
+- 🔗 **[wifi-densepose](https://github.com/ruvnet/wifi-densepose)** R:🟡 M:🟢 — Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers by ruvnet *(6.5k ⭐)* — discovered Feb 16
+- 📚 **[Math-To-Manim](https://github.com/HarleyCoops/Math-To-Manim)** R:🟡 M:🟢 — Create Epic Math and Physics Animations & Study Notes From Text and Images. by HarleyCoops *(1.7k ⭐)* — discovered Feb 16
 
 ---
 
@@ -117,8 +118,11 @@
 - 🔌 **[claude-mermaid](https://github.com/veelenga/claude-mermaid)** R:🟡 M:🟢 — MCP Server to previewing mermaid diagrams by veelenga *(63 ⭐)*
 - 🔌 **[vibe-to-prod](https://github.com/muyen/vibe-to-prod)** R:🟡 M:🟢 — From Vibe Coding to Production in Days, Not Months - A production-ready full-stack template with AI-native development workflow by muyen *(25 ⭐)*
 - 🔌 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟡 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
+- 🔗 **[langwatch](https://github.com/langwatch/langwatch)** R:🟡 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(2.8k ⭐)*
 - 🔗 **[dynamo-mcp](https://github.com/ruvnet/dynamo-mcp)** R:🟡 M:🟠 — A dyamic MCP Registry using Cookiecutter templates by ruvnet *(41 ⭐)*
 - 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟡 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)*
+- 🔌 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** R:🟡 M:🟢 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(178 ⭐)*
+- 🔌 **[oh-my-claude](https://github.com/2lab-ai/oh-my-claude)** R:🟡 M:🟢 — Claude Code plugin for AI-powered iterative development loops. Inspired by oh-my-opencode, ralph loop. by 2lab-ai *(33 ⭐)*
 
 ## 📚 Documentation
 
@@ -167,6 +171,7 @@
 - 📚 **[macro](https://github.com/macro-inc/macro)** R:🟡 M:🟢 — One system for email, messaging, tasks, docs, and files — all @linked. Get paid to contribute. by macro-inc *(40 ⭐)*
 - 🔗 **[pourpoise](https://github.com/brazil-bench/pourpoise)** R:🟡 M:🟢 — Purpose management for this organization by brazil-bench *(10 ⭐)*
 - 🔗 **[brainqub3](https://github.com/brainqub3/brainqub3)** R:🟡 M:🟢 — A second brain for your business or personal needs by brainqub3 *(10 ⭐)*
+- 📚 **[decentpaste](https://github.com/decentpaste/decentpaste)** R:🟡 M:🟢 — Universal Clipboard for Every Device by decentpaste *(148 ⭐)*
 
 ## 🎬 Media
 
@@ -176,6 +181,7 @@
 - 🔗 **[jimeng-ai-mcp](https://github.com/freeleepm/jimeng-ai-mcp)** R:🟡 M:🟠 — 这是一个基于火山引擎即梦AI的多模态生成服务，支持图像生成、视频生成等功能，可通过MCP协议在Cursor、Claude Desktop等MCP客户端中使用，也可作为独立库调用。支持 macOS、Linux、Windows 及 WSL 环境。 by freeleepm *(21 ⭐)*
 - 🔗 **[nextalk](https://github.com/gonewx/nextalk)** R:🟡 M:🟢 — nextalk - High-performance offline voice input for Linux 实时语音识别系统 by gonewx *(16 ⭐)*
 - 🔗 **[v10](https://github.com/videojs/v10)** R:🟡 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(135 ⭐)*
+- 🔗 **[glados-mcp](https://github.com/halfaipg/glados-mcp)** R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(11 ⭐)*
 - 🔌 **[web-asset-generator](https://github.com/alonw0/web-asset-generator)** R:🟡 M:🟢 — Claude skill to generate favicons, app icons, and social media images from logos, text, or emojis. Supports emoji suggestions, validation, and framework auto-integration. by alonw0 *(183 ⭐)*
 
 ## 🔬 Research
@@ -332,8 +338,11 @@
 - 🔗 **[cldmemory](https://github.com/david-strejc/cldmemory)** R:🟡 M:🟠 — MCP Memory Server with human-like memory system for Claude by david-strejc *(14 ⭐)*
 - 📚 **[solana-claude-config](https://github.com/solanabr/solana-claude-config)** R:🟡 M:🟢 — Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile and more. by solanabr *(26 ⭐)*
 - 🔌 **[meta-cc](https://github.com/yaleh/meta-cc)** R:🟡 M:🟢 — Meta-Cognition tool for Claude Code - analyze session history for workflow optimization. by yaleh *(16 ⭐)*
+- 📚 **[claude-config](https://github.com/Aurealibe/claude-config)** R:🟡 M:🟢 — Comprehensive Claude Code framework: 6 specialized agents, 7 workflow commands, audio notifications - stack agnostic by Aurealibe *(65 ⭐)*
 - 🔌 **[investor-agent](https://github.com/ferdousbhai/investor-agent)** R:🟡 M:🟢 — A Model Context Protocol server for building an investor agent by ferdousbhai *(310 ⭐)*
 - 🔌 **[claude-skillkit](https://github.com/rfxlamia/claude-skillkit)** R:🟡 M:🟢 — Claude Skill Kit that can build comprehensive skills based on research. by rfxlamia *(39 ⭐)*
+- 🔗 **[spec-to-agents](https://github.com/microsoft/spec-to-agents)** R:🟡 M:🟢 — A multi-agent event planning workflow built with Microsoft Agent Framework - combining Semantic Kernel's enterprise orchestration with AutoGen's multi-agent patterns. by microsoft *(67 ⭐)*
+- ⌨️ **[openskills](https://github.com/numman-ali/openskills)** R:🟡 M:🟢 — Universal skills loader for AI coding agents - npm i -g openskills by numman-ali *(8.3k ⭐)*
 
 ## ⚙️ DevOps & Monitoring
 
@@ -348,6 +357,8 @@
 - 📚 **[ship](https://github.com/cloudshipai/ship)** R:🟡 M:🟢 — CloudshipAI CLI by cloudshipai *(50 ⭐)*
 - 🔗 **[quay](https://github.com/quay/quay)** R:🟡 M:🟢 — Build, Store, and Distribute your Applications and Containers by quay *(2.7k ⭐)*
 - 🔌 **[prefect-mcp-server](https://github.com/PrefectHQ/prefect-mcp-server)** R:🟡 M:🟢 — Prefect MCP server by PrefectHQ *(26 ⭐)*
+- ⌨️ **[perry](https://github.com/gricha/perry)** R:🟡 M:🟢 — Workspace orchestration for local development environments using docker-in-docker by gricha *(26 ⭐)*
+- ⌨️ **[WordPress-Simple-History](https://github.com/bonny/WordPress-Simple-History)** R:🟡 M:🟢 — 🔍🕵️‍♀️ WordPress audit log that track user changes in WordPress admin using a nice activity feed. by bonny *(314 ⭐)*
 - 🔌 **[mobile-observability](https://github.com/nexus-labs-automation/mobile-observability)** R:🟡 M:🟢 — Claude Code plugin for mobile app observability: crash reporting, performance monitoring, and instrumentation for iOS, Android, and React Native by nexus-labs-automation *(100 ⭐)*
 - 🔌 **[claude-dashboard](https://github.com/uppinote20/claude-dashboard)** R:🟡 M:🟢 — Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking by uppinote20 *(142 ⭐)*
 
@@ -403,6 +414,7 @@
 - 📚 **[ccswarm](https://github.com/nwiizo/ccswarm)** R:🟡 M:🟢 — Multi-agent orchestration system using Claude Code with Git worktree isolation and specialized AI agents for collaborative development by nwiizo *(105 ⭐)*
 - 🔌 **[claude-craft](https://github.com/TheBeardedBearSAS/claude-craft)** R:🟡 M:🟢 — Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stacks. by TheBeardedBearSAS *(86 ⭐)*
 - 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟡 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)*
+- 🔌 **[task-orchestrator](https://github.com/jpicklyk/task-orchestrator)** R:🟡 M:🟠 — A light touch MCP task orchestration server for AI agents. Persistent project tracking and context storage across sessions. Defines planning floors through composable templates.   Coordinates multi-agent execution without prescribing how agents do their work. by jpicklyk *(156 ⭐)*
 
 ## 🎓 Learning & Guides
 
