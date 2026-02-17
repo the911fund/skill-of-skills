@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-454-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-455-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-688k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**454 tools** discovered across 15 categories
+**455 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[speclinter-mcp](https://github.com/orangebread/speclinter-mcp)** R:🟡 M:🟠 — AI-powered specification analysis tool that converts requirements into structured tasks and validates code implementation against original specs. by orangebread *(36 ⭐)* — discovered Feb 17
 - ⌨️ **[herdctl](https://github.com/edspencer/herdctl)** R:🟡 M:🟢 — Runs Claude Code agents natively or in Docker, on schedules and connected to Discord & Slack by edspencer *(11 ⭐)* — discovered Feb 17
 - ⌨️ **[onchain-mcp](https://github.com/Bankless/onchain-mcp)** R:🟢 M:🟢 — Bringing the bankless onchain API to MCP by Bankless *(72 ⭐)* — discovered Feb 16
 - 🔌 **[blz](https://github.com/outfitter-dev/blz)** R:🟢 M:🟢 — Local-first, line-accurate search for blazing-fast lookups of llms.txt documentation. Human-friendly, Agent-ready. by outfitter-dev *(20 ⭐)* — discovered Feb 16
 - 🔌 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(543 ⭐)* — discovered Feb 16
-- 🔌 **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(11 ⭐)* — discovered Feb 16
 
 ---
 
@@ -498,6 +498,7 @@
 - 📚 **[gatekit](https://github.com/gatekit-ai/gatekit)** R:🟡 M:🟢 — A hackable Model Context Protocol (MCP) gateway by gatekit-ai *(38 ⭐)*
 - ⌨️ **[Relentless](https://github.com/ArvorCo/Relentless)** R:🔴 M:🟢 — Universal AI Agent Orchestrator - Run any AI coding agent (Claude Code, Amp, OpenCode, Codex, Droid, Gemini) repeatedly until all tasks are complete by ArvorCo *(82 ⭐)*
 - 🔌 **[this-little-wiggy](https://github.com/severity1/this-little-wiggy)** R:🟡 M:🟢 — Claude Code plugin that prepares prompts for ralph-wiggum loop plugin - named after The Simpsons episode by severity1 *(16 ⭐)*
+- 🔌 **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(11 ⭐)*
 - 📚 **[ccswarm](https://github.com/nwiizo/ccswarm)** R:🟡 M:🟢 — Multi-agent orchestration system using Claude Code with Git worktree isolation and specialized AI agents for collaborative development by nwiizo *(105 ⭐)*
 - 🔌 **[claude-router](https://github.com/0xrdan/claude-router)** R:🟢 M:🟢 — Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity. It also includes many more features. If this project is working well for you and would like to support me, just help spread the word. Thanks! by 0xrdan *(27 ⭐)*
 - 🔌 **[claude-craft](https://github.com/TheBeardedBearSAS/claude-craft)** R:🟡 M:🟢 — Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stacks. by TheBeardedBearSAS *(86 ⭐)*
