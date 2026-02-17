@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-456-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-457-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-688k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**456 tools** discovered across 15 categories
+**457 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[openscad-mcp](https://github.com/quellant/openscad-mcp)** R:🟢 M:🟢 — A Model Context Protocol (MCP) server for OpenSCAD 3D modeling and rendering by quellant *(38 ⭐)* — discovered Feb 17
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)* — discovered Feb 17
 - ⌨️ **[speclinter-mcp](https://github.com/orangebread/speclinter-mcp)** R:🟡 M:🟠 — AI-powered specification analysis tool that converts requirements into structured tasks and validates code implementation against original specs. by orangebread *(36 ⭐)* — discovered Feb 17
 - ⌨️ **[herdctl](https://github.com/edspencer/herdctl)** R:🟡 M:🟢 — Runs Claude Code agents natively or in Docker, on schedules and connected to Discord & Slack by edspencer *(11 ⭐)* — discovered Feb 17
 - ⌨️ **[onchain-mcp](https://github.com/Bankless/onchain-mcp)** R:🟢 M:🟢 — Bringing the bankless onchain API to MCP by Bankless *(72 ⭐)* — discovered Feb 16
-- 🔌 **[blz](https://github.com/outfitter-dev/blz)** R:🟢 M:🟢 — Local-first, line-accurate search for blazing-fast lookups of llms.txt documentation. Human-friendly, Agent-ready. by outfitter-dev *(20 ⭐)* — discovered Feb 16
 
 ---
 
@@ -111,6 +111,7 @@
 - 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟢 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)*
 - 📄 **[figma-use](https://github.com/dannote/figma-use)** R:🟡 M:🟢 — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(392 ⭐)*
 - 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)*
+- 🔌 **[blz](https://github.com/outfitter-dev/blz)** R:🟢 M:🟢 — Local-first, line-accurate search for blazing-fast lookups of llms.txt documentation. Human-friendly, Agent-ready. by outfitter-dev *(20 ⭐)*
 - 🔌 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(543 ⭐)*
 - 🔌 **[ai-drawio](https://github.com/GBSOSS/ai-drawio)** R:🟢 M:🟢 — AI-powered draw.io diagram generator for Claude Code. Generate flowcharts, architecture diagrams, mind maps from natural language with browser preview. by GBSOSS *(53 ⭐)*
 - 🔌 **[my-ai-tools](https://github.com/jellydn/my-ai-tools)** R:🟡 M:🟢 — Comprehensive configuration management for AI coding tools - Replicate my complete setup for Claude Code, OpenCode, Amp, Codex and Claude Code Switch with custom configurations, MCP servers, plugins, and commands. by jellydn *(25 ⭐)*
