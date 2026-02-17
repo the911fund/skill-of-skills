@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-459-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-461-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-688k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-689k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**459 tools** discovered across 15 categories
+**461 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development)** R:🟢 M:🟠 — A Claude Code Agent Skill for Vue.js development with TypeScript, emphasizing testing-first development, functional patterns, and maintainable architecture. by alexanderop *(10 ⭐)* — discovered Feb 17
+- 🔌 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(473 ⭐)* — discovered Feb 17
+- 🔌 **[mcp-automem](https://github.com/verygoodplugins/mcp-automem)** R:🟡 M:🟢 — AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: by verygoodplugins *(38 ⭐)* — discovered Feb 17
 - 📚 **[mcp-server](https://github.com/blockscout/mcp-server)** R:🟢 M:🟢 — Wraps Blockscout APIs and exposes blockchain data by Model Context Protocol by blockscout *(29 ⭐)* — discovered Feb 17
+- 🔌 **[claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development)** R:🟢 M:🟠 — A Claude Code Agent Skill for Vue.js development with TypeScript, emphasizing testing-first development, functional patterns, and maintainable architecture. by alexanderop *(10 ⭐)* — discovered Feb 17
 - 📚 **[openscad-mcp](https://github.com/quellant/openscad-mcp)** R:🟢 M:🟢 — A Model Context Protocol (MCP) server for OpenSCAD 3D modeling and rendering by quellant *(38 ⭐)* — discovered Feb 17
-- ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)* — discovered Feb 17
-- ⌨️ **[speclinter-mcp](https://github.com/orangebread/speclinter-mcp)** R:🟡 M:🟠 — AI-powered specification analysis tool that converts requirements into structured tasks and validates code implementation against original specs. by orangebread *(36 ⭐)* — discovered Feb 17
 
 ---
 
@@ -111,6 +111,7 @@
 - 🔌 **[programming-advisor](https://github.com/gaupoit/programming-advisor)** R:🟢 M:🟢 — Claude Code skill: Build vs Buy advisor that searches for existing solutions before vibe coding by gaupoit *(11 ⭐)*
 - 📄 **[figma-use](https://github.com/dannote/figma-use)** R:🟡 M:🟢 — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(392 ⭐)*
 - 🔗 **[ahk-mcp](https://github.com/TrueCrimeDev/ahk-mcp)** R:🟡 M:🟢 — AutoHotkey v2 MCP Server with prompts, code completion, and diagnostics by TrueCrimeDev *(16 ⭐)*
+- ⌨️ **[speclinter-mcp](https://github.com/orangebread/speclinter-mcp)** R:🟡 M:🟠 — AI-powered specification analysis tool that converts requirements into structured tasks and validates code implementation against original specs. by orangebread *(36 ⭐)*
 - 🔌 **[blz](https://github.com/outfitter-dev/blz)** R:🟢 M:🟢 — Local-first, line-accurate search for blazing-fast lookups of llms.txt documentation. Human-friendly, Agent-ready. by outfitter-dev *(20 ⭐)*
 - 🔌 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(543 ⭐)*
 - 🔌 **[ai-drawio](https://github.com/GBSOSS/ai-drawio)** R:🟢 M:🟢 — AI-powered draw.io diagram generator for Claude Code. Generate flowcharts, architecture diagrams, mind maps from natural language with browser preview. by GBSOSS *(53 ⭐)*
@@ -541,6 +542,7 @@
 ## 📦 Uncategorized
 
 - 📚 **[Glyphs-mcp](https://github.com/thierryc/Glyphs-mcp)** R:🟢 M:🟢 — Glyphs app mcp server by thierryc *(17 ⭐)*
+- ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)*
 - 📚 **[aia-swd](https://github.com/chrisokchen/aia-swd)** R:🟢 M:🟠 — A new repository for aia-swd project by chrisokchen *(37 ⭐)*
 
 ---
