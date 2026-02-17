@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-457-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-459-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-688k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**457 tools** discovered across 15 categories
+**459 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development)** R:🟢 M:🟠 — A Claude Code Agent Skill for Vue.js development with TypeScript, emphasizing testing-first development, functional patterns, and maintainable architecture. by alexanderop *(10 ⭐)* — discovered Feb 17
+- 📚 **[mcp-server](https://github.com/blockscout/mcp-server)** R:🟢 M:🟢 — Wraps Blockscout APIs and exposes blockchain data by Model Context Protocol by blockscout *(29 ⭐)* — discovered Feb 17
 - 📚 **[openscad-mcp](https://github.com/quellant/openscad-mcp)** R:🟢 M:🟢 — A Model Context Protocol (MCP) server for OpenSCAD 3D modeling and rendering by quellant *(38 ⭐)* — discovered Feb 17
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)* — discovered Feb 17
 - ⌨️ **[speclinter-mcp](https://github.com/orangebread/speclinter-mcp)** R:🟡 M:🟠 — AI-powered specification analysis tool that converts requirements into structured tasks and validates code implementation against original specs. by orangebread *(36 ⭐)* — discovered Feb 17
-- ⌨️ **[herdctl](https://github.com/edspencer/herdctl)** R:🟡 M:🟢 — Runs Claude Code agents natively or in Docker, on schedules and connected to Discord & Slack by edspencer *(11 ⭐)* — discovered Feb 17
-- ⌨️ **[onchain-mcp](https://github.com/Bankless/onchain-mcp)** R:🟢 M:🟢 — Bringing the bankless onchain API to MCP by Bankless *(72 ⭐)* — discovered Feb 16
 
 ---
 
@@ -305,6 +305,7 @@
 - 🔗 **[c64bridge](https://github.com/chrisgleissner/c64bridge)** R:🟢 M:🟢 — MCP server to control and program the Commodore 64 Ultimate and Ultimate 64 via REST API by chrisgleissner *(14 ⭐)*
 - 🔗 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(663 ⭐)*
 - ⌨️ **[esa-mcp-server](https://github.com/esaio/esa-mcp-server)** R:🟢 M:🟢 — esa.io の公式 MCP(Model Context Protocol)サーバー(STDIO Transport版) by esaio *(45 ⭐)*
+- ⌨️ **[onchain-mcp](https://github.com/Bankless/onchain-mcp)** R:🟢 M:🟢 — Bringing the bankless onchain API to MCP by Bankless *(72 ⭐)*
 - 📚 **[perplexica-mcp](https://github.com/thetom42/perplexica-mcp)** R:🟢 M:🟢 — MCP server for Perplexica by thetom42 *(31 ⭐)*
 - ⌨️ **[server-google-jobs](https://github.com/ChanMeng666/server-google-jobs)** R:🟢 M:🟢 — 【Every star you give feeds a hungry developer's motivation!⭐️】A Model Context Protocol (MCP) server implementation that provides Google Jobs search capabilities via SerpAPI integration. Features multi-language support, comprehensive search parameters, and smart error handling. by ChanMeng666 *(18 ⭐)*
 - ⌨️ **[local-mcp-gateway](https://github.com/DXHeroes/local-mcp-gateway)** R:🟢 M:🟢 — Aggregate multiple MCP servers into a single endpoint with web UI, OAuth 2.1, and profile-based tool management by DXHeroes *(14 ⭐)*
@@ -391,6 +392,7 @@
 - 📚 **[augo](https://github.com/kylesean/augo)** R:🟢 M:🟢 — 支持私有化部署的 AI 个人财务助理，适配 NAS 环境，数据完全自主掌控。 by kylesean *(32 ⭐)*
 - 🔌 **[ai-agents](https://github.com/rjmurillo/ai-agents)** R:🟡 M:🟢 — Multi-agent system for software development by rjmurillo *(14 ⭐)*
 - 🔌 **[claudikins-kernel](https://github.com/elb-pr/claudikins-kernel)** R:🟢 M:🟢 — SRE thinking applied to Claude Code, based on Boris Cherny's Q&A. by elb-pr *(95 ⭐)*
+- ⌨️ **[herdctl](https://github.com/edspencer/herdctl)** R:🟡 M:🟢 — Runs Claude Code agents natively or in Docker, on schedules and connected to Discord & Slack by edspencer *(11 ⭐)*
 - 📚 **[Textum](https://github.com/snakeying/Textum)** R:🟢 M:🟢 — Structured workflow that stops AI from forgetting your requirements. 4 phases with validation gates. Not smarter AI, just controllable process. Weave ideas into code that actually works. by snakeying *(41 ⭐)*
 - 🔌 **[stepwise-dev](https://github.com/nikeyes/stepwise-dev)** R:🟢 M:🟢 — Dev workflow for Claude Code by nikeyes *(15 ⭐)*
 - 🔗 **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(13 ⭐)*
