@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-470-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-472-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**470 tools** discovered across 15 categories
+**472 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
+- 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
 - 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)* — discovered Feb 18
 - ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)* — discovered Feb 18
 - 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)* — discovered Feb 18
-- ⌨️ **[claude-setup](https://github.com/front-depiction/claude-setup)** R:🟢 M:🟢 — Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills by front-depiction *(14 ⭐)* — discovered Feb 18
-- 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)* — discovered Feb 18
 
 ---
 
@@ -421,6 +421,7 @@
 - 🔗 **[claude_agent_desktop](https://github.com/Fergana-Labs/claude_agent_desktop)** R:🟢 M:🟠 — GUI wrapper built on top of Claude Agent SDK by Fergana-Labs *(14 ⭐)*
 - 📚 **[solana-claude-config](https://github.com/solanabr/solana-claude-config)** R:🟢 M:🟢 — Claude Code configs for the expert Solana builder. CLAUDE.md, agents, commands, hooks, rules, skills and settings across Web, Anchor, Pinnochio, Unity, Mobile and more. by solanabr *(26 ⭐)*
 - 🔌 **[meta-cc](https://github.com/yaleh/meta-cc)** R:🟢 M:🟢 — Meta-Cognition tool for Claude Code - analyze session history for workflow optimization. by yaleh *(16 ⭐)*
+- ⌨️ **[claude-setup](https://github.com/front-depiction/claude-setup)** R:🟢 M:🟢 — Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills by front-depiction *(14 ⭐)*
 - 📚 **[claude-config](https://github.com/Aurealibe/claude-config)** R:🟡 M:🟢 — Comprehensive Claude Code framework: 6 specialized agents, 7 workflow commands, audio notifications - stack agnostic by Aurealibe *(65 ⭐)*
 - ⌨️ **[goodable](https://github.com/ImGoodBai/goodable)** R:🟡 M:🟢 — Goodable is a local-first Desktop AI Workspace (Desktop Agent Runtime) powered by Claude Agent SDK, combining OS/file control, browser automation, and coding into composable Skills (tool + app modes) to build, run, and publish real AI apps. by ImGoodBai *(137 ⭐)*
 - 🔌 **[investor-agent](https://github.com/ferdousbhai/investor-agent)** R:🟡 M:🟢 — A Model Context Protocol server for building an investor agent by ferdousbhai *(310 ⭐)*
@@ -544,6 +545,7 @@
 - 📚 **[claude-code-skill-example](https://github.com/shikajiro/claude-code-skill-example)** R:🟢 M:🟢 — This is a sample of Cloud Code Skills. by shikajiro *(64 ⭐)*
 - ⌨️ **[generative-ai-use-cases](https://github.com/aws-samples/generative-ai-use-cases)** R:🟢 M:🟢 — Application implementation with business use cases for safely utilizing generative AI in business operations by aws-samples *(1.3k ⭐)*
 - 📚 **[Claude_skills_zh-CN](https://github.com/LeastBit/Claude_skills_zh-CN)** R:🟢 M:🟢 — Anthropics/skills中文学习版本 来自：https://github.com/anthropics/skills by LeastBit *(208 ⭐)*
+- 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)*
 - 🔌 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟡 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(43.1k ⭐)*
 - 🔌 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** R:🟢 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(76 ⭐)*
 - ⌨️ **[Spring_AI_Training_Course](https://github.com/kousen/Spring_AI_Training_Course)** R:🟢 M:🟢 — Exercises and solutions for a training course on Spring AI by kousen *(16 ⭐)*
