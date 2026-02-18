@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-462-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-465-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-689k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-690k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**462 tools** discovered across 15 categories
+**465 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[flywheel_connectors](https://github.com/Dicklesworthstone/flywheel_connectors)** R:🟡 M:🟢 — Mesh-native protocol and Rust connector library for secure AI agent integration with external services: Twitter, Linear, Stripe, Discord, Gmail, GitHub, and more by Dicklesworthstone *(29 ⭐)* — discovered Feb 18
+- 📚 **[catch-admin](https://github.com/JaguarJack/catch-admin)** R:🟢 M:🟢 — CatchAdmin 是一个功能强大、易于扩展的现代化 PHP 后台管理系统。它采用前后端分离架构，CatchAdmin 集成了 Token 鉴权、权限管理、动态路由、动态表格、分页封装、资源权限、上传下载、代码生成器支持一键导出导入，数据回收站，附件管理的等等一系列实用的开发功能的模块化框架。官网地址: by JaguarJack *(887 ⭐)* — discovered Feb 18
+- ⌨️ **[ChocoVine](https://github.com/vneseyoungster/ChocoVine)** R:🟡 M:🟢 — ChocoVine turns "Vibes Coding" into Engineering. It stops hallucinations by enforcing a strict Research → Test → Code loop. by vneseyoungster *(25 ⭐)* — discovered Feb 18
 - ⌨️ **[monoblok](https://github.com/storyblok/monoblok)** R:🟢 M:🟢 — The Storyblok OSS monorepo by storyblok *(35 ⭐)* — discovered Feb 18
 - 🔌 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(473 ⭐)* — discovered Feb 17
-- 🔌 **[mcp-automem](https://github.com/verygoodplugins/mcp-automem)** R:🟡 M:🟢 — AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: by verygoodplugins *(38 ⭐)* — discovered Feb 17
-- 📚 **[mcp-server](https://github.com/blockscout/mcp-server)** R:🟢 M:🟢 — Wraps Blockscout APIs and exposes blockchain data by Model Context Protocol by blockscout *(29 ⭐)* — discovered Feb 17
-- 🔌 **[claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development)** R:🟢 M:🟠 — A Claude Code Agent Skill for Vue.js development with TypeScript, emphasizing testing-first development, functional patterns, and maintainable architecture. by alexanderop *(10 ⭐)* — discovered Feb 17
 
 ---
 
@@ -119,6 +119,7 @@
 - 🔌 **[worktree-task-plugin](https://github.com/ourines/worktree-task-plugin)** R:🟡 M:🟢 — Claude Code plugin for managing large coding tasks using git worktrees and background sessions by ourines *(36 ⭐)*
 - 📚 **[openscad-mcp](https://github.com/quellant/openscad-mcp)** R:🟢 M:🟢 — A Model Context Protocol (MCP) server for OpenSCAD 3D modeling and rendering by quellant *(38 ⭐)*
 - 🔌 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** R:🟢 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(20.2k ⭐)*
+- 🔌 **[claude-skill-vue-development](https://github.com/alexanderop/claude-skill-vue-development)** R:🟢 M:🟠 — A Claude Code Agent Skill for Vue.js development with TypeScript, emphasizing testing-first development, functional patterns, and maintainable architecture. by alexanderop *(10 ⭐)*
 - 📚 **[snowflake-dbt-demo](https://github.com/sfc-gh-dflippo/snowflake-dbt-demo)** R:🟢 M:🟢 — This project demonstrates many of dbt's features when used with the Snowflake Data Cloud by sfc-gh-dflippo *(26 ⭐)*
 - 📚 **[iPlug2OOS](https://github.com/iPlug2/iPlug2OOS)** R:🟢 M:🟢 — Template to build an iPlug2 project with CI/CD and publish a WAM to github pages by iPlug2 *(132 ⭐)*
 - 📚 **[some_claude_skills](https://github.com/erichowens/some_claude_skills)** R:🟢 M:🟢 — Claude skills that make my life easier. by erichowens *(34 ⭐)*
@@ -316,6 +317,7 @@
 - 🔗 **[obsidian-mcp-server-enhanced](https://github.com/BoweyLou/obsidian-mcp-server-enhanced)** R:🟡 M:🟠 — This is an enhanced version of the excellent cyanheads/obsidian-mcp-server with additional features specifically tailored for remote Claude.ai integration, advanced task querying, and security via Tailscale. by BoweyLou *(22 ⭐)*
 - 🔌 **[streamlinear](https://github.com/obra/streamlinear)** R:🟢 M:🟢 — Streamlined Linear integration for Claude Code - one tool, six actions, zero bloat by obra *(55 ⭐)*
 - 📚 **[MCPhoenix](https://github.com/jmanhype/MCPhoenix)** R:🟢 M:🟠 — A simplified implementation of the Model Context Protocol (MCP) server using Elixir's Phoenix Framework. by jmanhype *(67 ⭐)*
+- 📚 **[mcp-server](https://github.com/blockscout/mcp-server)** R:🟢 M:🟢 — Wraps Blockscout APIs and exposes blockchain data by Model Context Protocol by blockscout *(29 ⭐)*
 - 📚 **[aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)** R:🟡 M:🟢 — A lightweight service that enables AI assistants to execute AWS CLI commands (in safe containerized environment) through the Model Context Protocol (MCP). Bridges Claude, Cursor, and other MCP-aware AI tools with AWS CLI for enhanced cloud infrastructure management. by alexei-led *(175 ⭐)*
 - 📚 **[ChatTool](https://github.com/cubenlp/ChatTool)** R:🟢 M:🟢 — Toolkit for Chat API. by cubenlp *(40 ⭐)*
 - 🔗 **[GravityMCP](https://github.com/GravityKit/GravityMCP)** R:🟡 M:🟢 — MCP server for Gravity Forms - Interact with WordPress forms, entries, and submissions through AI by GravityKit *(13 ⭐)*
@@ -408,6 +410,7 @@
 - 📚 **[nia-rules-for-agents](https://github.com/nozomio-labs/nia-rules-for-agents)** R:🟢 M:🟢 — This repository provides pre-configured rules that teach AI coding agents how to effectively use Nia. by nozomio-labs *(56 ⭐)*
 - 🔗 **[Polymind](https://github.com/Remy2404/Polymind)** R:🟡 M:🟢 — A powerful, multi-modal Telegram bot leveraging cutting-edge AI technologies including Gemini, DeepSeek, OpenRouter, and 50+ AI models for comprehensive conversational assistance, media processing, and collaborative features with MCP (Model Context Protocol) integration. by Remy2404 *(12 ⭐)*
 - 📚 **[agentic_auxilary](https://github.com/allisoneer/agentic_auxilary)** R:🟡 M:🟢 — A collection of software tools to aid myself (and optionally others) in improved agentic ai development by allisoneer *(56 ⭐)*
+- 🔌 **[mcp-automem](https://github.com/verygoodplugins/mcp-automem)** R:🟡 M:🟢 — AutoMem is a graph-vector memory service that gives AI assistants durable, relational memory: by verygoodplugins *(38 ⭐)*
 - 📚 **[local-life-manager](https://github.com/TaylorHuston/local-life-manager)** R:🟡 M:🟢 — A customizable life management framework for Claude Code - skills, agents, and workflows for personal productivity by TaylorHuston *(32 ⭐)*
 - 🔗 **[cldmemory](https://github.com/david-strejc/cldmemory)** R:🟢 M:🟠 — MCP Memory Server with human-like memory system for Claude by david-strejc *(14 ⭐)*
 - 🔗 **[claude_agent_desktop](https://github.com/Fergana-Labs/claude_agent_desktop)** R:🟢 M:🟠 — GUI wrapper built on top of Claude Agent SDK by Fergana-Labs *(14 ⭐)*
