@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-468-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-469-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-690k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**468 tools** discovered across 15 categories
+**469 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)* — discovered Feb 18
 - 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)* — discovered Feb 18
-- ⌨️ **[claude-setup](https://github.com/front-depiction/claude-setup)** R:🟢 M:🟢 — Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills by front-depiction *(14 ⭐)* — discovered Feb 18
 - 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)* — discovered Feb 18
+- ⌨️ **[claude-setup](https://github.com/front-depiction/claude-setup)** R:🟢 M:🟢 — Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills by front-depiction *(14 ⭐)* — discovered Feb 18
 - 📚 **[catch-admin](https://github.com/JaguarJack/catch-admin)** R:🟢 M:🟢 — CatchAdmin 是一个功能强大、易于扩展的现代化 PHP 后台管理系统。它采用前后端分离架构，CatchAdmin 集成了 Token 鉴权、权限管理、动态路由、动态表格、分页封装、资源权限、上传下载、代码生成器支持一键导出导入，数据回收站，附件管理的等等一系列实用的开发功能的模块化框架。官网地址: by JaguarJack *(887 ⭐)* — discovered Feb 18
-- 📚 **[flywheel_connectors](https://github.com/Dicklesworthstone/flywheel_connectors)** R:🟡 M:🟢 — Mesh-native protocol and Rust connector library for secure AI agent integration with external services: Twitter, Linear, Stripe, Discord, Gmail, GitHub, and more by Dicklesworthstone *(29 ⭐)* — discovered Feb 18
 
 ---
 
@@ -322,6 +322,7 @@
 - 📚 **[mcp-server](https://github.com/blockscout/mcp-server)** R:🟢 M:🟢 — Wraps Blockscout APIs and exposes blockchain data by Model Context Protocol by blockscout *(29 ⭐)*
 - ⌨️ **[monoblok](https://github.com/storyblok/monoblok)** R:🟢 M:🟢 — The Storyblok OSS monorepo by storyblok *(35 ⭐)*
 - 📚 **[aws-mcp-server](https://github.com/alexei-led/aws-mcp-server)** R:🟡 M:🟢 — A lightweight service that enables AI assistants to execute AWS CLI commands (in safe containerized environment) through the Model Context Protocol (MCP). Bridges Claude, Cursor, and other MCP-aware AI tools with AWS CLI for enhanced cloud infrastructure management. by alexei-led *(175 ⭐)*
+- 📚 **[flywheel_connectors](https://github.com/Dicklesworthstone/flywheel_connectors)** R:🟡 M:🟢 — Mesh-native protocol and Rust connector library for secure AI agent integration with external services: Twitter, Linear, Stripe, Discord, Gmail, GitHub, and more by Dicklesworthstone *(29 ⭐)*
 - 📚 **[ChatTool](https://github.com/cubenlp/ChatTool)** R:🟢 M:🟢 — Toolkit for Chat API. by cubenlp *(40 ⭐)*
 - 🔗 **[GravityMCP](https://github.com/GravityKit/GravityMCP)** R:🟡 M:🟢 — MCP server for Gravity Forms - Interact with WordPress forms, entries, and submissions through AI by GravityKit *(13 ⭐)*
 - 🔗 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** R:🟡 M:🟢 — F2C MCP Server by f2c-ai *(358 ⭐)*
