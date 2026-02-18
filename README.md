@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-469-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-470-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**469 tools** discovered across 15 categories
+**470 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)* — discovered Feb 18
 - ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)* — discovered Feb 18
 - 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)* — discovered Feb 18
-- 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)* — discovered Feb 18
 - ⌨️ **[claude-setup](https://github.com/front-depiction/claude-setup)** R:🟢 M:🟢 — Reusable Claude Code configuration for Effect TypeScript projects with specialized agents and skills by front-depiction *(14 ⭐)* — discovered Feb 18
-- 📚 **[catch-admin](https://github.com/JaguarJack/catch-admin)** R:🟢 M:🟢 — CatchAdmin 是一个功能强大、易于扩展的现代化 PHP 后台管理系统。它采用前后端分离架构，CatchAdmin 集成了 Token 鉴权、权限管理、动态路由、动态表格、分页封装、资源权限、上传下载、代码生成器支持一键导出导入，数据回收站，附件管理的等等一系列实用的开发功能的模块化框架。官网地址: by JaguarJack *(887 ⭐)* — discovered Feb 18
+- 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)* — discovered Feb 18
 
 ---
 
@@ -127,6 +127,7 @@
 - 🔌 **[tugtool](https://github.com/tugtool/tugtool)** R:🟢 M:🟢 — Refactoring tool for AI coding agents by tugtool *(13 ⭐)*
 - 🔌 **[my-claude-code-asset](https://github.com/jh941213/my-claude-code-asset)** R:🟢 M:🟢 — my-claude-code-asset by jh941213 *(87 ⭐)*
 - 📚 **[cargo-coupling](https://github.com/nwiizo/cargo-coupling)** R:🟢 M:🟢 — A coupling analysis tool for Rust projects - measuring the 'right distance' in your code by nwiizo *(66 ⭐)*
+- 📚 **[catch-admin](https://github.com/JaguarJack/catch-admin)** R:🟢 M:🟢 — CatchAdmin 是一个功能强大、易于扩展的现代化 PHP 后台管理系统。它采用前后端分离架构，CatchAdmin 集成了 Token 鉴权、权限管理、动态路由、动态表格、分页封装、资源权限、上传下载、代码生成器支持一键导出导入，数据回收站，附件管理的等等一系列实用的开发功能的模块化框架。官网地址: by JaguarJack *(887 ⭐)*
 - ⌨️ **[ccjk](https://github.com/miounet11/ccjk)** R:🟡 M:🟢 — 🚀 CCJK In the realm of AI-assisted development, Context Engineering and Cognitive Load Management are the decisive factors for development efficiency. CCJK is built on this insight, delivering the industry's first Cognitive Enhancement Engine. by miounet11 *(31 ⭐)*
 - ⌨️ **[ChocoVine](https://github.com/vneseyoungster/ChocoVine)** R:🟡 M:🟢 — ChocoVine turns "Vibes Coding" into Engineering. It stops hallucinations by enforcing a strict Research → Test → Code loop. by vneseyoungster *(25 ⭐)*
 - 🔌 **[claude-code-frontend-dev](https://github.com/hemangjoshi37a/claude-code-frontend-dev)** R:🟢 M:🟢 — 🚀 First multimodal AI-powered visual testing plugin for Claude Code. AI that can SEE your UI! 10x faster frontend development with closed-loop testing, browser automation, and Claude 4.5 Sonnet vision. by hemangjoshi37a *(10 ⭐)*
