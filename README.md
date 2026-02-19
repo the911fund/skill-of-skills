@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-473-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-474-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**473 tools** discovered across 15 categories
+**474 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)* — discovered Feb 19
 - 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)* — discovered Feb 19
-- 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
 - 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
+- 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
 - 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)* — discovered Feb 18
-- ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)* — discovered Feb 18
 
 ---
 
@@ -135,6 +135,7 @@
 - 🔌 **[claude-mermaid](https://github.com/veelenga/claude-mermaid)** R:🟢 M:🟢 — MCP Server to previewing mermaid diagrams by veelenga *(63 ⭐)*
 - 🔌 **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** R:🟢 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(38 ⭐)*
 - 🔗 **[langwatch](https://github.com/langwatch/langwatch)** R:🟢 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(2.8k ⭐)*
+- ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)*
 - 🔗 **[dynamo-mcp](https://github.com/ruvnet/dynamo-mcp)** R:🟢 M:🟠 — A dyamic MCP Registry using Cookiecutter templates by ruvnet *(41 ⭐)*
 - 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟢 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)*
 - 🔌 **[claude-marketplace-elixir](https://github.com/bradleygolden/claude-marketplace-elixir)** R:🟢 M:🟢 — Claude Marketplace for Elixir by bradleygolden *(163 ⭐)*
