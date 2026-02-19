@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-472-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-473-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**472 tools** discovered across 15 categories
+**473 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
+- 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)* — discovered Feb 19
 - 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
+- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
 - 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)* — discovered Feb 18
 - ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)* — discovered Feb 18
-- 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)* — discovered Feb 18
 
 ---
 
@@ -516,6 +516,7 @@
 - 🔌 **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(11 ⭐)*
 - 📚 **[ccswarm](https://github.com/nwiizo/ccswarm)** R:🟡 M:🟢 — Multi-agent orchestration system using Claude Code with Git worktree isolation and specialized AI agents for collaborative development by nwiizo *(105 ⭐)*
 - 🔌 **[claude-router](https://github.com/0xrdan/claude-router)** R:🟢 M:🟢 — Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity. It also includes many more features. If this project is working well for you and would like to support me, just help spread the word. Thanks! by 0xrdan *(27 ⭐)*
+- 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)*
 - 🔌 **[claude-craft](https://github.com/TheBeardedBearSAS/claude-craft)** R:🟡 M:🟢 — Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stacks. by TheBeardedBearSAS *(86 ⭐)*
 - 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟢 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)*
 - 📚 **[llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine)** R:🟡 M:🟢 — Power CLI and Workflow manager for LLMs (core package) by llm-workflow-engine *(3.7k ⭐)*
@@ -630,5 +631,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-18 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-19 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
