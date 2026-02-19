@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-474-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-475-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-691k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**474 tools** discovered across 15 categories
+**475 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)* — discovered Feb 19
 - 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)* — discovered Feb 19
 - 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)* — discovered Feb 19
-- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
 - 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
-- 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)* — discovered Feb 18
+- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
 
 ---
 
@@ -550,6 +550,7 @@
 - 📚 **[awesome-vibe-coding](https://github.com/ai-for-developers/awesome-vibe-coding)** R:🟢 M:🟢 — A hand-picked collection of tools and resources for Vibe Coding by ai-for-developers *(518 ⭐)*
 - 🔌 **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** R:🟡 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(43.1k ⭐)*
 - 🔌 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** R:🟢 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(76 ⭐)*
+- 📚 **[learn-cc-csharp](https://github.com/sheng-jie/learn-cc-csharp)** R:🟡 M:🟢 — 这个仓库是 https://github.com/shareAI-lab/learn-claude-code 的 .NET 移植版。原仓库以 Python 语言深入浅出地剖析了 Claude Code 的核心原理。为了方便 .NET 开发者学习掌握 Agent 的构建精髓，我们将其核心代码使用 C# 的最新特性进行了完整重写。 by sheng-jie *(30 ⭐)*
 - ⌨️ **[Spring_AI_Training_Course](https://github.com/kousen/Spring_AI_Training_Course)** R:🟢 M:🟢 — Exercises and solutions for a training course on Spring AI by kousen *(16 ⭐)*
 
 ## 📦 Uncategorized
