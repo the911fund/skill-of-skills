@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-475-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-477-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**475 tools** discovered across 15 categories
+**477 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)* — discovered Feb 19
+- 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)* — discovered Feb 19
 - ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)* — discovered Feb 19
 - 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)* — discovered Feb 19
 - 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)* — discovered Feb 19
-- 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)* — discovered Feb 18
-- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)* — discovered Feb 18
 
 ---
 
@@ -137,6 +137,7 @@
 - 🔗 **[langwatch](https://github.com/langwatch/langwatch)** R:🟢 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(2.8k ⭐)*
 - ⌨️ **[mcpadvisor](https://github.com/istarwyh/mcpadvisor)** R:🟢 M:🟠 — MCP Advisor & Installation - Use the right MCP server for your needs by istarwyh *(81 ⭐)*
 - 🔗 **[dynamo-mcp](https://github.com/ruvnet/dynamo-mcp)** R:🟢 M:🟠 — A dyamic MCP Registry using Cookiecutter templates by ruvnet *(41 ⭐)*
+- 🔌 **[npm-packages](https://github.com/WebMCP-org/npm-packages)** R:🟢 M:🟢 — NPM packages for MCP-B: Transport layers, React hooks, and browser tools for the Model Context Protocol by WebMCP-org *(18 ⭐)*
 - 🔌 **[interface-design](https://github.com/Dammyjay93/interface-design)** R:🟢 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(3.2k ⭐)*
 - 🔌 **[claude-marketplace-elixir](https://github.com/bradleygolden/claude-marketplace-elixir)** R:🟢 M:🟢 — Claude Marketplace for Elixir by bradleygolden *(163 ⭐)*
 - 🔌 **[sgrep](https://github.com/Rika-Labs/sgrep)** R:🟢 M:🟢 — Semantic code search that scales from private local processing to cloud-scale GPU acceleration by Rika-Labs *(38 ⭐)*
@@ -258,6 +259,7 @@
 - 🔗 **[Scientific-Papers-MCP](https://github.com/benedict2310/Scientific-Papers-MCP)** R:🟢 M:🟠 — A Model Context Protocol (MCP) server that provides LLMs with real-time access to scientific papers from arXiv and OpenAlex. by benedict2310 *(40 ⭐)*
 - 🔗 **[clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server)** R:🟢 M:🟠 — A Model Context Protocol (MCP) Server providing LLM tools for the official ClinicalTrials.gov REST API. Search and retrieve clinical trial data, including study details and more by cyanheads *(47 ⭐)*
 - 📚 **[github-trending](https://github.com/bonfy/github-trending)** R:🟢 M:🟢 — Tracking the most popular Github repos, update daily(Python version) by bonfy *(804 ⭐)*
+- 📚 **[inAI-wiki](https://github.com/inai-sandy/inAI-wiki)** R:🟢 M:🟢 — 🌍 The open-source Wikipedia of AI — 2M+ apps, agents, LLMs & datasets. Updated daily with tools, tutorials & news. by inai-sandy *(45 ⭐)*
 - 🔗 **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** R:🟢 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(23 ⭐)*
 - 🔗 **[wifi-densepose](https://github.com/ruvnet/wifi-densepose)** R:🔴 M:🟢 — Production-ready implementation of InvisPose - a revolutionary WiFi-based dense human pose estimation system that enables real-time full-body tracking through walls using commodity mesh routers by ruvnet *(6.5k ⭐)*
 - 📚 **[markdown_web_browser](https://github.com/Dicklesworthstone/markdown_web_browser)** R:🟡 M:🟢 — Renders any URL via headless Chrome, tiles screenshots into OCR slices, and streams structured Markdown + provenance back to AI agents and pipelines by Dicklesworthstone *(122 ⭐)*
