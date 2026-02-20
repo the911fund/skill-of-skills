@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-477-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-478-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**477 tools** discovered across 15 categories
+**478 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)* — discovered Feb 19
+- 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)* — discovered Feb 20
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)* — discovered Feb 19
+- ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)* — discovered Feb 19
 - ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)* — discovered Feb 19
 - 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)* — discovered Feb 19
-- 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)* — discovered Feb 19
 
 ---
 
@@ -521,6 +521,7 @@
 - 🔌 **[claude-router](https://github.com/0xrdan/claude-router)** R:🟢 M:🟢 — Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity. It also includes many more features. If this project is working well for you and would like to support me, just help spread the word. Thanks! by 0xrdan *(27 ⭐)*
 - 🔌 **[agent-council](https://github.com/team-attention/agent-council)** R:🟡 M:🟢 — Multi-agent collaboration plugin for Claude Code - orchestrate multiple AI agents (Codex CLI, Gemini CLI, etc.) for diverse perspectives by team-attention *(101 ⭐)*
 - 🔌 **[claude-craft](https://github.com/TheBeardedBearSAS/claude-craft)** R:🟡 M:🟢 — Supercharge Claude Code with Expert Knowledge  A comprehensive framework for AI-assisted development. Install standardized rules, agents, and commands for your projects across multiple technology stacks. by TheBeardedBearSAS *(86 ⭐)*
+- 📚 **[MCP-handle](https://github.com/WeatherPal-AI/MCP-handle)** R:🟡 M:🟠 — MCP integration platforms making AI-Agents developers focusing on their own tasks by WeatherPal-AI *(279 ⭐)*
 - 🔌 **[context-cascade](https://github.com/DNYoussef/context-cascade)** R:🟢 M:🟢 — Context Cascade - Nested Plugin Architecture for Claude Code Official Claude Code Plugin | Version 3.1.0 | Last updated: 2026-01-09 (see docs/COMPONENT-COUNTS.json for source counts)  Context-saving nested architecture: Playbooks -> Skills -> Agents -> Commands. Load only what you need, saving 90%+ context space. by DNYoussef *(20 ⭐)*
 - 📚 **[llm-workflow-engine](https://github.com/llm-workflow-engine/llm-workflow-engine)** R:🟡 M:🟢 — Power CLI and Workflow manager for LLMs (core package) by llm-workflow-engine *(3.7k ⭐)*
 - 🔌 **[task-orchestrator](https://github.com/jpicklyk/task-orchestrator)** R:🟡 M:🟠 — A light touch MCP task orchestration server for AI agents. Persistent project tracking and context storage across sessions. Defines planning floors through composable templates.   Coordinates multi-agent execution without prescribing how agents do their work. by jpicklyk *(156 ⭐)*
@@ -635,5 +636,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-19 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-20 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
