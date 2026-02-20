@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-478-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-479-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**478 tools** discovered across 15 categories
+**479 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[agentic-system-prompts](https://github.com/tallesborges/agentic-system-prompts)** R:🟡 M:🟠 — A curated collection of system prompts and tool definitions from production AI coding agents by tallesborges *(148 ⭐)* — discovered Feb 20
 - 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)* — discovered Feb 20
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)* — discovered Feb 19
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)* — discovered Feb 19
 - ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)* — discovered Feb 19
-- 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)* — discovered Feb 19
 
 ---
 
@@ -163,6 +163,7 @@
 - 🔌 **[llm-docs-optimizer](https://github.com/alonw0/llm-docs-optimizer)** R:🟢 M:🟠 — A Claude Code plugin that optimizes documentation for AI coding assistants like Claude, GitHub Copilot, and other LLMs. Makes your docs more effective through c7score optimization, llms.txt generation, question-driven restructuring, and automated quality scoring. by alonw0 *(48 ⭐)*
 - 🔌 **[project-multilevel-index](https://github.com/Claudate/project-multilevel-index)** R:🟡 M:🟢 — 🎼 Fractal self-referential documentation system inspired by GEB. Auto-maintains code indexes, file headers & dependency graphs. Supports Claude Code (full auto) + VSCode/Cursor/Windsurf/Kiro (extension in dev).claude skill by Claudate *(90 ⭐)*
 - ⌨️ **[docs](https://github.com/cloudposse/docs)** R:🟢 M:🟢 — Terraform Reference Architecture for AWS, Datadog and GitHub Actions by cloudposse *(93 ⭐)*
+- 🔗 **[app-state-diagram](https://github.com/alps-asd/app-state-diagram)** R:🟢 M:🟢 — Reads ALPS documents and produces a full state diagram and hyperlinked documentation. by alps-asd *(37 ⭐)*
 
 ## 📣 Marketing
 
