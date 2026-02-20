@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-479-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-481-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**479 tools** discovered across 15 categories
+**481 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[salesably-marketplace](https://github.com/Salesably/salesably-marketplace)** R:🟡 M:🟢 — Claude Code plugins for sales and marketing teams. Built by Salesably.ai. by Salesably *(13 ⭐)* — discovered Feb 20
+- 📚 **[yarepl.nvim](https://github.com/milanglacier/yarepl.nvim)** R:🟡 M:🟢 — Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat. by milanglacier *(247 ⭐)* — discovered Feb 20
 - 📚 **[agentic-system-prompts](https://github.com/tallesborges/agentic-system-prompts)** R:🟡 M:🟠 — A curated collection of system prompts and tool definitions from production AI coding agents by tallesborges *(148 ⭐)* — discovered Feb 20
 - 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)* — discovered Feb 20
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)* — discovered Feb 19
-- ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)* — discovered Feb 19
-- ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)* — discovered Feb 19
 
 ---
 
@@ -432,6 +432,7 @@
 - 📚 **[home-assistant-vibecode-agent](https://github.com/Coolver/home-assistant-vibecode-agent)** R:🟡 M:🟢 — Home Assistant MCP server agent. Enable Cursor, VS Code, Claude Code, or any MCP-enabled IDE to help you vibe-code and manage Home Assistant: create and debug automations, design dashboards, tweak themes, modify configs, and deploy changes using natural language by Coolver *(439 ⭐)*
 - 🔌 **[claude-skillkit](https://github.com/rfxlamia/claude-skillkit)** R:🟢 M:🟢 — Claude Skill Kit that can build comprehensive skills based on research. by rfxlamia *(39 ⭐)*
 - ⌨️ **[juno-code](https://github.com/askbudi/juno-code)** R:🟡 M:🟢 — Ralph Wiggum meet Kanban! Ralph style execution for [Claude Code, Codex, Gemini, Cursor]. One task per iteration, automatic progress tracking, and git commits. Set it and let it run. by askbudi *(48 ⭐)*
+- ⌨️ **[KIRA](https://github.com/krafton-ai/KIRA)** R:🟢 M:🟢 — KIRA (Krafton Intelligence Rookie Agent) by krafton-ai *(590 ⭐)*
 - ⌨️ **[openskills](https://github.com/numman-ali/openskills)** R:🟡 M:🟢 — Universal skills loader for AI coding agents - npm i -g openskills by numman-ali *(8.3k ⭐)*
 - 🔗 **[spec-to-agents](https://github.com/microsoft/spec-to-agents)** R:🟡 M:🟢 — A multi-agent event planning workflow built with Microsoft Agent Framework - combining Semantic Kernel's enterprise orchestration with AutoGen's multi-agent patterns. by microsoft *(67 ⭐)*
 - 📚 **[mcp-agent](https://github.com/lastmile-ai/mcp-agent)** R:🟡 M:🟢 — Build effective agents using Model Context Protocol and simple workflow patterns by lastmile-ai *(8.0k ⭐)*
@@ -561,6 +562,7 @@
 
 - 📚 **[Glyphs-mcp](https://github.com/thierryc/Glyphs-mcp)** R:🟢 M:🟢 — Glyphs app mcp server by thierryc *(17 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)*
+- ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)*
 - 📚 **[aia-swd](https://github.com/chrisokchen/aia-swd)** R:🟢 M:🟠 — A new repository for aia-swd project by chrisokchen *(37 ⭐)*
 
 ---
