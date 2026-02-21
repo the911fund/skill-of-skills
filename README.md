@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-486-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-487-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-692k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-693k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**486 tools** discovered across 15 categories
+**487 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques)** R:🟡 M:🟢 — Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語 by inmve *(317 ⭐)* — discovered Feb 21
 - ⌨️ **[browser](https://github.com/camhahu/browser)** R:🟡 M:🟢 — The fastest, most token-efficient way for AI agents to control Chrome. by camhahu *(150 ⭐)* — discovered Feb 21
 - ⌨️ **[DiPeO](https://github.com/sorryhyun/DiPeO)** R:🟡 M:🟢 — Agent building tools via block diagram UI by sorryhyun *(12 ⭐)* — discovered Feb 21
-- 📚 **[netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices)** R:🟡 M:🟢 — Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers. by netboxlabs *(19 ⭐)* — discovered Feb 20
 - 🔌 **[claude-wordpress-skills](https://github.com/elvismdev/claude-wordpress-skills)** R:🟡 M:🟢 — Professional WordPress engineering skills for Claude Code - performance optimization, security auditing, Gutenberg block development, and theme/plugin best practices. by elvismdev *(80 ⭐)* — discovered Feb 20
-- ⌨️ **[skilluse](https://github.com/skilluse/skilluse)** R:🟡 M:🟢 — Agent Skills Registry & CLI by skilluse *(40 ⭐)* — discovered Feb 20
+- 📚 **[netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices)** R:🟡 M:🟢 — Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers. by netboxlabs *(19 ⭐)* — discovered Feb 20
 
 ---
 
@@ -569,6 +569,7 @@
 - 🔌 **[salesably-marketplace](https://github.com/Salesably/salesably-marketplace)** R:🟡 M:🟢 — Claude Code plugins for sales and marketing teams. Built by Salesably.ai. by Salesably *(13 ⭐)*
 - 📚 **[yarepl.nvim](https://github.com/milanglacier/yarepl.nvim)** R:🟡 M:🟢 — Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat. by milanglacier *(247 ⭐)*
 - 📚 **[aia-swd](https://github.com/chrisokchen/aia-swd)** R:🟢 M:🟠 — A new repository for aia-swd project by chrisokchen *(37 ⭐)*
+- ⌨️ **[skilluse](https://github.com/skilluse/skilluse)** R:🟡 M:🟢 — Agent Skills Registry & CLI by skilluse *(40 ⭐)*
 
 ---
 
