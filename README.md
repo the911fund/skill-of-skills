@@ -79,7 +79,7 @@
 - 📦 **[AionUi](https://github.com/iOfficeAI/AionUi)** R:🟢 M:🟢 — Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! by iOfficeAI *(14.0k ⭐)*
 - ⌨️ **[vibes](https://github.com/wandb/vibes)** R:🟢 M:🟠 — A repo with a devcontainer ready to vibe with Claude, Codex or Gemini by wandb *(34 ⭐)*
 - ⌨️ **[context-engine](https://github.com/Kirachon/context-engine)** R:🟢 M:🟢 — MCP Server for semantic code search and AI-powered prompt enhancement using Augment SDK by Kirachon *(31 ⭐)*
-- ⌨️ **[Codex-webui](https://github.com/harryneopotter/Codex-webui)** R:🟡 M:🟢 — A minimal webui to run Codex-CLI locally with a UI, session resume and persistent memory (Un-official) by harryneopotter *(29 ⭐)*
+- ⌨️ **[Codex-webui](https://github.com/harryneopotter/Codex-webui)** R:🟡 M:🟠 — A minimal webui to run Codex-CLI locally with a UI, session resume and persistent memory (Un-official) by harryneopotter *(29 ⭐)*
 - 🔌 **[universal-dev-standards](https://github.com/AsiaOstrich/universal-dev-standards)** R:🟢 M:🟢 — Universal, language-agnostic development standards for software projects. Includes coding standards, git workflows, testing guidelines, documentation structure, and AI collaboration rules. by AsiaOstrich *(36 ⭐)*
 - 🔌 **[rr](https://github.com/rileyhilliard/rr)** R:🟢 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(145 ⭐)*
 - 🔌 **[claude-stt](https://github.com/jarrodwatts/claude-stt)** R:🟢 M:🟢 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(335 ⭐)*
