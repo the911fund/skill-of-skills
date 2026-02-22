@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-491-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-493-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-693k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**491 tools** discovered across 15 categories
+**493 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[rmm-scripts](https://github.com/limehawk/rmm-scripts)** R:🟡 M:🟢 — Production-ready PowerShell and Bash scripts for RMM platforms (SuperOps, Datto, NinjaRMM) by limehawk *(16 ⭐)* — discovered Feb 22
+- 🔌 **[caro](https://github.com/wildcard/caro)** R:🟡 M:🟢 — caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included. by wildcard *(26 ⭐)* — discovered Feb 22
 - 📚 **[cli-agent](https://github.com/myysophia/cli-agent)** R:🟡 M:🟢 — 一个极简的 Go HTTP 网关服务，将 HTTP 请求桥接到 Claude CLI。通过 HTTP 接口调用 Claude CLI 的无头模式，让任何支持 HTTP 的应用都能使用 Claude CLI 的能力。 by myysophia *(24 ⭐)* — discovered Feb 22
 - 🔌 **[l4-ide](https://github.com/smucclaw/l4-ide)** R:🟡 M:🟢 — L4 - rules-as-code - is an open-source functional specification language for business rules, legal contracts, and legislation/regulation, with a CNL syntax for isomorphism. by smucclaw *(24 ⭐)* — discovered Feb 22
 - ⌨️ **[sage](https://github.com/usetig/sage)** R:🟡 M:🟢 — An LLM council that reviews your coding agent's every move by usetig *(83 ⭐)* — discovered Feb 22
-- ⌨️ **[codex-spec](https://github.com/shenli/codex-spec)** R:🟡 M:🟠 — Automated workflows for OpenAI Codex. Features spec-driven development for new features: Product Requirement → Design → Development Plan → Implementation. by shenli *(41 ⭐)* — discovered Feb 21
-- 📚 **[awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques)** R:🟡 M:🟢 — Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語 by inmve *(317 ⭐)* — discovered Feb 21
 
 ---
 
@@ -564,6 +564,8 @@
 - 🔌 **[claude-wordpress-skills](https://github.com/elvismdev/claude-wordpress-skills)** R:🟡 M:🟢 — Professional WordPress engineering skills for Claude Code - performance optimization, security auditing, Gutenberg block development, and theme/plugin best practices. by elvismdev *(80 ⭐)*
 - ⌨️ **[DiPeO](https://github.com/sorryhyun/DiPeO)** R:🟡 M:🟢 — Agent building tools via block diagram UI by sorryhyun *(12 ⭐)*
 - ⌨️ **[browser](https://github.com/camhahu/browser)** R:🟡 M:🟢 — The fastest, most token-efficient way for AI agents to control Chrome. by camhahu *(150 ⭐)*
+- 📚 **[awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques)** R:🟡 M:🟢 — Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語 by inmve *(317 ⭐)*
+- ⌨️ **[codex-spec](https://github.com/shenli/codex-spec)** R:🟡 M:🟠 — Automated workflows for OpenAI Codex. Features spec-driven development for new features: Product Requirement → Design → Development Plan → Implementation. by shenli *(41 ⭐)*
 - 📚 **[Glyphs-mcp](https://github.com/thierryc/Glyphs-mcp)** R:🟢 M:🟢 — Glyphs app mcp server by thierryc *(17 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)*
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)*
