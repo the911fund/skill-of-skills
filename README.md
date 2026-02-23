@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-495-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-498-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-693k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**495 tools** discovered across 15 categories
+**498 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[openwhale](https://github.com/viralcode/openwhale)** R:🟡 M:🟢 — Self-Extensible Multi Agent Assistant 🐋 by viralcode *(40 ⭐)* — discovered Feb 23
+- 📚 **[nocodo](https://github.com/brainless/nocodo)** R:🟡 M:🟢 — Batteries-included multi-agent framework. Agents for databses, files, emails, APIs and web crawler. Self-host, run on your data. Multi-agent, multi-model workflows. Access from Slack, Telegram, desktop app or web chat. by brainless *(49 ⭐)* — discovered Feb 23
+- 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(42 ⭐)* — discovered Feb 23
 - 🔌 **[shipspec-claude-code-plugin](https://github.com/jsegov/shipspec-claude-code-plugin)** R:🟡 M:🟢 — Spec Driven Development Plugin for Claude Code by jsegov *(10 ⭐)* — discovered Feb 23
 - 🔗 **[cloud-native-ref](https://github.com/Smana/cloud-native-ref)** R:🟡 M:🟢 — Opiniated Cloud Native Platform Reference by Smana *(89 ⭐)* — discovered Feb 22
-- 📚 **[rmm-scripts](https://github.com/limehawk/rmm-scripts)** R:🟡 M:🟢 — Production-ready PowerShell and Bash scripts for RMM platforms (SuperOps, Datto, NinjaRMM) by limehawk *(16 ⭐)* — discovered Feb 22
-- 🔌 **[caro](https://github.com/wildcard/caro)** R:🟡 M:🟢 — caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included. by wildcard *(26 ⭐)* — discovered Feb 22
-- 📚 **[cli-agent](https://github.com/myysophia/cli-agent)** R:🟡 M:🟢 — 一个极简的 Go HTTP 网关服务，将 HTTP 请求桥接到 Claude CLI。通过 HTTP 接口调用 Claude CLI 的无头模式，让任何支持 HTTP 的应用都能使用 Claude CLI 的能力。 by myysophia *(24 ⭐)* — discovered Feb 22
 
 ---
 
@@ -569,6 +569,9 @@
 - 🔌 **[l4-ide](https://github.com/smucclaw/l4-ide)** R:🟡 M:🟢 — L4 - rules-as-code - is an open-source functional specification language for business rules, legal contracts, and legislation/regulation, with a CNL syntax for isomorphism. by smucclaw *(24 ⭐)*
 - 📚 **[Glyphs-mcp](https://github.com/thierryc/Glyphs-mcp)** R:🟢 M:🟢 — Glyphs app mcp server by thierryc *(17 ⭐)*
 - ⌨️ **[sage](https://github.com/usetig/sage)** R:🟡 M:🟢 — An LLM council that reviews your coding agent's every move by usetig *(83 ⭐)*
+- 📚 **[cli-agent](https://github.com/myysophia/cli-agent)** R:🟡 M:🟢 — 一个极简的 Go HTTP 网关服务，将 HTTP 请求桥接到 Claude CLI。通过 HTTP 接口调用 Claude CLI 的无头模式，让任何支持 HTTP 的应用都能使用 Claude CLI 的能力。 by myysophia *(24 ⭐)*
+- 🔌 **[caro](https://github.com/wildcard/caro)** R:🟡 M:🟢 — caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included. by wildcard *(26 ⭐)*
+- 📚 **[rmm-scripts](https://github.com/limehawk/rmm-scripts)** R:🟡 M:🟢 — Production-ready PowerShell and Bash scripts for RMM platforms (SuperOps, Datto, NinjaRMM) by limehawk *(16 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)*
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)*
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)*
