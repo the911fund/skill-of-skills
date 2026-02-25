@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-500-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-501-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-693k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**500 tools** discovered across 15 categories
+**501 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(28 ⭐)* — discovered Feb 25
 - 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(10 ⭐)* — discovered Feb 24
 - 📚 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)** R:🟡 M:🟢 — A Model Context Protocol server that provides knowledge graph management capabilities. by okooo5km *(87 ⭐)* — discovered Feb 24
 - 📚 **[nocodo](https://github.com/brainless/nocodo)** R:🟡 M:🟢 — Batteries-included multi-agent framework. Agents for databses, files, emails, APIs and web crawler. Self-host, run on your data. Multi-agent, multi-model workflows. Access from Slack, Telegram, desktop app or web chat. by brainless *(49 ⭐)* — discovered Feb 23
 - ⌨️ **[openwhale](https://github.com/viralcode/openwhale)** R:🟡 M:🟢 — Self-Extensible Multi Agent Assistant 🐋 by viralcode *(40 ⭐)* — discovered Feb 23
-- 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(42 ⭐)* — discovered Feb 23
 
 ---
 
@@ -575,6 +575,7 @@
 - 🔗 **[cloud-native-ref](https://github.com/Smana/cloud-native-ref)** R:🟡 M:🟢 — Opiniated Cloud Native Platform Reference by Smana *(89 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(151 ⭐)*
 - 🔌 **[shipspec-claude-code-plugin](https://github.com/jsegov/shipspec-claude-code-plugin)** R:🟡 M:🟢 — Spec Driven Development Plugin for Claude Code by jsegov *(10 ⭐)*
+- 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(42 ⭐)*
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)*
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)*
 - 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)*
