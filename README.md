@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-504-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-518-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-693k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-703k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**504 tools** discovered across 15 categories
+**518 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(25 ⭐)* — discovered Feb 25
-- 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(47 ⭐)* — discovered Feb 25
-- 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(93 ⭐)* — discovered Feb 25
-- ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(28 ⭐)* — discovered Feb 25
-- 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(10 ⭐)* — discovered Feb 24
+- 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(960 ⭐)* — discovered Feb 25
+- 🔌 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟡 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(714 ⭐)* — discovered Feb 25
+- 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(134 ⭐)* — discovered Feb 25
+- ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(6.3k ⭐)* — discovered Feb 25
+- 📚 **[ailang](https://github.com/sunholo-data/ailang)** R:🟡 M:🟢 — For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning. by sunholo-data *(20 ⭐)* — discovered Feb 25
 
 ---
 
@@ -302,7 +302,7 @@
 - 🔌 **[claude-imessage](https://github.com/dvdsgl/claude-imessage)** R:🟡 M:🟢 — iMessage integration for Claude Code - autonomous agent via iMessage by dvdsgl *(31 ⭐)*
 - 🔌 **[pinecone-claude-code-plugin](https://github.com/pinecone-io/pinecone-claude-code-plugin)** R:🟢 M:🟢 — The official Pinecone marketplace for Claude Code Plugins by pinecone-io *(39 ⭐)*
 - 🔗 **[mysql-query-mcp-server](https://github.com/devakone/mysql-query-mcp-server)** R:🟢 M:🟠 — MySQL Query MCP server for AI assistants - execute read-only MySQL queries by devakone *(11 ⭐)*
-- 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟢 M:🟢 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)*
+- 🔌 **[gemini-search-plugin](https://github.com/d-oit/gemini-search-plugin)** R:🟢 M:🟠 — Advanced Claude Code plugin for web search using Gemini CLI with caching, analytics, and validation. Includes comprehensive skills for plugin development. by d-oit *(10 ⭐)*
 - ⌨️ **[UEMCP](https://github.com/atomantic/UEMCP)** R:🟢 M:🟠 — Python Unreal Engine Plugin and Node.js MCP Server by atomantic *(10 ⭐)*
 - 📚 **[code-assistant-manager](https://github.com/Chat2AnyLLM/code-assistant-manager)** R:🟢 M:🟢 — code-assitant-manager allows you to manage the code assistants like claude code, codex, gemini on a single interface. by Chat2AnyLLM *(39 ⭐)*
 - 🔌 **[WordPress-Publishing-Skill-For-Claude](https://github.com/Asif2BD/WordPress-Publishing-Skill-For-Claude)** R:🟢 M:🟢 — WordPress Publishing Skill For Claude by Asif2BD *(27 ⭐)*
@@ -579,6 +579,20 @@
 - 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(42 ⭐)*
 - 📚 **[nocodo](https://github.com/brainless/nocodo)** R:🟡 M:🟢 — Batteries-included multi-agent framework. Agents for databses, files, emails, APIs and web crawler. Self-host, run on your data. Multi-agent, multi-model workflows. Access from Slack, Telegram, desktop app or web chat. by brainless *(49 ⭐)*
 - 📚 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)** R:🟡 M:🟢 — A Model Context Protocol server that provides knowledge graph management capabilities. by okooo5km *(87 ⭐)*
+- 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(10 ⭐)*
+- ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(28 ⭐)*
+- 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(47 ⭐)*
+- 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(25 ⭐)*
+- 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(93 ⭐)*
+- 📚 **[gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)** R:🟡 M:🟢 — Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. by Piebald-AI *(276 ⭐)*
+- ⌨️ **[aistack](https://github.com/blackms/aistack)** R:🟡 M:🟢 — Production-grade agent orchestration for Claude Code - 11 agents, 46 MCP tools, SQLite+FTS5, drift detection, consensus checkpoints by blackms *(41 ⭐)*
+- 📚 **[Coder-Codex-Gemini](https://github.com/FredericMN/Coder-Codex-Gemini)** R:🟡 M:🟢 — CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode by FredericMN *(149 ⭐)*
+- 📚 **[LeanTool](https://github.com/GasStationManager/LeanTool)** R:🟡 M:🟢 — A "code intepreter" for Lean by GasStationManager *(81 ⭐)*
+- ⌨️ **[dev-inspector-mcp](https://github.com/mcpc-tech/dev-inspector-mcp)** R:🟡 M:🟢 — AI-powered visual debugging for your React, Vue, Svelte, SolidJS, Preact & Next.js app via MCP and ACP by mcpc-tech *(28 ⭐)*
+- 🔌 **[mcp-tts](https://github.com/blacktop/mcp-tts)** R:🟡 M:🟢 — MCP Server for Text to Speech by blacktop *(49 ⭐)*
+- 📚 **[LifeBook](https://github.com/Anson-Trio/LifeBook)** R:🟡 M:🟢 — 本git仓库作为LifeBook系统使用指南 by Anson-Trio *(66 ⭐)*
+- 📚 **[awesome](https://github.com/icopy-site/awesome)** R:🟡 M:🟢 — collection of awesome lists by icopy-site *(337 ⭐)*
+- ⌨️ **[novel-writer](https://github.com/wordflowlab/novel-writer)** R:🟡 M:🟠 — 参考Spec-kit 实现小说撰写工具 by wordflowlab *(638 ⭐)*
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(10 ⭐)*
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)*
 - 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)*
