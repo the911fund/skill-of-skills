@@ -330,7 +330,7 @@
 - 📚 **[flywheel_connectors](https://github.com/Dicklesworthstone/flywheel_connectors)** R:🟡 M:🟢 — Mesh-native protocol and Rust connector library for secure AI agent integration with external services: Twitter, Linear, Stripe, Discord, Gmail, GitHub, and more by Dicklesworthstone *(29 ⭐)*
 - 📚 **[ChatTool](https://github.com/cubenlp/ChatTool)** R:🟢 M:🟢 — Toolkit for Chat API. by cubenlp *(40 ⭐)*
 - 🔗 **[GravityMCP](https://github.com/GravityKit/GravityMCP)** R:🟡 M:🟢 — MCP server for Gravity Forms - Interact with WordPress forms, entries, and submissions through AI by GravityKit *(13 ⭐)*
-- 🔗 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** R:🟡 M:🟢 — F2C MCP Server by f2c-ai *(358 ⭐)*
+- 🔗 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** R:🟡 M:🟠 — F2C MCP Server by f2c-ai *(358 ⭐)*
 - 🔗 **[codex-as-mcp](https://github.com/evilpsycho42/codex-as-mcp)** R:🔴 M:🟢 — Convert codex CLI tool to an MCP — unleash the power of GPT-5 by evilpsycho42 *(139 ⭐)*
 - 🔌 **[demo-claude-marketplace](https://github.com/mrlm-xyz/demo-claude-marketplace)** R:🟢 M:🟢 — Dummy and naive demonstration template of custom Claude Code plugins marketplace structure. by mrlm-xyz *(21 ⭐)*
 - 📚 **[enhanced-dash-mcp](https://github.com/joshuadanpeterson/enhanced-dash-mcp)** R:🟡 M:🟠 — 🚀 Intelligent MCP server bridging Claude AI with Dash (macOS documentation browser). Transforms local Dash docsets into context-aware documentation assistant with fuzzy search, project detection, content extraction, and Warp Terminal integration. Perfect for developers who want seamless API reference access while coding. by joshuadanpeterson *(27 ⭐)*
@@ -658,5 +658,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-24 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-25 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
