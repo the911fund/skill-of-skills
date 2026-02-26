@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-518-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-520-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-703k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**518 tools** discovered across 15 categories
+**520 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(960 ⭐)* — discovered Feb 25
+- 📚 **[aqua](https://github.com/vignesh07/aqua)** R:🟡 M:🟢 — Aqua is a lightweight, agent-agnostic coordinator for CLI AI agents. It enables multiple AI agents (Claude Code, Codex CLI, Gemini CLI, or any CLI tool) running in separate terminal sessions to collaborate on tasks within a shared codebase. Built with Claude ❤️ by vignesh07 *(20 ⭐)* — discovered Feb 26
+- 📚 **[commentary](https://github.com/CoralPink/commentary)** R:🟡 M:🟢 — This site introduces WezTerm and Neovim dotfiles that I usually use. by CoralPink *(74 ⭐)* — discovered Feb 26
 - 🔌 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟡 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(714 ⭐)* — discovered Feb 25
-- 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(134 ⭐)* — discovered Feb 25
 - ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(6.3k ⭐)* — discovered Feb 25
-- 📚 **[ailang](https://github.com/sunholo-data/ailang)** R:🟡 M:🟢 — For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning. by sunholo-data *(20 ⭐)* — discovered Feb 25
+- 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(134 ⭐)* — discovered Feb 25
 
 ---
 
@@ -584,6 +584,8 @@
 - 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(47 ⭐)*
 - 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(25 ⭐)*
 - 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(93 ⭐)*
+- 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(960 ⭐)*
+- 📚 **[ailang](https://github.com/sunholo-data/ailang)** R:🟡 M:🟢 — For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning. by sunholo-data *(20 ⭐)*
 - 📚 **[gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)** R:🟡 M:🟢 — Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. by Piebald-AI *(276 ⭐)*
 - ⌨️ **[aistack](https://github.com/blackms/aistack)** R:🟡 M:🟢 — Production-grade agent orchestration for Claude Code - 11 agents, 46 MCP tools, SQLite+FTS5, drift detection, consensus checkpoints by blackms *(41 ⭐)*
 - 📚 **[Coder-Codex-Gemini](https://github.com/FredericMN/Coder-Codex-Gemini)** R:🟡 M:🟢 — CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode by FredericMN *(149 ⭐)*
@@ -676,5 +678,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-02-25 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-02-26 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
