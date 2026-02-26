@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-521-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-522-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-703k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**521 tools** discovered across 15 categories
+**522 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[mcp-toolbox](https://github.com/ai-zerolab/mcp-toolbox)** R:🟡 M:🟢 — Maintenance of a set of tools to enhance LLM through MCP protocols. by ai-zerolab *(27 ⭐)* — discovered Feb 26
 - 🔌 **[ksrc](https://github.com/respawn-app/ksrc)** R:🟡 M:🟢 — Let your AI agents search and read 3rd-party Kotlin dependency sources by respawn-app *(43 ⭐)* — discovered Feb 26
-- 📚 **[aqua](https://github.com/vignesh07/aqua)** R:🟡 M:🟢 — Aqua is a lightweight, agent-agnostic coordinator for CLI AI agents. It enables multiple AI agents (Claude Code, Codex CLI, Gemini CLI, or any CLI tool) running in separate terminal sessions to collaborate on tasks within a shared codebase. Built with Claude ❤️ by vignesh07 *(20 ⭐)* — discovered Feb 26
 - 📚 **[commentary](https://github.com/CoralPink/commentary)** R:🟡 M:🟢 — This site introduces WezTerm and Neovim dotfiles that I usually use. by CoralPink *(74 ⭐)* — discovered Feb 26
+- 📚 **[aqua](https://github.com/vignesh07/aqua)** R:🟡 M:🟢 — Aqua is a lightweight, agent-agnostic coordinator for CLI AI agents. It enables multiple AI agents (Claude Code, Codex CLI, Gemini CLI, or any CLI tool) running in separate terminal sessions to collaborate on tasks within a shared codebase. Built with Claude ❤️ by vignesh07 *(20 ⭐)* — discovered Feb 26
 - 🔌 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟡 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(714 ⭐)* — discovered Feb 25
-- ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(6.3k ⭐)* — discovered Feb 25
 
 ---
 
@@ -585,6 +585,7 @@
 - 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(25 ⭐)*
 - 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(93 ⭐)*
 - 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(134 ⭐)*
+- ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(6.3k ⭐)*
 - 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(960 ⭐)*
 - 📚 **[ailang](https://github.com/sunholo-data/ailang)** R:🟡 M:🟢 — For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning. by sunholo-data *(20 ⭐)*
 - 📚 **[gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)** R:🟡 M:🟢 — Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. by Piebald-AI *(276 ⭐)*
