@@ -561,7 +561,7 @@
 ## 📦 Uncategorized
 
 - 📚 **[netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices)** R:🟡 M:🟢 — Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers. by netboxlabs *(19 ⭐)*
-- 🔌 **[claude-wordpress-skills](https://github.com/elvismdev/claude-wordpress-skills)** R:🟡 M:🟢 — Professional WordPress engineering skills for Claude Code - performance optimization, security auditing, Gutenberg block development, and theme/plugin best practices. by elvismdev *(80 ⭐)*
+- 🔌 **[claude-wordpress-skills](https://github.com/elvismdev/claude-wordpress-skills)** R:🟡 M:🟠 — Professional WordPress engineering skills for Claude Code - performance optimization, security auditing, Gutenberg block development, and theme/plugin best practices. by elvismdev *(80 ⭐)*
 - ⌨️ **[DiPeO](https://github.com/sorryhyun/DiPeO)** R:🟡 M:🟢 — Agent building tools via block diagram UI by sorryhyun *(12 ⭐)*
 - ⌨️ **[browser](https://github.com/camhahu/browser)** R:🟡 M:🟢 — The fastest, most token-efficient way for AI agents to control Chrome. by camhahu *(150 ⭐)*
 - 📚 **[awesome-ai-coding-techniques](https://github.com/inmve/awesome-ai-coding-techniques)** R:🟡 M:🟠 — Practical techniques for coding with ai assistants (Claude Code, Codex CLI, Cursor, GitHub Copilot, etc). Available in: English • Español • Deutsch • Français • 日本語 by inmve *(317 ⭐)*
