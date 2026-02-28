@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-532-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-533-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-804k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**532 tools** discovered across 15 categories
+**533 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[navi](https://github.com/navi-language/navi)** R:🟡 M:🟢 — Navi is a high-performance programming language. by navi-language *(104 ⭐)* — discovered Feb 28
 - 📚 **[notebook](https://github.com/ctsin/notebook)** R:🟡 M:🟢 — The collections of tricks for development 🛠 by ctsin *(10 ⭐)* — discovered Feb 28
 - ⌨️ **[awesome-mac](https://github.com/jaywcjlove/awesome-mac)** R:🟡 M:🟢 —  Now we have become very big, Different from the original idea. Collect premium software in various categories. by jaywcjlove *(99.3k ⭐)* — discovered Feb 28
 - 🔗 **[marimo-flow](https://github.com/synapticore-io/marimo-flow)** R:🟡 M:🟢 — Interactive ML notebooks with reactive updates, AI assistance, and MLflow tracking by synapticore-io *(10 ⭐)* — discovered Feb 27
 - 📚 **[MCP-Developer-SubAgent](https://github.com/gensecaihq/MCP-Developer-SubAgent)** R:🟡 M:🟠 — A specialized framework for Model Context Protocol (MCP) development featuring 8   Claude Code sub-agents, security hooks, and production-ready FastMCP server   templates. Provides immediate MCP development assistance through markdown-driven   agents with optional programmatic SDK . by gensecaihq *(26 ⭐)* — discovered Feb 27
-- 📚 **[lc-claude-workbench](https://github.com/Digital-Defense-Institute/lc-claude-workbench)** R:🟡 M:🟠 — A workbench for using the LimaCharlie MCP with Claude Code by Digital-Defense-Institute *(17 ⭐)* — discovered Feb 27
 
 ---
 
@@ -611,6 +611,7 @@
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(31 ⭐)*
 - 🔌 **[textme](https://github.com/njerschow/textme)** R:🟡 M:🟢 — Text Claude from your phone via iMessage by njerschow *(80 ⭐)*
 - 📚 **[agentic-system-prompts](https://github.com/tallesborges/agentic-system-prompts)** R:🟡 M:🟠 — A curated collection of system prompts and tool definitions from production AI coding agents by tallesborges *(148 ⭐)*
+- 📚 **[lc-claude-workbench](https://github.com/Digital-Defense-Institute/lc-claude-workbench)** R:🟡 M:🟠 — A workbench for using the LimaCharlie MCP with Claude Code by Digital-Defense-Institute *(17 ⭐)*
 - 🔌 **[salesably-marketplace](https://github.com/Salesably/salesably-marketplace)** R:🟡 M:🟢 — Claude Code plugins for sales and marketing teams. Built by Salesably.ai. by Salesably *(13 ⭐)*
 - 📚 **[yarepl.nvim](https://github.com/milanglacier/yarepl.nvim)** R:🟡 M:🟢 — Versatile REPL/CLI manager. Multiple sending modes with parallel sessions, buffer attachments, and cross-language support. AI CLI integration for Aider  and OpenAI Codex. Picker support, project-level configs, code cell text objects, and native dot-repeat. by milanglacier *(247 ⭐)*
 - 📚 **[aia-swd](https://github.com/chrisokchen/aia-swd)** R:🟢 M:🟠 — A new repository for aia-swd project by chrisokchen *(37 ⭐)*
