@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-539-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-545-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-249k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-256k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**539 tools** discovered across 15 categories
+**545 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[burn-in-cceverywhere-ralph](https://github.com/hellangleZ/burn-in-cceverywhere-ralph)** R:🟡 M:🟢 — Claude Code Enhanced: 整合 everything-claude-code + ralph 的最佳能力，打造 Claude Code 终极增强套件 by hellangleZ *(100 ⭐)* — discovered Mar 15
-- 📚 **[chibi](https://github.com/s-nagaev/chibi)** R:🟡 M:🟢 — Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner. by s-nagaev *(46 ⭐)* — discovered Mar 15
-- ⌨️ **[emp](https://github.com/empjs/emp)** R:🟡 M:🟢 — EMP Micro FE Base on Rspack & module federation by empjs *(2.4k ⭐)* — discovered Mar 15
-- 🔌 **[Claude-Matrix](https://github.com/ojowwalker77/Claude-Matrix)** R:🟡 M:🟢 — Claude on Rails - Tooling System for Claude Code. by ojowwalker77 *(103 ⭐)* — discovered Mar 15
-- 📚 **[agent-kit](https://github.com/antoniolg/agent-kit)** R:🟡 M:🟢 — A collection of skills for AI agents by antoniolg *(29 ⭐)* — discovered Mar 15
+- 📚 **[ramparts](https://github.com/highflame-ai/ramparts)** R:🟡 M:🟢 — mcp scan that scans any mcp server for indirect attack vectors and security or configuration vulnerabilities by highflame-ai *(83 ⭐)* — discovered Mar 16
+- ⌨️ **[blockbench-mcp-plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)** R:🟡 M:🟢 — Adds MCP server to Blockbench by jasonjgardner *(67 ⭐)* — discovered Mar 16
+- 🔗 **[gemini-context-mcp-server](https://github.com/ogoldberg/gemini-context-mcp-server)** R:🟡 M:🟠 — MCP server for Cursor that leverages Gemini's much larger context window to enhance the capabilities of the AI tools by ogoldberg *(29 ⭐)* — discovered Mar 16
+- 🔌 **[SourceAtlas](https://github.com/lis186/SourceAtlas)** R:🟡 M:🟢 — A set of AI-powered slash commands for Claude Code and OpenSkills (support Cursor, Windsurf and Gemini CLI) that help you understand any codebase quickly by lis186 *(33 ⭐)* — discovered Mar 16
+- 📚 **[Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** R:🟡 M:🟠 — Awesome apps, software, and SaaS deals on Black Friday. by trungdq88 *(7.5k ⭐)* — discovered Mar 16
 
 ---
 
@@ -574,7 +574,12 @@
 - 📚 **[netbox-best-practices](https://github.com/netboxlabs/netbox-best-practices)** R:🟡 M:🟢 — Best practices for NetBox API integrations, available for multiple AI coding assistants and human readers. by netboxlabs *(0 ⭐)*
 - 📚 **[cli-agent](https://github.com/myysophia/cli-agent)** R:🟡 M:🟢 — 一个极简的 Go HTTP 网关服务，将 HTTP 请求桥接到 Claude CLI。通过 HTTP 接口调用 Claude CLI 的无头模式，让任何支持 HTTP 的应用都能使用 Claude CLI 的能力。 by myysophia *(0 ⭐)*
 - 🔌 **[caro](https://github.com/wildcard/caro)** R:🟡 M:🟢 — caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included. by wildcard *(0 ⭐)*
+- ⌨️ **[emp](https://github.com/empjs/emp)** R:🟡 M:🟢 — EMP Micro FE Base on Rspack & module federation by empjs *(2.4k ⭐)*
+- 📚 **[chibi](https://github.com/s-nagaev/chibi)** R:🟡 M:🟢 — Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner. by s-nagaev *(46 ⭐)*
+- 🔌 **[Claude-Matrix](https://github.com/ojowwalker77/Claude-Matrix)** R:🟡 M:🟢 — Claude on Rails - Tooling System for Claude Code. by ojowwalker77 *(103 ⭐)*
 - 📚 **[rmm-scripts](https://github.com/limehawk/rmm-scripts)** R:🟡 M:🟢 — Production-ready PowerShell and Bash scripts for RMM platforms (SuperOps, Datto, NinjaRMM) by limehawk *(0 ⭐)*
+- 📚 **[burn-in-cceverywhere-ralph](https://github.com/hellangleZ/burn-in-cceverywhere-ralph)** R:🟡 M:🟢 — Claude Code Enhanced: 整合 everything-claude-code + ralph 的最佳能力，打造 Claude Code 终极增强套件 by hellangleZ *(100 ⭐)*
+- 📚 **[agent-kit](https://github.com/antoniolg/agent-kit)** R:🟡 M:🟢 — A collection of skills for AI agents by antoniolg *(29 ⭐)*
 - 🔌 **[markdown-provenance](https://github.com/rickmanelius/markdown-provenance)** R:🟡 M:🟢 — A Claude Claude slash command to establish strong provenance for any markdown file (fingerprints with IPFS and stores in Arweave) by rickmanelius *(10 ⭐)*
 - 🔗 **[cloud-native-ref](https://github.com/Smana/cloud-native-ref)** R:🟡 M:🟢 — Opiniated Cloud Native Platform Reference by Smana *(0 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(0 ⭐)*
@@ -582,6 +587,7 @@
 - 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(0 ⭐)*
 - ⌨️ **[openwhale](https://github.com/viralcode/openwhale)** R:🟡 M:🟢 — Self-Extensible Multi Agent Assistant 🐋 by viralcode *(0 ⭐)*
 - 📚 **[nocodo](https://github.com/brainless/nocodo)** R:🟡 M:🟢 — Batteries-included multi-agent framework. Agents for databses, files, emails, APIs and web crawler. Self-host, run on your data. Multi-agent, multi-model workflows. Access from Slack, Telegram, desktop app or web chat. by brainless *(0 ⭐)*
+- ⌨️ **[codex](https://github.com/open-hax/codex)** R:🟡 M:🟢 — OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method by open-hax *(27 ⭐)*
 - 📚 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)** R:🟡 M:🟢 — A Model Context Protocol server that provides knowledge graph management capabilities. by okooo5km *(0 ⭐)*
 - 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(0 ⭐)*
 - ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(0 ⭐)*
@@ -697,5 +703,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-03-15 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-03-16 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
