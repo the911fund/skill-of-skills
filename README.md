@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-550-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-551-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**550 tools** discovered across 15 categories
+**551 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)* — discovered Mar 16
 - 🔗 **[dnd-mcp](https://github.com/heffrey78/dnd-mcp)** R:🟡 M:🟠 — DND MCP Server by heffrey78 *(16 ⭐)* — discovered Mar 16
 - 📚 **[alethfeld](https://github.com/tobiasosborne/alethfeld)** R:🟡 M:🟢 — Rigorous Proofs via Adversarial AI Agents by tobiasosborne *(134 ⭐)* — discovered Mar 16
-- 📚 **[codexy](https://github.com/AndersonBY/codexy)** R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)* — discovered Mar 16
 - 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)* — discovered Mar 16
-- 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)* — discovered Mar 16
+- 📚 **[codexy](https://github.com/AndersonBY/codexy)** R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)* — discovered Mar 16
 
 ---
 
@@ -595,6 +595,7 @@
 - 📚 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)** R:🟡 M:🟢 — A Model Context Protocol server that provides knowledge graph management capabilities. by okooo5km *(0 ⭐)*
 - 📚 **[chibi](https://github.com/s-nagaev/chibi)** R:🟡 M:🟢 — Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner. by s-nagaev *(46 ⭐)*
 - 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(0 ⭐)*
+- 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)*
 - ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(0 ⭐)*
 - 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(0 ⭐)*
 - 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(0 ⭐)*
