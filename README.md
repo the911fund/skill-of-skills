@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-549-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-550-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**549 tools** discovered across 15 categories
+**550 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔗 **[dnd-mcp](https://github.com/heffrey78/dnd-mcp)** R:🟡 M:🟠 — DND MCP Server by heffrey78 *(16 ⭐)* — discovered Mar 16
 - 📚 **[alethfeld](https://github.com/tobiasosborne/alethfeld)** R:🟡 M:🟢 — Rigorous Proofs via Adversarial AI Agents by tobiasosborne *(134 ⭐)* — discovered Mar 16
-- 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)* — discovered Mar 16
 - 📚 **[codexy](https://github.com/AndersonBY/codexy)** R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)* — discovered Mar 16
 - 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)* — discovered Mar 16
-- ⌨️ **[blockbench-mcp-plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)** R:🟡 M:🟢 — Adds MCP server to Blockbench by jasonjgardner *(67 ⭐)* — discovered Mar 16
+- 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)* — discovered Mar 16
 
 ---
 
@@ -589,6 +589,7 @@
 - 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(0 ⭐)*
 - ⌨️ **[openwhale](https://github.com/viralcode/openwhale)** R:🟡 M:🟢 — Self-Extensible Multi Agent Assistant 🐋 by viralcode *(0 ⭐)*
 - 📚 **[nocodo](https://github.com/brainless/nocodo)** R:🟡 M:🟢 — Batteries-included multi-agent framework. Agents for databses, files, emails, APIs and web crawler. Self-host, run on your data. Multi-agent, multi-model workflows. Access from Slack, Telegram, desktop app or web chat. by brainless *(0 ⭐)*
+- ⌨️ **[blockbench-mcp-plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)** R:🟡 M:🟢 — Adds MCP server to Blockbench by jasonjgardner *(67 ⭐)*
 - 📚 **[Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday)** R:🟡 M:🟠 — Awesome apps, software, and SaaS deals on Black Friday. by trungdq88 *(7.5k ⭐)*
 - ⌨️ **[codex](https://github.com/open-hax/codex)** R:🟡 M:🟢 — OAuth authentication plugin for personal coding assistance with ChatGPT Plus/Pro subscriptions - uses OpenAI's official authentication method by open-hax *(27 ⭐)*
 - 📚 **[memory-mcp-server-go](https://github.com/okooo5km/memory-mcp-server-go)** R:🟡 M:🟢 — A Model Context Protocol server that provides knowledge graph management capabilities. by okooo5km *(0 ⭐)*
