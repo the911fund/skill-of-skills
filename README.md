@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-548-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-549-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**548 tools** discovered across 15 categories
+**549 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[alethfeld](https://github.com/tobiasosborne/alethfeld)** R:🟡 M:🟢 — Rigorous Proofs via Adversarial AI Agents by tobiasosborne *(134 ⭐)* — discovered Mar 16
 - 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)* — discovered Mar 16
-- 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)* — discovered Mar 16
 - 📚 **[codexy](https://github.com/AndersonBY/codexy)** R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)* — discovered Mar 16
+- 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)* — discovered Mar 16
 - ⌨️ **[blockbench-mcp-plugin](https://github.com/jasonjgardner/blockbench-mcp-plugin)** R:🟡 M:🟢 — Adds MCP server to Blockbench by jasonjgardner *(67 ⭐)* — discovered Mar 16
-- 🔌 **[SourceAtlas](https://github.com/lis186/SourceAtlas)** R:🟡 M:🟢 — A set of AI-powered slash commands for Claude Code and OpenSkills (support Cursor, Windsurf and Gemini CLI) that help you understand any codebase quickly by lis186 *(33 ⭐)* — discovered Mar 16
 
 ---
 
@@ -584,6 +584,7 @@
 - 🔗 **[gemini-context-mcp-server](https://github.com/ogoldberg/gemini-context-mcp-server)** R:🟡 M:🟠 — MCP server for Cursor that leverages Gemini's much larger context window to enhance the capabilities of the AI tools by ogoldberg *(29 ⭐)*
 - ⌨️ **[claude-instructions](https://github.com/wbern/claude-instructions)** R:🟢 M:🟢 — Claude Instructions Repository by wbern *(0 ⭐)*
 - 🔌 **[shipspec-claude-code-plugin](https://github.com/jsegov/shipspec-claude-code-plugin)** R:🟡 M:🟢 — Spec Driven Development Plugin for Claude Code by jsegov *(0 ⭐)*
+- 🔌 **[SourceAtlas](https://github.com/lis186/SourceAtlas)** R:🟡 M:🟢 — A set of AI-powered slash commands for Claude Code and OpenSkills (support Cursor, Windsurf and Gemini CLI) that help you understand any codebase quickly by lis186 *(33 ⭐)*
 - 📚 **[ramparts](https://github.com/highflame-ai/ramparts)** R:🟡 M:🟢 — mcp scan that scans any mcp server for indirect attack vectors and security or configuration vulnerabilities by highflame-ai *(83 ⭐)*
 - 🔌 **[mediator](https://github.com/shinyorg/mediator)** R:🟡 M:🟢 — A Mediator for your .NET Apps with some of the most awesome middleware around by shinyorg *(0 ⭐)*
 - ⌨️ **[openwhale](https://github.com/viralcode/openwhale)** R:🟡 M:🟢 — Self-Extensible Multi Agent Assistant 🐋 by viralcode *(0 ⭐)*
