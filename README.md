@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-554-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-555-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**554 tools** discovered across 15 categories
+**555 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(58 ⭐)* — discovered Mar 17
 - 🔗 **[sketch-mcp-server](https://github.com/mater1996/sketch-mcp-server)** R:🟡 M:🟠 — sketch-mcp-server by mater1996 *(13 ⭐)* — discovered Mar 17
 - 📚 **[ESP32MCPServer](https://github.com/navado/ESP32MCPServer)** R:🟡 M:🟢 — Allow AI models connect to ESP32 and read connected sensors NMEA2k, ODB/ODBII, NMEA0183. AI generated MCP server. by navado *(37 ⭐)* — discovered Mar 17
 - 🔌 **[mauishell](https://github.com/shinyorg/mauishell)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(11 ⭐)* — discovered Mar 16
 - 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)* — discovered Mar 16
-- 🔗 **[dnd-mcp](https://github.com/heffrey78/dnd-mcp)** R:🟡 M:🟠 — DND MCP Server by heffrey78 *(16 ⭐)* — discovered Mar 16
 
 ---
 
@@ -600,6 +600,7 @@
 - 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)*
 - 📚 **[alethfeld](https://github.com/tobiasosborne/alethfeld)** R:🟡 M:🟢 — Rigorous Proofs via Adversarial AI Agents by tobiasosborne *(134 ⭐)*
 - ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(0 ⭐)*
+- 🔗 **[dnd-mcp](https://github.com/heffrey78/dnd-mcp)** R:🟡 M:🟠 — DND MCP Server by heffrey78 *(16 ⭐)*
 - 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(0 ⭐)*
 - 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(0 ⭐)*
 - 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(0 ⭐)*
