@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-552-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-553-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**552 tools** discovered across 15 categories
+**553 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[ESP32MCPServer](https://github.com/navado/ESP32MCPServer)** R:🟡 M:🟢 — Allow AI models connect to ESP32 and read connected sensors NMEA2k, ODB/ODBII, NMEA0183. AI generated MCP server. by navado *(37 ⭐)* — discovered Mar 17
 - 🔌 **[mauishell](https://github.com/shinyorg/mauishell)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(11 ⭐)* — discovered Mar 16
 - 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)* — discovered Mar 16
 - 🔗 **[dnd-mcp](https://github.com/heffrey78/dnd-mcp)** R:🟡 M:🟠 — DND MCP Server by heffrey78 *(16 ⭐)* — discovered Mar 16
 - 📚 **[alethfeld](https://github.com/tobiasosborne/alethfeld)** R:🟡 M:🟢 — Rigorous Proofs via Adversarial AI Agents by tobiasosborne *(134 ⭐)* — discovered Mar 16
-- 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)* — discovered Mar 16
 
 ---
 
@@ -183,7 +183,7 @@
 - 📚 **[linear-cli](https://github.com/joa23/linear-cli)** R:🟢 M:🟢 — A token-efficient CLI for Linear by joa23 *(0 ⭐)*
 - 📚 **[claude-code-obsidian-starter](https://github.com/ArtemXTech/claude-code-obsidian-starter)** R:🟢 M:🟢 — Free starter kit: Claude Code + Obsidian. Pre-configured vault with skills for projects, tasks, clients, and daily routines. Just open and go. by ArtemXTech *(0 ⭐)*
 - 🔌 **[claudio](https://github.com/vinnie357/claudio)** R:🟢 M:🟠 — prompts, commands, and tools for working with jean claude by vinnie357 *(0 ⭐)*
-- 🔌 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟢 M:🟢 — A simple memory system for claude code by rlancemartin *(0 ⭐)*
+- 🔌 **[claude-diary](https://github.com/rlancemartin/claude-diary)** R:🟢 M:🟠 — A simple memory system for claude code by rlancemartin *(0 ⭐)*
 - 📚 **[.dotfiles](https://github.com/benswift/.dotfiles)** R:🟢 M:🟢 — My dotfiles.  Emacs-centric, should work across OSX/Linux/Windows by benswift *(0 ⭐)*
 - 📚 **[retain](https://github.com/BayramAnnakov/retain)** R:🟢 M:🟢 — Retain is a native macOS application that aggregates AI conversations from multiple platforms into a unified, searchable knowledge base with intelligent learning extraction. by BayramAnnakov *(0 ⭐)*
 - 🔗 **[brainqub3](https://github.com/brainqub3/brainqub3)** R:🟡 M:🟢 — A second brain for your business or personal needs by brainqub3 *(0 ⭐)*
@@ -596,6 +596,7 @@
 - 📚 **[chibi](https://github.com/s-nagaev/chibi)** R:🟡 M:🟢 — Your Digital Companion. Self-hosted Telegram bot orchestrating multiple AI providers (OpenAI, Anthropic, Google, xAI, DeepSeek, Mistral, Alibaba, MiniMax) with autonomous agent capabilities, MCP integrations, and async task execution. Not a tool. A partner. by s-nagaev *(46 ⭐)*
 - 📚 **[realitycheck](https://github.com/lhl/realitycheck)** R:🟡 M:🟢 — A framework for rigorous, systematic analysis of claims, sources, predictions, and argument chains. by lhl *(0 ⭐)*
 - 📚 **[codexy](https://github.com/AndersonBY/codexy)** R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)*
+- 📚 **[talk-python-transcripts](https://github.com/mikeckennedy/talk-python-transcripts)** R:🟡 M:🟢 — Transcripts for the Talk Python To Me episodes by mikeckennedy *(152 ⭐)*
 - 🔌 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** R:🟡 M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(351 ⭐)*
 - ⌨️ **[aicodingstack.io](https://github.com/aicodingstack/aicodingstack.io)** R:🟡 M:🟢 — AI Coding Stack - Your AI Coding Ecosystem Hub. by aicodingstack *(0 ⭐)*
 - 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(0 ⭐)*
@@ -710,5 +711,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-03-16 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-03-17 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
