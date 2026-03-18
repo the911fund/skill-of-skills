@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-555-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-556-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**555 tools** discovered across 15 categories
+**556 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 🔌 **[tiger-style](https://github.com/M64GitHub/tiger-style)** R:🟡 M:🟢 — TigerStyle skill - Tigerbeetle style code for your coding agent by M64GitHub *(15 ⭐)* — discovered Mar 18
 - 🔌 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(58 ⭐)* — discovered Mar 17
 - 🔗 **[sketch-mcp-server](https://github.com/mater1996/sketch-mcp-server)** R:🟡 M:🟠 — sketch-mcp-server by mater1996 *(13 ⭐)* — discovered Mar 17
 - 📚 **[ESP32MCPServer](https://github.com/navado/ESP32MCPServer)** R:🟡 M:🟢 — Allow AI models connect to ESP32 and read connected sensors NMEA2k, ODB/ODBII, NMEA0183. AI generated MCP server. by navado *(37 ⭐)* — discovered Mar 17
 - 🔌 **[mauishell](https://github.com/shinyorg/mauishell)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(11 ⭐)* — discovered Mar 16
-- 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)* — discovered Mar 16
 
 ---
 
@@ -604,6 +604,7 @@
 - 📚 **[toktrack](https://github.com/mag123c/toktrack)** R:🟡 M:🟢 — Ultra-fast token & cost tracker for LLM Token Usage (e.g. Claude Code) by mag123c *(0 ⭐)*
 - 📚 **[casa](https://github.com/openclaw/casa)** R:🟡 M:🟢 — Exposing your home base to Clawdbot! by openclaw *(0 ⭐)*
 - 🔌 **[mcp-trino](https://github.com/tuannvm/mcp-trino)** R:🟡 M:🟢 — A high-performance Model Context Protocol (MCP) server for Trino implemented in Go. by tuannvm *(0 ⭐)*
+- 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)*
 - 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(0 ⭐)*
 - 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(0 ⭐)*
 - ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(0 ⭐)*
@@ -713,5 +714,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-03-17 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-03-18 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
