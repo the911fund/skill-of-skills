@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-557-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-558-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**557 tools** discovered across 15 categories
+**558 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ **[hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io)** R:🟡 M:🟢 — Peng Tan's AI Blog by hobbytp *(10 ⭐)* — discovered Mar 18
 - 🔗 **[mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui)** R:🟡 M:🟠 — MCP Server with Chat UI by ilyaev *(10 ⭐)* — discovered Mar 18
 - 🔌 **[tiger-style](https://github.com/M64GitHub/tiger-style)** R:🟡 M:🟢 — TigerStyle skill - Tigerbeetle style code for your coding agent by M64GitHub *(15 ⭐)* — discovered Mar 18
 - 🔌 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(58 ⭐)* — discovered Mar 17
 - 🔗 **[sketch-mcp-server](https://github.com/mater1996/sketch-mcp-server)** R:🟡 M:🟠 — sketch-mcp-server by mater1996 *(13 ⭐)* — discovered Mar 17
-- 📚 **[ESP32MCPServer](https://github.com/navado/ESP32MCPServer)** R:🟡 M:🟢 — Allow AI models connect to ESP32 and read connected sensors NMEA2k, ODB/ODBII, NMEA0183. AI generated MCP server. by navado *(37 ⭐)* — discovered Mar 17
 
 ---
 
@@ -507,7 +507,7 @@
 - 🔗 **[autoteam](https://github.com/diazoxide/autoteam)** R:🟡 M:🟠 — Orchestrate AI agents with YAML-driven workflows via universal Model Context Protocol (MCP) by diazoxide *(0 ⭐)*
 - 🔌 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** R:🟡 M:🟢 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(0 ⭐)*
 - 🔌 **[myclaude](https://github.com/cexll/myclaude)** R:🟡 M:🟢 — Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) by cexll *(0 ⭐)*
-- 🔌 **[claude-orchestration](https://github.com/mbruhler/claude-orchestration)** R:🟡 M:🟢 — Multi-agent workflow orchestration plugin for Claude Code by mbruhler *(0 ⭐)*
+- 🔌 **[claude-orchestration](https://github.com/mbruhler/claude-orchestration)** R:🟡 M:🟠 — Multi-agent workflow orchestration plugin for Claude Code by mbruhler *(0 ⭐)*
 - ⌨️ **[pluggedin-mcp](https://github.com/VeriTeknik/pluggedin-mcp)** R:🟡 M:🟢 — Plugged.in MCP Server manages all your other MCPs in one MCP. by VeriTeknik *(0 ⭐)*
 - 📚 **[pipelex](https://github.com/Pipelex/pipelex)** R:🟡 M:🟢 — Declarative language for composable Al workflows. Devtool for agents and mere humans. by Pipelex *(0 ⭐)*
 - 🔌 **[claude-router](https://github.com/0xrdan/claude-router)** R:🟢 M:🟢 — Intelligent model orchestration for Claude Code - routes queries to optimal Claude model (Haiku/Sonnet/Opus) based on complexity. It also includes many more features. If this project is working well for you and would like to support me, just help spread the word. Thanks! by 0xrdan *(0 ⭐)*
@@ -607,6 +607,7 @@
 - 🔌 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** R:🟡 M:🟢 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(193 ⭐)*
 - 📚 **[nonebot-plugin-pixivbot](https://github.com/bot-ssttkkl/nonebot-plugin-pixivbot)** R:🟡 M:🟠 — NoneBot插件，发送随机Pixiv插画、画师更新推送、定时订阅推送…… by bot-ssttkkl *(0 ⭐)*
 - 🔌 **[mauishell](https://github.com/shinyorg/mauishell)** R:🟡 M:🟢 — .NET MAUI Shell navigation made pleasant! by shinyorg *(11 ⭐)*
+- 📚 **[ESP32MCPServer](https://github.com/navado/ESP32MCPServer)** R:🟡 M:🟢 — Allow AI models connect to ESP32 and read connected sensors NMEA2k, ODB/ODBII, NMEA0183. AI generated MCP server. by navado *(37 ⭐)*
 - 🔌 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(0 ⭐)*
 - ⌨️ **[preline](https://github.com/htmlstreamofficial/preline)** R:🟡 M:🟢 — Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework. by htmlstreamofficial *(0 ⭐)*
 - 🔌 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** R:🟡 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(0 ⭐)*
