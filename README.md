@@ -217,7 +217,7 @@
 ## 🎬 Media
 
 - 🔌 **[pixel-plugin](https://github.com/willibrandon/pixel-plugin)** R:🟢 M:🟠 — Claude Code plugin for creating pixel art with Aseprite through natural language. Supports animation, retro palettes, dithering, and game engine export. by willibrandon *(37 ⭐)*
-- ⌨️ **[buttercut](https://github.com/barefootford/buttercut)** R:🟢 M:🟢 — Edit Video with Claude Code by barefootford *(135 ⭐)*
+- ⌨️ **[buttercut](https://github.com/barefootford/buttercut)** R:🟢 M:✅ — Edit Video with Claude Code by barefootford *(135 ⭐)*
 - 🔌 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** R:🟢 M:🟢 — Suno Song Creator Skill by nwp *(0 ⭐)*
 - 🔗 **[glados-mcp](https://github.com/halfaipg/glados-mcp)** R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(0 ⭐)*
 - 📚 **[salvador](https://github.com/tolitius/salvador)** R:🟢 M:🟢 — visualize the universe: quark by quark, lepton by lepton by tolitius *(0 ⭐)*
@@ -717,5 +717,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-03-19 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-03-20 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
