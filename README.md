@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-562-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-566-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-258k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**562 tools** discovered across 15 categories
+**566 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- 📚 **[droid-tings](https://github.com/ovachiever/droid-tings)** R:🟡 M:🟠 — Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system by ovachiever *(26 ⭐)* — discovered Mar 20
+- 📚 **[deriver](https://github.com/closedform/deriver)** R:🟡 M:🟢 — A powerful symbolic mathematics library for Python. by closedform *(34 ⭐)* — discovered Mar 20
+- 📚 **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)* — discovered Mar 20
+- ⌨️ **[Linus-Dashboard](https://github.com/Thank-you-Linus/Linus-Dashboard)** R:🟡 M:🟢 — Elevate your smart home experience with a modern, responsive dashboard built on Home Assistant. Effortlessly manage your devices, areas and floors with an intuitive interface integrated with hass-magic_areas. 🚀 by Thank-you-Linus *(181 ⭐)* — discovered Mar 20
+- ⌨️ **[grovr](https://github.com/j1king/grovr)** R:🟡 M:🟢 — A native Git worktree manager for macOS by j1king *(35 ⭐)* — discovered Mar 20
 - ⌨️ **[Trailhead-Banner](https://github.com/nabondance/Trailhead-Banner)** R:🟡 M:🟢 — Trailhead-Banner is a web application that allows users to generate LinkedIn banners using their Trailhead data. by nabondance *(47 ⭐)* — discovered Mar 20
-- 📚 **[redc](https://github.com/wgpsec/redc)** R:🟡 M:🟢 — Next-generation IaC tools | 下一代基础设施管理工具 by wgpsec *(137 ⭐)* — discovered Mar 20
-- 🔗 **[power-bricks](https://github.com/bluebricks-co/power-bricks)** R:🟡 M:🟠 — Kiro Power for Bluebricks - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails by bluebricks-co *(10 ⭐)* — discovered Mar 19
-- ⌨️ **[hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io)** R:🟡 M:🟢 — Peng Tan's AI Blog by hobbytp *(10 ⭐)* — discovered Mar 18
 
 ---
 
@@ -626,8 +626,12 @@
 - ⌨️ **[novel-writer](https://github.com/wordflowlab/novel-writer)** R:🟡 M:🟠 — 参考Spec-kit 实现小说撰写工具 by wordflowlab *(0 ⭐)*
 - 🔗 **[mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui)** R:🟡 M:🟠 — MCP Server with Chat UI by ilyaev *(10 ⭐)*
 - 📚 **[commentary](https://github.com/CoralPink/commentary)** R:🟡 M:🟢 — This site introduces WezTerm and Neovim dotfiles that I usually use. by CoralPink *(0 ⭐)*
+- ⌨️ **[hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io)** R:🟡 M:🟢 — Peng Tan's AI Blog by hobbytp *(10 ⭐)*
 - 📚 **[aqua](https://github.com/vignesh07/aqua)** R:🟡 M:🟠 — Aqua is a lightweight, agent-agnostic coordinator for CLI AI agents. It enables multiple AI agents (Claude Code, Codex CLI, Gemini CLI, or any CLI tool) running in separate terminal sessions to collaborate on tasks within a shared codebase. Built with Claude ❤️ by vignesh07 *(0 ⭐)*
 - 🔌 **[ksrc](https://github.com/respawn-app/ksrc)** R:🟡 M:🟢 — Let your AI agents search and read 3rd-party Kotlin dependency sources by respawn-app *(0 ⭐)*
+- 🔗 **[power-bricks](https://github.com/bluebricks-co/power-bricks)** R:🟡 M:🟠 — Kiro Power for Bluebricks - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails by bluebricks-co *(10 ⭐)*
+- 📚 **[redc](https://github.com/wgpsec/redc)** R:🟡 M:🟢 — Next-generation IaC tools | 下一代基础设施管理工具 by wgpsec *(137 ⭐)*
+- 📚 **[droid-tings](https://github.com/ovachiever/droid-tings)** R:🟡 M:🟠 — Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system by ovachiever *(26 ⭐)*
 - 📚 **[mcp-toolbox](https://github.com/ai-zerolab/mcp-toolbox)** R:🟡 M:🟢 — Maintenance of a set of tools to enhance LLM through MCP protocols. by ai-zerolab *(0 ⭐)*
 - 🔌 **[freee-mcp](https://github.com/freee/freee-mcp)** R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(0 ⭐)*
 - 📚 **[AAuth](https://github.com/AuroraWebSoftware/AAuth)** R:🟡 M:🟢 — Hierarchical Rol-Permission Based Laravel Auth Package with Limitless Hierarchical Level of Organizations by AuroraWebSoftware *(0 ⭐)*
