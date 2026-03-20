@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-559-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-562-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-257k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-258k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**559 tools** discovered across 15 categories
+**562 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
+- 📚 **[droid-tings](https://github.com/ovachiever/droid-tings)** R:🟡 M:🟠 — Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system by ovachiever *(26 ⭐)* — discovered Mar 20
+- ⌨️ **[Trailhead-Banner](https://github.com/nabondance/Trailhead-Banner)** R:🟡 M:🟢 — Trailhead-Banner is a web application that allows users to generate LinkedIn banners using their Trailhead data. by nabondance *(47 ⭐)* — discovered Mar 20
+- 📚 **[redc](https://github.com/wgpsec/redc)** R:🟡 M:🟢 — Next-generation IaC tools | 下一代基础设施管理工具 by wgpsec *(137 ⭐)* — discovered Mar 20
 - 🔗 **[power-bricks](https://github.com/bluebricks-co/power-bricks)** R:🟡 M:🟠 — Kiro Power for Bluebricks - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails by bluebricks-co *(10 ⭐)* — discovered Mar 19
 - ⌨️ **[hobbytp.github.io](https://github.com/hobbytp/hobbytp.github.io)** R:🟡 M:🟢 — Peng Tan's AI Blog by hobbytp *(10 ⭐)* — discovered Mar 18
-- 🔗 **[mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui)** R:🟡 M:🟠 — MCP Server with Chat UI by ilyaev *(10 ⭐)* — discovered Mar 18
-- 🔌 **[tiger-style](https://github.com/M64GitHub/tiger-style)** R:🟡 M:🟢 — TigerStyle skill - Tigerbeetle style code for your coding agent by M64GitHub *(15 ⭐)* — discovered Mar 18
-- 🔌 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(58 ⭐)* — discovered Mar 17
 
 ---
 
@@ -614,14 +614,17 @@
 - 📚 **[ailang](https://github.com/sunholo-data/ailang)** R:🟡 M:🟢 — For humans, a language is a tool for expression. For AIs, it's a substrate for reasoning. by sunholo-data *(0 ⭐)*
 - 📚 **[gemini-cli-desktop](https://github.com/Piebald-AI/gemini-cli-desktop)** R:🟡 M:🟢 — Web/desktop UI for Gemini CLI/Qwen Code.  Manage projects, switch between tools, search across past conversations, and manage MCP servers, all from one multilingual interface, locally or remotely. by Piebald-AI *(0 ⭐)*
 - 🔗 **[sketch-mcp-server](https://github.com/mater1996/sketch-mcp-server)** R:🟡 M:🟠 — sketch-mcp-server by mater1996 *(13 ⭐)*
+- 🔌 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(58 ⭐)*
 - 📚 **[LeanTool](https://github.com/GasStationManager/LeanTool)** R:🟡 M:🟢 — A "code intepreter" for Lean by GasStationManager *(0 ⭐)*
 - ⌨️ **[aistack](https://github.com/blackms/aistack)** R:🟡 M:🟢 — Production-grade agent orchestration for Claude Code - 11 agents, 46 MCP tools, SQLite+FTS5, drift detection, consensus checkpoints by blackms *(0 ⭐)*
 - 📚 **[Coder-Codex-Gemini](https://github.com/FredericMN/Coder-Codex-Gemini)** R:🟡 M:🟢 — CCG 多模型协作框架：Claude + Coder + Codex + Gemini | 支持 Claude Code & OpenCode 双环境 / CCG Multi-model Collaboration: Claude + Coder + Codex + Gemini | Supports Claude Code & OpenCode by FredericMN *(0 ⭐)*
 - ⌨️ **[dev-inspector-mcp](https://github.com/mcpc-tech/dev-inspector-mcp)** R:🟡 M:🟢 — AI-powered visual debugging for your React, Vue, Svelte, SolidJS, Preact & Next.js app via MCP and ACP by mcpc-tech *(0 ⭐)*
 - 🔌 **[mcp-tts](https://github.com/blacktop/mcp-tts)** R:🟡 M:🟢 — MCP Server for Text to Speech by blacktop *(0 ⭐)*
+- 🔌 **[tiger-style](https://github.com/M64GitHub/tiger-style)** R:🟡 M:🟢 — TigerStyle skill - Tigerbeetle style code for your coding agent by M64GitHub *(15 ⭐)*
 - 📚 **[LifeBook](https://github.com/Anson-Trio/LifeBook)** R:🟡 M:🟢 — 本git仓库作为LifeBook系统使用指南 by Anson-Trio *(0 ⭐)*
 - 📚 **[awesome](https://github.com/icopy-site/awesome)** R:🟡 M:🟢 — collection of awesome lists by icopy-site *(0 ⭐)*
 - ⌨️ **[novel-writer](https://github.com/wordflowlab/novel-writer)** R:🟡 M:🟠 — 参考Spec-kit 实现小说撰写工具 by wordflowlab *(0 ⭐)*
+- 🔗 **[mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui)** R:🟡 M:🟠 — MCP Server with Chat UI by ilyaev *(10 ⭐)*
 - 📚 **[commentary](https://github.com/CoralPink/commentary)** R:🟡 M:🟢 — This site introduces WezTerm and Neovim dotfiles that I usually use. by CoralPink *(0 ⭐)*
 - 📚 **[aqua](https://github.com/vignesh07/aqua)** R:🟡 M:🟠 — Aqua is a lightweight, agent-agnostic coordinator for CLI AI agents. It enables multiple AI agents (Claude Code, Codex CLI, Gemini CLI, or any CLI tool) running in separate terminal sessions to collaborate on tasks within a shared codebase. Built with Claude ❤️ by vignesh07 *(0 ⭐)*
 - 🔌 **[ksrc](https://github.com/respawn-app/ksrc)** R:🟡 M:🟢 — Let your AI agents search and read 3rd-party Kotlin dependency sources by respawn-app *(0 ⭐)*
