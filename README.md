@@ -2,11 +2,11 @@
 
 > The autonomous discovery engine for AI coding tools — indexing skills, plugins, MCP servers, agents, and integrations across Claude Code, Codex, Gemini CLI, and more.
 
-[![Tools](https://img.shields.io/badge/tools-571-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/tools-575-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/categories-15-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-258k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**571 tools** discovered across 15 categories
+**575 tools** discovered across 15 categories
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -36,11 +36,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ **[quickstart_agent-augmented-development](https://github.com/sddevelopment-be/quickstart_agent-augmented-development)** R:🟡 M:🟢 — A template repository containing a generic agentic set-up, to be configured/edited to fit your own project's needs by sddevelopment-be *(13 ⭐)* — discovered Mar 20
+- 📚 **[QVerisAI](https://github.com/QVerisAI/QVerisAI)** R:🟡 M:🟢 — Official QVeris capability routing network for AI agents — discover, inspect, and call real-world tools and data through one unified interface. by QVerisAI *(181 ⭐)* — discovered Mar 21
+- 📚 **[claude-code-config](https://github.com/gmickel/claude-code-config)** R:🟡 M:🟢 — Some of my Claude Code config by gmickel *(11 ⭐)* — discovered Mar 21
+- ⌨️ **[go-crypto-wallet](https://github.com/hiromaily/go-crypto-wallet)** R:🟡 M:🟢 — Cryptocurrency wallet for trading for Bitcoin, Bitcoin cash, Ethereum, ERC20, XRP Leger (Ripple) by hiromaily *(125 ⭐)* — discovered Mar 21
+- 📚 **[ivy](https://github.com/cyberthirst/ivy)** R:🟡 M:🟢 — AST interpreter for Vyper with a custom EVM backend by cyberthirst *(10 ⭐)* — discovered Mar 21
 - 📚 **[feather](https://github.com/feather-lang/feather)** R:🟡 M:🟢 — The core implementation of Feather by feather-lang *(13 ⭐)* — discovered Mar 20
-- ⌨️ **[litestar-fullstack-inertia](https://github.com/litestar-org/litestar-fullstack-inertia)** R:🟡 M:🟢 — A fully-functional reference application using Litestar, Inertia JS, and Advanced Alchemy by litestar-org *(39 ⭐)* — discovered Mar 20
-- 📚 **[wasmoon](https://github.com/Milky2018/wasmoon)** R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)* — discovered Mar 20
-- ⌨️ **[jazz](https://github.com/lvndry/jazz)** R:🟡 M:🟢 — Jazz is a powerful CLI that lets you create autonomous AI agents with real-world capabilities. by lvndry *(44 ⭐)* — discovered Mar 20
 
 ---
 
@@ -641,7 +641,11 @@
 - 📚 **[deriver](https://github.com/closedform/deriver)** R:🟡 M:🟢 — A powerful symbolic mathematics library for Python. by closedform *(34 ⭐)*
 - 📚 **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)*
 - 📚 **[UnityAgentClient](https://github.com/nuskey8/UnityAgentClient)** R:🟡 M:🟠 — Provides integration of any AI agent (Gemini CLI, Claude Code, Codex CLI, etc.) with the Unity editor using Agent Client Protocol by nuskey8 *(0 ⭐)*
+- ⌨️ **[litestar-fullstack-inertia](https://github.com/litestar-org/litestar-fullstack-inertia)** R:🟡 M:🟢 — A fully-functional reference application using Litestar, Inertia JS, and Advanced Alchemy by litestar-org *(39 ⭐)*
 - 📚 **[codex-extensions](https://github.com/chongdashu/codex-extensions)** R:🟡 M:🟠 — Utility wrapper on top of Open AI's Codex CLI that enhances your development workflow by chongdashu *(0 ⭐)*
+- 📚 **[wasmoon](https://github.com/Milky2018/wasmoon)** R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)*
+- ⌨️ **[quickstart_agent-augmented-development](https://github.com/sddevelopment-be/quickstart_agent-augmented-development)** R:🟡 M:🟢 — A template repository containing a generic agentic set-up, to be configured/edited to fit your own project's needs by sddevelopment-be *(13 ⭐)*
+- ⌨️ **[jazz](https://github.com/lvndry/jazz)** R:🟡 M:🟢 — Jazz is a powerful CLI that lets you create autonomous AI agents with real-world capabilities. by lvndry *(44 ⭐)*
 - 📚 **[agent-sessions](https://github.com/jazzyalex/agent-sessions)** R:🟡 M:🟢 — Session browser + Agents Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archive sessions, resume instantly, see rate limits in real-time. Native macOS app. by jazzyalex *(0 ⭐)*
 - ⌨️ **[scratch](https://github.com/scratch/scratch)** R:🟡 M:🟢 — Static site generator for Markdown and React. by scratch *(0 ⭐)*
 - 🔗 **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(0 ⭐)*
@@ -729,5 +733,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>🤖 Auto-generated 2026-03-20 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>🤖 Auto-generated 2026-03-21 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
