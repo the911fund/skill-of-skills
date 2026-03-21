@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-305-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-306-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**305 skills** across 10 skill types | 🤖 claude code: 305
+**306 skills** across 10 skill types | 🤖 claude code: 306
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)* — discovered Mar 21
 - 📚  **[termide](https://github.com/termide/termide)**  R:🟡 M:🟢 — A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust. by termide *(73 ⭐)* — discovered Mar 21
 - ⌨️  **[obsidian-sonar](https://github.com/aviatesk/obsidian-sonar)**  R:🟡 M:🟢 — Deep knowledge retrieval for Obsidian, completely offline. by aviatesk *(23 ⭐)* — discovered Mar 21
-- 📚  **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(154 ⭐)* — discovered Mar 21
 - 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)* — discovered Mar 21
-- 📚  **[QVerisAI](https://github.com/QVerisAI/QVerisAI)** 🤖 R:🟡 M:🟢 — Official QVeris capability routing network for AI agents — discover, inspect, and call real-world tools and data through one unified interface. by QVerisAI *(181 ⭐)* — discovered Mar 21
+- 📚  **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(154 ⭐)* — discovered Mar 21
 
 ---
 
@@ -139,6 +139,7 @@
 - 🔌  **[walkerOS](https://github.com/elbwalker/walkerOS)** 🤖 R:🟢 M:🟢 — Open-source tag manager for developers by elbwalker *(0 ⭐)*
 - 🔗  **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** 🤖 R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(0 ⭐)*
 - 🔌  **[demo-claude-marketplace](https://github.com/mrlm-xyz/demo-claude-marketplace)** 🤖 R:🟢 M:🟢 — Dummy and naive demonstration template of custom Claude Code plugins marketplace structure. by mrlm-xyz *(0 ⭐)*
+- 📚  **[QVerisAI](https://github.com/QVerisAI/QVerisAI)** 🤖 R:🟡 M:🟢 — Official QVeris capability routing network for AI agents — discover, inspect, and call real-world tools and data through one unified interface. by QVerisAI *(181 ⭐)*
 - 📚  **[claude-code-config](https://github.com/gmickel/claude-code-config)** 🤖 R:🟡 M:🟢 — Some of my Claude Code config by gmickel *(11 ⭐)*
 - 🔌  **[salesably-marketplace](https://github.com/Salesably/salesably-marketplace)** 🤖 R:🟡 M:🟠 — Claude Code plugins for sales and marketing teams. Built by Salesably.ai. by Salesably *(0 ⭐)*
 - ⌨️  **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🟡 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(306 ⭐)*
