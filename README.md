@@ -444,10 +444,11 @@ flowchart LR
 
 | Schedule | Stage | Description |
 |:--------:|-------|-------------|
-| **Hourly** | Discovery | Scans GitHub for skills across all platforms |
-| **Hourly** | Analysis | Platform detection, quality scoring & AI categorization |
-| **Daily 3AM** | Refresh | Updates stars, releases, maintenance status |
-| **On Change** | Publishing | Regenerates README & web directory |
+| **Every 3h** | Discovery | Scans GitHub for skills across all platforms |
+| **Every 3h** | Validation | Platform detection, risk assessment & AI categorization |
+| **Every 3h** | Publishing | Regenerates README & web directory |
+| **Daily 3AM** | Metadata Refresh | Updates stars, releases, maintenance status |
+| **Weekly Mon 9AM** | Discord Digest | Weekly summary of new discoveries |
 
 ## License
 
