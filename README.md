@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-303-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-304-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-9-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**303 skills** across 9 skill types | 🤖 claude code: 303
+**304 skills** across 9 skill types | 🤖 claude code: 304
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -30,11 +30,11 @@
 
 ## 🆕 Latest
 
+- ⌨️  **[obsidian-sonar](https://github.com/aviatesk/obsidian-sonar)**  R:🟡 M:🟢 — Deep knowledge retrieval for Obsidian, completely offline. by aviatesk *(23 ⭐)* — discovered Mar 21
 - 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)* — discovered Mar 21
 - 📚  **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(154 ⭐)* — discovered Mar 21
-- 📚  **[claude-code-config](https://github.com/gmickel/claude-code-config)** 🤖 R:🟡 M:🟢 — Some of my Claude Code config by gmickel *(11 ⭐)* — discovered Mar 21
 - 📚  **[QVerisAI](https://github.com/QVerisAI/QVerisAI)** 🤖 R:🟡 M:🟢 — Official QVeris capability routing network for AI agents — discover, inspect, and call real-world tools and data through one unified interface. by QVerisAI *(181 ⭐)* — discovered Mar 21
-- 📚  **[wasmoon](https://github.com/Milky2018/wasmoon)** 🤖 R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)* — discovered Mar 20
+- 📚  **[claude-code-config](https://github.com/gmickel/claude-code-config)** 🤖 R:🟡 M:🟢 — Some of my Claude Code config by gmickel *(11 ⭐)* — discovered Mar 21
 
 ---
 
@@ -129,6 +129,7 @@
 - 📚  **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** 🤖 R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)*
 - 🔌  **[claude-hacks](https://github.com/mahidalhan/claude-hacks)** 🤖 R:🟢 M:🟢 — give claude code a set of hacks, not vibes :) by mahidalhan *(0 ⭐)*
 - 🔌  **[claude-dashboard](https://github.com/uppinote20/claude-dashboard)** 🤖 R:🟢 M:🟢 — Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking by uppinote20 *(0 ⭐)*
+- 📚  **[wasmoon](https://github.com/Milky2018/wasmoon)** 🤖 R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)*
 - 📚  **[feather](https://github.com/feather-lang/feather)** 🤖 R:🟡 M:🟢 — The core implementation of Feather by feather-lang *(13 ⭐)*
 - ⌨️  **[jazz](https://github.com/lvndry/jazz)** 🤖 R:🟡 M:🟢 — Jazz is a powerful CLI that lets you create autonomous AI agents with real-world capabilities. by lvndry *(44 ⭐)*
 - 🔌  **[rr](https://github.com/rileyhilliard/rr)** 🤖 R:🟢 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(0 ⭐)*
