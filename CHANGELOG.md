@@ -30,6 +30,56 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.0.0] - 2026-03-21
+
+### Changed
+- **Complete platform revamp** — transformed from Claude Code-only firehose into curated multi-platform directory
+- Replaced 15 domain-based categories with 9 use-case skill types derived from Uber's 500+ skill production lessons:
+  Library & API Reference, Product Verification, Data Fetching & Analysis, Business Process Automation,
+  Code Scaffolding & Templates, Code Quality & Review, CI/CD & Deployment, Runbooks, Infrastructure Operations
+- New composite scoring: 60% quality + 25% popularity + 15% recency (was 100% popularity)
+- AI categorization rewritten with disambiguation rules for 9 types + platform detection
+- README generation updated with platform icons, quality tier badges, new Mermaid pipeline diagram
+
+### Added
+- **Multi-platform support** — Claude Code, Cursor, Codex, Windsurf, Cline
+  - `platform` enum type + `tool_platforms` junction table (many-to-many)
+  - Platform detection from file markers (SKILL.md, .cursorrules, AGENTS.md, .windsurfrules, .clinerules)
+  - Platform filter in web UI and API
+  - `cursor_rule` and `codex_agent` tool types
+  - Vendor-aware `is_official` (Anthropic, Cursor, OpenAI, Cline, Codeium)
+- **Quality scoring engine** (`web/src/lib/quality-scoring.ts`) — 12 structural signals, max 195 points:
+  Gotchas/edge cases (+40), progressive disclosure folders (+30), trigger descriptions (+20),
+  verification/safety signals (+20), code examples (+15), composability (+15), recent activity (+15),
+  real usage evidence (+10), single responsibility (+10), config/persistence (+10), install instructions (+5), multi-platform (+5)
+- **Quality tiers**: Curated (120+), Promising (80-119), Experimental (40-79), Review Required (<40)
+- Quality breakdown card in tool detail page
+- Platform filter bar on homepage
+- "Sort by Quality" option in search filters
+- Discovery queries for Cursor, Codex, Windsurf, Cline, cross-platform repos
+- Seed sources list (alirezarezvani, ComposioHQ, Mindrally, PatrickJS, etc.)
+- Relevance gate in GitHub Actions — rejects repos without platform markers
+
+### Fixed
+- `.github/workflows/` removed from `.gitignore` — workflows now sync to GitHub
+- `validate-tool.yml` now detects 5 platforms instead of only Claude Code markers
+- `sync-official.yml` includes vendor/platform fields
+- Haiku model ID updated from deprecated `claude-3-5-haiku-20241022` to `claude-haiku-4-5-20251001`
+
+### Removed
+- Culled 272 noise tools (0-star no-markers, non-AI repos like crypto wallets, frontend frameworks, Black Friday deals)
+- All tools archived to `archived_tools` table (recoverable)
+- Old categories: Official, Development, Documentation, Marketing, Productivity, Media, Research, Security, Integrations, Agents, DevOps, Editor, Orchestration, Learning
+- Active tools reduced from 575 to 303 curated entries
+- Uncategorized rate reduced from 40% to 0%
+
+### Database
+- Migration: `003-platform-revamp.sql`
+- New columns: `quality_score`, `has_gotchas`, `has_examples`, `has_progressive_disclosure`, `has_scripts`, `has_verification`, `has_config_files`, `readme_length`, `primary_platform`, `vendor`
+- New table: `tool_platforms` (tool-platform many-to-many)
+- New column on `discovery_queue`: `platform`
+- New indexes: `idx_tools_quality`, `idx_tools_platform`
+
 ## [1.1.2] - 2026-02-02
 
 ### Security

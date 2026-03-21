@@ -110,6 +110,7 @@ skills/
 
 # Task/PRD files
 tasks/
+prd.md
 
 # Templates
 templates/
@@ -120,5 +121,5 @@ reports/
 # Internal documentation
 docs/
 
-# GitHub workflows (managed separately)
-.github/workflows/
+# GitHub workflows - NOT gitignored (sync to GitHub for CI/CD)
+# .github/workflows/
