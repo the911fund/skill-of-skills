@@ -130,8 +130,8 @@
 - 📚  **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** 🤖 R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)*
 - 🔌  **[claude-hacks](https://github.com/mahidalhan/claude-hacks)** 🤖 R:🟢 M:🟢 — give claude code a set of hacks, not vibes :) by mahidalhan *(0 ⭐)*
 - 🔌  **[claude-dashboard](https://github.com/uppinote20/claude-dashboard)** 🤖 R:🟢 M:🟢 — Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking by uppinote20 *(0 ⭐)*
-- 📚  **[wasmoon](https://github.com/Milky2018/wasmoon)** 🤖 R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)*
 - 📚  **[feather](https://github.com/feather-lang/feather)** 🤖 R:🟡 M:🟢 — The core implementation of Feather by feather-lang *(13 ⭐)*
+- 📚  **[wasmoon](https://github.com/Milky2018/wasmoon)** 🤖 R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)*
 - ⌨️  **[jazz](https://github.com/lvndry/jazz)** 🤖 R:🟡 M:🟢 — Jazz is a powerful CLI that lets you create autonomous AI agents with real-world capabilities. by lvndry *(44 ⭐)*
 - 🔌  **[rr](https://github.com/rileyhilliard/rr)** 🤖 R:🟢 M:🟢 — Easily sync code to a remote machine and run commands there. That's it. by rileyhilliard *(0 ⭐)*
 - 🔗  **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** 🤖 R:🟢 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(0 ⭐)*
@@ -461,5 +461,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-03-21 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-03-22 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
