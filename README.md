@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-306-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-307-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**306 skills** across 10 skill types | 🤖 claude code: 306
+**307 skills** across 10 skill types | 🤖 claude code: 307
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,16 +31,17 @@
 
 ## 🆕 Latest
 
+- 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)* — discovered Mar 22
 - 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)* — discovered Mar 21
 - 📚  **[termide](https://github.com/termide/termide)**  R:🟡 M:🟢 — A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust. by termide *(73 ⭐)* — discovered Mar 21
 - ⌨️  **[obsidian-sonar](https://github.com/aviatesk/obsidian-sonar)**  R:🟡 M:🟢 — Deep knowledge retrieval for Obsidian, completely offline. by aviatesk *(23 ⭐)* — discovered Mar 21
 - 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)* — discovered Mar 21
-- 📚  **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(154 ⭐)* — discovered Mar 21
 
 ---
 
 ## 📖 Library & API Reference
 
+- 📚  **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(154 ⭐)*
 - ⌨️  **[langchain-code](https://github.com/zamalali/langchain-code)** 🤖 R:🟢 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(439 ⭐)*
 - ⌨️  **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** 🤖 R:🟢 M:🟢 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(343 ⭐)*
 - 📦  **[claude-skill-registry](https://github.com/majiayu000/claude-skill-registry)** 🤖 R:🟢 M:🟢 — The most comprehensive Claude Code skills registry | Web Search: https://skills-registry-web.vercel.app by majiayu000 *(78 ⭐)*
