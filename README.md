@@ -59,7 +59,7 @@
 - ⌨️  **[gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow)** 🤖 R:🟢 M:✅ — AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet by Theopsguide *(139 ⭐)*
 - 🔌  **[dotai](https://github.com/udecode/dotai)** 🤖 R:🟡 M:🟢 — Context manager for all agents by udecode *(1.1k ⭐)*
 - ⌨️  **[skill-codex](https://github.com/skills-directory/skill-codex)** 🤖 R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(555 ⭐)*
-- ⌨️  **[copilot-mcp](https://github.com/VikashLoomba/copilot-mcp)** 🤖 R:🟢 M:🟢 — A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot, Claude Code, and Codex CLI. by VikashLoomba *(465 ⭐)*
+- ⌨️  **[copilot-mcp](https://github.com/VikashLoomba/copilot-mcp)** 🤖 R:🟢 M:✅ — A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot, Claude Code, and Codex CLI. by VikashLoomba *(465 ⭐)*
 - ⌨️  **[i-love-claude-code](https://github.com/alchemiststudiosDOTai/i-love-claude-code)** 🤖 R:🟢 M:🟢 — Claude Code discussion of shortcuts, automation, hacks and overall productivity with Claude Code by alchemiststudiosDOTai *(31 ⭐)*
 - ⌨️  **[mcp-wordpress](https://github.com/docdyhr/mcp-wordpress)** 🤖 R:🟢 M:🟢 — MCP Server to manage a Wordpress CMS system. by docdyhr *(63 ⭐)*
 - 🔌  **[claude-code-settings](https://github.com/feiskyer/claude-code-settings)** 🤖 R:🟢 M:🟢 — Claude Code settings, commands and agents for vibe coding by feiskyer *(0 ⭐)*
