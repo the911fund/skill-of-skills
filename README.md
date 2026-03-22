@@ -193,7 +193,7 @@
 - 🔌  **[double-shot-latte](https://github.com/obra/double-shot-latte)** 🤖 R:🟢 M:🟢 — Claude Code plugin that automatically evaluates whether Claude should continue working instead of stopping prematurely by obra *(0 ⭐)*
 - 🔗  **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🤖 R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(23.6k ⭐)*
 - 🔗  **[langwatch](https://github.com/langwatch/langwatch)** 🤖 R:🟢 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(0 ⭐)*
-- 🔌  **[ubrowser](https://github.com/Lulzx/ubrowser)** 🤖 R:🟢 M:🟢 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(0 ⭐)*
+- 🔌  **[ubrowser](https://github.com/Lulzx/ubrowser)** 🤖 R:🟢 M:🟠 — The fastest, cheapest browser automation for Claude Code. by Lulzx *(0 ⭐)*
 - 🔌  **[claude-code-frontend-dev](https://github.com/hemangjoshi37a/claude-code-frontend-dev)** 🤖 R:🟢 M:🟢 — 🚀 First multimodal AI-powered visual testing plugin for Claude Code. AI that can SEE your UI! 10x faster frontend development with closed-loop testing, browser automation, and Claude 4.5 Sonnet vision. by hemangjoshi37a *(0 ⭐)*
 - 🔌  **[xdebug-mcp](https://github.com/koriym/xdebug-mcp)** 🤖 R:🟢 M:🟢 — Enable AI to debug PHP with Xdebug by koriym *(0 ⭐)*
 - 📄  **[shannot](https://github.com/corv89/shannot)** 🤖 R:🟡 M:🟢 — Human-in-the-loop execution for LLM agents by corv89 *(0 ⭐)*
