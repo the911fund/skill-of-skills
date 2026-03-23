@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-307-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-309-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**307 skills** across 10 skill types | 🤖 claude code: 307
+**309 skills** across 10 skill types | 🤖 claude code: 309
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔌  **[DSkills](https://github.com/Dianel555/DSkills)**  R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)* — discovered Mar 23
+- 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)* — discovered Mar 23
 - 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)* — discovered Mar 22
 - 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)* — discovered Mar 21
 - 📚  **[termide](https://github.com/termide/termide)**  R:🟡 M:🟢 — A cross-platform terminal-based IDE, file manager, and virtual terminal written in Rust. by termide *(73 ⭐)* — discovered Mar 21
-- ⌨️  **[obsidian-sonar](https://github.com/aviatesk/obsidian-sonar)**  R:🟡 M:🟢 — Deep knowledge retrieval for Obsidian, completely offline. by aviatesk *(23 ⭐)* — discovered Mar 21
-- 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)* — discovered Mar 21
 
 ---
 
@@ -214,6 +214,7 @@
 - 🔗  **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** 🤖 R:🟢 M:🟢 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(0 ⭐)*
 - 🔌  **[subcog](https://github.com/zircote/subcog)** 🤖 R:🟢 M:🟢 — Persistent memory system for AI coding assistants. Captures decisions, learnings, and context from coding sessions. Features hybrid search (semantic + BM25), MCP server integration, SQLite persistence with knowledge graph, and proactive memory surfacing. Written in Rust. by zircote *(0 ⭐)*
 - 🔗  **[glados-mcp](https://github.com/halfaipg/glados-mcp)** 🤖 R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(0 ⭐)*
+- ⌨️  **[obsidian-sonar](https://github.com/aviatesk/obsidian-sonar)**  R:🟡 M:🟢 — Deep knowledge retrieval for Obsidian, completely offline. by aviatesk *(23 ⭐)*
 - 🔗  **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** 🤖 R:🔴 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(0 ⭐)*
 - 🔌  **[co-researcher](https://github.com/poemswe/co-researcher)** 🤖 R:🟢 M:🟢 — Plugin and Skills for Claude Code, Gemini CLI and Codex by poemswe *(0 ⭐)*
 - 🔌  **[granola-claude-plugin](https://github.com/varadhjain/granola-claude-plugin)** 🤖 R:🟢 M:🟢 — Extract intelligence from Granola meeting notes with AI by varadhjain *(0 ⭐)*
@@ -358,6 +359,7 @@
 
 ## ⚙️ Infrastructure Operations
 
+- 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)*
 - ⌨️  **[toolhive](https://github.com/stacklok/toolhive)** 🤖 R:🟢 M:🟢 — ToolHive makes deploying MCP servers easy, secure and fun by stacklok *(1.6k ⭐)*
 - 🔗  **[vsync](https://github.com/nicepkg/vsync)** 🤖 R:🟡 M:🟢 — Sync MCP servers, Skills, Agents & Commands across Claude Code, Cursor, OpenCode, Codex. One config, all tools. by nicepkg *(0 ⭐)*
 - 🔗  **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** 🤖 R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(0 ⭐)*
@@ -462,5 +464,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-03-22 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-03-23 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
