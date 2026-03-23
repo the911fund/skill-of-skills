@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-312-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-313-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-249k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**312 skills** across 10 skill types | 🤖 claude code: 312
+**313 skills** across 10 skill types | 🤖 claude code: 313
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚  **[ai-investment-advisor](https://github.com/AllenAI2014/ai-investment-advisor)**  R:🟡 M:🟢 — 让 Claude/Codex/Gemini 三个 AI 组成你的私人投资委员会 by AllenAI2014 *(90 ⭐)* — discovered Mar 23
 - 📚  **[buildautomata_memory_mcp](https://github.com/brucepro/buildautomata_memory_mcp)**  R:🟡 M:🟢 — Memory MCP and CLI by brucepro *(14 ⭐)* — discovered Mar 23
 - 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)* — discovered Mar 23
 - 📚  **[dart_node](https://github.com/MelbourneDeveloper/dart_node)**  R:🟡 M:🟢 — Write your entire stack in Dart: React web apps, React Native mobile apps with Expo, and Node.js Express backends. by MelbourneDeveloper *(111 ⭐)* — discovered Mar 23
 - 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)* — discovered Mar 23
-- 🔌  **[DSkills](https://github.com/Dianel555/DSkills)**  R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)* — discovered Mar 23
 
 ---
 
@@ -95,6 +95,7 @@
 - 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)*
 - 🔌  **[git-surgeon](https://github.com/raine/git-surgeon)** 🤖 R:🔴 M:🟢 — Git primitives for autonomous coding agents by raine *(0 ⭐)*
 - 🔌  **[agents](https://github.com/slgoodrich/agents)** 🤖 R:🟢 M:🟢 — Rules files & configurations for agents by slgoodrich *(0 ⭐)*
+- 🔌  **[DSkills](https://github.com/Dianel555/DSkills)**  R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)*
 - ⌨️  **[zacs-claude-skills](https://github.com/enbyaugust/zacs-claude-skills)** 🤖 R:🟢 M:🟢 — Zac's collection of Claude Code skills for development workflows, testing, and quality assurance by enbyaugust *(30 ⭐)*
 - 🔌  **[claude-stt](https://github.com/jarrodwatts/claude-stt)** 🤖 R:🟢 M:🟢 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(0 ⭐)*
 - 🔌  **[caro](https://github.com/wildcard/caro)** 🤖 R:🟡 M:🟢 — caro: fast Rust CLI that turns natural‑language tasks into a safe POSIX command. Built for macOS (MLX/Metal) with a built‑in model; supports vLLM/Ollama/LM Studio. JSON‑only output, safety checks, confirmation, multi‑step goals, devcontainer included. by wildcard *(0 ⭐)*
