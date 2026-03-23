@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-311-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-312-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**311 skills** across 10 skill types | 🤖 claude code: 311
+**312 skills** across 10 skill types | 🤖 claude code: 312
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚  **[buildautomata_memory_mcp](https://github.com/brucepro/buildautomata_memory_mcp)**  R:🟡 M:🟢 — Memory MCP and CLI by brucepro *(14 ⭐)* — discovered Mar 23
 - 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)* — discovered Mar 23
 - 📚  **[dart_node](https://github.com/MelbourneDeveloper/dart_node)**  R:🟡 M:🟢 — Write your entire stack in Dart: React web apps, React Native mobile apps with Expo, and Node.js Express backends. by MelbourneDeveloper *(111 ⭐)* — discovered Mar 23
 - 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)* — discovered Mar 23
 - 🔌  **[DSkills](https://github.com/Dianel555/DSkills)**  R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)* — discovered Mar 23
-- 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)* — discovered Mar 22
 
 ---
 
@@ -286,6 +286,7 @@
 - 🔌  **[gepetto](https://github.com/softaworks/gepetto)** 🤖 R:🟢 M:🟢 — 🪵 Transform rough ideas into living implementation plans in Claude. Like Geppetto carved Pinocchio, craft detailed specs through research, interviews, and multi-LLM review. by softaworks *(0 ⭐)*
 - 🔗  **[template-repo](https://github.com/AndrewAltimit/template-repo)** 🤖 R:🔴 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(0 ⭐)*
 - 🔌  **[design-system-skills](https://github.com/dylantarre/design-system-skills)** 🤖 R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(0 ⭐)*
+- 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)*
 - 🔌  **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** 🤖 R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(0 ⭐)*
 - 🔌  **[Claude-Matrix](https://github.com/ojowwalker77/Claude-Matrix)** 🤖 R:🟡 M:🟢 — Claude on Rails - Tooling System for Claude Code. by ojowwalker77 *(103 ⭐)*
 - 🔌  **[everything-claude-code-mobile](https://github.com/ahmed3elshaer/everything-claude-code-mobile)** 🤖 R:🟢 M:🟢 — Makes Claude code mobile first by ahmed3elshaer *(0 ⭐)*
