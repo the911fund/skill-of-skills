@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-310-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-311-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-248k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**310 skills** across 10 skill types | 🤖 claude code: 310
+**311 skills** across 10 skill types | 🤖 claude code: 311
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)* — discovered Mar 23
 - 📚  **[dart_node](https://github.com/MelbourneDeveloper/dart_node)**  R:🟡 M:🟢 — Write your entire stack in Dart: React web apps, React Native mobile apps with Expo, and Node.js Express backends. by MelbourneDeveloper *(111 ⭐)* — discovered Mar 23
 - 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)* — discovered Mar 23
 - 🔌  **[DSkills](https://github.com/Dianel555/DSkills)**  R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)* — discovered Mar 23
 - 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)* — discovered Mar 22
-- 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)* — discovered Mar 21
 
 ---
 
@@ -92,6 +92,7 @@
 - 📄  **[claude-codex-settings](https://github.com/fcakyon/claude-codex-settings)** 🤖 R:🟢 M:🟢 — My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily. by fcakyon *(409 ⭐)*
 - 📄  **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** 🤖 R:🟢 M:🟢 — The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. by sickn33 *(8.1k ⭐)*
 - 🔗  **[paiml-mcp-agent-toolkit](https://github.com/paiml/paiml-mcp-agent-toolkit)** 🤖 R:🟡 M:🟢 — Pragmatic AI Labs MCP Agent Toolkit - An MCP Server designed to make code with agents more deterministic by paiml *(0 ⭐)*
+- 🔗  **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)**  R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(39 ⭐)*
 - 🔌  **[git-surgeon](https://github.com/raine/git-surgeon)** 🤖 R:🔴 M:🟢 — Git primitives for autonomous coding agents by raine *(0 ⭐)*
 - 🔌  **[agents](https://github.com/slgoodrich/agents)** 🤖 R:🟢 M:🟢 — Rules files & configurations for agents by slgoodrich *(0 ⭐)*
 - ⌨️  **[zacs-claude-skills](https://github.com/enbyaugust/zacs-claude-skills)** 🤖 R:🟢 M:🟢 — Zac's collection of Claude Code skills for development workflows, testing, and quality assurance by enbyaugust *(30 ⭐)*
