@@ -130,9 +130,9 @@
 - 🔌  **[freee-mcp](https://github.com/freee/freee-mcp)** 🤖 R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(0 ⭐)*
 - ⌨️  **[grovr](https://github.com/j1king/grovr)** 🤖 R:🟡 M:🟢 — A native Git worktree manager for macOS by j1king *(35 ⭐)*
 - 📚  **[deriver](https://github.com/closedform/deriver)** 🤖 R:🟡 M:🟢 — A powerful symbolic mathematics library for Python. by closedform *(34 ⭐)*
-- 📚  **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** 🤖 R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)*
 - 🔌  **[claude-hacks](https://github.com/mahidalhan/claude-hacks)** 🤖 R:🟢 M:🟢 — give claude code a set of hacks, not vibes :) by mahidalhan *(0 ⭐)*
 - 🔌  **[claude-dashboard](https://github.com/uppinote20/claude-dashboard)** 🤖 R:🟢 M:🟢 — Comprehensive status line plugin for Claude Code with context usage, API rate limits, and cost tracking by uppinote20 *(0 ⭐)*
+- 📚  **[solana-mcp-server](https://github.com/openSVM/solana-mcp-server)** 🤖 R:🟡 M:🟢 — solana mcp sever to enable solana rpc methods by openSVM *(57 ⭐)*
 - 📚  **[feather](https://github.com/feather-lang/feather)** 🤖 R:🟡 M:🟢 — The core implementation of Feather by feather-lang *(13 ⭐)*
 - 📚  **[wasmoon](https://github.com/Milky2018/wasmoon)** 🤖 R:🟡 M:🟢 — A slow and insecure runtime for WebAssembly by Milky2018 *(23 ⭐)*
 - ⌨️  **[jazz](https://github.com/lvndry/jazz)** 🤖 R:🟡 M:🟢 — Jazz is a powerful CLI that lets you create autonomous AI agents with real-world capabilities. by lvndry *(44 ⭐)*
