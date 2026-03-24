@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-313-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-315-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-249k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**313 skills** across 10 skill types | 🤖 claude code: 313
+**315 skills** across 10 skill types | 🤖 claude code: 315
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚  **[rust-in-production](https://github.com/ImplFerris/rust-in-production)**  R:🟡 M:🟠 — Rust In Production by ImplFerris *(239 ⭐)* — discovered Mar 24
+- 📚  **[beet](https://github.com/mrchantey/beet)**  R:🟡 M:🟢 — A personal application framework by mrchantey *(100 ⭐)* — discovered Mar 24
 - 📚  **[ai-investment-advisor](https://github.com/AllenAI2014/ai-investment-advisor)**  R:🟡 M:🟢 — 让 Claude/Codex/Gemini 三个 AI 组成你的私人投资委员会 by AllenAI2014 *(90 ⭐)* — discovered Mar 23
 - 📚  **[buildautomata_memory_mcp](https://github.com/brucepro/buildautomata_memory_mcp)**  R:🟡 M:🟢 — Memory MCP and CLI by brucepro *(14 ⭐)* — discovered Mar 23
 - 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)* — discovered Mar 23
-- 📚  **[dart_node](https://github.com/MelbourneDeveloper/dart_node)**  R:🟡 M:🟢 — Write your entire stack in Dart: React web apps, React Native mobile apps with Expo, and Node.js Express backends. by MelbourneDeveloper *(111 ⭐)* — discovered Mar 23
-- 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)* — discovered Mar 23
 
 ---
 
@@ -288,6 +288,7 @@
 - 🔗  **[template-repo](https://github.com/AndrewAltimit/template-repo)** 🤖 R:🔴 M:🟢 — Agent orchestration & security template featuring MCP tool building, agent2agent workflows, mechanistic interpretability on sleeper agents, and agent integration via DLL injection and CLI wrappers. by AndrewAltimit *(0 ⭐)*
 - 🔌  **[design-system-skills](https://github.com/dylantarre/design-system-skills)** 🤖 R:🟡 M:🟢 — Design system skills for agentic coding by dylantarre *(0 ⭐)*
 - 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)*
+- 📚  **[dart_node](https://github.com/MelbourneDeveloper/dart_node)**  R:🟡 M:🟢 — Write your entire stack in Dart: React web apps, React Native mobile apps with Expo, and Node.js Express backends. by MelbourneDeveloper *(111 ⭐)*
 - 🔌  **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** 🤖 R:🟢 M:🟢 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(0 ⭐)*
 - 🔌  **[Claude-Matrix](https://github.com/ojowwalker77/Claude-Matrix)** 🤖 R:🟡 M:🟢 — Claude on Rails - Tooling System for Claude Code. by ojowwalker77 *(103 ⭐)*
 - 🔌  **[everything-claude-code-mobile](https://github.com/ahmed3elshaer/everything-claude-code-mobile)** 🤖 R:🟢 M:🟢 — Makes Claude code mobile first by ahmed3elshaer *(0 ⭐)*
@@ -333,6 +334,7 @@
 - 📚  **[burn-in-cceverywhere-ralph](https://github.com/hellangleZ/burn-in-cceverywhere-ralph)** 🤖 R:🟡 M:🟢 — Claude Code Enhanced: 整合 everything-claude-code + ralph 的最佳能力，打造 Claude Code 终极增强套件 by hellangleZ *(100 ⭐)*
 - 🔗  **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** 🤖 R:🟢 M:🟢 — My Cursor User Rules. by ModyQyW *(0 ⭐)*
 - 🔌  **[ai-software-architect](https://github.com/codenamev/ai-software-architect)** 🤖 R:🟢 M:🟢 — AI-powered architecture documentation framework with ADRs, reviews, and pragmatic mode. Now available as Claude Code Plugin for easiest installation. by codenamev *(0 ⭐)*
+- 📚  **[pwning-agentcore-code-interpreter](https://github.com/BeyondTrust/pwning-agentcore-code-interpreter)**  R:🟡 M:🟢 — Pwning AI Code Interpreters for fun and profit - by Phantom Labs by BeyondTrust *(14 ⭐)*
 - 🔌  **[agentguard](https://github.com/GoPlusSecurity/agentguard)** 🤖 R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(0 ⭐)*
 - 🔗  **[llm-ide-rules](https://github.com/iloveitaly/llm-ide-rules)** 🤖 R:🟢 M:🟢 — Centralized LLM prompt instructions for Copilot and Cursor, including scripts to convert and sync rules for Python, React, Shell, and TypeScript. Designed for rapid reuse and contribution across projects. by iloveitaly *(0 ⭐)*
 - 📚  **[ramparts](https://github.com/highflame-ai/ramparts)** 🤖 R:🟡 M:🟢 — mcp scan that scans any mcp server for indirect attack vectors and security or configuration vulnerabilities by highflame-ai *(83 ⭐)*
@@ -471,5 +473,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-03-23 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-03-24 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
