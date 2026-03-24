@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-315-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-316-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-249k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**315 skills** across 10 skill types | 🤖 claude code: 315
+**316 skills** across 10 skill types | 🤖 claude code: 316
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔗  **[mcp-workshop](https://github.com/go-training/mcp-workshop)**  R:🟡 M:🟢 — MCP workshop using Golang by go-training *(31 ⭐)* — discovered Mar 24
 - 📚  **[rust-in-production](https://github.com/ImplFerris/rust-in-production)**  R:🟡 M:🟠 — Rust In Production by ImplFerris *(239 ⭐)* — discovered Mar 24
 - 📚  **[beet](https://github.com/mrchantey/beet)**  R:🟡 M:🟢 — A personal application framework by mrchantey *(100 ⭐)* — discovered Mar 24
 - 📚  **[ai-investment-advisor](https://github.com/AllenAI2014/ai-investment-advisor)**  R:🟡 M:🟢 — 让 Claude/Codex/Gemini 三个 AI 组成你的私人投资委员会 by AllenAI2014 *(90 ⭐)* — discovered Mar 23
 - 📚  **[buildautomata_memory_mcp](https://github.com/brucepro/buildautomata_memory_mcp)**  R:🟡 M:🟢 — Memory MCP and CLI by brucepro *(14 ⭐)* — discovered Mar 23
-- 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)* — discovered Mar 23
 
 ---
 
@@ -367,6 +367,7 @@
 - 📄  **[do-app-platform-skills](https://github.com/digitalocean-labs/do-app-platform-skills)**  R:🟡 M:🟢 — Claude/Agent Skills for DigitalOcean App Platform - deployment, migration, networking, database configuration, and troubleshooting by digitalocean-labs *(14 ⭐)*
 - ⌨️  **[toolhive](https://github.com/stacklok/toolhive)** 🤖 R:🟢 M:🟢 — ToolHive makes deploying MCP servers easy, secure and fun by stacklok *(1.6k ⭐)*
 - 🔗  **[vsync](https://github.com/nicepkg/vsync)** 🤖 R:🟡 M:🟢 — Sync MCP servers, Skills, Agents & Commands across Claude Code, Cursor, OpenCode, Codex. One config, all tools. by nicepkg *(0 ⭐)*
+- 📚  **[bud-runtime](https://github.com/BudEcosystem/bud-runtime)**  R:🟡 M:🟢 — Bud AI Foundry - A comprehensive inference stack for compound AI deployment, optimization and scaling.  Bud Stack provides intelligent infrastructure automation, performance optimization, and seamless model deployment across multi-cloud/multi-hardware environments. by BudEcosystem *(10 ⭐)*
 - 🔗  **[kairos-context-keeper](https://github.com/turtir-ai/kairos-context-keeper)** 🤖 R:🟡 M:🟠 — Kairos: An autonomous development supervisor powered by Context Engineering. It provides a living memory and a contextual constitution for your projects to prevent AI context loss. by turtir-ai *(0 ⭐)*
 - 📦  **[AionUi](https://github.com/iOfficeAI/AionUi)** 🤖 R:🟢 M:🟢 — Free, local, open-source 24/7 Cowork and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it! by iOfficeAI *(14.0k ⭐)*
 - 🔗  **[power-bricks](https://github.com/bluebricks-co/power-bricks)** 🤖 R:🟡 M:🟠 — Kiro Power for Bluebricks - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails by bluebricks-co *(10 ⭐)*
