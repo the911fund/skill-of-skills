@@ -30,6 +30,42 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.1.0] - 2026-03-25
+
+### Changed
+- **Quality scoring v3.1** — Scripts/Automation now worth 10 points (was 0), max score bumped to 200 (was 195)
+- Quality breakdown card now shows all 12 signals organized into Content Signals and Repo Health sections
+- "Best Match" sort renamed to "Composite Score" for clarity
+- "Generic" platform renamed to "Cross-Platform" in filters
+- All 319 active tools rescored with updated engine
+- Search now returns paginated results with total count (was capped at 50, no pagination)
+- SearchResults shows empty-state with browse suggestions and "Browse All Skills" CTA
+
+### Added
+- **Total quality score** with color-coded progress bar in quality breakdown card
+- **Numeric score on ToolCard** — tier badge now shows score (e.g. "Curated 142")
+- **Category page pagination** — was hardcoded to 50 tools with no pagination controls
+- **Risk filter** in browse page (Low / Medium / High / Critical)
+- **"Trending" sort option** with quality-score fallback (trending scores not yet populated)
+- **"Top Quality" section** on homepage showcasing highest-scored tools
+- **Search page suggestions** — empty state shows quick-link chips (MCP Servers, Top Quality, etc.)
+- `offset` parameter for batch quality scoring API endpoint
+- 4 new DB columns: `has_trigger_desc`, `has_composability`, `has_install_docs`, `has_single_responsibility`
+
+### Fixed
+- **Platform filter was broken** — queried `primaryPlatform` column instead of `toolPlatforms` junction table
+- **Browse filters not wired** — tools page only passed `type` and `sort`, ignoring `platform`, `category`, `risk`
+- **Filters now reset pagination** to page 1 on change
+- `antigravity-agentic-skills` reactivated (was incorrectly `is_active = false`)
+- Removed phantom type filters (`cursor_rule`, `codex_agent`) that returned 0 results
+- Removed invalid submit form options (`prompt_pack`, `workflow`, `extension`)
+- Submit API now validates `toolType` against allowed enum values
+- Platform tagging backfilled: 60 MCP servers tagged as Cross-Platform, 18 Codex, 13 Cursor, 4 Windsurf, 2 Cline
+
+### Database
+- New columns: `has_trigger_desc`, `has_composability`, `has_install_docs`, `has_single_responsibility`
+- Platform junction table backfilled with cross-platform and mention-based tagging
+
 ## [3.0.0] - 2026-03-21
 
 ### Changed
@@ -48,7 +84,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Platform filter in web UI and API
   - `cursor_rule` and `codex_agent` tool types
   - Vendor-aware `is_official` (Anthropic, Cursor, OpenAI, Cline, Codeium)
-- **Quality scoring engine** (`web/src/lib/quality-scoring.ts`) — 12 structural signals, max 195 points:
+- **Quality scoring engine** (`web/src/lib/quality-scoring.ts`) — 12 structural signals, max 195 points (updated to 200 in v3.1):
   Gotchas/edge cases (+40), progressive disclosure folders (+30), trigger descriptions (+20),
   verification/safety signals (+20), code examples (+15), composability (+15), recent activity (+15),
   real usage evidence (+10), single responsibility (+10), config/persistence (+10), install instructions (+5), multi-platform (+5)

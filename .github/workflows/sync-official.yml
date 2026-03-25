@@ -1,0 +1,52 @@
+name: Sync Official Plugins
+
+on:
+  schedule:
+    - cron: '0 */12 * * *'  # Every 12 hours
+  workflow_dispatch:
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Fetch official sources
+        id: fetch
+        run: |
+          # Anthropic official plugins
+          ANTHROPIC_PLUGINS=$(curl -s "https://api.github.com/repos/anthropics/claude-plugins-official/contents/plugins" \
+            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" 2>/dev/null || echo "[]")
+
+          echo "$ANTHROPIC_PLUGINS" > anthropic-plugins.json
+          echo "anthropic_count=$(echo "$ANTHROPIC_PLUGINS" | jq 'if type == "array" then length else 0 end')" >> $GITHUB_OUTPUT
+
+      - name: Sync Anthropic plugins
+        run: |
+          cat anthropic-plugins.json | jq -c 'if type == "array" then .[] | select(.type == "dir") | {name: .name, path: .path, url: .html_url} else empty end' 2>/dev/null | while read plugin; do
+            NAME=$(echo "$plugin" | jq -r '.name')
+            URL=$(echo "$plugin" | jq -r '.url')
+
+            curl -s -X POST "${{ secrets.N8N_SYNC_WEBHOOK }}" \
+              -H "Content-Type: application/json" \
+              -d "{
+                \"name\": \"$NAME\",
+                \"repo_url\": \"https://github.com/anthropics/claude-plugins-official\",
+                \"plugin_path\": \"plugins/$NAME\",
+                \"source\": \"github_official\",
+                \"platform\": \"claude_code\",
+                \"vendor\": \"anthropics\",
+                \"is_official\": true,
+                \"is_verified\": true
+              }"
+
+            sleep 1
+          done
+
+      - name: Summary
+        run: |
+          echo "Synced official plugins:"
+          echo "  Anthropic: ${{ steps.fetch.outputs.anthropic_count }}"
+          echo ""
+          echo "Note: Cursor (getcursor), OpenAI (codex), and other vendor"
+          echo "official repos will be added as they publish official skill/rule directories."

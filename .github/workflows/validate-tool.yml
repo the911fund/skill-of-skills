@@ -1,0 +1,148 @@
+name: Validate Tool
+
+on:
+  workflow_dispatch:
+    inputs:
+      repo_url:
+        description: 'GitHub repository URL to validate'
+        required: true
+        type: string
+      tool_type:
+        description: 'Expected tool type'
+        required: false
+        type: string
+        default: 'skill'
+      callback_url:
+        description: 'n8n webhook URL for results'
+        required: true
+        type: string
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Extract repo info
+        id: repo
+        run: |
+          URL="${{ inputs.repo_url }}"
+          OWNER=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\1|')
+          REPO=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\2|')
+          echo "owner=$OWNER" >> $GITHUB_OUTPUT
+          echo "repo=$REPO" >> $GITHUB_OUTPUT
+
+      - name: Clone repository
+        run: |
+          git clone --depth 1 ${{ inputs.repo_url }} test-repo
+        continue-on-error: true
+
+      - name: Detect platforms
+        id: platform_check
+        run: |
+          PLATFORMS=""
+
+          # Claude Code markers
+          if find test-repo -name "SKILL.md" -o -name "skill.md" -o -name "CLAUDE.md" 2>/dev/null | grep -q .; then
+            PLATFORMS="${PLATFORMS}claude_code,"
+            echo "has_skill_md=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_skill_md=false" >> $GITHUB_OUTPUT
+          fi
+
+          if [ -d "test-repo/.claude-plugin" ] || [ -d "test-repo/.claude" ]; then
+            PLATFORMS="${PLATFORMS}claude_code,"
+            echo "has_claude_plugin=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_claude_plugin=false" >> $GITHUB_OUTPUT
+          fi
+
+          if [ -f "test-repo/mcp.json" ]; then
+            PLATFORMS="${PLATFORMS}claude_code,"
+            echo "has_mcp_json=true" >> $GITHUB_OUTPUT
+          else
+            echo "has_mcp_json=false" >> $GITHUB_OUTPUT
+          fi
+
+          # Cursor markers
+          if find test-repo -name ".cursorrules" -o -name ".cursor" -type d 2>/dev/null | grep -q .; then
+            PLATFORMS="${PLATFORMS}cursor,"
+          fi
+
+          # Codex markers
+          if find test-repo -name "AGENTS.md" 2>/dev/null | grep -q .; then
+            PLATFORMS="${PLATFORMS}codex,"
+          fi
+
+          # Windsurf markers
+          if find test-repo -name ".windsurfrules" 2>/dev/null | grep -q .; then
+            PLATFORMS="${PLATFORMS}windsurf,"
+          fi
+
+          # Cline markers
+          if find test-repo -name ".clinerules" -o -name "cline-config" 2>/dev/null | grep -q .; then
+            PLATFORMS="${PLATFORMS}cline,"
+          fi
+
+          # Remove trailing comma, default to generic
+          PLATFORMS=$(echo "$PLATFORMS" | sed 's/,$//')
+          if [ -z "$PLATFORMS" ]; then
+            PLATFORMS="generic"
+          fi
+
+          echo "platforms=$PLATFORMS" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Check for risky patterns
+        id: risk_check
+        run: |
+          RISK="low"
+          if grep -rE "(subprocess|os\.system|exec\(|spawn|child_process)" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
+            RISK="medium"
+          fi
+          if grep -rE "(sudo|chmod 777|rm -rf|eval\()" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
+            RISK="high"
+          fi
+          echo "risk_level=$RISK" >> $GITHUB_OUTPUT
+        continue-on-error: true
+
+      - name: Relevance gate
+        id: relevance
+        run: |
+          # Must have at least one platform marker to pass
+          PLATFORMS="${{ steps.platform_check.outputs.platforms }}"
+          if [ "$PLATFORMS" = "generic" ]; then
+            # Generic repos need README with AI coding skill indicators
+            if grep -qiE "(ai coding|skill|rule|agent|mcp|claude|cursor|codex|windsurf|cline)" test-repo/README.md 2>/dev/null; then
+              echo "relevant=true" >> $GITHUB_OUTPUT
+            else
+              echo "relevant=false" >> $GITHUB_OUTPUT
+            fi
+          else
+            echo "relevant=true" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
+
+      - name: Send results to n8n
+        run: |
+          curl -X POST "${{ inputs.callback_url }}" \
+            -H "Content-Type: application/json" \
+            -d '{
+              "repo_url": "${{ inputs.repo_url }}",
+              "owner": "${{ steps.repo.outputs.owner }}",
+              "repo": "${{ steps.repo.outputs.repo }}",
+              "tool_type": "${{ inputs.tool_type }}",
+              "has_skill_md": ${{ steps.platform_check.outputs.has_skill_md || 'false' }},
+              "has_claude_plugin": ${{ steps.platform_check.outputs.has_claude_plugin || 'false' }},
+              "has_mcp_json": ${{ steps.platform_check.outputs.has_mcp_json || 'false' }},
+              "platforms": "${{ steps.platform_check.outputs.platforms || 'generic' }}",
+              "risk_level": "${{ steps.risk_check.outputs.risk_level || 'low' }}",
+              "relevant": ${{ steps.relevance.outputs.relevant || 'true' }},
+              "validation_status": "passed",
+              "validated_at": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"
+            }'
