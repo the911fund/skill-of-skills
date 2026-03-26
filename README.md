@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-388-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-394-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-556k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-683k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**388 skills** across 10 skill types | 🤖 claude code: 384 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**394 skills** across 10 skill types | 🤖 claude code: 390 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📚  **[ten-builder](https://github.com/ten-builder/ten-builder)**  R:🟡 M:🟢 — AI로 10배 빠르게 빌드하는 방법, 직접 써보고 검증한 AI 실전 노하우 by ten-builder *(62 ⭐)* — discovered Mar 26
-- 📚  **[codex-skills](https://github.com/vipulgupta2048/codex-skills)**  R:🟡 M:🟢 — Save yourself from the purple AI slop when using the Codex Frontend Skill by vipulgupta2048 *(21 ⭐)* — discovered Mar 26
-- 📚  **[Atom_notebook](https://github.com/leondgarse/Atom_notebook)**  R:🟡 M:🟢 — Personal atom notebook by leondgarse *(93 ⭐)* — discovered Mar 26
-- 🔌  **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**  R:🟡 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(231 ⭐)* — discovered Mar 26
-- 📚  **[claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow)**  R:🟡 M:🟢 — A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. by pedrohcgs *(764 ⭐)* — discovered Mar 26
+- 🔌  **[claudetop](https://github.com/liorwn/claudetop)**  R:🟡 M:🟢 — htop for your Claude Code sessions — real-time cost, cache efficiency, model comparison, and smart alerts by liorwn *(178 ⭐)* — discovered Mar 26
+- 🔌  **[cortex-ai-skills](https://github.com/alexander-danilenko/cortex-ai-skills)**  R:🟡 M:🟢 — Personal skills library for AI coding assistants by alexander-danilenko *(10 ⭐)* — discovered Mar 26
+- 🔌  **[superpowers](https://github.com/obra/superpowers)**  R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(115.1k ⭐)* — discovered Mar 26
+- 🔌  **[cowork-wordpress-expert](https://github.com/dr-robert-li/cowork-wordpress-expert)**  R:🟡 M:🟢 — A plugin to turn your Claude agent into a WordPress expert by dr-robert-li *(19 ⭐)* — discovered Mar 26
+- 🔌  **[medical-mcps](https://github.com/pascalwhoop/medical-mcps)**  R:🟡 M:🟢 — A collection of MCP tools for AI agents to interact with major biomedical databases by pascalwhoop *(16 ⭐)* — discovered Mar 26
 
 ---
 
@@ -199,15 +199,17 @@
 - ⌨️  **[claude-code-usage-bar](https://github.com/leeguooooo/claude-code-usage-bar)** 🤖 R:🟢 M:✅ — Real‑time statusline for Claude Code: token usage, remaining budget, burn rate, and depletion time by leeguooooo *(162 ⭐)*
 - 🔗  **[The-Complete-Guide-To-AI-Assisted-Salesforce-Development](https://github.com/Coding-With-The-Force/The-Complete-Guide-To-AI-Assisted-Salesforce-Development)** 🤖🖱️🔧 R:🟡 M:🟠 — This repo is used to house the rules and guides for setting up and using the Cursor IDE effectively for Salesforce development by Coding-With-The-Force *(33 ⭐)*
 - 📚  **[rust-in-production](https://github.com/ImplFerris/rust-in-production)**  R:🟡 M:🟠 — Rust In Production by ImplFerris *(239 ⭐)*
+- 📚  **[codex-skills](https://github.com/vipulgupta2048/codex-skills)**  R:🟡 M:🟢 — Save yourself from the purple AI slop when using the Codex Frontend Skill by vipulgupta2048 *(21 ⭐)*
+- 🔌  **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**  R:🟡 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(231 ⭐)*
 - 🔗  **[rlm](https://github.com/richardwhiteii/rlm)**  R:🟡 M:🟢 — Recursive Language Model patterns for Claude Code — handle massive contexts (10M+ tokens) by treating them as external variables by richardwhiteii *(43 ⭐)*
-- 🔌  **[claude-code](https://github.com/0xBigBoss/claude-code)**  R:🟡 M:🟢 — Comprehensive configuration system for Claude Code by 0xBigBoss *(41 ⭐)*
 - ⌨️  **[react-native-vibe-code-sdk](https://github.com/react-native-vibe-code/react-native-vibe-code-sdk)**  R:🟡 M:🟢 — The React Native Vibe Code SDK lets you build text to mobile & web apps in seconds. A full suite of packages to run your your own vibe coding features or platform. Try cloud version at https://reactnativevibecode.com by react-native-vibe-code *(157 ⭐)*
-- 🔗  **[elementor-mcp](https://github.com/msrbuilds/elementor-mcp)**  R:🟡 M:🟢 — WordPress plugin that turns Elementor into an MCP server — 97 AI-ready tools for building, editing, and managing page designs programmatically. by msrbuilds *(131 ⭐)*
 - 📚  **[deriver](https://github.com/closedform/deriver)** 🤖 R:🟡 M:🟢 — A powerful symbolic mathematics library for Python. by closedform *(34 ⭐)*
-- 📚  **[fastMONAI](https://github.com/MMIV-ML/fastMONAI)**  R:🟡 M:🟢 — Simplifying deep learning for medical imaging by MMIV-ML *(107 ⭐)*
-- ⌨️  **[nativewind](https://github.com/nativewind/nativewind)**  R:🟡 M:🟢 — The utility-first workflow you love from Tailwind CSS in your React Native applications. by nativewind *(7.7k ⭐)*
 - 📄  **[jshook-skill](https://github.com/wuji66dde/jshook-skill)**  R:🟡 M:🟢 — AI-powered JS reverse engineering: deobfuscation, crypto detection, CDP debugging, hook injection, anti-detection |   AI驱动JS逆向：反混淆、加密识别、CDP调试、Hook注入、反检测 by wuji66dde *(100 ⭐)*
 - 📚  **[Algorithms](https://github.com/williamfiset/Algorithms)**  R:🟡 M:🟢 — A collection of algorithms and data structures by williamfiset *(18.5k ⭐)*
+- ⌨️  **[nativewind](https://github.com/nativewind/nativewind)**  R:🟡 M:🟢 — The utility-first workflow you love from Tailwind CSS in your React Native applications. by nativewind *(7.7k ⭐)*
+- 🔌  **[claude-code](https://github.com/0xBigBoss/claude-code)**  R:🟡 M:🟢 — Comprehensive configuration system for Claude Code by 0xBigBoss *(41 ⭐)*
+- 🔗  **[elementor-mcp](https://github.com/msrbuilds/elementor-mcp)**  R:🟡 M:🟢 — WordPress plugin that turns Elementor into an MCP server — 97 AI-ready tools for building, editing, and managing page designs programmatically. by msrbuilds *(131 ⭐)*
+- 📚  **[fastMONAI](https://github.com/MMIV-ML/fastMONAI)**  R:🟡 M:🟢 — Simplifying deep learning for medical imaging by MMIV-ML *(107 ⭐)*
 
 ## 🧪 Product Verification
 
@@ -363,8 +365,9 @@
 - ⌨️ 🔶 **[codeglide-mcpgen](https://github.com/CodeGlide/codeglide-mcpgen)** 🤖 R:🟢 M:✅ — Generation of Secure MCP (Model Context Protocol) Servers from API source code at Scale by CodeGlide *(76 ⭐)*
 - 🔌  **[cc-frontend-skills](https://github.com/oikon48/cc-frontend-skills)**  R:🟡 M:🟠 — Claude Code plugin for creating frontend UIs that avoid generic AI aesthetics. (Claude Skills  is written in Japanese) by oikon48 *(65 ⭐)*
 - ⌨️  **[claude-webkit](https://github.com/Hainrixz/claude-webkit)**  R:🟡 M:🟢 — Construye una pagina web profesional en minutos. No necesitas saber programar. by Hainrixz *(39 ⭐)*
-- 📚  **[atopile](https://github.com/atopile/atopile)**  R:🟡 M:🟢 — Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ by atopile *(3.1k ⭐)*
+- 📚  **[ten-builder](https://github.com/ten-builder/ten-builder)**  R:🟡 M:🟢 — AI로 10배 빠르게 빌드하는 방법, 직접 써보고 검증한 AI 실전 노하우 by ten-builder *(62 ⭐)*
 - 🔌  **[everything-react-native-expo](https://github.com/JubaKitiashvili/everything-react-native-expo)**  R:🟡 M:🟢 — Complete AI coding agent harness for React Native and Expo development by JubaKitiashvili *(23 ⭐)*
+- 📚  **[atopile](https://github.com/atopile/atopile)**  R:🟡 M:🟢 — Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ by atopile *(3.1k ⭐)*
 
 ## 🔍 Code Quality & Review
 
@@ -397,6 +400,7 @@
 - 📚 🔶 **[codexy](https://github.com/AndersonBY/codexy)** 🤖🧠 R:🟡 M:🟠 — Lightweight coding agent that runs in your terminal by AndersonBY *(46 ⭐)*
 - 🔌 🔶 **[minimal-claude](https://github.com/KenKaiii/minimal-claude)** 🤖 R:🟡 M:🟢 — Intelligent Claude Code plugin that auto-configures linting, typechecking, and parallel agent-based fixing by KenKaiii *(17 ⭐)*
 - 🔗  **[cursor-user-rules](https://github.com/ModyQyW/cursor-user-rules)** 🤖🖱️🔧 R:🟢 M:🟢 — My Cursor User Rules. by ModyQyW *(10 ⭐)*
+- 📚  **[claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow)**  R:🟡 M:🟢 — A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. by pedrohcgs *(764 ⭐)*
 
 ## 🚀 CI/CD & Deployment
 
@@ -436,21 +440,23 @@
 - 📚  **[CyberSentinel-AI](https://github.com/Hxnxe/CyberSentinel-AI)**  R:🟡 M:🟢 — CyberSentinel AI 是一个自动化安全监控与AI分析系统 by Hxnxe *(102 ⭐)*
 - 🔌 🔶 **[cc-caffeine](https://github.com/samber/cc-caffeine)** 🤖 R:🟢 M:🟢 — ☕️ Prevents your computer from sleeping while Claude Code works hard by samber *(24 ⭐)*
 - 🔗  **[power-bricks](https://github.com/bluebricks-co/power-bricks)** 🤖🔧 R:🟡 M:🟠 — Kiro Power for Bluebricks - deploy production-ready cloud infrastructure with AI-powered blueprints and IaC guardrails by bluebricks-co *(10 ⭐)*
-- ⌨️  **[Kubeli](https://github.com/atilladeniz/Kubeli)**  R:🟡 M:🟢 — A modern, native Kubernetes GUI management desktop app for macOS & Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. by atilladeniz *(323 ⭐)*
 - 📚  **[bifrost](https://github.com/maximhq/bifrost)**  R:🟡 M:🟢 — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. by maximhq *(3.2k ⭐)*
+- ⌨️  **[Kubeli](https://github.com/atilladeniz/Kubeli)**  R:🟡 M:🟢 — A modern, native Kubernetes GUI management desktop app for macOS & Windows. Multi-cluster support, real-time monitoring, AI assistant, terminal access, and more. by atilladeniz *(323 ⭐)*
 
 ## 📦 Uncategorized
 
-- 🔗  **[convos-ios](https://github.com/xmtplabs/convos-ios)**  R:🟡 M:🟢 — Everyday private chat  for the AI era by xmtplabs *(34 ⭐)*
-- 📚  **[kagent](https://github.com/kagent-dev/kagent)**  R:🟡 M:🟢 — Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord by kagent-dev *(2.4k ⭐)*
-- ⌨️  **[ArchitectKB](https://github.com/DavidROliverBA/ArchitectKB)**  R:🟡 M:🟢 — A comprehensive knowledge management system for Solutions Architects using AI by DavidROliverBA *(28 ⭐)*
-- ⌨️  **[Agentic-Tool-Optimization](https://github.com/WillNigri/Agentic-Tool-Optimization)**  R:🟡 M:🟢 — Tools that make Agents better by WillNigri *(25 ⭐)*
-- 📚  **[plumb](https://github.com/dbreunig/plumb)**  R:🟡 M:🟢 — A tool for keeping things true. by dbreunig *(83 ⭐)*
-- 🔗  **[BioClaw](https://github.com/Runchuan-BU/BioClaw)**  R:🟡 M:🟢 — AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. by Runchuan-BU *(274 ⭐)*
-- 📚  **[MixtapeTools](https://github.com/scunning1975/MixtapeTools)**  R:🟡 M:🟢 — Tools for coding, teaching, and presentations with AI assistance by scunning1975 *(229 ⭐)*
+- 📚  **[Atom_notebook](https://github.com/leondgarse/Atom_notebook)**  R:🟡 M:🟢 — Personal atom notebook by leondgarse *(93 ⭐)*
 - ⌨️  **[ezbookkeeping](https://github.com/mayswind/ezbookkeeping)**  R:🟡 M:🟢 — A lightweight, self-hosted personal finance app with a user-friendly interface and powerful bookkeeping features. by mayswind *(4.5k ⭐)*
-- 📚  **[agent_rulez](https://github.com/SpillwaveSolutions/agent_rulez)**  R:🟡 M:🟢 — Agent Rulz by SpillwaveSolutions *(34 ⭐)*
+- 🔌  **[pua](https://github.com/tanweai/pua)**  R:🟡 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(12.4k ⭐)*
 - 📚  **[mycc](https://github.com/Aster110/mycc)**  R:🟡 M:🟢 — MyCC - 让 Claude Code 跑在手机上 | Run Claude Code from your phone by Aster110 *(164 ⭐)*
+- 📚  **[MixtapeTools](https://github.com/scunning1975/MixtapeTools)**  R:🟡 M:🟢 — Tools for coding, teaching, and presentations with AI assistance by scunning1975 *(229 ⭐)*
+- 🔗  **[BioClaw](https://github.com/Runchuan-BU/BioClaw)**  R:🟡 M:🟢 — AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. by Runchuan-BU *(274 ⭐)*
+- ⌨️  **[ArchitectKB](https://github.com/DavidROliverBA/ArchitectKB)**  R:🟡 M:🟢 — A comprehensive knowledge management system for Solutions Architects using AI by DavidROliverBA *(28 ⭐)*
+- 📚  **[plumb](https://github.com/dbreunig/plumb)**  R:🟡 M:🟢 — A tool for keeping things true. by dbreunig *(83 ⭐)*
+- 📚  **[kagent](https://github.com/kagent-dev/kagent)**  R:🟡 M:🟢 — Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord by kagent-dev *(2.4k ⭐)*
+- 🔗  **[convos-ios](https://github.com/xmtplabs/convos-ios)**  R:🟡 M:🟢 — Everyday private chat  for the AI era by xmtplabs *(34 ⭐)*
+- ⌨️  **[Agentic-Tool-Optimization](https://github.com/WillNigri/Agentic-Tool-Optimization)**  R:🟡 M:🟢 — Tools that make Agents better by WillNigri *(25 ⭐)*
+- 📚  **[agent_rulez](https://github.com/SpillwaveSolutions/agent_rulez)**  R:🟡 M:🟢 — Agent Rulz by SpillwaveSolutions *(34 ⭐)*
 
 ---
 
