@@ -5,6 +5,34 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.2.0] - 2026-04-02
+
+### Added
+- **Automatic quality scoring** — new tools are scored inline during validation (Workflow 05) via `/api/v1/webhook/score-single` endpoint
+- **Webhook authentication** — `score-single` and `categorize-single` endpoints now require `X-Webhook-Secret` header
+- **Daily scoring catchup** — Workflow 13 (Daily Metadata Refresh) now batch-scores any unscored tools after metadata refresh
+- **Quality tier in Discord notifications** — new tool alerts now include Curated/Promising/Experimental/Review Required tier
+- **Rate-limit awareness** — GitHub API fetchers now detect 403/429 rate limits and surface errors instead of silently returning empty data
+
+### Changed
+- **Shared GitHub fetch helpers** — extracted `fetchGitHubContent`, `fetchFileTree`, `fetchRepoMeta` to `web/src/lib/github-fetchers.ts`, shared by batch and single-tool endpoints
+- **Shared scoring update payload** — `buildScoringUpdateData()` in `quality-scoring.ts` eliminates 13-field duplication between endpoints
+- **Tier thresholds consolidated** — `getTier()` moved to `quality-scoring.ts` as single source of truth; removed raw SQL CASE duplication in batch GET handler
+- **Discord webhook URL** — moved from hardcoded plaintext in Workflow 05 to `$env.DISCORD_WEBHOOK_URL`
+- **All 660 tools re-scored** with platform detection fix and updated scoring engine
+
+### Fixed
+- **Platform detection never ran for new tools** — empty `toolPlatforms` array was truthy, so `detectPlatforms(fileTree)` fallback never executed; now checks array length
+- **GitHub fetch calls had no timeout** — bare `fetch()` could hang indefinitely; now uses 15s `AbortSignal.timeout`
+- **File tree unbounded for large repos** — now truncated to 5000 entries
+- **Fetch SKILL.md node referenced wrong upstream** — used `$json.repo_owner` from Fetch Contents (GitHub directory listing) instead of `$('Parse URL').first().json.owner`
+- **Discord Notify node had no timeout or error handling** — Discord outage would block entire pipeline; now has 10s timeout and `onError: continueRegularOutput`
+
+### Infrastructure
+- `WEBHOOK_SECRET` env var added to `docker/.env` and `docker-compose.yml` (web + n8n)
+- Workflow 05 nodes (AI Categorize, Quality Score) send `x-webhook-secret` header
+- Workflow 13 calls `/api/v1/batch/quality-score` for unscored tools after metadata refresh
+
 ## [3.1.0] - 2026-03-25
 
 ### Changed
