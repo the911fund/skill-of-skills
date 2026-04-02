@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-663-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-665-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-1174k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**663 skills** across 10 skill types | 🤖 claude code: 659 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**665 skills** across 10 skill types | 🤖 claude code: 661 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔗  **[NovyWave](https://github.com/NovyWave/NovyWave)**  R:🟡 M:🟢 — Modern GTKWave alternative by NovyWave *(42 ⭐)* — discovered Apr 2
+- 📄  **[nicar2026_skills_in_codex_claude](https://github.com/amkessler/nicar2026_skills_in_codex_claude)**  R:🟡 M:🟢 — Materials for NICAR 2026 session on using "skills" to aid in more reliable, reproducible analysis tasks when using Codex and Claude Code by amkessler *(15 ⭐)* — discovered Apr 2
 - 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)* — discovered Apr 2
 - ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)* — discovered Apr 2
 - 🔌 🔷 **[gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp)**  R:🟡 M:🟢 — Zero-config MCP server for searchable documentation (SQLite default, PostgreSQL optional) by nicholasglazer *(11 ⭐)* — discovered Apr 2
-- 📚 🔷 **[Clawdboss](https://github.com/NanoFlow-io/Clawdboss)**  R:🟡 M:🟢 — 🦞 Pre-hardened, multi-agent OpenClaw setup. One script from zero to a fully secured AI assistant on Discord, Telegram, or both. by NanoFlow-io *(104 ⭐)* — discovered Apr 1
-- ⌨️ 🔷 **[clawsync](https://github.com/waynesutton/clawsync)**  R:🟡 M:🟢 — ClawSync, OpenClaw for the cloud. Deploy an open source personal AI agent with chat UI, skills system, MCP support, and multi-model routing. Built on Convex. by waynesutton *(58 ⭐)* — discovered Apr 1
 
 ---
 
@@ -205,8 +205,8 @@
 - 🔌 🔷 **[freee-mcp](https://github.com/freee/freee-mcp)** 🤖 R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(387 ⭐)*
 - 📚 🔷 **[bridle](https://github.com/neiii/bridle)**  R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(407 ⭐)*
 - ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.5k ⭐)*
-- 📚 🔷 **[codex-mcp-rs](https://github.com/missdeer/codex-mcp-rs)**  R:🟡 M:🟢 — codex-mcp-rs is a Rust-based MCP (Model Context Protocol) server that serves as a bridge for Codex CLI, enabling various AI coding assistants (such as Claude Code, Roo Code, KiloCode, etc.) to seamlessly collaborate with Codex. by missdeer *(17 ⭐)*
 - 🔌 🔷 **[plugin-for-claude-research](https://github.com/hongsw/plugin-for-claude-research)**  R:🟡 M:🟢 — Universal Research Framework for Claude Code - Conversational intent analysis to structured research pipeline for any domain by hongsw *(17 ⭐)*
+- 📚 🔷 **[codex-mcp-rs](https://github.com/missdeer/codex-mcp-rs)**  R:🟡 M:🟢 — codex-mcp-rs is a Rust-based MCP (Model Context Protocol) server that serves as a bridge for Codex CLI, enabling various AI coding assistants (such as Claude Code, Roo Code, KiloCode, etc.) to seamlessly collaborate with Codex. by missdeer *(17 ⭐)*
 - 🔌 🔷 **[agent-cli](https://github.com/basnijholt/agent-cli)** 🤖 R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(171 ⭐)*
 - 🔌 🔷 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** 🤖 R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(986 ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(634 ⭐)*
@@ -402,8 +402,8 @@
 - 📦 ⭐ **[Claude-Zeroclaw](https://github.com/Crestdrasnip/Claude-Zeroclaw)**  R:🟡 M:🟢 — Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement. by Crestdrasnip *(109 ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:🟡 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
-- 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
 - 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
+- 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
 - 🔌 ⭐ **[jira-skill](https://github.com/netresearch/jira-skill)** 🤖 R:🟢 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(38 ⭐)*
 - 📚 ⭐ **[Mycel](https://github.com/OpenDCAI/Mycel)**  R:🟡 M:🟢 — Real world multi-agent workforce. by OpenDCAI *(97 ⭐)*
 - 🔗 ⭐ **[AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator)**  R:🟡 M:🟢 — 💡An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It integrates technologies like Express.js, MongoDB, Puppeteer, and GenAI/LLMs to deliver up-to-date, curated content to government staff and other users. by hoangsonww *(25 ⭐)*
@@ -520,6 +520,7 @@
 - 🔌 🔷 **[interface-design](https://github.com/Dammyjay93/interface-design)** 🤖 R:🟢 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(4.4k ⭐)*
 - ⌨️ 🔷 **[hoyeon](https://github.com/team-attention/hoyeon)** 🤖 R:🟢 M:🟢 — Multi-agent development workflow toolkit for Claude Code by team-attention *(129 ⭐)*
 - 🔌 🔷 **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)**  R:🟡 M:🟢 — Universal Claude Code workflow plugin with agents, skills, hooks, and commands by CloudAI-X *(1.3k ⭐)*
+- 📚 🔷 **[Clawdboss](https://github.com/NanoFlow-io/Clawdboss)**  R:🟡 M:🟢 — 🦞 Pre-hardened, multi-agent OpenClaw setup. One script from zero to a fully secured AI assistant on Discord, Telegram, or both. by NanoFlow-io *(104 ⭐)*
 - 📚 🔷 **[example-scripts](https://github.com/numerai/example-scripts)**  R:🟡 M:🟢 — A collection of scripts and notebooks to help you get started quickly. by numerai *(1.1k ⭐)*
 - 🔗 🔷 **[spec-to-agents](https://github.com/microsoft/spec-to-agents)** 🤖🔧 R:🟡 M:🟢 — A multi-agent event planning workflow built with Microsoft Agent Framework - combining Semantic Kernel's enterprise orchestration with AutoGen's multi-agent patterns. by microsoft *(90 ⭐)*
 - 🔌 ⭐ **[ralph-dev](https://github.com/mylukin/ralph-dev)**  R:🟡 M:🟢 — Autonomous development workflow plugin for Claude Code that transforms natural language requirements into structured, testable code through a 5-phase process. by mylukin *(26 ⭐)*
@@ -721,6 +722,7 @@
 - ⌨️ 🔷 **[Resonix-AG](https://github.com/mangiapanejohn-dev/Resonix-AG)**  R:🟡 M:🟢 — 👾 "Heyy man ! I'm not some chatbot. I'm your digital roommate who happens to run on code. I browse the web when you're lazy, remember everything you forget, and occasionally reflect on life. Can't do your dishes, but I can definitely do your thinking." by mangiapanejohn-dev *(29 ⭐)*
 - ⌨️ 🔷 **[PEPAGI](https://github.com/Promptlab37/PEPAGI)**  R:🟡 M:🟢 — AGI-like Multi-Agent Orchestration Platform by Promptlab37 *(35 ⭐)*
 - 🔗 🔷 **[swimmy](https://github.com/shigurenimo/swimmy)**  R:🟡 M:🟢 — built with Next.js and mui by shigurenimo *(23 ⭐)*
+- ⌨️ 🔷 **[clawsync](https://github.com/waynesutton/clawsync)**  R:🟡 M:🟢 — ClawSync, OpenClaw for the cloud. Deploy an open source personal AI agent with chat UI, skills system, MCP support, and multi-model routing. Built on Convex. by waynesutton *(58 ⭐)*
 - 🔌 🔶 **[flyai-skill](https://github.com/alibaba-flyai/flyai-skill)**  R:🟡 M:🟢 — fly ai agent skill by alibaba-flyai *(369 ⭐)*
 - 📚 🔶 **[web-performance](https://github.com/w3c/web-performance)**  R:🟡 M:🟢 — W3C Web Performance Working Group repo by w3c *(432 ⭐)*
 - ⌨️ 🔶 **[ramadan-cli](https://github.com/ahmadawais/ramadan-cli)**  R:🟡 M:🟢 — CLI to check Sehar and Iftar times in Ramadan anywhere in the world. by ahmadawais *(605 ⭐)*
