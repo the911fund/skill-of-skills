@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-662-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-663-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-1174k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**662 skills** across 10 skill types | 🤖 claude code: 658 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**663 skills** across 10 skill types | 🤖 claude code: 659 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,9 +31,9 @@
 
 ## 🆕 Latest
 
+- 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)* — discovered Apr 2
 - ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)* — discovered Apr 2
 - 🔌 🔷 **[gnosis-mcp](https://github.com/nicholasglazer/gnosis-mcp)**  R:🟡 M:🟢 — Zero-config MCP server for searchable documentation (SQLite default, PostgreSQL optional) by nicholasglazer *(11 ⭐)* — discovered Apr 2
-- ⌨️ 🔷 **[message-segment-calculator](https://github.com/TwilioDevEd/message-segment-calculator)**  R:🟡 M:🟢 — JS-based tool to calculate and display message segmentation data for a given message body by TwilioDevEd *(114 ⭐)* — discovered Apr 1
 - 📚 🔷 **[Clawdboss](https://github.com/NanoFlow-io/Clawdboss)**  R:🟡 M:🟢 — 🦞 Pre-hardened, multi-agent OpenClaw setup. One script from zero to a fully secured AI assistant on Discord, Telegram, or both. by NanoFlow-io *(104 ⭐)* — discovered Apr 1
 - ⌨️ 🔷 **[clawsync](https://github.com/waynesutton/clawsync)**  R:🟡 M:🟢 — ClawSync, OpenClaw for the cloud. Deploy an open source personal AI agent with chat UI, skills system, MCP support, and multi-model routing. Built on Convex. by waynesutton *(58 ⭐)* — discovered Apr 1
 
@@ -134,6 +134,7 @@
 - 📚 🔷 **[native-cli-ai](https://github.com/madebyaris/native-cli-ai)**  R:🟡 M:🟢 — A native Rust CLI  for orchestrating AI agents across projects, with persistent sessions, worktrees, and local-first control. by madebyaris *(44 ⭐)*
 - 🔌 🔷 **[Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)**  R:🟡 M:🟢 — An agent skill focused entirely on Swift Testing, helping you write better tests, migrate from XCTest, improve test architecture, and adopt modern Swift testing patterns with confidence. by AvdLee *(325 ⭐)*
 - ⌨️ 🔷 **[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)** 🤖 R:🟢 M:🟢 — Master Claude Code Hooks by disler *(3.5k ⭐)*
+- ⌨️ 🔷 **[message-segment-calculator](https://github.com/TwilioDevEd/message-segment-calculator)**  R:🟡 M:🟢 — JS-based tool to calculate and display message segmentation data for a given message body by TwilioDevEd *(114 ⭐)*
 - ⌨️ 🔷 **[openapi-schemas](https://github.com/vtex/openapi-schemas)**  R:🟡 M:🟢 — OpenAPI 3.0 JSON schemas. Files are automatically synced to the VTEX Developer Portal. by vtex *(114 ⭐)*
 - 🔌 ⭐ **[lex](https://github.com/i-dot-ai/lex)** 🤖 R:🟢 M:🟢 — UK legal API for AI agents and researchers. by i-dot-ai *(38 ⭐)*
 - 📚 🔷 **[WAVS](https://github.com/Lay3rLabs/WAVS)**  R:🟡 M:🟢 — A WASI AVS runtime. by Lay3rLabs *(28 ⭐)*
@@ -204,8 +205,8 @@
 - 🔌 🔷 **[freee-mcp](https://github.com/freee/freee-mcp)** 🤖 R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(387 ⭐)*
 - 📚 🔷 **[bridle](https://github.com/neiii/bridle)**  R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(407 ⭐)*
 - ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.5k ⭐)*
-- 🔌 🔷 **[plugin-for-claude-research](https://github.com/hongsw/plugin-for-claude-research)**  R:🟡 M:🟢 — Universal Research Framework for Claude Code - Conversational intent analysis to structured research pipeline for any domain by hongsw *(17 ⭐)*
 - 📚 🔷 **[codex-mcp-rs](https://github.com/missdeer/codex-mcp-rs)**  R:🟡 M:🟢 — codex-mcp-rs is a Rust-based MCP (Model Context Protocol) server that serves as a bridge for Codex CLI, enabling various AI coding assistants (such as Claude Code, Roo Code, KiloCode, etc.) to seamlessly collaborate with Codex. by missdeer *(17 ⭐)*
+- 🔌 🔷 **[plugin-for-claude-research](https://github.com/hongsw/plugin-for-claude-research)**  R:🟡 M:🟢 — Universal Research Framework for Claude Code - Conversational intent analysis to structured research pipeline for any domain by hongsw *(17 ⭐)*
 - 🔌 🔷 **[agent-cli](https://github.com/basnijholt/agent-cli)** 🤖 R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(171 ⭐)*
 - 🔌 🔷 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** 🤖 R:🟡 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(986 ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(634 ⭐)*
@@ -238,8 +239,8 @@
 - ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** 🤖 R:🟢 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(439 ⭐)*
 - 📄 🔷 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** 🤖 R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(70 ⭐)*
 - 📚 🔶 **[ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)**  R:🟡 M:🟢 — Headless IDA Pro MCP Server by blacktop *(251 ⭐)*
-- 🔌 🔷 **[DSkills](https://github.com/Dianel555/DSkills)** 🧠 R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)*
 - 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(904 ⭐)*
+- 🔌 🔷 **[DSkills](https://github.com/Dianel555/DSkills)** 🧠 R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)*
 - 🔌 🔷 **[cli](https://github.com/axiomhq/cli)** 🤖 R:🟢 M:🟢 — The power of Axiom on the command line. by axiomhq *(54 ⭐)*
 - ⌨️ 🔷 **[grovr](https://github.com/j1king/grovr)** 🤖 R:🟡 M:🟢 — A native Git worktree manager for macOS by j1king *(36 ⭐)*
 - 🔌 🔶 **[convexskills](https://github.com/waynesutton/convexskills)**  R:🟡 M:🟢 — AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more. by waynesutton *(388 ⭐)*
@@ -401,8 +402,8 @@
 - 📦 ⭐ **[Claude-Zeroclaw](https://github.com/Crestdrasnip/Claude-Zeroclaw)**  R:🟡 M:🟢 — Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement. by Crestdrasnip *(109 ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:🟡 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
-- 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
 - 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
+- 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
 - 🔌 ⭐ **[jira-skill](https://github.com/netresearch/jira-skill)** 🤖 R:🟢 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(38 ⭐)*
 - 📚 ⭐ **[Mycel](https://github.com/OpenDCAI/Mycel)**  R:🟡 M:🟢 — Real world multi-agent workforce. by OpenDCAI *(97 ⭐)*
 - 🔗 ⭐ **[AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator)**  R:🟡 M:🟢 — 💡An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It integrates technologies like Express.js, MongoDB, Puppeteer, and GenAI/LLMs to deliver up-to-date, curated content to government staff and other users. by hoangsonww *(25 ⭐)*
