@@ -302,7 +302,7 @@
 - 🔌 🔶 **[exoshell](https://github.com/wquguru/exoshell)** 🤖 R:🟡 M:🟢 — A curated collection of Claude plugins and AI-assisted development skills inspired by Moltbot's atomic commit methodology🦞🐚 by wquguru *(39 ⭐)*
 - 📚  **[awesome-amp-code](https://github.com/lfglabs-dev/awesome-amp-code)**  R:🟡 M:🟢 — An unofficial curated list of resources for Amp, an AI coding agent. by lfglabs-dev *(68 ⭐)*
 - ⌨️ 🔶 **[gemini-code-flow](https://github.com/Theopsguide/gemini-code-flow)** 🤖 R:🟢 M:✅ — AI-powered development orchestration for Gemini CLI - adapted from Claude Code Flow by ruvnet by Theopsguide *(152 ⭐)*
-- 📚 🔶 **[codex-skills](https://github.com/vipulgupta2048/codex-skills)**  R:🟡 M:🟢 — Save yourself from the purple AI slop when using the Codex Frontend Skill by vipulgupta2048 *(21 ⭐)*
+- 📚 🔶 **[codex-skills](https://github.com/vipulgupta2048/codex-skills)**  R:🟡 M:🟠 — Save yourself from the purple AI slop when using the Codex Frontend Skill by vipulgupta2048 *(21 ⭐)*
 - 📄 🔶 **[promptify-skill](https://github.com/tolibear/promptify-skill)** 🤖 R:🟢 M:🟢 — Prompt optimization commands for Claude Code. Transform vague prompts into clear, effective ones. by tolibear *(39 ⭐)*
 - 🔗 🔶 **[gemini-context-mcp-server](https://github.com/ogoldberg/gemini-context-mcp-server)** 🤖🖱️🔧 R:🟡 M:🟠 — MCP server for Cursor that leverages Gemini's much larger context window to enhance the capabilities of the AI tools by ogoldberg *(29 ⭐)*
 - 🔌 🔶 **[salesably-marketplace](https://github.com/Salesably/salesably-marketplace)** 🤖 R:🟡 M:🟠 — Claude Code plugins for sales and marketing teams. Built by Salesably.ai. by Salesably *(21 ⭐)*
@@ -823,5 +823,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-02 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-03 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
