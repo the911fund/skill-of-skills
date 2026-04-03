@@ -259,7 +259,7 @@
 - 📚 🔶 **[paper-fetcher](https://github.com/fermionoid/paper-fetcher)**  R:🟡 M:🟢 — Academic paper full-text fetcher - MCP server for Claude Code with Open Access, arXiv, and EZproxy support by fermionoid *(28 ⭐)*
 - 🔗 🔶 **[MCPollinations](https://github.com/pinkpixel-dev/MCPollinations)** 🔧 R:🟡 M:🟢 — A Model Context Protocol (MCP) server that enables AI assistants to generate images, text, and audio through the Pollinations APIs. Supports customizable parameters, image saving, and multiple model options. by pinkpixel-dev *(40 ⭐)*
 - 📚 🔷 **[droid-tings](https://github.com/ovachiever/droid-tings)** 🤖 R:🟡 M:🟠 — Comprehensive collection of 100+ custom Droids & 300+ Skills for FactoryAI Droid system by ovachiever *(29 ⭐)*
-- 📄 🔷 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** 🤖 R:🟢 M:🟢 — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(44 ⭐)*
+- 📄 🔷 **[UnseveredMemory](https://github.com/blas0/UnseveredMemory)** 🤖 R:🟢 M:✅ — Simple, organic, lightweight yet purposeful memory system for Claude Code. by blas0 *(44 ⭐)*
 - ⌨️ 🔷 **[agent-io](https://github.com/carlrannaberg/agent-io)**  R:🟡 M:🟠 — Universal toolkit for AI agent CLIs that normalizes output from Claude Code, Gemini CLI, Amp Code, Cursor Agent, and other AI assistants into unified event streams by carlrannaberg *(10 ⭐)*
 - 🔗 🔷 **[clinicaltrialsgov-mcp-server](https://github.com/cyanheads/clinicaltrialsgov-mcp-server)** 🤖🔧 R:🟢 M:🟠 — A Model Context Protocol (MCP) Server providing LLM tools for the official ClinicalTrials.gov REST API. Search and retrieve clinical trial data, including study details and more by cyanheads *(63 ⭐)*
 - 🔗 🔷 **[ultrafast-mcp-sequential-thinking](https://github.com/techgopal/ultrafast-mcp-sequential-thinking)** 🤖🔧 R:🟡 M:🟠 — Rust-based MCP server for sequential thinking using UltraFast MCP. by techgopal *(15 ⭐)*
@@ -389,7 +389,7 @@
 - 🔌 🔶 **[suno-song-creator-plugin](https://github.com/nwp/suno-song-creator-plugin)** 🤖 R:🟢 M:🟢 — Suno Song Creator Skill by nwp *(17 ⭐)*
 - ⌨️ 🔶 **[quick-data-mcp](https://github.com/disler/quick-data-mcp)** 🤖 R:🟢 M:🟠 — Prompt focused MCP Server for .json and .csv agentic data analytics for Claude Code by disler *(148 ⭐)*
 - 🔗 🔶 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** 🤖🔧 R:🟡 M:🟠 — F2C MCP Server by f2c-ai *(379 ⭐)*
-- 🔌  **[investor-agent](https://github.com/ferdousbhai/investor-agent)** 🤖 R:🟡 M:🟢 — A Model Context Protocol server for building an investor agent by ferdousbhai *(320 ⭐)*
+- 🔌  **[investor-agent](https://github.com/ferdousbhai/investor-agent)** 🤖 R:🟡 M:🟠 — A Model Context Protocol server for building an investor agent by ferdousbhai *(320 ⭐)*
 - 🔌 🔶 **[claude-mem-jp](https://github.com/Chachamaru127/claude-mem-jp)** 🤖 R:🟢 M:🟠 — claude-memを検知して日本語化するためのプラグイン by Chachamaru127 *(16 ⭐)*
 - 🔗 🔶 **[mcp-chat-ui](https://github.com/ilyaev/mcp-chat-ui)** 🤖🔧 R:🟡 M:🟠 — MCP Server with Chat UI by ilyaev *(10 ⭐)*
 - 🔗  **[glados-mcp](https://github.com/halfaipg/glados-mcp)** 🤖🔧 R:🟡 M:🟠 — GLaDOS MCP Server - Glados and kokoro TTS feedback inside of your favorite MCP platform by halfaipg *(11 ⭐)*
