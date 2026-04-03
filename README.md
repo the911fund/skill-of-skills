@@ -442,7 +442,7 @@
 - ⌨️ 🔷 **[wukongbot](https://github.com/wukongrobot/wukongbot)**  R:🟡 M:🟢 — 国产化版本的clawdbot，支持接入国内各个主流企业IM平台，支持国内大模型 by wukongrobot *(15 ⭐)*
 - 📚 🔶 **[PaperClaw](https://github.com/meowscles69/PaperClaw)**  R:🟡 M:🟢 — 27 OpenClaw skills for academic research teams — literature reviews, hypothesis versioning, grant writing, lab knowledge handoffs, and more. by meowscles69 *(145 ⭐)*
 - 🔌 🔶 **[postiz-agent](https://github.com/gitroomhq/postiz-agent)**  R:🟡 M:🟢 — Postiz Agents CLI - connect it to Claude / OpenClaw / etc, to schedule social media posts 🤖 by gitroomhq *(94 ⭐)*
-- 📚 🔷 **[antigravity-agentic-skills](https://github.com/vuralserhat86/antigravity-agentic-skills)** 🤖 R:🔴 M:🟢 — OS for Agents: 130+ Agentic Skills, Gemini Protocols, and Autonomous Workflows. (Antigravity System) by vuralserhat86 *(42 ⭐)*
+- 📚 🔷 **[antigravity-agentic-skills](https://github.com/vuralserhat86/antigravity-agentic-skills)** 🤖 R:🔴 M:🟠 — OS for Agents: 130+ Agentic Skills, Gemini Protocols, and Autonomous Workflows. (Antigravity System) by vuralserhat86 *(42 ⭐)*
 - 📚 🔷 **[ai-investment-advisor](https://github.com/AllenAI2014/ai-investment-advisor)** 🧠 R:🟡 M:🟢 — 让 Claude/Codex/Gemini 三个 AI 组成你的私人投资委员会 by AllenAI2014 *(92 ⭐)*
 - ⌨️ 🔶 **[code-pilot](https://github.com/ysicing/code-pilot)** 🤖 R:🟢 M:🟢 — claude code workflow by ysicing *(37 ⭐)*
 - 🔌 🔷 **[meta-cc](https://github.com/yaleh/meta-cc)** 🤖 R:🟢 M:🟠 — Meta-Cognition tool for Claude Code - analyze session history for workflow optimization. by yaleh *(16 ⭐)*
