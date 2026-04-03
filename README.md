@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-666-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-667-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-1174k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-1175k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**666 skills** across 10 skill types | 🤖 claude code: 662 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**667 skills** across 10 skill types | 🤖 claude code: 663 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔌  **[onchainos-skills](https://github.com/okx/onchainos-skills)**  R:🟡 M:🟢 — Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting. by okx *(187 ⭐)* — discovered Apr 3
 - 📚  **[Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)**  R:🟡 M:🟢 — Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools. by Armur-Ai *(216 ⭐)* — discovered Apr 3
-- 🔗  **[NovyWave](https://github.com/NovyWave/NovyWave)**  R:🟡 M:🟢 — Modern GTKWave alternative by NovyWave *(42 ⭐)* — discovered Apr 2
 - 📄  **[nicar2026_skills_in_codex_claude](https://github.com/amkessler/nicar2026_skills_in_codex_claude)**  R:🟡 M:🟢 — Materials for NICAR 2026 session on using "skills" to aid in more reliable, reproducible analysis tasks when using Codex and Claude Code by amkessler *(15 ⭐)* — discovered Apr 2
+- 🔗  **[NovyWave](https://github.com/NovyWave/NovyWave)**  R:🟡 M:🟢 — Modern GTKWave alternative by NovyWave *(42 ⭐)* — discovered Apr 2
 - 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)* — discovered Apr 2
-- ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)* — discovered Apr 2
 
 ---
 
@@ -134,8 +134,8 @@
 - 📚 🔷 **[native-cli-ai](https://github.com/madebyaris/native-cli-ai)**  R:🟡 M:🟢 — A native Rust CLI  for orchestrating AI agents across projects, with persistent sessions, worktrees, and local-first control. by madebyaris *(44 ⭐)*
 - 🔌 🔷 **[Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)**  R:🟡 M:🟢 — An agent skill focused entirely on Swift Testing, helping you write better tests, migrate from XCTest, improve test architecture, and adopt modern Swift testing patterns with confidence. by AvdLee *(325 ⭐)*
 - ⌨️ 🔷 **[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)** 🤖 R:🟢 M:🟢 — Master Claude Code Hooks by disler *(3.5k ⭐)*
-- ⌨️ 🔷 **[openapi-schemas](https://github.com/vtex/openapi-schemas)**  R:🟡 M:🟢 — OpenAPI 3.0 JSON schemas. Files are automatically synced to the VTEX Developer Portal. by vtex *(114 ⭐)*
 - ⌨️ 🔷 **[message-segment-calculator](https://github.com/TwilioDevEd/message-segment-calculator)**  R:🟡 M:🟢 — JS-based tool to calculate and display message segmentation data for a given message body by TwilioDevEd *(114 ⭐)*
+- ⌨️ 🔷 **[openapi-schemas](https://github.com/vtex/openapi-schemas)**  R:🟡 M:🟢 — OpenAPI 3.0 JSON schemas. Files are automatically synced to the VTEX Developer Portal. by vtex *(114 ⭐)*
 - 🔌 ⭐ **[lex](https://github.com/i-dot-ai/lex)** 🤖 R:🟢 M:🟢 — UK legal API for AI agents and researchers. by i-dot-ai *(38 ⭐)*
 - 📚 🔷 **[WAVS](https://github.com/Lay3rLabs/WAVS)**  R:🟡 M:🟢 — A WASI AVS runtime. by Lay3rLabs *(28 ⭐)*
 - 🔗 ⭐ **[cloud-native-ref](https://github.com/Smana/cloud-native-ref)** 🤖🔧 R:🟡 M:🟢 — Opiniated Cloud Native Platform Reference by Smana *(93 ⭐)*
@@ -292,8 +292,8 @@
 - ⌨️ 🔶 **[platform-design-skills](https://github.com/ehmo/platform-design-skills)** 🤖🧠 R:🟢 M:🟢 — Agent skills for building and evaluating apps against official design guidelines. 300+ actionable rules for iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android,   and Web — distilled from Apple HIG, Material Design 3, and WCAG 2.2. Works with Claude Code, Codex, and any agent that supports the Agent Skills format. by ehmo *(310 ⭐)*
 - 🔗 🔷 **[obsidian-mcp-server-enhanced](https://github.com/BoweyLou/obsidian-mcp-server-enhanced)** 🤖🔧 R:🟡 M:🟠 — This is an enhanced version of the excellent cyanheads/obsidian-mcp-server with additional features specifically tailored for remote Claude.ai integration, advanced task querying, and security via Tailscale. by BoweyLou *(25 ⭐)*
 - 📄 🔶 **[jshook-skill](https://github.com/wuji66dde/jshook-skill)**  R:🟡 M:🟢 — AI-powered JS reverse engineering: deobfuscation, crypto detection, CDP debugging, hook injection, anti-detection |   AI驱动JS逆向：反混淆、加密识别、CDP调试、Hook注入、反检测 by wuji66dde *(114 ⭐)*
-- ⌨️ 🔶 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🟡 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(320 ⭐)*
 - 🔌 🔶 **[protein-design-skills](https://github.com/adaptyvbio/protein-design-skills)** 🤖 R:🟢 M:🟢 — Claude Code skills for protein design by adaptyvbio *(120 ⭐)*
+- ⌨️ 🔶 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🟡 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(320 ⭐)*
 - ⌨️ 🔶 **[copilot-mcp](https://github.com/VikashLoomba/copilot-mcp)** 🤖🧠 R:🟢 M:✅ — A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot, Claude Code, and Codex CLI. by VikashLoomba *(482 ⭐)*
 - 🔗 🔶 **[lexguard-mcp](https://github.com/SeoNaRu/lexguard-mcp)**  R:🟡 M:🟢 — 일반인들이 AI를 통해 법률 정보를 쉽게 조회할 수 있는 MCP 서버. 법령 검색, 조문 조회, 판례 검색 등 159개 API 지원. by SeoNaRu *(69 ⭐)*
 - ⌨️ 🔶 **[execute_code_py](https://github.com/rvantonder/execute_code_py)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment. by rvantonder *(58 ⭐)*
@@ -729,6 +729,7 @@
 - ⌨️ 🔶 **[ramadan-cli](https://github.com/ahmadawais/ramadan-cli)**  R:🟡 M:🟢 — CLI to check Sehar and Iftar times in Ramadan anywhere in the world. by ahmadawais *(605 ⭐)*
 - 📚 🔶 **[system-prompts-and-models-of-ai-tools-chinese](https://github.com/CreatorEdition/system-prompts-and-models-of-ai-tools-chinese)**  R:🟡 M:🟢 — AI编程工具中文提示词合集，包含Cursor、Antigravity、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。 by CreatorEdition *(184 ⭐)*
 - 📚  **[neovim-ai-plugins](https://github.com/ColinKennedy/neovim-ai-plugins)**  R:🟡 M:🟢 — A list of Neovim AI community plugins by ColinKennedy *(200 ⭐)*
+- ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)*
 
 ---
 
