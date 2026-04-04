@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-676-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-677-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-1176k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**676 skills** across 10 skill types | 🤖 claude code: 672 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**677 skills** across 10 skill types | 🤖 claude code: 673 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 🔌  **[geoai-skills](https://github.com/opengeos/geoai-skills)**  R:🟡 M:🟢 — A Claude Code plugin that adds GeoAI-powered skills for data exploration and session memory. by opengeos *(13 ⭐)* — discovered Apr 4
 - 📚  **[mlx-LLM-cheatsheet](https://github.com/cavit99/mlx-LLM-cheatsheet)**  R:🟡 M:🟢 — This repo maintains a 'cheat sheet' for LLMs that are undertrained on mlx by cavit99 *(32 ⭐)* — discovered Apr 4
 - 📚  **[AgentBar](https://github.com/scari/AgentBar)**  R:🟡 M:🟢 — AgentBar is a macOS menu bar app that tracks AI coding assistant usage in one place. by scari *(40 ⭐)* — discovered Apr 4
 - 📄  **[ntm](https://github.com/Dicklesworthstone/ntm)**  R:🟡 M:🟢 — Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette by Dicklesworthstone *(226 ⭐)* — discovered Apr 4
 - ⌨️  **[openclaw-cn](https://github.com/YeSongYun/openclaw-cn)**  R:🟡 M:🟢 — clawdbot-dmxapi汉化版本 by YeSongYun *(55 ⭐)* — discovered Apr 4
-- ⌨️  **[openclawvn](https://github.com/nclamvn/openclawvn)**  R:🟡 M:🟢 — OpenClaw Vietnam Edition - AI Gateway Platform with Vietnamese localization by nclamvn *(54 ⭐)* — discovered Apr 4
 
 ---
 
@@ -240,8 +240,8 @@
 - ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** 🤖 R:🟢 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(439 ⭐)*
 - 📄 🔷 **[ccprompts](https://github.com/ursisterbtw/ccprompts)** 🤖 R:🟡 M:🟢 — practical claude code commands and subagents by ursisterbtw *(70 ⭐)*
 - 📚 🔶 **[ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)**  R:🟡 M:🟢 — Headless IDA Pro MCP Server by blacktop *(251 ⭐)*
-- 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(904 ⭐)*
 - 🔌 🔷 **[DSkills](https://github.com/Dianel555/DSkills)** 🧠 R:🟡 M:🟢 — CLI tools skills for AI coding assistants (Claude Code, Codex, Gemini CLI). by Dianel555 *(64 ⭐)*
+- 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(904 ⭐)*
 - 🔌 🔷 **[cli](https://github.com/axiomhq/cli)** 🤖 R:🟢 M:🟢 — The power of Axiom on the command line. by axiomhq *(54 ⭐)*
 - ⌨️ 🔷 **[grovr](https://github.com/j1king/grovr)** 🤖 R:🟡 M:🟢 — A native Git worktree manager for macOS by j1king *(36 ⭐)*
 - 🔌 🔶 **[convexskills](https://github.com/waynesutton/convexskills)**  R:🟡 M:🟢 — AI agent skills and templates for building production ready apps with Convex. Patterns for queries, mutations, cron jobs, webhooks, migrations, and more. by waynesutton *(388 ⭐)*
@@ -280,7 +280,7 @@
 - 🔌 🔶 **[x64dbg-skills](https://github.com/dariushoule/x64dbg-skills)**  R:🟡 M:🟢 — Claude Code plugin providing skills for x64dbg debugger automation by dariushoule *(103 ⭐)*
 - 🔌 🔶 **[demo-claude-marketplace](https://github.com/mrlm-xyz/demo-claude-marketplace)** 🤖 R:🟢 M:🟢 — Dummy and naive demonstration template of custom Claude Code plugins marketplace structure. by mrlm-xyz *(26 ⭐)*
 - 🔌 🔶 **[claude-marketplace-elixir](https://github.com/bradleygolden/claude-marketplace-elixir)** 🤖 R:🟢 M:🟢 — Claude Marketplace for Elixir by bradleygolden *(172 ⭐)*
-- ⌨️ 🔶 **[i-love-claude-code](https://github.com/alchemiststudiosDOTai/i-love-claude-code)** 🤖 R:🟢 M:🟢 — Claude Code discussion of shortcuts, automation, hacks and overall productivity with Claude Code by alchemiststudiosDOTai *(86 ⭐)*
+- ⌨️ 🔶 **[i-love-claude-code](https://github.com/alchemiststudiosDOTai/i-love-claude-code)** 🤖 R:🟢 M:🟠 — Claude Code discussion of shortcuts, automation, hacks and overall productivity with Claude Code by alchemiststudiosDOTai *(86 ⭐)*
 - 🔌 🔶 **[claude-mermaid](https://github.com/veelenga/claude-mermaid)** 🤖 R:🟢 M:🟢 — MCP Server to previewing mermaid diagrams by veelenga *(115 ⭐)*
 - 🔗 🔷 **[workflows-mcp-server](https://github.com/cyanheads/workflows-mcp-server)** 🤖🔧 R:🟡 M:🟠 — Model Context Protocol server that enables AI agents to discover, create, and execute complex, multi-step workflows defined in simple YAML files. Allow your AI agents to better organize their tool usage and provide a more structured way to handle complex multi-step tasks. by cyanheads *(29 ⭐)*
 - 🔗 🔷 **[markdown-journal-rust](https://github.com/estevaom/markdown-journal-rust)** 🤖🔧 R:🟢 M:🟠 — RAG to index md files accessible via Rust scripts by estevaom *(24 ⭐)*
@@ -292,8 +292,8 @@
 - ⌨️ 🔶 **[platform-design-skills](https://github.com/ehmo/platform-design-skills)** 🤖🧠 R:🟢 M:🟢 — Agent skills for building and evaluating apps against official design guidelines. 300+ actionable rules for iOS, iPadOS, macOS, watchOS, visionOS, tvOS, Android,   and Web — distilled from Apple HIG, Material Design 3, and WCAG 2.2. Works with Claude Code, Codex, and any agent that supports the Agent Skills format. by ehmo *(310 ⭐)*
 - 🔗 🔷 **[obsidian-mcp-server-enhanced](https://github.com/BoweyLou/obsidian-mcp-server-enhanced)** 🤖🔧 R:🟡 M:🟠 — This is an enhanced version of the excellent cyanheads/obsidian-mcp-server with additional features specifically tailored for remote Claude.ai integration, advanced task querying, and security via Tailscale. by BoweyLou *(25 ⭐)*
 - 📄 🔶 **[jshook-skill](https://github.com/wuji66dde/jshook-skill)**  R:🟡 M:🟢 — AI-powered JS reverse engineering: deobfuscation, crypto detection, CDP debugging, hook injection, anti-detection |   AI驱动JS逆向：反混淆、加密识别、CDP调试、Hook注入、反检测 by wuji66dde *(114 ⭐)*
-- 🔌 🔶 **[protein-design-skills](https://github.com/adaptyvbio/protein-design-skills)** 🤖 R:🟢 M:🟢 — Claude Code skills for protein design by adaptyvbio *(120 ⭐)*
 - ⌨️ 🔶 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🟡 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(320 ⭐)*
+- 🔌 🔶 **[protein-design-skills](https://github.com/adaptyvbio/protein-design-skills)** 🤖 R:🟢 M:🟢 — Claude Code skills for protein design by adaptyvbio *(120 ⭐)*
 - ⌨️ 🔶 **[copilot-mcp](https://github.com/VikashLoomba/copilot-mcp)** 🤖🧠 R:🟢 M:✅ — A powerful VSCode extension that lets you find and install MCP servers to use with GitHub Copilot, Claude Code, and Codex CLI. by VikashLoomba *(482 ⭐)*
 - 🔗 🔶 **[lexguard-mcp](https://github.com/SeoNaRu/lexguard-mcp)**  R:🟡 M:🟢 — 일반인들이 AI를 통해 법률 정보를 쉽게 조회할 수 있는 MCP 서버. 법령 검색, 조문 조회, 판례 검색 등 159개 API 지원. by SeoNaRu *(69 ⭐)*
 - ⌨️ 🔶 **[execute_code_py](https://github.com/rvantonder/execute_code_py)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that restricts Claude to ONLY use Python code execution. All other tools are blocked, creating a pure computational environment. by rvantonder *(58 ⭐)*
@@ -403,8 +403,8 @@
 - 📦 ⭐ **[Claude-Zeroclaw](https://github.com/Crestdrasnip/Claude-Zeroclaw)**  R:🟡 M:🟢 — Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement. by Crestdrasnip *(109 ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:🟡 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
-- 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
 - 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
+- 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
 - 🔌 ⭐ **[jira-skill](https://github.com/netresearch/jira-skill)** 🤖 R:🟢 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(38 ⭐)*
 - 📚 ⭐ **[Mycel](https://github.com/OpenDCAI/Mycel)**  R:🟡 M:🟢 — Real world multi-agent workforce. by OpenDCAI *(97 ⭐)*
 - 🔗 ⭐ **[AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator)**  R:🟡 M:🟢 — 💡An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It integrates technologies like Express.js, MongoDB, Puppeteer, and GenAI/LLMs to deliver up-to-date, curated content to government staff and other users. by hoangsonww *(25 ⭐)*
@@ -496,8 +496,8 @@
 - 🔗 🔷 **[cornelius](https://github.com/Abilityai/cornelius)**  R:🟡 M:🟢 — AI-powered second brain template for Claude Code + Obsidian by Abilityai *(79 ⭐)*
 - 🔌 🔷 **[everything-react-native-expo](https://github.com/JubaKitiashvili/everything-react-native-expo)**  R:🟡 M:🟢 — Complete AI coding agent harness for React Native and Expo development by JubaKitiashvili *(27 ⭐)*
 - ⌨️ 🔷 **[litestar-fullstack-inertia](https://github.com/litestar-org/litestar-fullstack-inertia)** 🤖 R:🟡 M:🟢 — A fully-functional reference application using Litestar, Inertia JS, and Advanced Alchemy by litestar-org *(40 ⭐)*
-- 📄 🔷 **[on-page-agent](https://github.com/gbessoni/on-page-agent)**  R:🟡 M:🟢 — On Page Agent -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
 - 📄 🔷 **[seo-agi](https://github.com/gbessoni/seo-agi)**  R:🟡 M:🟢 — SEO AGI -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK for GSC, Ahrefs, SEMRush. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
+- 📄 🔷 **[on-page-agent](https://github.com/gbessoni/on-page-agent)**  R:🟡 M:🟢 — On Page Agent -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
 - 📚 🔷 **[ten-builder](https://github.com/ten-builder/ten-builder)**  R:🟡 M:🟢 — AI로 10배 빠르게 빌드하는 방법, 직접 써보고 검증한 AI 실전 노하우 by ten-builder *(78 ⭐)*
 - 📚 🔷 **[mycc](https://github.com/Aster110/mycc)**  R:🟡 M:🟢 — MyCC - 让 Claude Code 跑在手机上 | Run Claude Code from your phone by Aster110 *(164 ⭐)*
 - ⌨️ 🔷 **[aily-blockly](https://github.com/ailyProject/aily-blockly)**  R:🟡 M:🟢 — AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x... by ailyProject *(1.9k ⭐)*
@@ -564,7 +564,7 @@
 - 🔌 🔶 **[lisa](https://github.com/blencorp/lisa)** 🤖 R:🟡 M:🟢 — Lisa plans. Ralph does. Interactive specification interview workflow for Claude Code that conducts in-depth feature interviews and generates comprehensive specs. by blencorp *(120 ⭐)*
 - 🔌 🔷 **[fluxwing-skills](https://github.com/trabian/fluxwing-skills)** 🤖 R:🟢 M:🟠 — Claude skills for generating ASCII components and screens for humans to review, and AI to build from. by trabian *(14 ⭐)*
 - 🔌 🔶 **[shipspec-claude-code-plugin](https://github.com/jsegov/shipspec-claude-code-plugin)** 🤖 R:🟡 M:🟢 — Spec Driven Development Plugin for Claude Code by jsegov *(18 ⭐)*
-- 🔗 🔶 **[flowbite-mcp](https://github.com/themesberg/flowbite-mcp)** 🤖🔧 R:🟢 M:🟢 — Convert Figma design to code with the official Flowbite MCP server by themesberg *(31 ⭐)*
+- 🔗 🔶 **[flowbite-mcp](https://github.com/themesberg/flowbite-mcp)** 🤖🔧 R:🟢 M:✅ — Convert Figma design to code with the official Flowbite MCP server by themesberg *(31 ⭐)*
 - 🔌 🔶 **[tiger-style](https://github.com/M64GitHub/tiger-style)** 🤖 R:🟡 M:🟢 — TigerStyle skill - Tigerbeetle style code for your coding agent by M64GitHub *(17 ⭐)*
 - ⌨️ 🔶 **[agent-rules-kit](https://github.com/tecnomanu/agent-rules-kit)**  R:🟡 M:🟠 — Bootstrap of Cursor rules (.mdc) and mirror documentation (.md) for AI agent-guided projects. by tecnomanu *(32 ⭐)*
 - 🔗 🔶 **[dynamo-mcp](https://github.com/ruvnet/dynamo-mcp)** 🤖🔧 R:🟢 M:🟠 — A dyamic MCP Registry using Cookiecutter templates by ruvnet *(46 ⭐)*
@@ -730,15 +730,16 @@
 - 📚 🔶 **[system-prompts-and-models-of-ai-tools-chinese](https://github.com/CreatorEdition/system-prompts-and-models-of-ai-tools-chinese)**  R:🟡 M:🟢 — AI编程工具中文提示词合集，包含Cursor、Antigravity、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。 by CreatorEdition *(184 ⭐)*
 - 📚  **[neovim-ai-plugins](https://github.com/ColinKennedy/neovim-ai-plugins)**  R:🟡 M:🟢 — A list of Neovim AI community plugins by ColinKennedy *(200 ⭐)*
 - 🔗  **[ralph-loop](https://github.com/PageAI-Pro/ralph-loop)**  R:🟡 M:🟢 — A long-running AI agent loop. Ralph automates software development tasks by iteratively working through a task list until completion. by PageAI-Pro *(178 ⭐)*
-- 🔌  **[naksha-studio](https://github.com/Adityaraj0421/naksha-studio)**  R:🟡 M:🟢 — A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal. by Adityaraj0421 *(249 ⭐)*
-- ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)*
-- 📚  **[gobby](https://github.com/GobbyAI/gobby)**  R:🟡 M:🟢 — A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks. by GobbyAI *(14 ⭐)*
-- 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)*
 - 📄  **[nicar2026_skills_in_codex_claude](https://github.com/amkessler/nicar2026_skills_in_codex_claude)**  R:🟡 M:🟢 — Materials for NICAR 2026 session on using "skills" to aid in more reliable, reproducible analysis tasks when using Codex and Claude Code by amkessler *(15 ⭐)*
+- 📚  **[gobby](https://github.com/GobbyAI/gobby)**  R:🟡 M:🟢 — A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks. by GobbyAI *(14 ⭐)*
 - 🔗  **[NovyWave](https://github.com/NovyWave/NovyWave)**  R:🟡 M:🟢 — Modern GTKWave alternative by NovyWave *(42 ⭐)*
+- ⌨️  **[openclawvn](https://github.com/nclamvn/openclawvn)**  R:🟡 M:🟢 — OpenClaw Vietnam Edition - AI Gateway Platform with Vietnamese localization by nclamvn *(54 ⭐)*
 - 📚  **[Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)**  R:🟡 M:🟢 — Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools. by Armur-Ai *(216 ⭐)*
-- 🔌  **[paceflow](https://github.com/paceaitian/paceflow)**  R:🟡 M:🟢 — PACEflow — Claude Code 工作流强制执行系统 (Plan-Artifact-Check-Execute-Verify) by paceaitian *(28 ⭐)*
 - 🔌  **[onchainos-skills](https://github.com/okx/onchainos-skills)**  R:🟡 M:🟢 — Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting. by okx *(187 ⭐)*
+- 🔌  **[paceflow](https://github.com/paceaitian/paceflow)**  R:🟡 M:🟢 — PACEflow — Claude Code 工作流强制执行系统 (Plan-Artifact-Check-Execute-Verify) by paceaitian *(28 ⭐)*
+- ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)*
+- 🔌  **[naksha-studio](https://github.com/Adityaraj0421/naksha-studio)**  R:🟡 M:🟢 — A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal. by Adityaraj0421 *(249 ⭐)*
+- 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)*
 
 ---
 
