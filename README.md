@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-671-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-673-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-1175k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**671 skills** across 10 skill types | 🤖 claude code: 667 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
+**673 skills** across 10 skill types | 🤖 claude code: 669 | 🔧 generic: 60 | 🧠 codex: 18 | 🖱️ cursor: 13 | 🏄 windsurf: 4 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- ⌨️  **[openclaw-cn](https://github.com/YeSongYun/openclaw-cn)**  R:🟡 M:🟢 — clawdbot-dmxapi汉化版本 by YeSongYun *(55 ⭐)* — discovered Apr 4
+- ⌨️  **[openclawvn](https://github.com/nclamvn/openclawvn)**  R:🟡 M:🟢 — OpenClaw Vietnam Edition - AI Gateway Platform with Vietnamese localization by nclamvn *(54 ⭐)* — discovered Apr 4
 - 🔗  **[ralph-loop](https://github.com/PageAI-Pro/ralph-loop)**  R:🟡 M:🟢 — A long-running AI agent loop. Ralph automates software development tasks by iteratively working through a task list until completion. by PageAI-Pro *(178 ⭐)* — discovered Apr 4
 - 🔌  **[paceflow](https://github.com/paceaitian/paceflow)**  R:🟡 M:🟢 — PACEflow — Claude Code 工作流强制执行系统 (Plan-Artifact-Check-Execute-Verify) by paceaitian *(28 ⭐)* — discovered Apr 4
 - 🔌  **[naksha-studio](https://github.com/Adityaraj0421/naksha-studio)**  R:🟡 M:🟢 — A virtual design team for Claude Code, Cursor, Windsurf, Gemini CLI, and Copilot — 26 roles, 60 commands, 13,800+ lines of expert design knowledge. Your agency's design brain, inside your terminal. by Adityaraj0421 *(249 ⭐)* — discovered Apr 4
-- 📚  **[gobby](https://github.com/GobbyAI/gobby)**  R:🟡 M:🟢 — A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks. by GobbyAI *(14 ⭐)* — discovered Apr 3
-- 🔌  **[onchainos-skills](https://github.com/okx/onchainos-skills)**  R:🟡 M:🟢 — Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting. by okx *(187 ⭐)* — discovered Apr 3
 
 ---
 
@@ -204,8 +204,8 @@
 - 🔌 🔷 **[markdown-provenance](https://github.com/rickmanelius/markdown-provenance)** 🤖 R:🟡 M:🟢 — A Claude Claude slash command to establish strong provenance for any markdown file (fingerprints with IPFS and stores in Arweave) by rickmanelius *(10 ⭐)*
 - 📚 🔷 **[summon](https://github.com/codeyousef/summon)**  R:🟡 M:🟢 — A Kotlin Multiplatform frontend library to create standalone websites or frontends with your favorite JVM backend framework by codeyousef *(155 ⭐)*
 - 🔌 🔷 **[freee-mcp](https://github.com/freee/freee-mcp)** 🤖 R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(387 ⭐)*
-- ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.5k ⭐)*
 - 📚 🔷 **[bridle](https://github.com/neiii/bridle)**  R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(407 ⭐)*
+- ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.5k ⭐)*
 - 🔌 🔷 **[plugin-for-claude-research](https://github.com/hongsw/plugin-for-claude-research)**  R:🟡 M:🟢 — Universal Research Framework for Claude Code - Conversational intent analysis to structured research pipeline for any domain by hongsw *(17 ⭐)*
 - 📚 🔷 **[codex-mcp-rs](https://github.com/missdeer/codex-mcp-rs)**  R:🟡 M:🟢 — codex-mcp-rs is a Rust-based MCP (Model Context Protocol) server that serves as a bridge for Codex CLI, enabling various AI coding assistants (such as Claude Code, Roo Code, KiloCode, etc.) to seamlessly collaborate with Codex. by missdeer *(17 ⭐)*
 - 🔌 🔷 **[agent-cli](https://github.com/basnijholt/agent-cli)** 🤖 R:🟡 M:🟢 — A suite of local AI-powered command-line tools by basnijholt *(171 ⭐)*
@@ -403,8 +403,8 @@
 - 📦 ⭐ **[Claude-Zeroclaw](https://github.com/Crestdrasnip/Claude-Zeroclaw)**  R:🟡 M:🟢 — Claude-Zeroclaw — claude zeroclaw keyword code research. Open-source tool for automation and enhancement. by Crestdrasnip *(109 ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:🟡 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
-- 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
 - 🔌 ⭐ **[cc-best](https://github.com/xiaobei930/cc-best)**  R:🟡 M:🟢 — 🎭 cc-best: Turn Claude Code into a full dev team — PM→Lead→Dev→QA autonomous workflow. 40 commands · 17 skills · 8 agents · 33 rules · 21 hooks · auto-learning pipeline. | 一个插件，完整开发团队。 by xiaobei930 *(37 ⭐)*
+- 📚 ⭐ **[EloPhanto](https://github.com/elophanto/EloPhanto)**  R:🟡 M:🟢 — Open-source AI agent that builds zero-human businesses, grows audiences, ships code, all autonomously. by elophanto *(37 ⭐)*
 - 🔌 ⭐ **[jira-skill](https://github.com/netresearch/jira-skill)** 🤖 R:🟢 M:🟢 — Agent Skill for intelligent Jira integration with MCP config and wiki markup | Claude Code compatible by netresearch *(38 ⭐)*
 - 📚 ⭐ **[Mycel](https://github.com/OpenDCAI/Mycel)**  R:🟡 M:🟢 — Real world multi-agent workforce. by OpenDCAI *(97 ⭐)*
 - 🔗 ⭐ **[AI-Gov-Content-Curator](https://github.com/hoangsonww/AI-Gov-Content-Curator)**  R:🟡 M:🟢 — 💡An end-to-end solution for aggregating, summarizing, and displaying news articles using an AI-powered backend, an automated CRON crawler & newsletter emailer, and a responsive Next.js frontend. It integrates technologies like Express.js, MongoDB, Puppeteer, and GenAI/LLMs to deliver up-to-date, curated content to government staff and other users. by hoangsonww *(25 ⭐)*
@@ -496,8 +496,8 @@
 - 🔗 🔷 **[cornelius](https://github.com/Abilityai/cornelius)**  R:🟡 M:🟢 — AI-powered second brain template for Claude Code + Obsidian by Abilityai *(79 ⭐)*
 - 🔌 🔷 **[everything-react-native-expo](https://github.com/JubaKitiashvili/everything-react-native-expo)**  R:🟡 M:🟢 — Complete AI coding agent harness for React Native and Expo development by JubaKitiashvili *(27 ⭐)*
 - ⌨️ 🔷 **[litestar-fullstack-inertia](https://github.com/litestar-org/litestar-fullstack-inertia)** 🤖 R:🟡 M:🟢 — A fully-functional reference application using Litestar, Inertia JS, and Advanced Alchemy by litestar-org *(40 ⭐)*
-- 📄 🔷 **[seo-agi](https://github.com/gbessoni/seo-agi)**  R:🟡 M:🟢 — SEO AGI -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK for GSC, Ahrefs, SEMRush. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
 - 📄 🔷 **[on-page-agent](https://github.com/gbessoni/on-page-agent)**  R:🟡 M:🟢 — On Page Agent -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK GSC, DataforSEO. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
+- 📄 🔷 **[seo-agi](https://github.com/gbessoni/seo-agi)**  R:🟡 M:🟢 — SEO AGI -- The first AI agent that writes pages Google ranks AND LLMs cite. One command in, ranking page out. Built on DeerFlow, powered by 2026 SEO + GEO strategies tested / working. Forensic competitive analysis, 500-token chunk architecture, entity consensus, verification tags. BYOK for GSC, Ahrefs, SEMRush. Works w/ OpenClaw, Claude Code, Codex by gbessoni *(146 ⭐)*
 - 📚 🔷 **[ten-builder](https://github.com/ten-builder/ten-builder)**  R:🟡 M:🟢 — AI로 10배 빠르게 빌드하는 방법, 직접 써보고 검증한 AI 실전 노하우 by ten-builder *(78 ⭐)*
 - 📚 🔷 **[mycc](https://github.com/Aster110/mycc)**  R:🟡 M:🟢 — MyCC - 让 Claude Code 跑在手机上 | Run Claude Code from your phone by Aster110 *(164 ⭐)*
 - ⌨️ 🔷 **[aily-blockly](https://github.com/ailyProject/aily-blockly)**  R:🟡 M:🟢 — AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x... by ailyProject *(1.9k ⭐)*
@@ -545,7 +545,7 @@
 - 🔌 🔷 **[laravel-herd-worktree](https://github.com/harris21/laravel-herd-worktree)** 🤖 R:🟡 M:🟢 — A Claude Code skill that automates setting up git worktrees for Laravel projects served by Laravel Herd. by harris21 *(62 ⭐)*
 - 🔌 🔷 **[revealjs-skill](https://github.com/ryanbbrown/revealjs-skill)**  R:🟡 M:🟢 — Claude Code skill for making reveal.js presentations by ryanbbrown *(244 ⭐)*
 - 🔌 🔷 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**  R:🟡 M:🟢 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(355 ⭐)*
-- 🔌 🔷 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** 🤖 R:🟡 M:🟢 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(35 ⭐)*
+- 🔌 🔷 **[the-llm-council](https://github.com/sherifkozman/the-llm-council)** 🤖 R:🟡 M:🟠 — A Claude Code framework for multi-llm planning and development agents by sherifkozman *(35 ⭐)*
 - ⌨️ 🔷 **[claude-multiagent-boiler-plate](https://github.com/waroi/claude-multiagent-boiler-plate)**  R:🟡 M:🟢 — Claude, Gemini, Codex work together :) by waroi *(13 ⭐)*
 - 🔌 🔶 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** 🤖 R:🟡 M:🟢 — Build App with Makepad and AI skills by ZhangHanDong *(732 ⭐)*
 - 🔌 🔷 **[claude-conductor](https://github.com/lackeyjb/claude-conductor)** 🤖 R:🟢 M:🟠 — Context-Driven Development framework for Claude Code. Inspired by https://github.com/gemini-cli-extensions/conductor by lackeyjb *(12 ⭐)*
@@ -730,10 +730,12 @@
 - 📚 🔶 **[system-prompts-and-models-of-ai-tools-chinese](https://github.com/CreatorEdition/system-prompts-and-models-of-ai-tools-chinese)**  R:🟡 M:🟢 — AI编程工具中文提示词合集，包含Cursor、Antigravity、VSCode Agent等多种AI编程工具的提示词，为中文开发者提供AI辅助编程参考资源。持续更新中文编程Rules和最新AI编程提示词。 by CreatorEdition *(184 ⭐)*
 - 📚  **[neovim-ai-plugins](https://github.com/ColinKennedy/neovim-ai-plugins)**  R:🟡 M:🟢 — A list of Neovim AI community plugins by ColinKennedy *(200 ⭐)*
 - ⌨️  **[FiestaBoard](https://github.com/Fiestaboard/FiestaBoard)**  R:🟡 M:🟢 — Fiestaboard by Fiestaboard *(14 ⭐)*
+- 📚  **[gobby](https://github.com/GobbyAI/gobby)**  R:🟡 M:🟢 — A local-first daemon to unify your AI coding tools. Session tracking and handoffs across Claude Code, Gemini CLI, and Codex. An MCP proxy that discovers tools without flooding context. Task management with dependencies, validation, and TDD expansion. Agent spawning and worktree orchestration. Persistent memory, extensible workflows, and hooks. by GobbyAI *(14 ⭐)*
+- 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)*
 - 📄  **[nicar2026_skills_in_codex_claude](https://github.com/amkessler/nicar2026_skills_in_codex_claude)**  R:🟡 M:🟢 — Materials for NICAR 2026 session on using "skills" to aid in more reliable, reproducible analysis tasks when using Codex and Claude Code by amkessler *(15 ⭐)*
 - 🔗  **[NovyWave](https://github.com/NovyWave/NovyWave)**  R:🟡 M:🟢 — Modern GTKWave alternative by NovyWave *(42 ⭐)*
 - 📚  **[Pentest-Swarm-AI](https://github.com/Armur-Ai/Pentest-Swarm-AI)**  R:🟡 M:🟢 — Autonomous penetration testing using a swarm of AI agents. Orchestrates recon, classification, exploitation, and reporting specialists with ReAct reasoning — supports bug bounty, continuous monitoring, and CTF modes. Built with Go, Claude API, and 7+ native security tools. by Armur-Ai *(216 ⭐)*
-- 🔗  **[Amadeus-QQ-MCP](https://github.com/JulesLiu390/Amadeus-QQ-MCP)**  R:🟡 M:🟢 — 一个可以让你的OpenClaw和支持MCP的agent接入QQ进行私聊或者群聊的MCP。El-psy-congroo. by JulesLiu390 *(15 ⭐)*
+- 🔌  **[onchainos-skills](https://github.com/okx/onchainos-skills)**  R:🟡 M:🟢 — Skills for AI agents to integrate with the OKX OnchainOS API — Wallet, token discovery, market data, DEX swap, and transaction broadcasting. by okx *(187 ⭐)*
 
 ---
 
