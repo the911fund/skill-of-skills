@@ -5,6 +5,14 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.1] - 2026-04-05
+
+### Changed
+- **200-star minimum** — all discovery sources now enforce a 200-star minimum for admission (official vendors exempt)
+- **Purged 459 sub-threshold tools** — deactivated tools below 200 stars, reducing active set from 684 to 225 quality-filtered tools
+- **Seeded with 248 trending repos** — scraped GitHub Trending (daily/weekly/monthly) + GitHub search for AI repos created in last 60 days, all quality-scored and AI-categorized
+- **Final directory: 473 active tools** with avg 7,239 stars, 3.4M total stars across 10 categories
+
 ## [3.3.0] - 2026-04-05
 
 ### Added
