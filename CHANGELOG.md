@@ -8,9 +8,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [3.3.1] - 2026-04-05
 
 ### Changed
+- **Virality-first scoring methodology** — composite score reweighted to 35% virality + 25% star gravity + 20% quality + 10% recency + 10% social (was 55% quality + 15% each for popularity/recency/momentum)
+- **Logarithmic scaling** — all score components now use log10 normalization instead of linear caps, creating meaningful spread across orders of magnitude (1 star/day through 1,000+/day)
+- **Trending score overhauled** — 50% log velocity + 25% star gravity + 15% social + 10% recency (was 40% linear velocity capped at 100/day + 30% social + 30% recency)
 - **200-star minimum** — all discovery sources now enforce a 200-star minimum for admission (official vendors exempt)
 - **Purged 459 sub-threshold tools** — deactivated tools below 200 stars, reducing active set from 684 to 225 quality-filtered tools
 - **Seeded with 248 trending repos** — scraped GitHub Trending (daily/weekly/monthly) + GitHub search for AI repos created in last 60 days, all quality-scored and AI-categorized
+- **Re-categorized 136 uncategorized tools** via Claude Haiku AI categorization
 - **Final directory: 473 active tools** with avg 7,239 stars, 3.4M total stars across 10 categories
 
 ## [3.3.0] - 2026-04-05
