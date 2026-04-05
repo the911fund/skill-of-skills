@@ -5,6 +5,36 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.0] - 2026-04-05
+
+### Added
+- **Viral repo discovery pipeline** — 6 new discovery sources beyond static GitHub search queries:
+  1. **GitHub Trending scraper** (`/api/v1/discover/trending`) — daily scrape of GitHub Trending filtered by AI-coding keywords, queues candidates for validation
+  2. **Awesome-list diffing** (`/api/v1/discover/awesome-lists`) — weekly diff of 10 curated lists (awesome-mcp-servers, awesome-claude-code, awesome-cursorrules, etc.), detects newly added repos
+  3. **Social-first discovery** (`/api/v1/discover/social`) — extracts GitHub URLs from Hacker News, Reddit, and X/Twitter posts with engagement thresholds
+  4. **Ecosystem graph discovery** (`/api/v1/discover/ecosystem`) — finds related tools via active forks, dependency graphs (MCP SDK, Anthropic SDK imports), and README backlinks
+  5. **LLM-generated adaptive queries** (`/api/v1/discover/adaptive-queries`) — Claude analyzes recent discoveries to generate new search queries with 30-day expiry and auto-pruning
+  6. **Adaptive relevance gate** (`/api/v1/discover/validate-candidate`) — two-tier system: Tier 1 (instant, file markers/vendors/keywords) and Tier 2 (Claude Haiku AI triage for high-signal sources)
+- **Star velocity tracking** — `calculateStarVelocity()` computes stars/day from existing `stars_previous` and `starsVerifiedAt` fields
+- **Trending score engine** — `calculateTrendingScore()` combines 40% star velocity + 30% social signals + 30% recency; populates the previously-empty `trendingScore` column
+- **Batch trending recalculation** (`/api/v1/batch/trending-recalc`) — recalculates trending scores for all tools, records daily `metrics_history` snapshots
+- **8 new discovery source enum values**: `github_trending`, `awesome_list`, `hackernews`, `social_discovery`, `dependency_graph`, `fork_analysis`, `backlink_discovery`, `adaptive_query`
+- **`awesome_list_snapshots` table** — stores content hashes and repo URL arrays for diff-based detection
+- **`adaptive_queries` table** — stores LLM-generated queries with expiry dates and result tracking
+
+### Changed
+- **Composite score formula updated** — now 55% quality + 15% popularity + 15% recency + **15% momentum** (was 60/25/15 with no momentum)
+- **Trending sort now uses actual `trendingScore`** — was falling back to `qualityScore` since trending was never populated
+- **`buildScoringUpdateData()` now accepts optional `trendingScore`** — both batch and single-tool scoring endpoints populate trending score
+- **`scoring-weights.json` updated** with new composite weights and trending score component weights
+
+### Database
+- Migration: `004-viral-discovery.sql`
+- New enum values on `discovery_source`: github_trending, awesome_list, hackernews, social_discovery, dependency_graph, fork_analysis, backlink_discovery, adaptive_query
+- New columns on `tools`: `star_velocity_7d`, `star_velocity_30d`, `discovery_source_url`, `relevance_confidence`
+- New tables: `awesome_list_snapshots`, `adaptive_queries`
+- New index: `idx_tools_star_velocity`
+
 ## [3.2.0] - 2026-04-02
 
 ### Added
