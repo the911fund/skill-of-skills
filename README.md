@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-515-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/skill_types-9-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-5086k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-564-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-5337k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**515 skills** across 9 skill types | 🤖 claude code: 515 | 🔧 generic: 10 | 🧠 codex: 8 | 🖱️ cursor: 4 | 🏄 windsurf: 1 | 📟 cline: 1
+**564 skills** across 10 skill types | 🤖 claude code: 564 | 🔧 generic: 10 | 🧠 codex: 8 | 🖱️ cursor: 4 | 🏄 windsurf: 1 | 📟 cline: 1
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -24,17 +24,18 @@
 - [CI/CD & Deployment](#-cicd-deployment)
 - [Runbooks](#-runbooks)
 - [Infrastructure Operations](#-infrastructure-ops)
+- [Uncategorized](#-uncategorized)
 - [How It Works](#how-it-works)
 
 ---
 
 ## 🆕 Latest
 
-- 📚 🔷 **[zed](https://github.com/zed-industries/zed)**  R:🟢 M:⚪ — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. by zed-industries *(78.5k ⭐)* — discovered Apr 5
-- 📚 🔷 **[cline](https://github.com/cline/cline)**  R:🟢 M:⚪ — Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. by cline *(59.9k ⭐)* — discovered Apr 5
-- 📚 🔷 **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)**  R:🟢 M:⚪ — The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. by n8n-io *(14.5k ⭐)* — discovered Apr 5
-- 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)**  R:🟢 M:⚪ — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(27.7k ⭐)* — discovered Apr 5
-- 📚 🔷 **[Misago](https://github.com/rafalp/Misago)**  R:🟢 M:⚪ — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.7k ⭐)* — discovered Apr 5
+- 📚  **[hitank](https://github.com/alanalvestech/hitank)**  R:🟡 M:🟢 — Claude Code skills in pure Ruby. Zero gems, zero magic. by alanalvestech *(33 ⭐)* — discovered Apr 6
+- 📚  **[patchwork](https://github.com/patched-codes/patchwork)**  R:🟡 M:🟠 — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.5k ⭐)* — discovered Apr 6
+- ⌨️  **[mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension)**  R:🟡 M:🟢 — OpenMemory Chrome Extension: Long-term memory for ChatGPT, Claude, Perplexity, Grok etc by mem0ai *(666 ⭐)* — discovered Apr 6
+- 📚  **[claude-batch-toolkit](https://github.com/s2-streamstore/claude-batch-toolkit)**  R:🟡 M:🟢 — Send non-urgent work to the Anthropic Batch API at 50% cost — directly from Claude Code by s2-streamstore *(143 ⭐)* — discovered Apr 6
+- 📚  **[oculos](https://github.com/huseyinstif/oculos)**  R:🟡 M:🟢 — If it's on the screen, it's an API. Control any desktop app via REST + MCP. Rust. by huseyinstif *(104 ⭐)* — discovered Apr 6
 
 ---
 
@@ -138,6 +139,7 @@
 - 🔌 🔷 **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**  R:🟡 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(253 ⭐)*
 - ⌨️ 🔷 **[paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro)**  R:🟡 M:🟢 — The Trusted Membership Platform That Grows with You: Restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more. Fully open source. 100% GPL. by strangerstudios *(518 ⭐)*
 - 📚 🔷 **[aider](https://github.com/Aider-AI/aider)**  R:🟢 M:⚪ — aider is AI pair programming in your terminal by Aider-AI *(42.9k ⭐)*
+- 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)**  R:🟢 M:⚪ — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(27.7k ⭐)*
 - 📚 🔷 **[bridle](https://github.com/neiii/bridle)**  R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(407 ⭐)*
 - 📄 🔷 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** 🤖 R:🟢 M:🟢 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(471 ⭐)*
 - 📚 🔷 **[block/goose](https://github.com/block/goose)**  R:🟢 M:⚪ — No description by block *(36.9k ⭐)*
@@ -193,6 +195,7 @@
 - 📚 🔷 **[eze-is/web-access](https://github.com/eze-is/web-access)**  R:🟢 M:⚪ — No description by eze-is *(3.9k ⭐)*
 - 🔗 🔷 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** 🤖🔧 R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(665 ⭐)*
 - 📚 🔷 **[golutra/golutra](https://github.com/golutra/golutra)**  R:🟢 M:⚪ — No description by golutra *(2.9k ⭐)*
+- 📚 🔷 **[Misago](https://github.com/rafalp/Misago)**  R:🟢 M:⚪ — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.7k ⭐)*
 - 📚 🔷 **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)**  R:🟢 M:⚪ — No description by homeassistant-ai *(2.1k ⭐)*
 - 📚 🔷 **[junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)**  R:🟢 M:⚪ — No description by junhoyeo *(1.6k ⭐)*
 - 📚 🔶 **[ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)**  R:🟡 M:🟢 — Headless IDA Pro MCP Server by blacktop *(251 ⭐)*
@@ -382,6 +385,8 @@
 - ⌨️ 🔷 **[VengenceUI](https://github.com/Ashutoshx7/VengenceUI)**  R:🟡 M:🟢 — VengeanceUI helps you to build  your landing page by providing you animated beautiful components out of the box which you can copy and paste  and  make your landing page Awesome ,Subtle and of course Tasteful. by Ashutoshx7 *(637 ⭐)*
 - 📚 🔷 **[zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw)**  R:🟢 M:⚪ — No description by zeroclaw-labs *(29.5k ⭐)*
 - 📚 🔷 **[openai/codex](https://github.com/openai/codex)**  R:🟢 M:⚪ — No description by openai *(73.3k ⭐)*
+- 📚 🔷 **[zed](https://github.com/zed-industries/zed)**  R:🟢 M:⚪ — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. by zed-industries *(78.5k ⭐)*
+- 📚 🔷 **[cline](https://github.com/cline/cline)**  R:🟢 M:⚪ — Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way. by cline *(59.9k ⭐)*
 - 📚 🔷 **[vxcontrol/pentagi](https://github.com/vxcontrol/pentagi)**  R:🟢 M:⚪ — No description by vxcontrol *(14.1k ⭐)*
 - 📚 🔷 **[tabby](https://github.com/TabbyML/tabby)**  R:🟢 M:⚪ — Self-hosted AI coding assistant by TabbyML *(33.3k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)**  R:🟢 M:⚪ — No description by OpenBMB *(32.6k ⭐)*
@@ -398,6 +403,7 @@
 - 📚 🔶 **[MixtapeTools](https://github.com/scunning1975/MixtapeTools)**  R:🟡 M:🟢 — Tools for coding, teaching, and presentations with AI assistance by scunning1975 *(237 ⭐)*
 - 📚 🔷 **[mattpocock/skills](https://github.com/mattpocock/skills)**  R:🟢 M:⚪ — No description by mattpocock *(12.2k ⭐)*
 - 📚 🔷 **[op7418/CodePilot](https://github.com/op7418/CodePilot)**  R:🟢 M:⚪ — No description by op7418 *(5.0k ⭐)*
+- 📚 🔷 **[self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit)**  R:🟢 M:⚪ — The Self-hosted AI Starter Kit is an open-source template that quickly sets up a local AI environment. Curated by n8n, it provides essential tools for creating secure, self-hosted AI workflows. by n8n-io *(14.5k ⭐)*
 - 📚 ⭐ **[spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot)**  R:🟢 M:⚪ — No description by spacedriveapp *(2.0k ⭐)*
 - 📚 🔶 **[vibe-coding](https://github.com/twwch/vibe-coding)**  R:🟡 M:🟢 — AI 时代的 Vibe Coding 实践：使用 Claude Code 从零开发 AI 漫剧生成平台的完整记录，涵盖技术选型、AI 驱动开发、UI 优化与功能迭代全流程。 by twwch *(469 ⭐)*
 - 📚 🔷 **[bradygaster/squad](https://github.com/bradygaster/squad)**  R:🟢 M:⚪ — No description by bradygaster *(1.7k ⭐)*
@@ -575,6 +581,53 @@
 - 📚 🔶 **[dp-archive/archive](https://github.com/dp-archive/archive)**  R:🟢 M:⚪ — No description by dp-archive *(1.1k ⭐)*
 - 📚  **[PatrikFehrenbach/h1-brain](https://github.com/PatrikFehrenbach/h1-brain)**  R:🟢 M:⚪ — No description by PatrikFehrenbach *(248 ⭐)*
 
+## 📦 Uncategorized
+
+- ⌨️  **[1code](https://github.com/21st-dev/1code)**  R:🟡 M:🟢 — Orchestration layer for coding agents (Claude Code, Codex) by 21st-dev *(5.4k ⭐)*
+- 📚  **[demucs-rs](https://github.com/nikhilunni/demucs-rs)**  R:🟡 M:🟢 — Rust powered waveform source separation by nikhilunni *(92 ⭐)*
+- 📚  **[sgai](https://github.com/sandgardenhq/sgai)**  R:🟡 M:🟢 — Sandgarden AI Software Factory by sandgardenhq *(114 ⭐)*
+- ⌨️  **[vmprint](https://github.com/cosmiciron/vmprint)**  R:🟡 M:🟢 — An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ by cosmiciron *(564 ⭐)*
+- ⌨️  **[DenchClaw](https://github.com/DenchHQ/DenchClaw)**  R:🟡 M:🟢 — Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need. by DenchHQ *(1.5k ⭐)*
+- 📚  **[ai-sdlc-scaffold](https://github.com/pangon/ai-sdlc-scaffold)**  R:🟡 M:🟢 — Template scaffolding for AI-first software development focused on the pre-coding phases by pangon *(98 ⭐)*
+- ⌨️  **[proofshot](https://github.com/AmElmo/proofshot)**  R:🟡 M:🟢 — Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built. by AmElmo *(744 ⭐)*
+- 📚  **[swift-claude-code](https://github.com/ivan-magda/swift-claude-code)**  R:🟡 M:🟢 — A Swift reimplementation of a Claude Code-style coding agent, built stage by stage to explore what makes coding agents work by ivan-magda *(144 ⭐)*
+- ⌨️  **[optio](https://github.com/jonwiggins/optio)**  R:🟡 M:🟢 — Workflow orchestration for AI coding agents, from task to merged PR. by jonwiggins *(802 ⭐)*
+- ⌨️  **[paseo](https://github.com/getpaseo/paseo)**  R:🟡 M:🟢 — Manage agents remotely from your phone, desktop and CLI by getpaseo *(626 ⭐)*
+- ⌨️  **[outworked](https://github.com/outworked/outworked)**  R:🟡 M:🟢 — Outworked - Cozy Office for Claude Code by outworked *(255 ⭐)*
+- ⌨️  **[orca](https://github.com/stablyai/orca)**  R:🟡 M:🟢 — Orca is the next-gen IDE for building with coding agents by stablyai *(435 ⭐)*
+- 📚  **[coasts](https://github.com/coast-guard/coasts)**  R:🟡 M:🟢 — Localhost service isolation and orchestration for git worktrees. by coast-guard *(298 ⭐)*
+- 📚  **[pegboard](https://github.com/virpo/pegboard)**  R:🟡 M:🟢 — AI-generated 3D-printable pegboard toy from a hand-drawn sketch by virpo *(47 ⭐)*
+- ⌨️  **[cargowall-action](https://github.com/code-cargo/cargowall-action)**  R:🟡 M:🟢 — CargoWall Action to secure your GitHub Workflows by code-cargo *(31 ⭐)*
+- 🔗  **[ghidra-mcp](https://github.com/bethington/ghidra-mcp)**  R:🟡 M:🟢 — Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. by bethington *(1.4k ⭐)*
+- 🔌  **[tambo](https://github.com/tambo-ai/tambo)**  R:🟡 M:🟢 — Generative UI SDK for React by tambo-ai *(11.1k ⭐)*
+- 🔌  **[coderlm](https://github.com/JaredStewart/coderlm)**  R:🟡 M:🟢 — Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context. by JaredStewart *(208 ⭐)*
+- 📚  **[moongate](https://github.com/moongate-community/moongate)**  R:🟡 M:🟢 — Moongate is modern Ultima Online server built from scratch in C# with AOT compilation for high performance and nostalgic gameplay experience. by moongate-community *(199 ⭐)*
+- 🔌  **[playwright-skill](https://github.com/lackeyjb/playwright-skill)**  R:🟡 M:🟠 — Claude Code Skill for browser automation with Playwright. Model-invoked - Claude autonomously writes and executes custom automation for testing and validation. by lackeyjb *(2.3k ⭐)*
+- 📚  **[outline-driven-development](https://github.com/OutlineDriven/outline-driven-development)**  R:🟡 M:🟢 — Outline Driven Development – Beyond "specs" or "vibes" using AST analysis and Modern CLI Tools w/ context engineering; batteries-included by OutlineDriven *(44 ⭐)*
+- 🔌  **[agent-marketplace](https://github.com/Sevii/agent-marketplace)**  R:🟡 M:🟢 — Plugin Marketplace for Claude Code by Sevii *(20 ⭐)*
+- 📚  **[hub](https://github.com/merliot/hub)**  R:🟡 M:🟠 — Merliot Device Hub by merliot *(166 ⭐)*
+- ⌨️  **[Grov](https://github.com/TonyStef/Grov)**  R:🟡 M:🟢 — Grov automatically captures the context from your private AI sessions and syncs it to a shared team memory. It auto injects relevant memories across developers and future sessions to save tokens and time spent on tasks. by TonyStef *(182 ⭐)*
+- 📚  **[BrowserOS](https://github.com/browseros-ai/BrowserOS)**  R:🟡 M:🟢 — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. by browseros-ai *(10.3k ⭐)*
+- 📚  **[shai](https://github.com/ovh/shai)**  R:🟡 M:🟠 — shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3 by ovh *(594 ⭐)*
+- ⌨️  **[openwork](https://github.com/different-ai/openwork)**  R:🟡 M:🟢 — An open-source alternative to Claude Cowork built for teams, powered by opencode by different-ai *(13.3k ⭐)*
+- 📚  **[airweave](https://github.com/airweave-ai/airweave)**  R:🟡 M:🟢 — Open-source context retrieval layer for AI agents by airweave-ai *(6.2k ⭐)*
+- 📚  **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)**  R:🟡 M:🟢 — Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen by knowsuchagency *(1.9k ⭐)*
+- 📚  **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🟡 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(9.4k ⭐)*
+- 📚  **[axe](https://github.com/jrswab/axe)**  R:🟡 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(766 ⭐)*
+- ⌨️  **[octofriend](https://github.com/synthetic-lab/octofriend)**  R:🟡 M:🟢 — An open-source coding helper. Very friendly! by synthetic-lab *(938 ⭐)*
+- 📚  **[ht-mcp](https://github.com/memextech/ht-mcp)**  R:🟡 M:🟢 — Pure Rust implementation of MCP server for headless terminal by memextech *(212 ⭐)*
+- 📚  **[RedGridLink](https://github.com/RedGridTactical/RedGridLink)**  R:🟡 M:🟢 — Offline MGRS navigation + BLE proximity team sync for 2-8 people. No cell service needed. V1.0 through V4.0 roadmap in README. by RedGridTactical *(94 ⭐)*
+- 📚  **[orloj](https://github.com/OrlojHQ/orloj)**  R:🟡 M:🟢 — An orchestration runtime for multi-agent AI systems. Declare agents, tools, and policies as YAML; Orloj schedules, executes, routes, and governs them for production-grade operation. by OrlojHQ *(67 ⭐)*
+- ⌨️  **[dexto](https://github.com/truffle-ai/dexto)**  R:🟡 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(608 ⭐)*
+- 📚  **[tambourine-voice](https://github.com/kstonekuan/tambourine-voice)**  R:🟡 M:🟢 — Your personal voice interface for any app. Speak naturally and your words appear wherever your cursor is, with fully customizable AI voice dictation.  Open source alternative to Wispr Flow. by kstonekuan *(324 ⭐)*
+- ⌨️  **[altimate-code](https://github.com/AltimateAI/altimate-code)**  R:🟡 M:🟢 — Open-source agentic data engineering harness for dbt, SQL, and cloud warehouses. 100+ tools, 10 warehouses, AI-powered. by AltimateAI *(494 ⭐)*
+- ⌨️  **[zerobox](https://github.com/afshinm/zerobox)**  R:🟡 M:🟢 — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(389 ⭐)*
+- 📚  **[claw-code](https://github.com/ultraworkers/claw-code)**  R:🟡 M:🟢 — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. by ultraworkers *(171.3k ⭐)*
+- 📚  **[pg_textsearch](https://github.com/timescale/pg_textsearch)**  R:🟡 M:🟢 — PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. by timescale *(3.6k ⭐)*
+- 🔌  **[agents-observe](https://github.com/simple10/agents-observe)**  R:🟡 M:🟢 — Real-time observability of claude code sessions & multi-agents. by simple10 *(326 ⭐)*
+- ⌨️  **[skales](https://github.com/skalesapp/skales)**  R:🟡 M:🟢 — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free. by skalesapp *(720 ⭐)*
+- 🔗  **[travel-hacking-toolkit](https://github.com/borski/travel-hacking-toolkit)**  R:🟡 M:🟢 — AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. by borski *(332 ⭐)*
+
 ---
 
 ## Skill Types
@@ -669,5 +722,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-05 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-06 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
