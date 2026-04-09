@@ -68,8 +68,8 @@
 - 📚 🔷 **[onyx](https://github.com/onyx-dot-app/onyx)**  R:🟡 M:🟢 — Open Source AI Platform - AI Chat with advanced features that works with every LLM by onyx-dot-app *(24.9k ⭐)*
 - 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(904 ⭐)*
 - 🔗 ⭐ **[ghidra-mcp](https://github.com/bethington/ghidra-mcp)**  R:🟡 M:🟢 — Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. by bethington *(1.4k ⭐)*
-- ⌨️ 🔶 **[n8n-skills](https://github.com/czlonkowski/n8n-skills)** 🤖 R:🟢 M:🟠 — n8n skillset for Claude Code to build flawless n8n workflows by czlonkowski *(4.0k ⭐)*
 - 🔌 ⭐ **[context-mode](https://github.com/mksglu/context-mode)**  R:🟡 M:🟢 — Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context. by mksglu *(6.4k ⭐)*
+- ⌨️ 🔶 **[n8n-skills](https://github.com/czlonkowski/n8n-skills)** 🤖 R:🟢 M:🟠 — n8n skillset for Claude Code to build flawless n8n workflows by czlonkowski *(4.0k ⭐)*
 - 🔌 ⭐ **[pup](https://github.com/datadog-labs/pup)**  R:🟡 M:🟢 — Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. by datadog-labs *(567 ⭐)*
 - 🔌 🔷 **[tambo](https://github.com/tambo-ai/tambo)**  R:🟡 M:🟢 — Generative UI SDK for React by tambo-ai *(11.1k ⭐)*
 - 📚 🔷 **[Algorithms](https://github.com/williamfiset/Algorithms)**  R:🟡 M:🟢 — A collection of algorithms and data structures by williamfiset *(18.5k ⭐)*
@@ -336,13 +336,12 @@
 - 📄 ⭐ **[claude-mem](https://github.com/thedotmack/claude-mem)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. by thedotmack *(44.5k ⭐)*
 - ⌨️ ⭐ **[skills](https://github.com/vercel-labs/skills)**  R:🟢 M:🟢 — The open agent skills tool - npx skills by vercel-labs *(13.0k ⭐)*
 - ⌨️ ⭐ **[oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)**  R:🟡 M:🟢 — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. by Yeachan-Heo *(9.2k ⭐)*
-- 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟡 M:🟢 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(7.1k ⭐)*
 - 📚 🔷 **[openclaw](https://github.com/openclaw/openclaw)**  R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(349.0k ⭐)*
+- 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟡 M:🟢 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(7.1k ⭐)*
 - ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🟢 M:🟢 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.5k ⭐)*
 - ⌨️ ⭐ **[DenchClaw](https://github.com/DenchHQ/DenchClaw)**  R:🟡 M:🟢 — Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need. by DenchHQ *(1.5k ⭐)*
 - 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🟡 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(9.4k ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
-- 📄 🔷 **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)**  R:🟢 M:🟢 — Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  by srbhr *(26.5k ⭐)*
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)**  R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(86.1k ⭐)*
 - ⌨️ ⭐ **[paseo](https://github.com/getpaseo/paseo)**  R:🟡 M:🟢 — Manage agents remotely from your phone, desktop and CLI by getpaseo *(642 ⭐)*
 - 📄 ⭐ **[gptme](https://github.com/gptme/gptme)**  R:🟢 M:🟢 — Your agent in your terminal, equipped with local tools: writes code, uses the terminal, browses the web, vision. by gptme *(4.3k ⭐)*
@@ -352,6 +351,7 @@
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:🟡 M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
 - 📚 🔷 **[FastGPT](https://github.com/labring/FastGPT)**  R:🟢 M:🟢 — FastGPT is a knowledge-based platform built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as data processing, RAG retrieval, and visual AI workflow orchestration, letting you easily develop and deploy complex question-answering systems without the need for extensive setup or configuration. by labring *(27.6k ⭐)*
 - 📚 🔷 **[AgentHub](https://github.com/jamesrochabrun/AgentHub)**  R:🟡 M:🟢 — Manage all sessions in Claude Code and Codex. Easily create new worktrees, run multiple terminals in parallel, preview edits before accepting them, make inline changes directly from diffs, and more. by jamesrochabrun *(340 ⭐)*
+- 📄 🔷 **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)**  R:🟢 M:🟢 — Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  by srbhr *(26.5k ⭐)*
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)**  R:🟢 M:⚪ — No description by builderz-labs *(3.8k ⭐)*
 - 🔌 🔷 **[agentkits-marketing](https://github.com/aitytech/agentkits-marketing)**  R:🟡 M:🟢 — Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills by aitytech *(418 ⭐)*
 - ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(708 ⭐)*
@@ -730,5 +730,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-08 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-09 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
