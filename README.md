@@ -338,12 +338,12 @@
 - ⌨️ ⭐ **[oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)**  R:🟡 M:🟢 — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. by Yeachan-Heo *(9.2k ⭐)*
 - 📚 🔷 **[openclaw](https://github.com/openclaw/openclaw)**  R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(349.0k ⭐)*
 - 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟡 M:🟢 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(7.1k ⭐)*
-- ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🟢 M:🟢 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.5k ⭐)*
 - ⌨️ ⭐ **[DenchClaw](https://github.com/DenchHQ/DenchClaw)**  R:🟡 M:🟢 — Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need. by DenchHQ *(1.5k ⭐)*
 - 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🟡 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(9.4k ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🟡 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(914 ⭐)*
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)**  R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(86.1k ⭐)*
 - ⌨️ ⭐ **[paseo](https://github.com/getpaseo/paseo)**  R:🟡 M:🟢 — Manage agents remotely from your phone, desktop and CLI by getpaseo *(642 ⭐)*
+- ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🟢 M:🟠 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.5k ⭐)*
 - 📚 🔷 **[nanochat](https://github.com/karpathy/nanochat)**  R:🟢 M:🟢 — The best ChatGPT that $100 can buy. by karpathy *(51.1k ⭐)*
 - 📚 🔷 **[continue](https://github.com/continuedev/continue)**  R:🟢 M:🟢 — ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent by continuedev *(32.3k ⭐)*
 - 📚 🔷 **[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)**  R:🟢 M:🟢 — CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。 by zhayujie *(42.8k ⭐)*
@@ -730,5 +730,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-09 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-10 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
