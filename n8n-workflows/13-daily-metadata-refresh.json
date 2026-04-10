@@ -1,0 +1,488 @@
+{
+  "name": "13 - Daily Metadata Refresh",
+  "nodes": [
+    {
+      "id": "schedule-trigger",
+      "name": "Daily 3AM UTC",
+      "type": "n8n-nodes-base.scheduleTrigger",
+      "typeVersion": 1.2,
+      "position": [200, 300],
+      "parameters": {
+        "rule": {
+          "interval": [
+            {
+              "field": "cronExpression",
+              "expression": "0 3 * * *"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "get-active-tools",
+      "name": "Get Active Tools",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [400, 300],
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT id, repo_owner, repo_name, stars, refresh_error_count FROM tools WHERE is_active = true ORDER BY stars_verified_at ASC NULLS FIRST LIMIT 150",
+        "options": {}
+      },
+      "credentials": {
+        "postgres": {
+          "id": "2QEo1AX3zIOJcmsK",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "id": "split-batches",
+      "name": "Split In Batches",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [600, 300],
+      "parameters": {
+        "batchSize": 10,
+        "options": {}
+      }
+    },
+    {
+      "id": "build-url",
+      "name": "Build GitHub URL",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [800, 300],
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const item = $json;\nreturn {json: {\n  ...item,\n  github_api_url: `https://api.github.com/repos/${item.repo_owner}/${item.repo_name}`,\n  releases_url: `https://api.github.com/repos/${item.repo_owner}/${item.repo_name}/releases?per_page=100`\n}};"
+      }
+    },
+    {
+      "id": "fetch-repo",
+      "name": "Fetch Repo Metadata",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1000, 300],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $json.github_api_url }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "Accept", "value": "application/vnd.github.v3+json"}
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "KLKAH2UEzvuoHbs4",
+          "name": "Header Auth account"
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "check-error",
+      "name": "API Error?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1200, 300],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "leftValue": "",
+            "caseSensitive": true,
+            "typeValidation": "strict"
+          },
+          "combinator": "or",
+          "conditions": [
+            {
+              "id": "err1",
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              },
+              "leftValue": "={{ $json.statusCode || 200 }}",
+              "rightValue": 400
+            },
+            {
+              "id": "err2",
+              "operator": {
+                "type": "string",
+                "operation": "exists",
+                "singleValue": true
+              },
+              "leftValue": "={{ $json.message }}"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "increment-error",
+      "name": "Increment Error Count",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1400, 200],
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE tools SET refresh_error_count = refresh_error_count + 1, updated_at = NOW() WHERE id = '{{ $('Build GitHub URL').item.json.id }}' RETURNING id, refresh_error_count",
+        "options": {}
+      },
+      "credentials": {
+        "postgres": {
+          "id": "2QEo1AX3zIOJcmsK",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "id": "check-deactivate",
+      "name": "3 Strikes?",
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2,
+      "position": [1600, 200],
+      "parameters": {
+        "conditions": {
+          "options": {
+            "leftValue": "",
+            "caseSensitive": true,
+            "typeValidation": "strict"
+          },
+          "combinator": "and",
+          "conditions": [
+            {
+              "id": "strike3",
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              },
+              "leftValue": "={{ $json.refresh_error_count }}",
+              "rightValue": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "deactivate-tool",
+      "name": "Deactivate Tool",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [1800, 150],
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE tools SET is_active = false, updated_at = NOW() WHERE id = '{{ $json.id }}' RETURNING id, (SELECT name FROM tools WHERE id = '{{ $json.id }}') as tool_name",
+        "options": {}
+      },
+      "credentials": {
+        "postgres": {
+          "id": "2QEo1AX3zIOJcmsK",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "id": "discord-deactivate",
+      "name": "Discord: Deactivated",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2000, 150],
+      "parameters": {
+        "method": "POST",
+        "url": "={{ $env.DISCORD_WEBHOOK_URL }}",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={{ JSON.stringify({embeds:[{title:'🗑️ Tool Deactivated (3 consecutive errors)',description:'Tool ID: ' + $json.id,color:16711680,timestamp:new Date().toISOString()}]}) }}",
+        "options": {}
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "extract-metadata",
+      "name": "Extract Metadata",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1400, 400],
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const repo = $json;\nconst prev = $('Build GitHub URL').item.json;\n\nconst newStars = repo.stargazers_count || 0;\nconst oldStars = prev.stars || 0;\nconst delta = oldStars > 0 ? Math.abs(newStars - oldStars) / oldStars : 0;\n\nreturn {json: {\n  id: prev.id,\n  repo_owner: prev.repo_owner,\n  repo_name: prev.repo_name,\n  new_stars: newStars,\n  old_stars: oldStars,\n  star_delta_pct: Math.round(delta * 100),\n  last_commit_at: repo.pushed_at || null,\n  open_issues_count: repo.open_issues_count || 0,\n  releases_url: prev.releases_url\n}};"
+      }
+    },
+    {
+      "id": "fetch-releases",
+      "name": "Fetch Releases",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [1600, 400],
+      "parameters": {
+        "method": "GET",
+        "url": "={{ $json.releases_url }}",
+        "authentication": "genericCredentialType",
+        "genericAuthType": "httpHeaderAuth",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "Accept", "value": "application/vnd.github.v3+json"}
+          ]
+        },
+        "options": {}
+      },
+      "credentials": {
+        "httpHeaderAuth": {
+          "id": "KLKAH2UEzvuoHbs4",
+          "name": "Header Auth account"
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "count-releases",
+      "name": "Count Releases",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [1800, 400],
+      "parameters": {
+        "mode": "runOnceForEachItem",
+        "jsCode": "const releases = $json;\nconst prev = $('Extract Metadata').item.json;\n\n// The HTTP Request node auto-splits arrays, so we may get a single release object\n// or the previous item's data if releases is empty/error\nlet releaseCount = 0;\nlet latestReleaseAt = null;\n\ntry {\n  // If we got back an array (from the raw response)\n  if (Array.isArray(releases)) {\n    releaseCount = releases.length;\n    if (releases.length > 0) {\n      latestReleaseAt = releases[0].published_at || releases[0].created_at;\n    }\n  } else if (releases && releases.tag_name) {\n    // Single release object (auto-split)\n    // In this case we need to count from input items\n    const items = $input.all();\n    releaseCount = items.filter(i => i.json.tag_name).length;\n    if (items.length > 0) {\n      latestReleaseAt = items[0].json.published_at || items[0].json.created_at;\n    }\n  }\n} catch (e) {\n  // No releases available\n}\n\nreturn {json: {\n  ...prev,\n  release_count: releaseCount,\n  latest_release_at: latestReleaseAt\n}};"
+      }
+    },
+    {
+      "id": "update-tool",
+      "name": "Update Tool Metadata",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [2000, 400],
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "UPDATE tools SET stars = {{ $json.new_stars }}, stars_previous = {{ $json.old_stars }}, stars_verified_at = NOW(), last_commit_at = {{ $json.last_commit_at ? \"'\" + $json.last_commit_at + \"'\" : \"last_commit_at\" }}, open_issues_count = {{ $json.open_issues_count }}, release_count = {{ $json.release_count || 0 }}, latest_release_at = {{ $json.latest_release_at ? \"'\" + $json.latest_release_at + \"'\" : \"latest_release_at\" }}, refresh_error_count = 0, updated_at = NOW() WHERE id = '{{ $json.id }}'",
+        "options": {}
+      },
+      "credentials": {
+        "postgres": {
+          "id": "2QEo1AX3zIOJcmsK",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "id": "wait-rate-limit",
+      "name": "Wait 500ms",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [2200, 300],
+      "parameters": {
+        "amount": 0.5,
+        "unit": "seconds"
+      },
+      "webhookId": "wait-rate-limit-wh"
+    },
+    {
+      "id": "score-unscored",
+      "name": "Score Unscored Tools",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2400, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://skill-of-skills-web:3000/api/v1/batch/quality-score",
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\"onlyUnscored\": true, \"limit\": 100}",
+        "options": {
+          "timeout": 120000
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "reassess-pending-risk",
+      "name": "Enrichment Catch-up",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2500, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://skill-of-skills-web:3000/api/v1/batch/reassess-risk",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "x-webhook-secret", "value": "={{ $env.WEBHOOK_SECRET }}"}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "{\"limit\": 100}",
+        "options": {
+          "timeout": 180000
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "trigger-readme",
+      "name": "Trigger README Update",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [2600, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://skill-of-skills-web:3000/api/v1/readme/regenerate",
+        "options": {}
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "get-uncategorized",
+      "name": "Get Uncategorized",
+      "type": "n8n-nodes-base.postgres",
+      "typeVersion": 2.5,
+      "position": [2800, 300],
+      "parameters": {
+        "operation": "executeQuery",
+        "query": "SELECT t.id FROM tools t JOIN categories c ON t.category_id = c.id WHERE t.is_active = true AND c.slug = 'uncategorized' AND (t.category_confidence IS NULL OR t.updated_at < NOW() - INTERVAL '1 hour') LIMIT 10",
+        "options": {}
+      },
+      "credentials": {
+        "postgres": {
+          "id": "2QEo1AX3zIOJcmsK",
+          "name": "Postgres account"
+        }
+      }
+    },
+    {
+      "id": "loop-categorize",
+      "name": "Loop Categorize",
+      "type": "n8n-nodes-base.splitInBatches",
+      "typeVersion": 3,
+      "position": [3000, 300],
+      "parameters": {
+        "batchSize": 1,
+        "options": {}
+      }
+    },
+    {
+      "id": "call-categorize",
+      "name": "Call Categorize Webhook",
+      "type": "n8n-nodes-base.httpRequest",
+      "typeVersion": 4.2,
+      "position": [3200, 300],
+      "parameters": {
+        "method": "POST",
+        "url": "http://skill-of-skills-web:3000/api/v1/webhook/categorize-single",
+        "sendHeaders": true,
+        "headerParameters": {
+          "parameters": [
+            {"name": "x-webhook-secret", "value": "={{ $env.WEBHOOK_SECRET }}"}
+          ]
+        },
+        "sendBody": true,
+        "specifyBody": "json",
+        "jsonBody": "={\n  \"tool_id\": \"{{ $json.id }}\",\n  \"forceRefetch\": true\n}",
+        "options": {
+          "timeout": 30000
+        }
+      },
+      "onError": "continueRegularOutput"
+    },
+    {
+      "id": "wait-categorize",
+      "name": "Wait 3s",
+      "type": "n8n-nodes-base.wait",
+      "typeVersion": 1.1,
+      "position": [3400, 300],
+      "parameters": {
+        "amount": 3,
+        "unit": "seconds"
+      },
+      "webhookId": "wait-categorize-wh"
+    }
+  ],
+  "connections": {
+    "Daily 3AM UTC": {
+      "main": [[{"node": "Get Active Tools", "type": "main", "index": 0}]]
+    },
+    "Get Active Tools": {
+      "main": [[{"node": "Split In Batches", "type": "main", "index": 0}]]
+    },
+    "Split In Batches": {
+      "main": [
+        [{"node": "Build GitHub URL", "type": "main", "index": 0}],
+        [{"node": "Score Unscored Tools", "type": "main", "index": 0}]
+      ]
+    },
+    "Score Unscored Tools": {
+      "main": [[{"node": "Enrichment Catch-up", "type": "main", "index": 0}]]
+    },
+    "Enrichment Catch-up": {
+      "main": [[{"node": "Trigger README Update", "type": "main", "index": 0}]]
+    },
+    "Trigger README Update": {
+      "main": [[{"node": "Get Uncategorized", "type": "main", "index": 0}]]
+    },
+    "Get Uncategorized": {
+      "main": [[{"node": "Loop Categorize", "type": "main", "index": 0}]]
+    },
+    "Loop Categorize": {
+      "main": [
+        [],
+        [{"node": "Call Categorize Webhook", "type": "main", "index": 0}]
+      ]
+    },
+    "Call Categorize Webhook": {
+      "main": [[{"node": "Wait 3s", "type": "main", "index": 0}]]
+    },
+    "Wait 3s": {
+      "main": [[{"node": "Loop Categorize", "type": "main", "index": 0}]]
+    },
+    "Build GitHub URL": {
+      "main": [[{"node": "Fetch Repo Metadata", "type": "main", "index": 0}]]
+    },
+    "Fetch Repo Metadata": {
+      "main": [[{"node": "API Error?", "type": "main", "index": 0}]]
+    },
+    "API Error?": {
+      "main": [
+        [{"node": "Increment Error Count", "type": "main", "index": 0}],
+        [{"node": "Extract Metadata", "type": "main", "index": 0}]
+      ]
+    },
+    "Increment Error Count": {
+      "main": [[{"node": "3 Strikes?", "type": "main", "index": 0}]]
+    },
+    "3 Strikes?": {
+      "main": [
+        [{"node": "Deactivate Tool", "type": "main", "index": 0}],
+        [{"node": "Wait 500ms", "type": "main", "index": 0}]
+      ]
+    },
+    "Deactivate Tool": {
+      "main": [[{"node": "Discord: Deactivated", "type": "main", "index": 0}]]
+    },
+    "Discord: Deactivated": {
+      "main": [[{"node": "Wait 500ms", "type": "main", "index": 0}]]
+    },
+    "Extract Metadata": {
+      "main": [[{"node": "Fetch Releases", "type": "main", "index": 0}]]
+    },
+    "Fetch Releases": {
+      "main": [[{"node": "Count Releases", "type": "main", "index": 0}]]
+    },
+    "Count Releases": {
+      "main": [[{"node": "Update Tool Metadata", "type": "main", "index": 0}]]
+    },
+    "Update Tool Metadata": {
+      "main": [[{"node": "Wait 500ms", "type": "main", "index": 0}]]
+    },
+    "Wait 500ms": {
+      "main": [[{"node": "Split In Batches", "type": "main", "index": 0}]]
+    }
+  },
+  "settings": {
+    "executionOrder": "v1"
+  }
+}
