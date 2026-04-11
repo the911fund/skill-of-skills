@@ -5,6 +5,38 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.3.2] - 2026-04-11
+
+### Security
+- **SSRF hardening in `/api/v1/discover/validate-candidate`** — route now uses the shared `parseRepoUrl()` allowlist (https scheme, `github.com`/`api.github.com` only, path-shape regex, traversal checks). Previously used bare `new URL()` with no host validation, letting poisoned queue rows trigger outbound requests to arbitrary hosts with the GitHub token attached. Verified against AWS metadata, homograph, and localhost vectors.
+- **Webhook auth fail-closed** — `validateWebhookSecret` now returns HTTP 500 when `WEBHOOK_SECRET` is unset instead of silently authorizing all traffic. Opt-out requires explicit `WEBHOOK_AUTH_DISABLED=true`. Comparison uses `crypto.timingSafeEqual` to close the timing side-channel.
+- **Anthropic 401 reclassified as permanent** — a 401 means bad/revoked key, not credit exhaustion. Previously classified as transient, causing infinite retries for every tool in the queue when the key was invalid. 402 (credit) still retries.
+- **Shell JSON injection hardening in `repair-broken-tools.sh`** — JSON bodies now built with `jq -nc --arg` instead of shell string interpolation. `jq` is a hard dependency and the script fails fast if missing.
+
+### Reliability
+- **Transient retry bounded by `MAX_RETRIES=5`** — new `discovery_queue.retry_count` column (migration 005) caps transient retry loops. After 5 requeues, a row is promoted to permanent rejection with reason `failed: transient-retry-exhausted(<stage>)`. Protects against Anthropic 529 hot-loop scenarios.
+- **Anthropic SDK timeouts** — both `categorization.ts` and `relevance-gate.ts` now pass `timeout: 30_000` to the Anthropic client. Prevents ingest hangs consuming the drain's 300s budget.
+- **`findUnique` after atomic claim is now try-wrapped** — a DB error between claim and row-load releases the claim back to `pending` instead of orphaning it in `processing`. Repair script's 1h sweep remains as backstop.
+- **`notifyNewTool` wrapped in try-catch at call site** — protects the committed transaction from a Discord throw. Previously, a thrown notify would bubble into the outer catch and mark the queue row rejected after the tool was committed, corrupting pipeline state.
+- **`/api/v1/pipeline/drain` and `/api/v1/pipeline/ingest-one` now have outer try-catch** — DB connection errors return JSON 500s instead of Next.js HTML, keeping n8n JSON parsing intact.
+- **Health rejection rate excludes filter-stage rejections** — `below-star-min`, `relevance-gate`, and `no-content` are legitimate pipeline outcomes, not failures. The rate metric and stage breakdown now only count infrastructure failures (`github-fetch`, `categorize`, `db-transaction`, etc.), eliminating false-critical alerts during normal operation.
+
+### Correctness
+- **`/api/v1/discover/validate-candidate` is now a pure dry-run validator** — no longer mutates `discovery_queue.status` to `accepted`. Previously marked rows accepted without creating tool rows, orphaning them from the drain endpoint so the tool was never actually ingested. Validation results are now advisory only; admission still requires `/api/v1/pipeline/drain` or `/api/v1/pipeline/ingest-one`.
+- **Slug collision handling** — ingest pipeline probes up to 5 suffixed slug variants before giving up. Previously, two repos slugifying to the same value (`foo/bar-baz` and `foo-bar/baz` → `foo-bar-baz`) permanently rejected the second one.
+- **`tier1_keyword` gate distinguished from `tier1_markers`** — previously keyword admissions were reported as `tier1_markers`, making file-marker vs keyword admissions indistinguishable in observability. Now a separate gate label.
+- **`aiTriage` JSON parsing wrapped in try-catch** — malformed AI responses return a safe default instead of throwing into the pipeline's error classifier (which would misclassify as permanent).
+- **`categorize-single` self-fetch now passes `fileTree` to `categorizeTool`** — previously fetched the file tree but discarded it, producing lower-quality categorization on the self-fetch path.
+- **`categorize-single` response confidence matches persisted state** — uncategorized rows now return `confidence: null` in the response (matching what was written to the DB), not the AI's original confidence.
+- **Prisma enum safety** — replaced `as never` casts on `platform`/`primaryPlatform` with a runtime filter + `$Enums.Platform` narrowing. Adding a new platform value to `detectPlatforms` now fails type-check instead of producing runtime DB errors.
+- **`IngestResult.rejectionReason` consolidated into `reason`** — single field now carries rejection reason, requeue reason, and skip sub-status. Interface docs describe the format per status.
+
+### Tests
+- 31 new tests across `ingest-pipeline`, `pipeline-health`, `relevance-gate`, and `webhook-auth` covering retry-count exhaustion, `notifyNewTool` throw contract, `findUnique`-after-claim failure, Anthropic 401-is-permanent reclassification, `tier1_keyword` gate distinction, webhook fail-closed behavior, timing-safe compare prefix attacks, and filter-rejection exclusion from health rates. **130/130 tests passing.**
+
+### Database
+- **Migration 005-pipeline-hardening.sql** — adds `discovery_queue.retry_count` (default 0) + partial index for hot-loop detection.
+
 ## [3.3.1] - 2026-04-05
 
 ### Changed
