@@ -1,0 +1,27 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-04-13T22:35:00Z",
+  "retire": [],
+  "propose": [
+    {
+      "query": "AI code attribution git blame agent",
+      "rationale": "New tool class: 4+ independent repos for tracking AI vs human code authorship"
+    },
+    {
+      "query": "multi-agent deliberation council skill plugin",
+      "rationale": "Organic convergence: 5+ independent implementations of LLM council/debate patterns"
+    },
+    {
+      "query": "SKILL.md cross-platform agent skill format standard",
+      "rationale": "Format standardization accelerating: Vercel, Anthropic, community all converging"
+    },
+    {
+      "query": "skill package manager registry npx skills",
+      "rationale": "Vercel skills.sh is first institutional registry \u2014 track ecosystem growth"
+    },
+    {
+      "query": "MCP security permission proxy firewall RBAC",
+      "rationale": "5+ independent MCP security proxies in 90 days \u2014 fast-growing tool subclass"
+    }
+  ]
+}

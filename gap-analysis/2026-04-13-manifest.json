@@ -1,0 +1,153 @@
+{
+  "version": "1.0",
+  "generatedAt": "2026-04-13T22:35:00Z",
+  "source": "claude-code-local",
+  "searchesUsed": 10,
+  "seeds": [
+    {
+      "name": "mcp-tidy",
+      "repoUrl": "https://github.com/nnnkkk7/mcp-tidy",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "Identifies unused MCP servers in Claude Code to reduce context overhead"
+    },
+    {
+      "name": "wombat",
+      "repoUrl": "https://github.com/usewombat/gateway",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "Unix-style rwxd permissions for MCP tool calls \u2014 proxy between Claude Code and MCP servers"
+    },
+    {
+      "name": "armour",
+      "repoUrl": "https://github.com/fuushyn/armour",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "Secure stdio proxy for MCP servers written in Go \u2014 secure by default"
+    },
+    {
+      "name": "agent-tower-plugin",
+      "repoUrl": "https://github.com/BayramAnnakov/agent-tower-plugin",
+      "toolType": "plugin",
+      "source": "hackernews",
+      "description": "Multi-agent deliberation plugin for Claude Code \u2014 Deliberate, Council, Debate modes"
+    },
+    {
+      "name": "codex-reflect-skill",
+      "repoUrl": "https://github.com/olliepro/Codex-Reflect-Skill",
+      "toolType": "skill",
+      "source": "hackernews",
+      "description": "Codex meta-skill that analyzes past sessions using parallel subagents"
+    },
+    {
+      "name": "subagent-cli",
+      "repoUrl": "https://github.com/otakumesi/subagent-cli",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "CLI for managing multiple coding agents \u2014 combine agents by role"
+    },
+    {
+      "name": "agent-notify",
+      "repoUrl": "https://github.com/cfngc4594/agent-notify",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "Notifications for AI coding agents when they finish tasks"
+    },
+    {
+      "name": "codingagents-md",
+      "repoUrl": "https://github.com/SylphAI-Inc/codingagents.md",
+      "toolType": "resource",
+      "source": "hackernews",
+      "description": "Open directory for AI coding agents \u2014 models, MCP, skills, protocols, benchmarks"
+    },
+    {
+      "name": "agentblame",
+      "repoUrl": "https://github.com/mesa-dot-dev/agentblame",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "AI code attribution for git \u2014 track which lines were written by AI vs humans"
+    },
+    {
+      "name": "blameprompt",
+      "repoUrl": "https://github.com/Ekaanth/blameprompt",
+      "toolType": "cli_tool",
+      "source": "hackernews",
+      "description": "Git blame for prompts \u2014 track AI-generated code provenance with zero workflow changes"
+    },
+    {
+      "name": "vercel-agent-skills",
+      "repoUrl": "https://github.com/vercel-labs/agent-skills",
+      "toolType": "skill",
+      "source": "hackernews",
+      "description": "Vercel official agent skills collection \u2014 React/Next.js best practices"
+    },
+    {
+      "name": "vercel-next-skills",
+      "repoUrl": "https://github.com/vercel-labs/next-skills",
+      "toolType": "skill",
+      "source": "github_search",
+      "description": "Vercel Next.js-specific agent skills"
+    },
+    {
+      "name": "awesome-claude-code",
+      "repoUrl": "https://github.com/hesreallyhim/awesome-claude-code",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "Curated list of skills, hooks, slash-commands, agent orchestrators for Claude Code"
+    },
+    {
+      "name": "awesome-agent-skills",
+      "repoUrl": "https://github.com/VoltAgent/awesome-agent-skills",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "1000+ agent skills from official dev teams and community"
+    },
+    {
+      "name": "awesome-codex-subagents",
+      "repoUrl": "https://github.com/VoltAgent/awesome-codex-subagents",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "130+ specialized Codex subagents covering wide range of dev use cases"
+    },
+    {
+      "name": "awesome-agent-orchestrators",
+      "repoUrl": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "List of agent orchestrators \u2014 parallel coding agents in isolated worktrees"
+    },
+    {
+      "name": "skillmatic-awesome-agent-skills",
+      "repoUrl": "https://github.com/skillmatic-ai/awesome-agent-skills",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "Definitive resource for Agent Skills \u2014 modular capabilities for AI agents"
+    },
+    {
+      "name": "kodustech-awesome-agent-skills",
+      "repoUrl": "https://github.com/kodustech/awesome-agent-skills",
+      "toolType": "resource",
+      "source": "awesome_list",
+      "description": "Curated agent skills for Claude Code, Codex, and Cursor"
+    },
+    {
+      "name": "claude-code-skills-levnikolaevich",
+      "repoUrl": "https://github.com/levnikolaevich/claude-code-skills",
+      "toolType": "plugin",
+      "source": "github_search",
+      "description": "Plugin suite + bundled MCP servers \u2014 Agile pipeline, multi-model review, hex-line, hex-graph"
+    },
+    {
+      "name": "claude-skills-collection-2026",
+      "repoUrl": "https://github.com/obviousworks/Claude-AI-skills-collection-2026",
+      "toolType": "resource",
+      "source": "github_search",
+      "description": "Curated collection of official and community-built Claude Skills"
+    }
+  ],
+  "stats": {
+    "total_candidates": 31,
+    "after_dedup": 20,
+    "removed_as_duplicates": 11
+  }
+}
