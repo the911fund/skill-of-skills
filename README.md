@@ -488,7 +488,7 @@
 - 📚 🔷 **[Mizoreww/awesome-claude-code-config](https://github.com/Mizoreww/awesome-claude-code-config)**  R:🟢 M:⚪ — No description by Mizoreww *(206 ⭐)*
 - 📚 🔷 **[mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer)**  R:🟢 M:⚪ — No description by mcpware *(227 ⭐)*
 - 📚 🔶 **[coleam00/excalidraw-diagram-skill](https://github.com/coleam00/excalidraw-diagram-skill)**  R:🟢 M:⚪ — No description by coleam00 *(1.8k ⭐)*
-- 📚 🔶 **[openyak/openyak](https://github.com/openyak/openyak)**  R:🟢 M:⚪ — No description by openyak *(685 ⭐)*
+- 📚 🔶 **[openyak/openyak](https://github.com/openyak/openyak)**  R:🟢 M:🟢 — No description by openyak *(709 ⭐)*
 - 📚 🔶 **[SixHq/Overture](https://github.com/SixHq/Overture)**  R:🟢 M:⚪ — No description by SixHq *(605 ⭐)*
 - 📚 🔷 **[cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup)**  R:🟢 M:⚪ — No description by cassler *(261 ⭐)*
 - 🔌 🔷 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** 🤖 R:🟡 M:🟠 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(239 ⭐)*
@@ -731,5 +731,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-12 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-13 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
