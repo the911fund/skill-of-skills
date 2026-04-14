@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-577-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-578-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-5833k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**577 skills** across 10 skill types | 🤖 claude code: 576 | 🧠 codex: 15 | 🔧 generic: 11 | 🖱️ cursor: 6 | 🏄 windsurf: 1 | 📟 cline: 1
+**578 skills** across 10 skill types | 🤖 claude code: 577 | 🧠 codex: 15 | 🔧 generic: 11 | 🖱️ cursor: 6 | 🏄 windsurf: 1 | 📟 cline: 1
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)* — discovered Apr 14
 - 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)* — discovered Apr 14
 - 📚  **[casdoor](https://github.com/casdoor/casdoor)**  R:🟡 M:🟢 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD by casdoor *(13.3k ⭐)* — discovered Apr 14
 - ⌨️  **[get-shit-done](https://github.com/gsd-build/get-shit-done)**  R:🟡 M:🟢 — A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. by gsd-build *(52.2k ⭐)* — discovered Apr 14
 - ⌨️  **[Flowise](https://github.com/FlowiseAI/Flowise)**  R:🟡 M:🟢 — Build AI Agents, Visually by FlowiseAI *(51.9k ⭐)* — discovered Apr 14
-- 📄 🔷 **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** 🤖🧠 R:🟡 M:⚪ — No description by hugohe3 *(4.7k ⭐)* — discovered Apr 12
 
 ---
 
@@ -448,6 +448,7 @@
 - 📚 🔷 **[antinomyhq/forgecode](https://github.com/antinomyhq/forgecode)**  R:🟢 M:⚪ — No description by antinomyhq *(5.9k ⭐)*
 - 🔌 🔷 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**  R:🟡 M:🟢 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(355 ⭐)*
 - 📚 🔷 **[zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)**  R:🟢 M:⚪ — No description by zubair-trabzada *(4.8k ⭐)*
+- 📄 🔷 **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** 🤖🧠 R:🟡 M:⚪ — No description by hugohe3 *(4.7k ⭐)*
 - 📚 🔶 **[karpathy/autoresearch](https://github.com/karpathy/autoresearch)**  R:🟢 M:⚪ — No description by karpathy *(66.4k ⭐)*
 - 📚 🔷 **[always-further/nono](https://github.com/always-further/nono)**  R:🟢 M:⚪ — No description by always-further *(1.7k ⭐)*
 - 🔌 🔷 **[revealjs-skill](https://github.com/ryanbbrown/revealjs-skill)**  R:🟡 M:🟢 — Claude Code skill for making reveal.js presentations by ryanbbrown *(244 ⭐)*
