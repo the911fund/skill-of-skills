@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-574-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-575-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-5767k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-5819k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**574 skills** across 10 skill types | 🤖 claude code: 573 | 🧠 codex: 15 | 🔧 generic: 11 | 🖱️ cursor: 6 | 🏄 windsurf: 1 | 📟 cline: 1
+**575 skills** across 10 skill types | 🤖 claude code: 574 | 🧠 codex: 15 | 🔧 generic: 11 | 🖱️ cursor: 6 | 🏄 windsurf: 1 | 📟 cline: 1
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- ⌨️  **[get-shit-done](https://github.com/gsd-build/get-shit-done)**  R:🟡 M:🟢 — A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. by gsd-build *(52.2k ⭐)* — discovered Apr 14
 - ⌨️  **[Flowise](https://github.com/FlowiseAI/Flowise)**  R:🟡 M:🟢 — Build AI Agents, Visually by FlowiseAI *(51.9k ⭐)* — discovered Apr 14
 - 📄 🔷 **[hugohe3/ppt-master](https://github.com/hugohe3/ppt-master)** 🤖🧠 R:🟡 M:⚪ — No description by hugohe3 *(4.7k ⭐)* — discovered Apr 12
 - 🔗 🔷 **[superset](https://github.com/superset-sh/superset)**  R:🟡 M:🟢 — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine by superset-sh *(9.1k ⭐)* — discovered Apr 8
 - 📄 🔷 **[EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code)** 🤖 R:🟡 M:⚪ — No description by EtienneLescot *(731 ⭐)* — discovered Apr 8
-- ⌨️ 🔷 **[AI-Trader](https://github.com/HKUDS/AI-Trader)**  R:🟡 M:🟢 — "AI-Trader: 100% Fully-Automated Agent-Native Trading" by HKUDS *(12.6k ⭐)* — discovered Apr 8
 
 ---
 
@@ -628,6 +628,7 @@
 - 📄 ⭐ **[DeepTutor](https://github.com/HKUDS/DeepTutor)**  R:🟡 M:🟢 — "DeepTutor: Agent-Native Personalized Learning Assistant" by HKUDS *(13.3k ⭐)*
 - 📚 🔷 **[goose](https://github.com/aaif-goose/goose)**  R:🟡 M:🟢 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by aaif-goose *(39.8k ⭐)*
 - 📚 🔷 **[BrowserOS](https://github.com/browseros-ai/BrowserOS)**  R:🟡 M:🟢 — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. by browseros-ai *(10.3k ⭐)*
+- ⌨️ 🔷 **[AI-Trader](https://github.com/HKUDS/AI-Trader)**  R:🟡 M:🟢 — "AI-Trader: 100% Fully-Automated Agent-Native Trading" by HKUDS *(12.6k ⭐)*
 - ⌨️ ⭐ **[1code](https://github.com/21st-dev/1code)**  R:🟡 M:🟢 — Orchestration layer for coding agents (Claude Code, Codex) by 21st-dev *(5.4k ⭐)*
 - ⌨️ 🔷 **[octofriend](https://github.com/synthetic-lab/octofriend)**  R:🟡 M:🟢 — An open-source coding helper. Very friendly! by synthetic-lab *(938 ⭐)*
 - 📚 🔷 **[tambourine-voice](https://github.com/kstonekuan/tambourine-voice)**  R:🟡 M:🟢 — Your personal voice interface for any app. Speak naturally and your words appear wherever your cursor is, with fully customizable AI voice dictation.  Open source alternative to Wispr Flow. by kstonekuan *(326 ⭐)*
