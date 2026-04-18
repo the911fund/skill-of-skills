@@ -446,9 +446,9 @@
 - 🔌 ⭐ **[everything-claude-code](https://github.com/affaan-m/everything-claude-code)** 🤖 R:🟡 M:🟢 — Complete Claude Code configuration collection - agents, skills, hooks, commands, rules, MCPs. Battle-tested configs from an Anthropic hackathon winner. by affaan-m *(131.7k ⭐)*
 - ⌨️ 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** 🤖 R:🟡 M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(21.2k ⭐)*
 - 🔌 🔷 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** 🤖 R:🟢 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(24.0k ⭐)*
-- 📄 🔷 **[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** 🤖 R:🟢 M:✅ — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. by SuperClaude-Org *(22.1k ⭐)*
 - 🔌 ⭐ **[ruflo](https://github.com/ruvnet/ruflo)**  R:🟡 M:🟢 — 🌊 The leading agent orchestration platform for Claude. Deploy intelligent multi-agent swarms, coordinate autonomous workflows, and build conversational AI systems. Features    enterprise-grade architecture, distributed swarm intelligence, RAG integration, and native Claude Code / Codex Integration by ruvnet *(29.2k ⭐)*
 - 🔌 ⭐ **[superpowers](https://github.com/obra/superpowers)**  R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(130.7k ⭐)*
+- 📄 🔷 **[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** 🤖 R:🟢 M:✅ — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. by SuperClaude-Org *(22.1k ⭐)*
 - 🔌 🔷 **[interface-design](https://github.com/Dammyjay93/interface-design)** 🤖 R:🟢 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(4.4k ⭐)*
 - 📚 ⭐ **[spacedriveapp/spacebot](https://github.com/spacedriveapp/spacebot)**  R:🟢 M:🟢 — No description by spacedriveapp *(2.1k ⭐)*
 - 🔌 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)**  R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(15.4k ⭐)*
@@ -740,13 +740,13 @@
 - 📄  **[github-daily-rank](https://github.com/OpenGithubs/github-daily-rank)** 🔧 R:🟡 M:⚪ — No description by OpenGithubs *(886 ⭐)*
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
-- ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
-- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
-- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
 - ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
+- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
+- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 - 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
+- ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
 
 ---
 
