@@ -430,7 +430,7 @@
 - 📄 🔷 **[ai-that-works](https://github.com/ai-that-works/ai-that-works)** 🤖🖱️ R:🟡 M:⚪ — No description by ai-that-works *(1.7k ⭐)*
 - 📚 🔶 **[smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)**  R:🟢 M:⚪ — No description by smtg-ai *(6.8k ⭐)*
 - 📄 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** 🤖🧠 R:🟡 M:⚪ — No description by kingbootoshi *(271 ⭐)*
-- 📚 🔶 **[patchwork](https://github.com/patched-codes/patchwork)**  R:🟡 M:🟠 — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.5k ⭐)*
+- 📚 🔶 **[patchwork](https://github.com/patched-codes/patchwork)**  R:🟡 M:🔴 — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.5k ⭐)*
 - 📄 🔷 **[jezweb/roo-commander](https://github.com/jezweb/roo-commander)** 🤖🧠 R:🟡 M:⚪ — No description by jezweb *(717 ⭐)*
 - 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟢 M:🟠 — A simple memory system for claude code by rlancemartin *(352 ⭐)*
 - 📚 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)**  R:🟢 M:⚪ — No description by nikilster *(1.4k ⭐)*
@@ -841,4 +841,3 @@ MIT License - see [LICENSE](LICENSE)
 <p align="center">
   <sub>Auto-generated 2026-04-18 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
-
