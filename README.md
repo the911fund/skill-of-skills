@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-686-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-688-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-6571k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-6601k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**686 skills** across 10 skill types | 🤖 claude code: 657 | 🧠 codex: 57 | 🔧 generic: 29 | 🖱️ cursor: 13 | 🏄 windsurf: 1 | 📟 cline: 1
+**688 skills** across 10 skill types | 🤖 claude code: 659 | 🧠 codex: 58 | 🔧 generic: 29 | 🖱️ cursor: 13 | 🏄 windsurf: 1 | 📟 cline: 1
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔶 **[aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)** 🤖 R:🟡 M:⚪ — No description by aldinokemal *(3.8k ⭐)* — discovered Apr 19
+- 📄 🔷 **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** 🤖🧠 R:🟡 M:⚪ — No description by onlook-dev *(25.4k ⭐)* — discovered Apr 19
 - 📄 🔶 **[fintool](https://github.com/second-state/fintool)** 🤖 R:🟡 M:⚪ — No description by second-state *(286 ⭐)* — discovered Apr 18
 - 📄  **[qwen3_asr_rs](https://github.com/second-state/qwen3_asr_rs)** 🤖 R:🟡 M:⚪ — No description by second-state *(224 ⭐)* — discovered Apr 18
 - 📄 🔶 **[multica-ai/andrej-karpathy-skills](https://github.com/multica-ai/andrej-karpathy-skills)** 🤖 R:🟡 M:⚪ — No description by multica-ai *(56.3k ⭐)* — discovered Apr 18
-- 📄 🔶 **[CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)** 🧠 R:🟡 M:⚪ — No description by CJackHwang *(1.1k ⭐)* — discovered Apr 18
-- 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🟡 M:⚪ — No description by aaddrick *(3.4k ⭐)* — discovered Apr 18
 
 ---
 
@@ -277,6 +277,7 @@
 - 📄 🔷 **[SuperGemini_Framework](https://github.com/SuperClaude-Org/SuperGemini_Framework)** 🤖🧠 R:🟡 M:⚪ — No description by SuperClaude-Org *(236 ⭐)*
 - 📚 🔷 **[thellimist/clihub](https://github.com/thellimist/clihub)**  R:🟢 M:⚪ — No description by thellimist *(650 ⭐)*
 - 📚 🔶 **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)**  R:🟢 M:⚪ — No description by greensock *(2.2k ⭐)*
+- 📄 🔶 **[CJackHwang/ds2api](https://github.com/CJackHwang/ds2api)** 🧠 R:🟡 M:⚪ — No description by CJackHwang *(1.1k ⭐)*
 - 📚 🔶 **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**  R:🟢 M:⚪ — No description by twostraws *(3.4k ⭐)*
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟡 M:⚪ — No description by sofastack *(1.6k ⭐)*
 - 📚 🔶 **[Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)**  R:🟢 M:⚪ — No description by Infatoshi *(1.3k ⭐)*
@@ -693,6 +694,7 @@
 - 📚 🔷 **[turbinia](https://github.com/google/turbinia)**  R:🟡 M:🟢 — Automation and Scaling of Digital Forensics Tools by google *(788 ⭐)*
 - ⌨️ 🔷 **[toolhive](https://github.com/stacklok/toolhive)** 🤖 R:🟢 M:🟢 — ToolHive makes deploying MCP servers easy, secure and fun by stacklok *(1.7k ⭐)*
 - ⌨️ 🔷 **[zerobox](https://github.com/afshinm/zerobox)**  R:🟡 M:🟢 — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(400 ⭐)*
+- 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🟡 M:⚪ — No description by aaddrick *(3.4k ⭐)*
 - 🔗 🔷 **[quay](https://github.com/quay/quay)** 🤖🔧 R:🟢 M:🟢 — Build, Store, and Distribute your Applications and Containers by quay *(2.8k ⭐)*
 - 🔗 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟢 M:🟠 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(988 ⭐)*
 - 📚 🔶 **[OpenClawHomeAssistant](https://github.com/techartdev/OpenClawHomeAssistant)**  R:🟡 M:🟢 — OpenClaw Assistant – Home Assistant Add-on by techartdev *(385 ⭐)*
@@ -728,12 +730,12 @@
 - 📄 🔷 **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** 🤖 R:🟡 M:⚪ — No description by zhayujie *(43.2k ⭐)*
 - 📄 🔷 **[oobabooga/textgen](https://github.com/oobabooga/textgen)** 🔧 R:🟡 M:⚪ — No description by oobabooga *(46.7k ⭐)*
 - 📚  **[casdoor](https://github.com/casdoor/casdoor)**  R:🟡 M:🟢 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD by casdoor *(13.3k ⭐)*
-- 📚  **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)**  R:🟡 M:🟢 — A collection of 130+ specialized Codex subagents covering a wide range of development use cases. by VoltAgent *(3.9k ⭐)*
 - 📄 🔷 **[Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** 🤖🖱️ R:🟡 M:⚪ — No description by Open-LLM-VTuber *(6.7k ⭐)*
 - 📄 🔷 **[awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** 🤖 R:🟡 M:⚪ — No description by libukai *(4.1k ⭐)*
 - 📄 🔷 **[ginlix-ai/langalpha](https://github.com/ginlix-ai/langalpha)** 🤖 R:🟡 M:⚪ — No description by ginlix-ai *(467 ⭐)*
 - 📄 🔷 **[DevoxxGenieIDEAPlugin](https://github.com/devoxx/DevoxxGenieIDEAPlugin)** 🤖🧠 R:🟡 M:⚪ — No description by devoxx *(637 ⭐)*
 - 📄 🔶 **[EvoMap/evolver](https://github.com/EvoMap/evolver)** 🤖 R:🟡 M:⚪ — No description by EvoMap *(2.9k ⭐)*
+- 📚  **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)**  R:🟡 M:🟢 — A collection of 130+ specialized Codex subagents covering a wide range of development use cases. by VoltAgent *(3.9k ⭐)*
 - 📄  **[Lordog/dive-into-llms](https://github.com/Lordog/dive-into-llms)** 🔧 R:🟡 M:⚪ — No description by Lordog *(29.0k ⭐)*
 - 📄 🔷 **[Memoh-v2](https://github.com/Kxiandaoyan/Memoh-v2)** 🤖🧠 R:🟡 M:⚪ — No description by Kxiandaoyan *(347 ⭐)*
 - 📚 🔶 **[shai](https://github.com/ovh/shai)**  R:🟡 M:🟠 — shai is a coding agent, your pair programming buddy that lives in the terminal. Written in rust with love <3 by ovh *(594 ⭐)*
@@ -742,13 +744,13 @@
 - 📄  **[github-daily-rank](https://github.com/OpenGithubs/github-daily-rank)** 🔧 R:🟡 M:⚪ — No description by OpenGithubs *(886 ⭐)*
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
-- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
 - ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
+- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
+- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
+- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
 - ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
 - 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
-- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 
 ---
 
