@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-761-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-762-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
 [![Stars](https://img.shields.io/badge/total_stars-7114k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**761 skills** across 10 skill types | 🤖 claude code: 723 | 🧠 codex: 101 | 🔧 generic: 34 | 🖱️ cursor: 24 | 🏄 windsurf: 2 | 📟 cline: 2
+**762 skills** across 10 skill types | 🤖 claude code: 724 | 🧠 codex: 102 | 🔧 generic: 34 | 🖱️ cursor: 24 | 🏄 windsurf: 2 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[BoxPwnr](https://github.com/0ca/BoxPwnr)** 🤖🧠 R:🟡 M:⚪ — No description by 0ca *(356 ⭐)* — discovered Apr 22
+- 📄 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:🟡 M:⚪ — No description by Prorise-cool *(271 ⭐)* — discovered Apr 22
 - 📄 ⭐ **[hcom](https://github.com/aannoo/hcom)** 🤖 R:🟡 M:⚪ — No description by aannoo *(236 ⭐)* — discovered Apr 22
 - 📄 🔶 **[awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents)** 🔧 R:🟡 M:⚪ — No description by jim-schwoebel *(1.6k ⭐)* — discovered Apr 22
 - 📄 🔷 **[dr-claw](https://github.com/OpenLAIR/dr-claw)** 🤖🧠 R:🟡 M:⚪ — No description by OpenLAIR *(903 ⭐)* — discovered Apr 22
-- 📄 🔷 **[t3code](https://github.com/pingdotgg/t3code)** 🤖🧠 R:🟡 M:⚪ — No description by pingdotgg *(10.3k ⭐)* — discovered Apr 22
+- 📄 🔷 **[BoxPwnr](https://github.com/0ca/BoxPwnr)** 🤖🧠 R:🟡 M:⚪ — No description by 0ca *(356 ⭐)* — discovered Apr 22
 
 ---
 
@@ -797,6 +797,7 @@
 - 📄 🔷 **[ironclaw](https://github.com/nearai/ironclaw)** 🤖🧠 R:🟡 M:⚪ — No description by nearai *(11.9k ⭐)*
 - 📚  **[casdoor](https://github.com/casdoor/casdoor)**  R:🟡 M:🟢 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD by casdoor *(13.3k ⭐)*
 - 📄 🔶 **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** 🤖🧠 R:🟡 M:⚪ — No description by CherryHQ *(44.0k ⭐)*
+- 📄 🔷 **[t3code](https://github.com/pingdotgg/t3code)** 🤖🧠 R:🟡 M:⚪ — No description by pingdotgg *(10.3k ⭐)*
 - 📄 🔷 **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** 🤖🧠 R:🟡 M:⚪ — No description by aiming-lab *(3.5k ⭐)*
 - 📄 🔷 **[Mirror](https://github.com/MirrorNetworking/Mirror)** 🔧 R:🟡 M:⚪ — No description by MirrorNetworking *(6.1k ⭐)*
 - 📄 🔷 **[Open-LLM-VTuber/Open-LLM-VTuber](https://github.com/Open-LLM-VTuber/Open-LLM-VTuber)** 🤖🖱️ R:🟡 M:⚪ — No description by Open-LLM-VTuber *(6.7k ⭐)*
@@ -817,13 +818,13 @@
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
 - 📄  **[morphic-programming](https://github.com/nicolasahar/morphic-programming)** 🔧 R:🟡 M:⚪ — No description by nicolasahar *(218 ⭐)*
-- ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
-- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
 - 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
+- ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
 - 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
+- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
 - 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
+- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
 
 ---
 
