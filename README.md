@@ -41,6 +41,7 @@
 
 ## 📖 Library & API Reference
 
+- 📚 🔷 **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**  R:🟢 M:🟢 — No description by PaddlePaddle *(76.1k ⭐)*
 - 📄 ⭐ **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** 🤖🖱️ R:🟢 M:🟢 — The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. by sickn33 *(29.9k ⭐)*
 - 📚 🔷 **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** 🤖 R:🟡 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(46.7k ⭐)*
 - ⌨️ ⭐ **[claude-howto](https://github.com/luongnv89/claude-howto)** 🤖 R:🟢 M:🟢 — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. by luongnv89 *(16.0k ⭐)*
@@ -92,8 +93,8 @@
 - 🔌 🔷 **[engram](https://github.com/Gentleman-Programming/engram)**  R:🟡 M:🟢 — Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. by Gentleman-Programming *(2.2k ⭐)*
 - 🔌 ⭐ **[mcp](https://github.com/MicrosoftDocs/mcp)**  R:🟡 M:🟢 — Official Microsoft Learn MCP Server and CLI tool – powering LLMs and AI agents with real-time, trusted Microsoft docs & code samples. by MicrosoftDocs *(1.5k ⭐)*
 - 📄 ⭐ **[ntm](https://github.com/Dicklesworthstone/ntm)**  R:🟡 M:🟢 — Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette by Dicklesworthstone *(227 ⭐)*
-- ⌨️ 🔶 **[nativewind](https://github.com/nativewind/nativewind)**  R:🟡 M:🟢 — The utility-first workflow you love from Tailwind CSS in your React Native applications. by nativewind *(7.7k ⭐)*
 - 📚 🔷 **[air](https://github.com/air-verse/air)**  R:🟡 M:🟢 — ☁️ Live reload for Go apps by air-verse *(23.3k ⭐)*
+- ⌨️ 🔶 **[nativewind](https://github.com/nativewind/nativewind)**  R:🟡 M:🟢 — The utility-first workflow you love from Tailwind CSS in your React Native applications. by nativewind *(7.7k ⭐)*
 - 📚 🔷 **[kagent](https://github.com/kagent-dev/kagent)**  R:🟡 M:🟢 — Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord by kagent-dev *(2.5k ⭐)*
 - ⌨️ 🔷 **[mcphub](https://github.com/samanhappy/mcphub)**  R:🟡 M:🟢 — A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies by samanhappy *(2.0k ⭐)*
 - 🔌 🔷 **[memsearch](https://github.com/zilliztech/memsearch)**  R:🟡 M:🟢 — A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. by zilliztech *(1.1k ⭐)*
@@ -131,7 +132,6 @@
 - ⌨️ 🔷 **[vmprint](https://github.com/cosmiciron/vmprint)**  R:🟡 M:🟢 — An alternative to React-PDF — render multi-page documents anywhere. Preview on canvas and export to PDF/SVG from the same layout — no PDF.js, no React, no server. Pure JS, no dependencies. ~1.7MB. https://cosmiciron.github.io/vmprint/examples/preview/ by cosmiciron *(541 ⭐)*
 - ⌨️ ⭐ **[mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)**  R:🟡 M:🟢 — CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features. by pathintegral-institute *(917 ⭐)*
 - ⌨️ 🔷 **[symphony-ts](https://github.com/OasAIStudio/symphony-ts)**  R:🟡 M:🟢 — Typecript version of https://github.com/openai/symphony by OasAIStudio *(526 ⭐)*
-- 📚 🔷 **[PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR)**  R:🟢 M:🟢 — No description by PaddlePaddle *(76.1k ⭐)*
 - 🔌 🔷 **[CloudBase-MCP](https://github.com/TencentCloudBase/CloudBase-MCP)** 🤖 R:🔴 M:🟢 — CloudBase MCP - Connect CloudBase to your AI Agent.     Go from AI prompt to live app. by TencentCloudBase *(986 ⭐)*
 - 📚 ⭐ **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)**  R:🟢 M:⚪ — No description by teng-lin *(9.2k ⭐)*
 - ⌨️ 🔷 **[amp.dev](https://github.com/ampproject/amp.dev)**  R:🟡 M:🟢 — The AMP Project Website. by ampproject *(597 ⭐)*
@@ -272,8 +272,8 @@
 - 📚 🔷 **[greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)**  R:🟢 M:⚪ — No description by greyhaven-ai *(703 ⭐)*
 - 📚 🔷 **[yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)**  R:🟢 M:⚪ — No description by yvgude *(462 ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(283 ⭐)*
 - 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
+- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(283 ⭐)*
 - 📄 🔶 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**  R:🟢 M:🟠 — A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering. by snwfdhmp *(1.6k ⭐)*
 - 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:⚪ — No description by Leonxlnx *(7.1k ⭐)*
 - 📄 🔷 **[pg-mcp-server](https://github.com/stuzero/pg-mcp-server)** 🔧 R:🟡 M:⚪ — No description by stuzero *(537 ⭐)*
@@ -636,13 +636,13 @@
 - 📚 🔷 **[Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**  R:🟡 M:🟢 — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc by promptslab *(5.7k ⭐)*
 - 🔌 ⭐ **[claude-delegator](https://github.com/jarrodwatts/claude-delegator)**  R:🔴 M:🟢 — Delegate tasks to Codex and Gemini directly from within Claude Code. by jarrodwatts *(932 ⭐)*
 - ⌨️ 🔷 **[vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)**  R:🟡 M:🟢 — Copilot Chat extension for VS Code by microsoft *(9.7k ⭐)*
-- ⌨️ 🔷 **[react-doctor](https://github.com/millionco/react-doctor)**  R:🟡 M:🟢 — Let coding agents diagnose and fix your React code by millionco *(6.1k ⭐)*
 - 📚 ⭐ **[sidecar](https://github.com/marcus/sidecar)**  R:🔴 M:🟢 — Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td by marcus *(902 ⭐)*
 - 📚 ⭐ **[claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow)**  R:🔴 M:🟢 — A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. by pedrohcgs *(825 ⭐)*
 - 📚 🔷 **[f/prompts.chat](https://github.com/f/prompts.chat)**  R:🟢 M:⚪ — No description by f *(157.5k ⭐)*
 - 🔌 ⭐ **[accessibility-agents](https://github.com/Community-Access/accessibility-agents)**  R:🔴 M:🟢 — Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. by Community-Access *(208 ⭐)*
 - 📚 🔷 **[awesome-copilot](https://github.com/github/awesome-copilot)**  R:🟢 M:🟢 — Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. by github *(28.6k ⭐)*
 - ⌨️ 🔷 **[awesome-opencode](https://github.com/awesome-opencode/awesome-opencode)**  R:🟡 M:🟢 — A curated list of awesome plugins, themes, agents, projects, and resources for https://opencode.ai by awesome-opencode *(4.3k ⭐)*
+- ⌨️ 🔷 **[react-doctor](https://github.com/millionco/react-doctor)**  R:🟡 M:🟢 — Let coding agents diagnose and fix your React code by millionco *(6.1k ⭐)*
 - 📚 🔷 **[jcode](https://github.com/1jehuang/jcode)**  R:🟡 M:🟢 — A resource-efficient, open source AI coding agent with a native TUI, built in Rust. by 1jehuang *(219 ⭐)*
 - 📚 🔷 **[Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite)**  R:🔴 M:🟢 — Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis. by qdhenry *(1.1k ⭐)*
 - 📄 ⭐ **[harbor](https://github.com/av/harbor)**  R:🟢 M:🟢 — One command brings a complete pre-wired LLM stack with hundreds of services to explore. by av *(2.7k ⭐)*
@@ -765,6 +765,7 @@
 
 ## 📦 Uncategorized
 
+- 📄 🔷 **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** 🤖 R:🟡 M:🟢 — No description by zhayujie *(43.6k ⭐)*
 - ⌨️ ⭐ **[openwork](https://github.com/different-ai/openwork)**  R:🟡 M:🟢 — An open-source alternative to Claude Cowork built for teams, powered by opencode by different-ai *(13.3k ⭐)*
 - 📚 🔷 **[claw-code](https://github.com/ultraworkers/claw-code)**  R:🟡 M:🟢 — The repo is finally unlocked. enjoy the party! The fastest repo in history to surpass 100K stars ⭐. Join Discord: https://discord.gg/5TUQKqFWd Built in Rust using oh-my-codex. by ultraworkers *(173.0k ⭐)*
 - 📄 ⭐ **[DeepTutor](https://github.com/HKUDS/DeepTutor)**  R:🟡 M:🟢 — "DeepTutor: Agent-Native Personalized Learning Assistant" by HKUDS *(13.3k ⭐)*
@@ -783,7 +784,6 @@
 - 📄 ⭐ **[pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)** 🤖 R:🟡 M:⚪ — No description by pablodelucca *(6.6k ⭐)*
 - 📄 ⭐ **[lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss)** 🤖🧠 R:🔴 M:⚪ — No description by lukilabs *(3.7k ⭐)*
 - 📄 🔷 **[agent-zero](https://github.com/agent0ai/agent-zero)** 🤖🧠 R:🟡 M:⚪ — No description by agent0ai *(17.1k ⭐)*
-- 📄 🔷 **[zhayujie/CowAgent](https://github.com/zhayujie/CowAgent)** 🤖 R:🟡 M:🟢 — No description by zhayujie *(43.6k ⭐)*
 - 📄 🔷 **[oobabooga/textgen](https://github.com/oobabooga/textgen)** 🔧 R:🟡 M:⚪ — No description by oobabooga *(46.7k ⭐)*
 - 📄 🔷 **[ironclaw](https://github.com/nearai/ironclaw)** 🤖🧠 R:🟡 M:⚪ — No description by nearai *(11.9k ⭐)*
 - 📚  **[casdoor](https://github.com/casdoor/casdoor)**  R:🟡 M:🟢 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD by casdoor *(13.3k ⭐)*
@@ -807,11 +807,11 @@
 - 📄  **[github-daily-rank](https://github.com/OpenGithubs/github-daily-rank)** 🔧 R:🟡 M:⚪ — No description by OpenGithubs *(886 ⭐)*
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
+- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
+- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
 - ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
 - 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
-- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
-- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
 - ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
 - 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 
