@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-764-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-769-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-7115k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-7168k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**764 skills** across 10 skill types | 🤖 claude code: 725 | 🧠 codex: 103 | 🔧 generic: 34 | 🖱️ cursor: 24 | 🏄 windsurf: 2 | 📟 cline: 2
+**769 skills** across 10 skill types | 🤖 claude code: 729 | 🧠 codex: 105 | 🔧 generic: 35 | 🖱️ cursor: 24 | 🏄 windsurf: 2 | 📟 cline: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[luamake](https://github.com/actboy168/luamake)** 🤖 R:🟡 M:⚪ — No description by actboy168 *(206 ⭐)* — discovered Apr 23
-- 📄 🔷 **[trice](https://github.com/rokath/trice)** 🧠 R:🟡 M:⚪ — No description by rokath *(911 ⭐)* — discovered Apr 23
-- 📄 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:🟡 M:⚪ — No description by Prorise-cool *(271 ⭐)* — discovered Apr 22
-- 📄 🔷 **[dr-claw](https://github.com/OpenLAIR/dr-claw)** 🤖🧠 R:🟡 M:⚪ — No description by OpenLAIR *(903 ⭐)* — discovered Apr 22
-- 📄 ⭐ **[hcom](https://github.com/aannoo/hcom)** 🤖 R:🟡 M:⚪ — No description by aannoo *(236 ⭐)* — discovered Apr 22
+- 📄 🔷 **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)** 🔧 R:🟡 M:⚪ — No description by kubernetes-sigs *(1.9k ⭐)* — discovered Apr 23
+- 📄 🔷 **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🤖🧠 R:🟡 M:⚪ — No description by BerriAI *(44.4k ⭐)* — discovered Apr 23
+- 📄 ⭐ **[phodal/routa](https://github.com/phodal/routa)** 🤖🧠 R:🟡 M:⚪ — No description by phodal *(760 ⭐)* — discovered Apr 23
+- 📄 🔷 **[vyper](https://github.com/vyperlang/vyper)** 🤖 R:🟡 M:⚪ — No description by vyperlang *(5.2k ⭐)* — discovered Apr 23
+- 📄 🔶 **[research-companion](https://github.com/andrehuang/research-companion)** 🤖 R:🟡 M:⚪ — No description by andrehuang *(614 ⭐)* — discovered Apr 23
 
 ---
 
@@ -255,6 +255,7 @@
 - 📚 🔷 **[microsoft/azure-skills](https://github.com/microsoft/azure-skills)**  R:🟢 M:⚪ — No description by microsoft *(581 ⭐)*
 - 📄 🔷 **[zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)** 🤖 R:🟡 M:⚪ — No description by zereight *(1.4k ⭐)*
 - 📄 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** 🤖🧠 R:🟡 M:⚪ — No description by punitarani *(1.6k ⭐)*
+- 📄 ⭐ **[hcom](https://github.com/aannoo/hcom)** 🤖 R:🟡 M:⚪ — No description by aannoo *(236 ⭐)*
 - 📄 🔷 **[jo-inc/camofox-browser](https://github.com/jo-inc/camofox-browser)** 🧠 R:🟡 M:⚪ — No description by jo-inc *(2.3k ⭐)*
 - 📚 🔷 **[xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)**  R:🟢 M:⚪ — No description by xingkongliang *(566 ⭐)*
 - 📚 🔶 **[reader](https://github.com/jina-ai/reader)**  R:🟢 M:⚪ — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ by jina-ai *(10.5k ⭐)*
@@ -269,6 +270,7 @@
 - 📚 🔷 **[K9i-0/ccpocket](https://github.com/K9i-0/ccpocket)**  R:🟢 M:⚪ — No description by K9i-0 *(529 ⭐)*
 - 📄 🔷 **[po-angular](https://github.com/po-ui/po-angular)** 🧠 R:🟡 M:⚪ — No description by po-ui *(1.0k ⭐)*
 - 📄 🔶 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** 🤖🧠 R:🟡 M:⚪ — No description by Alishahryar1 *(2.1k ⭐)*
+- 📄 🔷 **[trice](https://github.com/rokath/trice)** 🧠 R:🟡 M:⚪ — No description by rokath *(911 ⭐)*
 - 📄 🔶 **[swarm](https://github.com/parruda/swarm)** 🤖🧠 R:🟡 M:⚪ — No description by parruda *(1.7k ⭐)*
 - 📄 🔷 **[nibiru](https://github.com/NibiruChain/nibiru)** 🤖 R:🟡 M:⚪ — No description by NibiruChain *(206 ⭐)*
 - 📚  **[developer](https://github.com/smol-ai/developer)**  R:🟢 M:⚪ — the first library to let you embed a developer agent in your own app! by smol-ai *(12.2k ⭐)*
@@ -276,8 +278,8 @@
 - 📚 🔷 **[greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)**  R:🟢 M:⚪ — No description by greyhaven-ai *(703 ⭐)*
 - 📚 🔷 **[yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)**  R:🟢 M:⚪ — No description by yvgude *(462 ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
 - 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(283 ⭐)*
+- 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
 - 📄 🔶 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**  R:🟢 M:🟠 — A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering. by snwfdhmp *(1.6k ⭐)*
 - 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:⚪ — No description by Leonxlnx *(7.1k ⭐)*
 - 📄 🔷 **[pg-mcp-server](https://github.com/stuzero/pg-mcp-server)** 🔧 R:🟡 M:⚪ — No description by stuzero *(537 ⭐)*
@@ -326,6 +328,7 @@
 - 📄 🔷 **[error-prone-support](https://github.com/PicnicSupermarket/error-prone-support)** 🤖🧠 R:🟡 M:⚪ — No description by PicnicSupermarket *(234 ⭐)*
 - 📄 🔶 **[regipy](https://github.com/mkorman90/regipy)** 🤖 R:🟡 M:⚪ — No description by mkorman90 *(272 ⭐)*
 - 📄 🔶 **[claude-code-mcpinstall](https://github.com/undeadpickle/claude-code-mcpinstall)** 🔧 R:🟡 M:⚪ — No description by undeadpickle *(240 ⭐)*
+- 📄 🔷 **[luamake](https://github.com/actboy168/luamake)** 🤖 R:🟡 M:⚪ — No description by actboy168 *(206 ⭐)*
 - 📚 🔶 **[milisp/mcp-linker](https://github.com/milisp/mcp-linker)**  R:🟢 M:⚪ — No description by milisp *(300 ⭐)*
 - 📄 🔶 **[muffin](https://github.com/klen/muffin)** 🧠 R:🟡 M:⚪ — No description by klen *(690 ⭐)*
 - 📄 🔶 **[next-skills](https://github.com/vercel-labs/next-skills)** 🤖🧠 R:🟡 M:⚪ — No description by vercel-labs *(816 ⭐)*
@@ -465,6 +468,7 @@
 - 📄 🔶 **[papersgpt-for-zotero](https://github.com/papersgpt/papersgpt-for-zotero)**  R:🟢 M:🟢 — A powerful Zotero AI and MCP plugin with ChatGPT, Gemini 3, Claude, Grok, DeepSeek, OpenRouter, Kimi 2.5, GLM 4.7, SiliconFlow, GPT-oss, Gemma 3, Qwen 3 by papersgpt *(2.2k ⭐)*
 - 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)**  R:🟢 M:🟢 — No description by Shpigford *(1.2k ⭐)*
 - 🔌 ⭐ **[claude-orchestration](https://github.com/mbruhler/claude-orchestration)** 🤖 R:🟡 M:🟠 — Multi-agent workflow orchestration plugin for Claude Code by mbruhler *(201 ⭐)*
+- 📄 🔷 **[dr-claw](https://github.com/OpenLAIR/dr-claw)** 🤖🧠 R:🟡 M:⚪ — No description by OpenLAIR *(903 ⭐)*
 - 📚 🔷 **[AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)**  R:🟢 M:⚪ — No description by AgriciDaniel *(1.6k ⭐)*
 - 📄 🔷 **[Chorus](https://github.com/Chorus-AIDLC/Chorus)** 🤖🧠 R:🟡 M:⚪ — No description by Chorus-AIDLC *(569 ⭐)*
 - 📚 🔷 **[collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)**  R:🟢 M:⚪ — No description by collaborator-ai *(2.2k ⭐)*
@@ -626,6 +630,7 @@
 - 📚 🔷 **[cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup)**  R:🟢 M:⚪ — No description by cassler *(261 ⭐)*
 - 📄 🔷 **[Master-skill](https://github.com/xr843/Master-skill)** 🤖 R:🟡 M:⚪ — No description by xr843 *(243 ⭐)*
 - 📄 🔶 **[Claude-Code-Projects-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)** 🤖 R:🟡 M:⚪ — No description by danielrosehill *(373 ⭐)*
+- 📄 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:🟡 M:⚪ — No description by Prorise-cool *(271 ⭐)*
 - 📄 🔷 **[llm-wiki](https://github.com/mduongvandinh/llm-wiki)** 🤖🧠 R:🟡 M:⚪ — No description by mduongvandinh *(200 ⭐)*
 - 🔌 🔷 **[shareAI-skills](https://github.com/shareAI-lab/shareAI-skills)** 🤖 R:🟡 M:🟠 — shareAI Lab's skills for agent to build agent & other custom software system by shareAI-lab *(239 ⭐)*
 - 📄 🔶 **[terrae](https://github.com/alamenai/terrae)** 🤖 R:🟡 M:⚪ — No description by alamenai *(221 ⭐)*
@@ -820,13 +825,13 @@
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
 - 📄  **[morphic-programming](https://github.com/nicolasahar/morphic-programming)** 🔧 R:🟡 M:⚪ — No description by nicolasahar *(218 ⭐)*
-- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
-- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
 - 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
-- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
+- ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
+- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 - ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
+- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
 
 ---
 
