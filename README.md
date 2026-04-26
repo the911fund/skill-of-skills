@@ -83,7 +83,6 @@
 - ⌨️ 🔶 **[skill-codex](https://github.com/skills-directory/skill-codex)** 🤖🧠 R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(1.1k ⭐)*
 - 📚 🔷 **[genai-toolbox](https://github.com/googleapis/genai-toolbox)**  R:🟡 M:🟢 — MCP Toolbox for Databases is an open source MCP server for databases. by googleapis *(14.0k ⭐)*
 - ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:🟡 M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
-- 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**  R:🟡 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(22.1k ⭐)*
 - 🔗 ⭐ **[claude-self-reflect](https://github.com/ramakay/claude-self-reflect)**  R:🔴 M:🟢 — Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect by ramakay *(203 ⭐)*
 - ⌨️ ⭐ **[Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)** 🤖 R:🟢 M:🟢 — Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. by parcadei *(3.7k ⭐)*
 - 🔌 ⭐ **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)**  R:🟡 M:🟢 — All powerful skills of ClaudeKit.cc! by mrgoonie *(1.9k ⭐)*
@@ -108,6 +107,7 @@
 - 📄 ⭐ **[unbrowse](https://github.com/unbrowse-ai/unbrowse)**  R:🟡 M:🟢 — Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally. by unbrowse-ai *(609 ⭐)*
 - 🔌 🔷 **[n-skills](https://github.com/numman-ali/n-skills)**  R:🔴 M:🟢 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(948 ⭐)*
 - ⌨️ 🔷 **[claude-code-statusline](https://github.com/rz1989s/claude-code-statusline)** 🤖 R:🟢 M:🟢 — Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes. by rz1989s *(414 ⭐)*
+- 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**  R:🟡 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(22.1k ⭐)*
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)**  R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)**  R:🟡 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(778 ⭐)*
 - 📚 ⭐ **[jackwener/opencli](https://github.com/jackwener/opencli)**  R:🟢 M:⚪ — No description by jackwener *(13.4k ⭐)*
@@ -512,12 +512,12 @@
 - ⌨️ ⭐ **[overstory](https://github.com/jayminwest/overstory)**  R:🟡 M:🟢 — Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more by jayminwest *(1.2k ⭐)*
 - 🔌 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)**  R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(15.4k ⭐)*
 - 📚 ⭐ **[garrytan/gstack](https://github.com/garrytan/gstack)**  R:🟢 M:⚪ — No description by garrytan *(64.6k ⭐)*
-- 🔗 🔷 **[cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)**  R:🟡 M:🟢 — CC Workflow Studio by breaking-brake *(4.7k ⭐)*
 - 📚 🔷 **[my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)**  R:🟡 M:🟢 — Shared starter template configuration and CLAUDE.md memory bank system for Claude Code by centminmod *(2.1k ⭐)*
 - 🔌 🔷 **[ouroboros](https://github.com/Q00/ouroboros)**  R:🟡 M:🟢 — Stop prompting. Start specifying. by Q00 *(2.0k ⭐)*
 - 📚 🔷 **[BMAD-METHOD](https://github.com/bmad-code-org/BMAD-METHOD)**  R:🟢 M:🟢 — Breakthrough Method for Agile Ai Driven Development by bmad-code-org *(43.6k ⭐)*
 - 📚 ⭐ **[rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents)**  R:🟡 M:🟢 — A collection of specialized AI skills, agents, rules and hooks for modern Rails AI driven-development. by ThibautBaissac *(469 ⭐)*
 - ⌨️ 🔷 **[aily-blockly](https://github.com/ailyProject/aily-blockly)**  R:🟡 M:🟢 — AI IDE for hardware development, support Arduino, MicroPython, ESP32, STM32, RP2040, Nrf5x... by ailyProject *(1.9k ⭐)*
+- 🔗 🔷 **[cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)**  R:🟡 M:🟢 — CC Workflow Studio by breaking-brake *(4.7k ⭐)*
 - 📚 🔷 **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  R:🟢 M:⚪ — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. by Significant-Gravitas *(183.2k ⭐)*
 - 🔌 ⭐ **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)**  R:🟡 M:🟢 — 🦸 AI 编程超能力 · 中文增强版 — superpowers（99k+ ⭐）完整汉化 + 6 个中国原创 skills，让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 14 款 AI 编程工具真正会干活 by jnMetaCode *(471 ⭐)*
 - 📚 🔷 **[atopile](https://github.com/atopile/atopile)**  R:🟡 M:🟢 — Design circuit boards with code! ✨ Get software-like design reuse 🚀, validation, version control and collaboration in hardware; starting with electronics ⚡️ by atopile *(3.1k ⭐)*
@@ -659,11 +659,11 @@
 - 📚 ⭐ **[skills](https://github.com/trailofbits/skills)**  R:🟡 M:🟢 — Supercharge your AI agents/bots with reusable skills by trailofbits *(4.3k ⭐)*
 - 📚 ⭐ **[moltis](https://github.com/moltis-org/moltis)**  R:🟡 M:🟢 — A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in. by moltis-org *(2.5k ⭐)*
 - 🔌 ⭐ **[pua](https://github.com/tanweai/pua)**  R:🟡 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(14.5k ⭐)*
-- 📚 🔷 **[Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**  R:🟡 M:🟢 — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc by promptslab *(5.7k ⭐)*
 - 🔌 ⭐ **[claude-delegator](https://github.com/jarrodwatts/claude-delegator)**  R:🔴 M:🟢 — Delegate tasks to Codex and Gemini directly from within Claude Code. by jarrodwatts *(932 ⭐)*
 - ⌨️ 🔷 **[vscode-copilot-chat](https://github.com/microsoft/vscode-copilot-chat)**  R:🟡 M:🟢 — Copilot Chat extension for VS Code by microsoft *(9.7k ⭐)*
 - 📚 ⭐ **[sidecar](https://github.com/marcus/sidecar)**  R:🔴 M:🟢 — Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td by marcus *(902 ⭐)*
 - 📚 ⭐ **[claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow)**  R:🔴 M:🟢 — A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. by pedrohcgs *(825 ⭐)*
+- 📚 🔷 **[Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)**  R:🟡 M:🟢 — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc by promptslab *(5.7k ⭐)*
 - 📚 🔷 **[f/prompts.chat](https://github.com/f/prompts.chat)**  R:🟢 M:⚪ — No description by f *(157.5k ⭐)*
 - 🔌 ⭐ **[accessibility-agents](https://github.com/Community-Access/accessibility-agents)**  R:🔴 M:🟢 — Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. by Community-Access *(208 ⭐)*
 - 📚 🔷 **[awesome-copilot](https://github.com/github/awesome-copilot)**  R:🟢 M:🟢 — Community-contributed instructions, prompts, and configurations to help you make the most of GitHub Copilot. by github *(28.6k ⭐)*
@@ -844,13 +844,13 @@
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
 - 📄  **[morphic-programming](https://github.com/nicolasahar/morphic-programming)** 🔧 R:🟡 M:⚪ — No description by nicolasahar *(218 ⭐)*
-- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
-- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
-- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
 - 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
+- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
 - ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
+- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
 - ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
+- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 
 ---
 
