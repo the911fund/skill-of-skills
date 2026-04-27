@@ -1,0 +1,35 @@
+{
+  "retire": [],
+  "propose": [
+    {
+      "query": "topic:ai-code-attribution site:github.com",
+      "platform": "generic",
+      "tool_type": "cli_tool",
+      "justification": "New tool class emerged this week: git-native AI code attribution. At least 4 distinct repos (mesa-dot-dev/agentblame, sunilmallya/agentdiff, git-ai-project/git-ai, Ekaanth/blameprompt) all solving 'git blame for AI agents' with git notes. HN thread https://news.ycombinator.com/item?id=47510254 with strong engagement. No existing query covers this tool class."
+    },
+    {
+      "query": "\"agent harness\" (\"claude code\" OR codex) github.com",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "Multi-agent harness is now a distinct tool class distinct from individual skills or MCPs. At least 6 repos found this week: mvschwarz/openrig (Show HN https://news.ycombinator.com/item?id=47772935), OpenSource03/harnss (https://news.ycombinator.com/item?id=47635188), revfactory/harness, HKUDS/OpenHarness, Chachamaru127/claude-code-harness, affaan-m/everything-claude-code. Growing vocabulary: 'rig', 'harness', 'agent topology'."
+    },
+    {
+      "query": "\"claude code\" (sandbox OR \"docker container\" OR \"dangerously-skip-permissions\") github.com",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "HN thread https://news.ycombinator.com/item?id=47185250 ('OK, lets survey how everybody is sandboxing AI coding agents in early 2026') shows a live community need. Found repos: rsh3khar/claude-sandbox, tintinweb/claude-code-container, nikvdp/cco, textcortex/claude-code-sandbox (archived but spawned successors). Active 2026 HN discussion on containerization approaches."
+    },
+    {
+      "query": "topic:claude-memory OR topic:claude-persistent-memory site:github.com",
+      "platform": "claude_code",
+      "tool_type": "plugin",
+      "justification": "Persistent memory for Claude Code is now a distinct plugin category with 4+ repos: thedotmack/claude-mem (46.1K stars, viral on Twitter), itsjwill/claude-memory, supermemoryai/claude-supermemory, coleam00/claude-memory-compiler. Active on HN https://news.ycombinator.com/item?id=45619537 and trending on X in April 2026."
+    },
+    {
+      "query": "windsurf-skills OR \"windsurf skills\" site:github.com",
+      "platform": "windsurf",
+      "tool_type": "skill",
+      "justification": "Windsurf-native skills collections are emerging as a distinct category separate from Claude Code skills. Found falconnt/windsurf-skills with cross-compatibility analysis showing 86% of Claude Code skills adapted for Windsurf. Skills spec diverging from Cursor's .mdc rules and Claude's SKILL.md. No existing query specifically targets Windsurf platform."
+    }
+  ]
+}
