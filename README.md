@@ -80,7 +80,6 @@
 - 📄 ⭐ **[claude-codex-settings](https://github.com/fcakyon/claude-codex-settings)** 🤖🧠 R:🟢 M:🟢 — My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily. by fcakyon *(562 ⭐)*
 - ⌨️ 🔶 **[skill-codex](https://github.com/skills-directory/skill-codex)** 🤖🧠 R:🟢 M:🟢 — A claude code skill to delegate prompts to codex by skills-directory *(1.1k ⭐)*
 - 📚 🔷 **[genai-toolbox](https://github.com/googleapis/genai-toolbox)**  R:🟡 M:🟢 — MCP Toolbox for Databases is an open source MCP server for databases. by googleapis *(14.0k ⭐)*
-- ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:🟡 M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
 - 🔗 ⭐ **[claude-self-reflect](https://github.com/ramakay/claude-self-reflect)**  R:🔴 M:🟢 — Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect by ramakay *(203 ⭐)*
 - 🔌 ⭐ **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)**  R:🟡 M:🟢 — All powerful skills of ClaudeKit.cc! by mrgoonie *(1.9k ⭐)*
 - 🔌 ⭐ **[context-mode](https://github.com/mksglu/context-mode)**  R:🟡 M:🟢 — Privacy-first. MCP is the protocol for tool access. We're the virtualization layer for context. by mksglu *(6.4k ⭐)*
@@ -106,6 +105,7 @@
 - 🔌 🔷 **[n-skills](https://github.com/numman-ali/n-skills)**  R:🔴 M:🟢 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(948 ⭐)*
 - 🔌 🔷 **[worktrunk](https://github.com/max-sixty/worktrunk)**  R:🟡 M:🟢 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows by max-sixty *(4.1k ⭐)*
 - ⌨️ 🔷 **[claude-code-statusline](https://github.com/rz1989s/claude-code-statusline)** 🤖 R:🟢 M:🟢 — Transform your Claude Code terminal with atomic precision statusline. Features flexible layouts, real-time cost tracking, MCP monitoring, prayer times, and beautiful themes. by rz1989s *(414 ⭐)*
+- ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:🟡 M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
 - 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**  R:🟡 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(22.1k ⭐)*
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)**  R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
 - 📚 🔷 **[axe](https://github.com/jrswab/axe)**  R:🟡 M:🟢 — A ligthweight cli for running single-purpose AI agents. Define focused agents in TOML, trigger them from anywhere; pipes, git hooks, cron, or the terminal. by jrswab *(778 ⭐)*
@@ -284,8 +284,8 @@
 - 📚 🔷 **[greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)**  R:🟢 M:⚪ — No description by greyhaven-ai *(703 ⭐)*
 - 📚 🔷 **[yvgude/lean-ctx](https://github.com/yvgude/lean-ctx)**  R:🟢 M:⚪ — No description by yvgude *(462 ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(283 ⭐)*
 - 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
+- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(283 ⭐)*
 - 📄 🔶 **[awesome-gpt-prompt-engineering](https://github.com/snwfdhmp/awesome-gpt-prompt-engineering)**  R:🟢 M:🟠 — A curated list of awesome resources, tools, and other shiny things for LLM prompt engineering. by snwfdhmp *(1.6k ⭐)*
 - 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:⚪ — No description by Leonxlnx *(7.1k ⭐)*
 - 📄 🔷 **[pg-mcp-server](https://github.com/stuzero/pg-mcp-server)** 🔧 R:🟡 M:⚪ — No description by stuzero *(537 ⭐)*
@@ -440,8 +440,8 @@
 ## 🔄 Business Process & Team Automation
 
 - 📄 ⭐ **[claude-mem](https://github.com/thedotmack/claude-mem)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. by thedotmack *(44.5k ⭐)*
-- 📄 🔷 **[gastownhall/beads](https://github.com/gastownhall/beads)** 🤖🧠 R:🟡 M:🟢 — No description by gastownhall *(21.2k ⭐)*
 - ⌨️ ⭐ **[skills](https://github.com/vercel-labs/skills)**  R:🟢 M:🟢 — The open agent skills tool - npx skills by vercel-labs *(13.0k ⭐)*
+- 📄 🔷 **[gastownhall/beads](https://github.com/gastownhall/beads)** 🤖🧠 R:🟡 M:🟢 — No description by gastownhall *(21.2k ⭐)*
 - ⌨️ ⭐ **[oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)**  R:🟡 M:🟢 — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. by Yeachan-Heo *(9.2k ⭐)*
 - 📚 🔷 **[openclaw](https://github.com/openclaw/openclaw)**  R:🟢 M:🟢 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(349.0k ⭐)*
 - 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟡 M:🟢 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(7.1k ⭐)*
@@ -848,13 +848,13 @@
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟡 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟡 M:⚪ — No description by Scarvy *(290 ⭐)*
 - 📄  **[morphic-programming](https://github.com/nicolasahar/morphic-programming)** 🔧 R:🟡 M:⚪ — No description by nicolasahar *(218 ⭐)*
-- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
-- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
-- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
-- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
 - ⌨️  **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🟡 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(258 ⭐)*
 - ⌨️  **[AI-Gist](https://github.com/yarin-zhang/AI-Gist)**  R:🟡 M:🟢 — ✨ AI Gist 是一款隐私优先的 AI 提示词管理工具，致力于让个人收藏的 AI 提示词能够发挥最大价值。支持变量替换、Jinja 模板、AI 生成与调优、历史版本记录、云端备份等核心功能。 by yarin-zhang *(779 ⭐)*
+- 🔌  **[revdiff](https://github.com/umputun/revdiff)**  R:🟡 M:🟢 — TUI for reviewing diffs, files, and documents with inline annotations by umputun *(265 ⭐)*
 - 📚  **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟡 M:🟢 — List of agent orchestrators by andyrewlee *(239 ⭐)*
+- 📚  **[orchard](https://github.com/cirruslabs/orchard)**  R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by cirruslabs *(369 ⭐)*
+- ⌨️  **[claudraband](https://github.com/halfwhey/claudraband)**  R:🟡 M:🟢 — Claude Code for the Power User by halfwhey *(210 ⭐)*
+- 📚  **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(486 ⭐)*
 
 ---
 
@@ -950,5 +950,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-04-26 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-04-27 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
