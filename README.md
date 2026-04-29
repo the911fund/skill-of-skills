@@ -470,7 +470,7 @@
 - 📚 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)**  R:🟢 M:⚪ — No description by op7418 *(1.8k ⭐)*
 - 📄 ⭐ **[entireio/cli](https://github.com/entireio/cli)** 🤖🧠 R:🟡 M:⚪ — No description by entireio *(4.0k ⭐)*
 - 📄 🔶 **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** 🔧 R:🟡 M:⚪ — No description by sansan0 *(52.7k ⭐)*
-- 📄 🔶 **[aichat](https://github.com/sigoden/aichat)**  R:🟢 M:🟢 — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. by sigoden *(9.8k ⭐)*
+- 📄 🔶 **[aichat](https://github.com/sigoden/aichat)**  R:🟢 M:🟠 — All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. by sigoden *(9.8k ⭐)*
 - ⌨️ 🔶 **[outworked](https://github.com/outworked/outworked)**  R:🟡 M:🟢 — Outworked - Cozy Office for Claude Code by outworked *(257 ⭐)*
 - 📚 🔷 **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**  R:🟢 M:⚪ — No description by Panniantong *(15.2k ⭐)*
 - 📄 🔷 **[shell_gpt](https://github.com/TheR1D/shell_gpt)**  R:🟢 M:🟠 — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently. by TheR1D *(11.9k ⭐)*
