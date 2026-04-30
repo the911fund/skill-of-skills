@@ -5,6 +5,22 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.0] - 2026-04-30
+
+### Added
+- **Managed-agent gap-analysis routine** — new weekly Claude Code scheduled trigger (`trig_019wCpE9FMvGzLbUykYLhHyk`, Mondays 10:00 UTC) discovers AI-coding tools the n8n pipeline structurally cannot find: LLM-grade reasoning over HN/Reddit/X/Substack threads, newly-published awesome-lists, and adaptive-query vocabulary drift. Agent produces JSON manifests and POSTs them to `/api/v1/webhook/ingest-batch` and `/api/v1/discover/adaptive-queries/apply-diff`; n8n workflow 05 validates next.
+- **`managed_agent` discovery source** — new value in the `discovery_source` Postgres enum and Prisma `DiscoverySource` (migration `006-managed-agent-endpoints.sql`); now also a high-signal source that triggers AI triage at the relevance gate.
+- **`source_context` attribution column** — nullable text column on `discovery_queue` carrying one-line attribution (e.g., "Show HN, 40+ points") for richer provenance.
+- **`managed-agent/TEMPLATE.md`** — battle-tested template extracted from the gap-analysis routine for authoring future scheduled-trigger managed agents (design doc + prompt structure + operational checklist + anti-patterns).
+
+### Security
+- **Length-bounded attribution in `ingest-batch`** — `session_type` and `agent_model` are now capped at 64 chars each before interpolation into `discovered_by`, preventing unbounded writes from a caller holding a valid `WEBHOOK_SECRET`.
+- **PII redaction guidance in TEMPLATE.md** — the recovery-manifest fallback step now warns authors to redact PII (author handles, raw post bodies, message threads) before printing to the session transcript on publish failure.
+- **Anti-pattern 5 reframed as security boundary** — "don't let the agent validate its own discoveries" is now documented as a trust separation between untrusted discovery and trusted validation, not just a cost optimization.
+
+### Tests
+- Smoke test for `POST /api/v1/webhook/ingest-batch` covering `managed_agent` round-trip, source_context handling, auth rejection, length-cap behaviour, dedup, malformed-URL handling, and per-seed error isolation.
+
 ## [3.3.2] - 2026-04-11
 
 ### Security
