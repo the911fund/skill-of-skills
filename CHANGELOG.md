@@ -5,6 +5,27 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.4.1] - 2026-04-30
+
+### Fixed
+- **WF13 catchup branch starvation** — Score Unscored Tools and Enrichment Catch-up were gated on Split In Batches main[1] (loop-completion). The metadata loop now spans more tools than n8n can process within an exec window, so for 16 days no tools were getting catchup-scored. Catchup nodes now fire from the Daily 3AM UTC trigger directly, in parallel with the metadata loop.
+- **Pipeline-health false-critical when queue runs dry** — `deriveStatus` treated a stale `last_successful_ingest_at` as critical even when the drain was running on schedule with an empty queue. Now distinguishes "ingest broken" (queue has work, drain not progressing) from "queue ran empty" (drain recent, queue zero) — the latter is healthy.
+- **Schema-prisma drift from migration 004** — `tools.star_velocity_7d`, `star_velocity_30d`, `discovery_source_url`, and `relevance_confidence` existed in the live DB since v3.3 but were never added to `web/prisma/schema.prisma`. Prisma's typed client could not see them; any code wanting these fields had to fall back to raw SQL. Added now.
+- **`database/schema.sql` regenerated** — the hand-written v3.1 snapshot was 318 lines and missing every migration's content (002–006). Replaced with a `pg_dump` of the live schema (~3900 lines). Fresh-env bootstraps from `schema.sql` will now match the running DB.
+- **Orphan WF05 in n8n** — duplicate "05 - Tool Validator" rows from earlier imports are now deleted; canonical id is `eY69MX1JK2RgBVSHs4jj_`.
+
+### Added
+- **`scripts/check-schema-drift.sh`** — pre-deploy gate. Cross-checks SQL migrations against `schema.prisma` (enum values, column adds), the live Postgres enum, and `database/schema.sql` mtime. Wired into the CLAUDE.md rebuild runbook before `docker compose build`.
+- **`scripts/sync-changelog.sh`** — copies the canonical CHANGELOG from this repo to `clawd/skill-of-skills/` and pushes to GitHub. Replaces the manual `cp + commit + push` dance.
+- **Tests for env-guard, HIGH_SIGNAL_SOURCES, source=managed_agent ingest path, empty-queue health exemption** — locks in the contracts created by 3.4.0 and 3.4.1.
+
+### Security
+- **`WEBHOOK_AUTH_DISABLED=true` is hard-rejected when `NODE_ENV=production`** — defense-in-depth against a misconfigured deploy. Returns 500 (misconfigured) so the operator notices in logs, instead of silently disabling auth on every webhook endpoint. Documented in `docker/.env.example`.
+
+### Operations
+- **Workflow 15 (Pipeline Health Monitor) activated** — hourly check of `/api/v1/health/pipeline/detail` with Discord alert on `status != ok`. Was `active: false` in git despite being deployable.
+- **CLAUDE.md "Active Workflows" table updated** — now lists workflows 14 and 15, and notes that 12 is intentionally inactive (superseded by `/api/v1/batch/trending-recalc` called from workflow 14).
+
 ## [3.4.0] - 2026-04-30
 
 ### Added
