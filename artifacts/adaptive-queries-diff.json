@@ -1,0 +1,35 @@
+{
+  "retire": [],
+  "propose": [
+    {
+      "query": "topic:kstack kubernetes claude-code skill",
+      "platform": "claude_code",
+      "tool_type": "skill",
+      "justification": "K8s-specific skills are a breakout category in May 2026. Two distinct repos found (kubetail-org/kstack and LukasNiessen/kubernetes-skill) with active HN thread: https://news.ycombinator.com/item?id=48045711. Operator reports K8s/cloud-infra skills underrepresented in existing corpus."
+    },
+    {
+      "query": "topic:agent-skills site:github.com skills-manager",
+      "platform": "generic",
+      "tool_type": "cli_tool",
+      "justification": "Skills-manager tooling is a new sub-category with at least 4 independent implementations found this week (xingkongliang/skills-manager, umutbozdag/agent-skills-manager, yibie/skills-manager, gotalab/skillport). HN thread https://news.ycombinator.com/item?id=47423910 and GitHub Changelog (Apr 16, 2026: gh skill command) confirm the category is maturing rapidly."
+    },
+    {
+      "query": "github codex-subagents topic:codex-subagents",
+      "platform": "codex",
+      "tool_type": "codex_agent",
+      "justification": "The codex-subagents GitHub topic is emerging with VoltAgent/awesome-codex-subagents (130+ subagents) referencing it. Aligned with HN thread https://news.ycombinator.com/item?id=46334424 ('Skills Officially Comes to Codex'). Codex subagent format differs structurally from Claude Code skills."
+    },
+    {
+      "query": "\"deep research\" skill claude codex obsidian vault",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "Research-workflow skills are proliferating: Weizhena/Deep-Research-skills, eugeniughelbur/obsidian-second-brain, Galaxy-Dawn/claude-scholar, Orchestra-Research/AI-Research-SKILLs – all discovered from HN https://news.ycombinator.com/item?id=47246516. 'Research + Obsidian' is a recurring user pattern not captured by existing queries."
+    },
+    {
+      "query": "github topic:claude-code-plugin tax OR legal OR compliance skill",
+      "platform": "claude_code",
+      "tool_type": "skill",
+      "justification": "Domain-specific professional skills (tax prep, FEC filing, PolicyEngine) are showing HN traction: https://news.ycombinator.com/item?id=47277164 and https://news.ycombinator.com/item?id=46869575. Multiple independent tax-skill repos found (calef, chaturchatur, elderengineer, PolicyEngine). Professional/compliance domain is underrepresented in the current index."
+    }
+  ]
+}
