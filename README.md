@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1275-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1276-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9142k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-9152k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1275 skills** across 10 skill types | 🤖 claude code: 1141 | 🧠 codex: 334 | 🔧 generic: 93 | 🖱️ cursor: 85 | 🏄 windsurf: 5 | 📟 cline: 5
+**1276 skills** across 10 skill types | 🤖 claude code: 1142 | 🧠 codex: 334 | 🔧 generic: 93 | 🖱️ cursor: 85 | 🏄 windsurf: 5 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[boring-stack](https://github.com/sailscastshq/boring-stack)** 🤖 R:🟢 M:⚪ — No description by sailscastshq *(497 ⭐)* — discovered May 23
+- 📄 🔷 **[OpenPipe/ART](https://github.com/OpenPipe/ART)** 🤖 R:🟡 M:⚪ — No description by OpenPipe *(9.8k ⭐)* — discovered May 23
 - 📄 🔶 **[GDA-android-reversing-Tool](https://github.com/charles2gan/GDA-android-reversing-Tool)** 🤖 R:🟢 M:⚪ — No description by charles2gan *(4.8k ⭐)* — discovered May 23
+- 📄 🔷 **[boring-stack](https://github.com/sailscastshq/boring-stack)** 🤖 R:🟢 M:⚪ — No description by sailscastshq *(497 ⭐)* — discovered May 23
 - 📄 🔶 **[Aether](https://github.com/Zhou-Shilin/Aether)** 🧠 R:⚫ M:⚪ — No description by Zhou-Shilin *(255 ⭐)* — discovered May 22
 - 📄  **[ENScan_GO](https://github.com/wgpsec/ENScan_GO)** 🤖 R:🟡 M:⚪ — No description by wgpsec *(4.4k ⭐)* — discovered May 22
-- 📄 🔷 **[auto-round](https://github.com/intel/auto-round)** 🤖🧠 R:🟡 M:⚪ — No description by intel *(1.4k ⭐)* — discovered May 22
 
 ---
 
@@ -380,6 +380,7 @@
 - 📄 🔷 **[pymc-marketing](https://github.com/pymc-labs/pymc-marketing)** 🤖🖱️ R:🟡 M:⚪ — No description by pymc-labs *(1.2k ⭐)*
 - 📄 🔶 **[httpstat](https://github.com/reorx/httpstat)** 🤖🧠 R:🟡 M:⚪ — No description by reorx *(6.2k ⭐)*
 - ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** 🤖 R:🟢 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(439 ⭐)*
+- 📄 🔷 **[auto-round](https://github.com/intel/auto-round)** 🤖🧠 R:🟡 M:⚪ — No description by intel *(1.4k ⭐)*
 - 📚 🔶 **[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)**  R:🟢 M:⚪ — No description by drona23 *(3.3k ⭐)*
 - 📄 🔷 **[kotlinx-rpc](https://github.com/Kotlin/kotlinx-rpc)** 🤖🧠 R:🔴 M:⚪ — No description by Kotlin *(1.0k ⭐)*
 - 📄 🔷 **[free-coding-models](https://github.com/vava-nessa/free-coding-models)** 🤖🧠 R:🟡 M:⚪ — No description by vava-nessa *(1.4k ⭐)*
@@ -607,7 +608,7 @@
 - 📄 🔶 **[pingcap/tidb](https://github.com/pingcap/tidb)** 🤖🧠 R:🟡 M:⚪ — No description by pingcap *(40.0k ⭐)*
 - 📄 🔷 **[confident-ai/deepeval](https://github.com/confident-ai/deepeval)** 🤖🧠 R:🟢 M:⚪ — No description by confident-ai *(15.5k ⭐)*
 - 📚 ⭐ **[Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw)**  R:🟢 M:⚪ — No description by Intent-Lab *(2.0k ⭐)*
-- 📚 🔷 **[bowser](https://github.com/disler/bowser)**  R:🔴 M:🟢 — Agentic browser automation and ui testing system — built with composable skills, subagent, command, and justfile layered architecture for repeatable, deployable browser use. by disler *(207 ⭐)*
+- 📚 🔷 **[bowser](https://github.com/disler/bowser)**  R:🔴 M:🟠 — Agentic browser automation and ui testing system — built with composable skills, subagent, command, and justfile layered architecture for repeatable, deployable browser use. by disler *(207 ⭐)*
 - ⌨️ 🔷 **[buttercut](https://github.com/barefootford/buttercut)** 🤖 R:🟢 M:✅ — Edit Video with Claude Code by barefootford *(300 ⭐)*
 - 📄 🔶 **[microsoft/playwright-mcp](https://github.com/microsoft/playwright-mcp)** 🤖 R:🟡 M:⚪ — No description by microsoft *(0 ⭐)*
 - 📄 🔷 **[maildev](https://github.com/maildev/maildev)** 🤖 R:🟢 M:⚪ — No description by maildev *(5.9k ⭐)*
@@ -1433,6 +1434,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-05-23 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-05-24 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
-
