@@ -1,0 +1,486 @@
+{
+  "schema_version": "1.0.0",
+  "session_type": "gap-analysis",
+  "generated_at": "2026-05-25T10:25:00Z",
+  "agent_model": "claude-sonnet-4-6",
+  "seeds": [
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/anthropics/skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Official Anthropic public skills repo; 140k stars; referenced in HN thread on Claude Code Skills as Open Source Project",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mattpocock/skills",
+      "source": "twitter",
+      "source_url": "https://x.com/zaimiri/status/2051012935557018091",
+      "source_context": "Matt Pocock's .claude skills dir; 104k stars; #1 in starred-this-week tweet; created 2026-02-03",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/affaan-m/ECC",
+      "source": "twitter",
+      "source_url": "https://x.com/NEWS_0/status/2013045171386974229",
+      "source_context": "ECC agent harness: skills, instincts, memory, security for Claude Code/Codex/Cursor; 191k stars; hackathon winner",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/code-yeongyu/oh-my-openagent",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46703935",
+      "source_context": "oh-my-openagent: best agent harness, previously oh-my-opencode; 59k stars; referenced in HN Architect thread",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "source": "twitter",
+      "source_url": "https://x.com/PrajwalTomar_/status/2038654002611769529",
+      "source_context": "1400+ installable agentic skills for Claude Code, Cursor, Codex; 38k stars; trending in skills-testing roundup tweet",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Canonical awesome-claude-code list; 44k stars; referenced in HN Skills as Open Source thread",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ruvnet/ruflo",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46703935",
+      "source_context": "Leading Claude agent orchestration platform; 54k stars; top mcp-server GitHub topic",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Alishahryar1/free-claude-code",
+      "source": "twitter",
+      "source_url": "https://x.com/zaimiri/status/2051012935557018091",
+      "source_context": "Free Claude Code in terminal/VSCode/Discord; 29k stars; #2 in starred-this-week tweet",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/kepano/obsidian-skills",
+      "source": "twitter",
+      "source_url": "https://x.com/kepano/status/2008578873903206895",
+      "source_context": "Obsidian CEO's official agent skills for Markdown, Bases, Canvas; 32k stars; viral tweet from Steph Ango",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/iOfficeAI/AionUi",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46601652",
+      "source_context": "Show HN: AionUi - unified cowork GUI for Claude Code, Gemini CLI, Codex, 20+ more CLI agents; 26k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=44312363",
+      "source_context": "Official Chrome DevTools MCP server for coding agents; 41k stars; top mcp-server GitHub topic",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/oraios/serena",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=44312363",
+      "source_context": "Powerful MCP toolkit for semantic retrieval and editing; 24k stars; top mcp-server GitHub topic",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "1000+ agent skills from official dev teams (Anthropic, Google, Vercel, Stripe, etc.) + community; 23k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/czlonkowski/n8n-mcp",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=44312363",
+      "source_context": "MCP server for Claude Desktop/Claude Code/Windsurf/Cursor to build n8n workflows; 21k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/OthmanAdi/planning-with-files",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Claude Code skill implementing Manus-style persistent markdown planning; 22k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/travisvn/awesome-claude-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Curated awesome-claude-skills list; 12k stars; not in known n8n list",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/teng-lin/notebooklm-py",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Unofficial Python API and agentic skill for Google NotebookLM; 15k stars; claude-skills topic",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "ARIS: lightweight Markdown-only skills for autonomous overnight research; 10k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mksglu/context-mode",
+      "source": "twitter",
+      "source_url": "https://x.com/mksglu/status/2025830253235413169",
+      "source_context": "Context window optimization plugin for 15 coding agent platforms; 98% context reduction; 15k stars; viral tweet",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/HKUDS/OpenHarness",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Open Agent Harness with built-in personal agent Ohmo; 13k stars; referenced in OpenRig HN thread",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ComposioHQ/awesome-codex-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46334424",
+      "source_context": "Curated list of practical Codex skills for automating workflows across Codex CLI and API; 11k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/wshobson/agents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46703935",
+      "source_context": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, Gemini CLI; 35k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/heilcheng/awesome-agent-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Tutorials, guides and agent skills directories; 5k stars; not in known n8n list",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46334424",
+      "source_context": "130+ specialized Codex subagents; 4.8k stars; emerged alongside Skills Officially Comes to Codex HN thread",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/revfactory/harness",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Meta-skill that designs domain-specific agent teams and generates their skills; 3.5k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/intellectronica/ruler",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Apply same rules to all coding agents (Claude/Cursor/Windsurf/Copilot); 2.7k stars; active",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/google-gemini/gemini-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46837016",
+      "source_context": "Official Google Gemini skills for Gemini API/SDK/agent interactions; 3.5k stars; Show HN referenced",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/google/agents-cli",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46837016",
+      "source_context": "Google CLI and skills for creating/evaluating/deploying AI agents on Google Cloud; 2.5k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/andyrewlee/awesome-agent-orchestrators",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Curated list of agent orchestrators; 550 stars; new tool category not in known n8n lists",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/bradAGI/awesome-cli-coding-agents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46703935",
+      "source_context": "Curated directory of terminal-native AI coding agents and harnesses; 446 stars; new awesome-list",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Comprehensive Claude Code toolkit: 135 agents, 35 skills, 176+ plugins; 1.8k stars; #1 trending Feb 2026",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Chachamaru127/claude-code-harness",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Claude Code Dedicated Development Harness with autonomous Plan-Work-Review cycle; 1.5k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/daymade/claude-code-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Professional Claude Code skills marketplace with production-ready skills; 1.1k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/browser-act/skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Skills for AI agent browsing, scraping, and structured data extraction; 1.4k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/rivet-dev/sandbox-agent",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=44723762",
+      "source_context": "Run Claude Code/Codex/OpenCode in sandboxes; control over HTTP; 1.4k stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "51-skill bundle for bug hunting and red-team work; 789 stars; created 2026-05-05",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/quemsah/awesome-claude-plugins",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Automated plugin adoption metrics index for 15k+ Claude Code plugin repos via n8n; 739 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/karanb192/reddit-mcp-buddy",
+      "source": "reddit",
+      "source_url": "https://reddit.com/r/ChatGPTCoding",
+      "source_context": "Clean LLM-optimized Reddit MCP server; browse posts, search, analyze users; 681 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Systematic analysis of Claude Code for designing AI Agent Systems; 1.2k stars; research paper companion",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hashgraph-online/awesome-codex-plugins",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46334424",
+      "source_context": "Curated Codex plugins/skills; #1 Codex Marketplace; 289 stars; new awesome-list",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/nikolai-vysotskyi/trace-mcp",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "MCP server for Claude Code and Codex; one tool call replaces 42 min of agent debugging; 80 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/oliver-kriska/claude-elixir-phoenix",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Claude Code plugin for Elixir/Phoenix/LiveView with 20 specialist agents; 339 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/jabrena/cursor-rules-java",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Curated Skills and Agents for modern Spring Boot Java development; 390 stars; both cursor-rules and claude-skills tagged",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/jqueryscript/awesome-claude-code",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Curated list of Claude Code tools, IDE integrations, frameworks; 391 stars; new awesome-list",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/disler/agent-sandbox-skill",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=44723762",
+      "source_context": "Agent skill for E2B isolated execution environments for Gemini CLI/Claude Code/Codex; 367 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/am-will/swarms",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Multi-agent orchestration skills for Claude Code and Codex; 203 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mvschwarz/openrig",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47772935",
+      "source_context": "Show HN: OpenRig - multi-agent harness running Claude Code and Codex as one system; YAML topology; 40 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Arindam200/reddit-mcp",
+      "source": "reddit",
+      "source_url": "https://reddit.com/r/ChatGPTCoding",
+      "source_context": "MCP server implementation for Reddit; 287 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/jordanburke/reddit-mcp-server",
+      "source": "reddit",
+      "source_url": "https://reddit.com/r/ChatGPTCoding",
+      "source_context": "MCP for fetching and creating Reddit content; 107 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/majiayu000/claude-arsenal",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "74 production-ready Claude Code skills and 7 specialized agents for engineering; 64 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/haabe/mycelium",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Product discovery-to-delivery for AI agents; 44 skills, 12 theory gates; 27 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/leonardsellem/codex-subagents-mcp",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45076146",
+      "source_context": "Show HN: File-based sub-agents for Codex CLI as tiny MCP server; reviewer/debugger/security agents; 158 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/marcusquinn/aidevops",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Vibe-Coding DevOps: OpenCode & Git token-efficient AI agent automation; 252 stars; agents-md topic",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/andreisirbu91-lab/MCPSpend",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Real-time cost observability for MCP tool calls; wraps MCP servers; 25 stars; created 2026-05-22 (very new)",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/forketyfork/architect",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46703935",
+      "source_context": "Show HN: Architect - flexible terminal grid for multi-agent AI workflows; built on ghostty-vt; 38 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/J-nowcow/awesome-korean-agent-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "400+ Korean AI coding agent skills for Claude Code/Gemini CLI/Codex/Cursor; 13 stars; new non-English market signal",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/faizkhairi/claude-code-blueprint",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Battle-tested framework-agnostic reference architecture for Claude Code; 23 stars; created 2026-03-25",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/joshidikshant/devsquad",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47180142",
+      "source_context": "Show HN: DevSquad - Claude Code plugin coordinating AI agents (Gemini+Codex) via hook-enforced delegation; 7 stars",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/GetBindu/awesome-claude-code-and-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47321892",
+      "source_context": "Collection of Claude Skills; 114 stars; not in known n8n awesome-lists",
+      "discovered_at": "2026-05-25T10:25:00Z"
+    }
+  ],
+  "budget": {
+    "web_search_calls": 22,
+    "web_fetch_calls": 4,
+    "github_calls": 89,
+    "wall_clock_seconds": 960
+  }
+}

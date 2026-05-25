@@ -1,0 +1,35 @@
+{
+  "retire": [],
+  "propose": [
+    {
+      "query": "topic:gemini-skills",
+      "platform": "generic",
+      "tool_type": "skill",
+      "justification": "Google Gemini CLI adopted the Agent Skills open standard alongside Claude Code. Found google-gemini/gemini-skills (official, 3.5k stars, created 2026-02-06), google/agents-cli (2.5k stars), saeed-vayghan/gemini-agent-skills, and J-nowcow/awesome-korean-agent-skills (all tagged gemini-skills). HN thread https://news.ycombinator.com/item?id=46837016 ('Build reliably with Google GenAI tech') and https://news.ycombinator.com/item?id=46384144 ('Ac2 - Agentic CLI Toolkit for Claude Code and Gemini CLI') confirm Gemini CLI skills as a distinct discovery class the current query set likely undercounts."
+    },
+    {
+      "query": "claude code agent harness site:github.com",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "'Agent harness' is an emerging tool-class vocabulary distinct from skills or plugins. This session found: code-yeongyu/oh-my-openagent (59k stars), affaan-m/ECC (191k stars), ruvnet/ruflo (54k stars), HKUDS/OpenHarness (13k stars), Chachamaru127/claude-code-harness (1.5k stars), revfactory/harness (3.5k stars), mvschwarz/openrig (Show HN: https://news.ycombinator.com/item?id=47772935). None of these surface on skill/plugin topic queries."
+    },
+    {
+      "query": "topic:agents-md",
+      "platform": "codex",
+      "tool_type": "codex_agent",
+      "justification": "AGENTS.md is becoming the Codex-ecosystem equivalent of CLAUDE.md and SKILL.md. Found 406 repos with agents-md topic, including leonardsellem/codex-subagents-mcp (HN: https://news.ycombinator.com/item?id=45076146), TateZhouSiu/agents-md-kit, marcusquinn/aidevops, and Edward4226/codex-maxxing. HN thread https://news.ycombinator.com/item?id=46398957 ('An AI collaboration playbook - AGENTS.md') was referenced by multiple users. This vocabulary is absent from current query set."
+    },
+    {
+      "query": "claude code sandbox isolated execution site:github.com",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "Sandboxed agent execution is a new safety-oriented tool class. Found disler/agent-sandbox-skill (E2B sandboxes for Gemini/Claude/Codex, 367 stars), rivet-dev/sandbox-agent (run agents in sandboxes over HTTP, 1.4k stars). HN thread https://news.ycombinator.com/item?id=44723762 ('Give Claude a GitHub Codespace to automate') shows strong interest. Distinct from skill/plugin: these are infrastructure wrappers, not content packs."
+    },
+    {
+      "query": "awesome agent orchestrators site:github.com 2026",
+      "platform": "generic",
+      "tool_type": "collection",
+      "justification": "Cross-agent orchestrators are crystallizing as a distinct category. Found andyrewlee/awesome-agent-orchestrators (550 stars), bradAGI/awesome-cli-coding-agents (446 stars), iOfficeAI/AionUi (26k stars), forketyfork/architect (Show HN: https://news.ycombinator.com/item?id=46703935), mvschwarz/openrig (Show HN: https://news.ycombinator.com/item?id=47772935). These repos sit between 'skill' and 'plugin' and won't surface on claude-code-skills or cursor-rules topic queries."
+    }
+  ]
+}
