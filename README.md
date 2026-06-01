@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1348-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1354-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9417k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-9420k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1348 skills** across 10 skill types | 🤖 claude code: 1201 | 🧠 codex: 367 | 🔧 generic: 101 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
+**1354 skills** across 10 skill types | 🤖 claude code: 1203 | 🧠 codex: 368 | 🔧 generic: 105 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** 🔧 R:🟡 M:⚪ — No description by jamwithai *(6.2k ⭐)* — discovered May 31
-- 📄 🔷 **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🔴 M:⚪ — No description by mattpocock *(5.5k ⭐)* — discovered May 31
-- 📄 🔶 **[nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)** 🤖 R:🔴 M:⚪ — No description by nicobailon *(1.7k ⭐)* — discovered May 31
-- 📄 🔷 **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)** 🧠 R:🟡 M:⚪ — No description by nesquena *(9.6k ⭐)* — discovered May 31
-- 📄 🔷 **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** 🤖🧠 R:🟡 M:⚪ — No description by ogulcancelik *(3.1k ⭐)* — discovered May 30
+- 📄  **[grindinggear/skilltree-export](https://github.com/grindinggear/skilltree-export)** 🔧 R:🟡 M:⚪ — No description by grindinggear *(206 ⭐)* — discovered Jun 1
+- 📄 🔶 **[cloudflare/agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🟡 M:⚪ — No description by cloudflare *(298 ⭐)* — discovered Jun 1
+- 📄  **[0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert](https://github.com/0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert)** 🔧 R:🟡 M:⚪ — No description by 0xneobyte *(321 ⭐)* — discovered Jun 1
+- 📄 🔶 **[PoESkillTree/PoESkillTree](https://github.com/PoESkillTree/PoESkillTree)** 🔧 R:🟡 M:⚪ — No description by PoESkillTree *(682 ⭐)* — discovered Jun 1
+- 📄 🔷 **[elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** 🤖 R:🟡 M:⚪ — No description by elementalsouls *(1.6k ⭐)* — discovered Jun 1
 
 ---
 
@@ -222,6 +222,7 @@
 - 📚 ⭐ **[ht-mcp](https://github.com/memextech/ht-mcp)**  R:🟡 M:🟠 — Pure Rust implementation of MCP server for headless terminal by memextech *(212 ⭐)*
 - 📄 🔷 **[topoteretes/cognee](https://github.com/topoteretes/cognee)** 🤖🧠 R:🟡 M:⚪ — No description by topoteretes *(15.6k ⭐)*
 - 📄 ⭐ **[CMB2](https://github.com/CMB2/CMB2)** 🤖🧠 R:🟡 M:⚪ — No description by CMB2 *(3.0k ⭐)*
+- 📄 🔷 **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🔴 M:⚪ — No description by mattpocock *(5.5k ⭐)*
 - 🔌 🔷 **[dotai](https://github.com/udecode/dotai)** 🤖 R:🟡 M:🟠 — Context manager for all agents by udecode *(1.1k ⭐)*
 - 📚 🔷 **[memvid/memvid](https://github.com/memvid/memvid)**  R:🟢 M:⚪ — No description by memvid *(0 ⭐)*
 - 📄 🔷 **[julep](https://github.com/julep-ai/julep)** 🤖🧠 R:🟡 M:⚪ — No description by julep-ai *(6.6k ⭐)*
@@ -520,6 +521,7 @@
 - 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
 - 📄 🔶 **[RPG-JS](https://github.com/RSamaium/RPG-JS)** 🤖🧠 R:🟢 M:⚪ — No description by RSamaium *(1.6k ⭐)*
 - 📚 🔶 **[KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)**  R:🟢 M:⚪ — No description by KimYx0207 *(3.0k ⭐)*
+- 📄 🔷 **[pulsar](https://github.com/software-mansion/pulsar)** 🤖🧠 R:🟡 M:⚪ — No description by software-mansion *(326 ⭐)*
 - 📄 🔶 **[rynfar/meridian](https://github.com/rynfar/meridian)** 🤖 R:🔴 M:⚪ — No description by rynfar *(668 ⭐)*
 - 📚 🔷 **[trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)**  R:🟢 M:⚪ — No description by trailofbits *(331 ⭐)*
 - 📄 🔶 **[multik](https://github.com/Kotlin/multik)** 🤖 R:🟡 M:⚪ — No description by Kotlin *(720 ⭐)*
@@ -807,6 +809,7 @@
 - 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟢 M:🟠 — A simple memory system for claude code by rlancemartin *(352 ⭐)*
 - 📚 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)**  R:🟢 M:⚪ — No description by nikilster *(1.4k ⭐)*
 - 📚 🔷 **[kibitzsh/kibitz](https://github.com/kibitzsh/kibitz)**  R:🟢 M:⚪ — No description by kibitzsh *(529 ⭐)*
+- 📄 🔶 **[nicobailon/pi-subagents](https://github.com/nicobailon/pi-subagents)** 🤖 R:🔴 M:⚪ — No description by nicobailon *(1.7k ⭐)*
 - 📄 🔶 **[agtx](https://github.com/fynnfluegge/agtx)** 🤖🧠 R:🔴 M:⚪ — No description by fynnfluegge *(897 ⭐)*
 - 📄 🔷 **[gac](https://github.com/thomwebb/gac)** 🧠 R:🟢 M:⚪ — No description by thomwebb *(307 ⭐)*
 - 📚 🔶 **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)**  R:🟢 M:⚪ — No description by louislva *(0 ⭐)*
@@ -918,6 +921,7 @@
 - 📄 🔷 **[design-extract](https://github.com/Manavarya09/design-extract)** 🤖🧠 R:🟡 M:⚪ — No description by Manavarya09 *(2.9k ⭐)*
 - 🔌 🔷 **[revealjs-skill](https://github.com/ryanbbrown/revealjs-skill)**  R:🟡 M:🟠 — Claude Code skill for making reveal.js presentations by ryanbbrown *(244 ⭐)*
 - 📄 ⭐ **[agent-skill-creator](https://github.com/FrancyJGLisboa/agent-skill-creator)** 🤖 R:🔴 M:⚪ — No description by FrancyJGLisboa *(724 ⭐)*
+- 📄 🔷 **[jamwithai/production-agentic-rag-course](https://github.com/jamwithai/production-agentic-rag-course)** 🔧 R:🟡 M:⚪ — No description by jamwithai *(6.2k ⭐)*
 - 📄 🔷 **[liam](https://github.com/liam-hq/liam)** 🤖🧠 R:🔴 M:⚪ — No description by liam-hq *(4.8k ⭐)*
 - 📚 🔷 **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)**  R:🟢 M:⚪ — No description by The-Vibe-Company *(2.3k ⭐)*
 - 📄 🔷 **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** 🤖🧠 R:🟡 M:⚪ — No description by tech-leads-club *(0 ⭐)*
@@ -1235,6 +1239,7 @@
 - 📄 🔷 **[port-kill](https://github.com/treadiehq/port-kill)** 🖱️ R:🟡 M:⚪ — No description by treadiehq *(2.0k ⭐)*
 - 📄 ⭐ **[Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer)** 🤖🧠 R:🔴 M:⚪ — No description by Light-Heart-Labs *(953 ⭐)*
 - 📄 🔷 **[mnfst/manifest](https://github.com/mnfst/manifest)** 🤖 R:🟡 M:⚪ — No description by mnfst *(5.2k ⭐)*
+- 📄 🔷 **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** 🤖🧠 R:🟡 M:⚪ — No description by ogulcancelik *(3.1k ⭐)*
 - 📄 🔷 **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** 🤖 R:🔴 M:⚪ — No description by alexgreensh *(979 ⭐)*
 - 📄 🔷 **[vllm-project/aibrix](https://github.com/vllm-project/aibrix)** 🔧 R:🟡 M:⚪ — No description by vllm-project *(4.7k ⭐)*
 - 📄 🔷 **[kubernetes-sigs/agent-sandbox](https://github.com/kubernetes-sigs/agent-sandbox)** 🔧 R:🟢 M:⚪ — No description by kubernetes-sigs *(1.9k ⭐)*
@@ -1302,6 +1307,7 @@
 - ⌨️ 🔷 **[claudraband](https://github.com/halfwhey/claudraband)**  R:🔴 M:🟢 — Claude Code for the Power User by halfwhey *(276 ⭐)*
 - 📄 🔷 **[warpdotdev/warp](https://github.com/warpdotdev/warp)** 🤖 R:🔴 M:⚪ — No description by warpdotdev *(0 ⭐)*
 - 📄 🔷 **[danny-avila/LibreChat](https://github.com/danny-avila/LibreChat)** 🤖🧠 R:🟡 M:⚪ — No description by danny-avila *(36.2k ⭐)*
+- 📄 🔷 **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)** 🧠 R:🟡 M:⚪ — No description by nesquena *(9.6k ⭐)*
 - 📄 🔷 **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** 🤖🧠 R:🟢 M:⚪ — No description by anthropics *(13.2k ⭐)*
 - 📄 🔷 **[ironclaw](https://github.com/nearai/ironclaw)** 🤖🧠 R:🔴 M:⚪ — No description by nearai *(11.9k ⭐)*
 - 📄 🔷 **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** 🤖 R:🟡 M:⚪ — No description by THU-MAIC *(17.3k ⭐)*
@@ -1508,3 +1514,4 @@ MIT License - see [LICENSE](LICENSE)
 <p align="center">
   <sub>Auto-generated 2026-06-01 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
+
