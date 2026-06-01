@@ -1,0 +1,566 @@
+{
+  "schema_version": "1.0.0",
+  "session_type": "gap-analysis",
+  "generated_at": "2026-06-01T10:14:24Z",
+  "agent_model": "claude-sonnet-4-6",
+  "seeds": [
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "source": "twitter",
+      "source_url": "https://x.com/GithubProjects/status/2059172145453019389",
+      "source_context": "Drop-in skill bundle with 51 skills, 681 disclosed HackerOne patterns across 24 vuln classes; Burp MCP integration; trended on GitHub May 2026",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/usewombat/gateway",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47418076",
+      "source_context": "Show HN March 2026: Unix rwxd permission model applied to MCP tool calls; acts as proxy between Claude Code and upstream MCP servers",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hodgesmr/agent-fecfile",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46869575",
+      "source_context": "Show HN: Claude Code plugin + Agent Skill + MCP Server combo for analyzing FEC campaign finance filings; first civic-data triple-format release",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/lackeyjb/playwright-skill",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45642911",
+      "source_context": "Show HN: Playwright Skill for Claude Code — model-invoked browser automation, packaged as a Claude Code Plugin with less context overhead than playwright-MCP",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/affaan-m/everything-claude-code",
+      "source": "twitter",
+      "source_url": "https://x.com/heygurisingh/status/2043530834356134323",
+      "source_context": "Agent harness built at Cerebral Valley x Anthropic hackathon Feb 2026; 175k stars, skills/instincts/memory/security for Claude Code, Codex, Cursor, OpenCode",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/sickn33/antigravity-awesome-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45607117",
+      "source_context": "Installable catalog of 1,493+ agentic skills for Claude Code, Cursor, Codex CLI, Gemini CLI; includes npx CLI installer; 39k stars as of March 2026",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/nextlevelbuilder/ui-ux-pro-max-skill",
+      "source": "twitter",
+      "source_url": "https://x.com/heyrimsha/status/2037145631987556748",
+      "source_context": "AI skill with 57 UI styles, 161 color palettes, 99 UX guidelines, 161 reasoning rules — generates complete design systems; actively maintained into May 2026",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/itsjwill/claude-memory",
+      "source": "twitter",
+      "source_url": "https://x.com/heyrimsha/status/2037145631987556748",
+      "source_context": "Persistent memory for Claude Code using local SQLite + Supabase pgvector; free alternative to Mem.ai; auto-captures decisions and learnings across sessions",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/czlonkowski/n8n-mcp",
+      "source": "twitter",
+      "source_url": "https://x.com/heyrimsha/status/2037145631987556748",
+      "source_context": "MCP server for Claude Desktop / Claude Code / Windsurf / Cursor to build n8n workflows; now supports creating and updating workflows from prompts (April 2026)",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/czlonkowski/n8n-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45607117",
+      "source_context": "7 complementary skills teaching AI assistants to build production-ready n8n workflows; companion to n8n-mcp",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/openclaw/openclaw",
+      "source": "twitter",
+      "source_url": "https://x.com/tolibear_/status/2017218484560597146",
+      "source_context": "OpenClaw personal AI assistant framework; any OS, any platform; spawned a cluster of Claude Code fork implementations (claudeclaw, swarmclaw, claude-claw, etc.)",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/swarmclawai/swarmclaw",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Self-hosted AI agent runtime for autonomous swarms; agent memory, MCP tools, schedules, delegation, 23+ LLM providers; practical Claude Code and LangChain alternative",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/moazbuilds/claudeclaw",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Lightweight open-source OpenClaw variant built into Claude Code; personal assistant that never sleeps",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/jeremylongshore/claude-code-plugins-plus-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45530150",
+      "source_context": "Open-source marketplace with 425 plugins, 2,810 skills, 200 agents for Claude Code; managed via ccpi CLI package manager at tonsofskills.com",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mksglu/context-mode",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Context window optimization for AI coding agents; 16k stars; sandboxes context so Claude only loads what it needs per task",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "ARIS — Lightweight Markdown-only autonomous research system running overnight; 11k stars; runs Claude Code in sleep mode to gather and synthesize research",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/MinishLab/semble",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Fast and accurate code search for AI agents; uses ~98% fewer tokens than full-codebase context injection; 4.6k stars; MCP-compatible",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/DeusData/codebase-memory-mcp",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "High-performance code intelligence MCP server; indexes codebase for semantic search; 2.8k stars; reduces context by serving precise code slices",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Manavarya09/design-extract",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "MCP server to extract any website's complete design system with one command; 3k stars; captures colors, fonts, spacing, components",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/yvgude/lean-ctx",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "LeanCTX — Context OS for AI development; local binary; 2.3k stars; manages context budgets across multi-agent sessions",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/forloopcodes/contextplus",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Context+ Semantic Intelligence for large-scale engineering; MCP server; 1.9k stars; multi-repo context awareness for agents",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/rohitg00/pro-workflow",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Pro workflow collection for Claude Code; 2.2k stars; created Feb 2026; topic: claude-code-skills",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ljagiello/ctf-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "CTF (Capture The Flag) skills for Claude Code; 2.2k stars; created Feb 2026; specialized security competition skill bundle",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ciembor/agent-rules-books",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Agent rules codified as 'books'; 1.7k stars; created April 2026; novel format for distributing behavioral constraints",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/browser-act/skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Browser-action skills for Claude Code; 1.5k stars; created Feb 2026; enables agents to perform browser interactions as skills",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/a5c-ai/babysitter",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Agent babysitter — monitors and auto-recovers long-running Claude Code sessions; 1.1k stars; created Jan 2026",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mukul975/claude-team-dashboard",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Show HN April 2026: Real-time monitoring dashboard for Claude Code agent teams; WebSocket streaming of team directory state",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/simple10/agents-observe",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Real-time observability for Claude Code and Codex multi-agent sessions; filtering, visualization, full replay, token usage stats",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/CronusL-1141/AI-company",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Multi-agent team OS for Claude Code; 108 MCP tools, 40+ agent templates, 10 lifecycle hooks, 7 pipeline workflows; no LangChain — pure CC native",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/disler/claude-code-hooks-multi-agent-observability",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Real-time monitoring via comprehensive Claude Code hook event tracking; lightweight hook-based observability pattern",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/kepano/obsidian-skills",
+      "source": "twitter",
+      "source_url": "https://x.com/kepano/status/2008578873903206895",
+      "source_context": "Official Obsidian skills by Obsidian CEO Steph Ango; first major productivity tool creator to officially embrace Agent Skills spec; covers md/Bases/JSON Canvas/CLI",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/phelps-sg/claude-code-obsidian-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Claude Code skills turning an Obsidian vault into a shared human/AI knowledge base for software projects",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/microsoft/azure-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45530150",
+      "source_context": "Official Microsoft Azure plugin providing skills and MCP server configurations for Azure cloud scenarios; first-party corporate skill release",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/microsoft/skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45530150",
+      "source_context": "Official Microsoft skills repository: Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground coding agents; broad platform coverage",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/microsoft/power-platform-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45530150",
+      "source_context": "Official Microsoft Power Platform skills for AI coding agents; 317 stars; created Jan 2026; enterprise-grade skill release",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/google-gemini/gemini-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Official Google Gemini skills repository for Gemini API/SDK/agent interactions; first-party Google skill release matching Agent Skills open standard",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/google/agents-cli",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Google CLI and skills to turn any coding assistant into an expert at building, evaluating, and deploying AI agents on Google Cloud; cross-platform tool",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Piebald-AI/claude-code-system-prompts",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45072795",
+      "source_context": "All parts of Claude Code system prompt, 27 builtin tool descriptions, sub-agent prompts (Plan/Explore/Task); updated each Claude Code version; reference resource",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VILA-Lab/Dive-into-Claude-Code",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Systematic analysis and discussion of Claude Code for designing AI agent systems; agents.md coverage; academic-style repo from VILA Lab",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VoltAgent/awesome-claude-code-subagents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45072795",
+      "source_context": "Collection of 100+ specialized Claude Code subagents; 154+ agents across 10 categories; NEW awesome-list not in current n8n pipeline",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VoltAgent/awesome-codex-subagents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Collection of 130+ specialized Codex subagents; definitive Codex subagent collection; companion to awesome-claude-code-subagents; NEW awesome-list",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/VoltAgent/awesome-agent-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "1,000+ agent skills from official dev teams (Anthropic, Google, Vercel, Stripe, Cloudflare, Figma) and community; cross-platform; NEW awesome-list",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/rohitg00/awesome-claude-code-toolkit",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45607117",
+      "source_context": "Comprehensive toolkit: 135 agents, 35 skills, 42 commands, 176+ plugins, 20 hooks; #1 trending Feb 2026; NEW awesome-list not in current n8n pipeline",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hesreallyhim/awesome-claude-code",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45607117",
+      "source_context": "Curated list of skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code; NEW awesome-list not in current n8n pipeline",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Zijian-Ni/awesome-ai-agents-2026",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Curated list of AI agent frameworks, tools, platforms for 2026 — year agents went mainstream; NEW awesome-list spanning Claude/Codex/Gemini/Cursor",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/RoggeOhta/awesome-codex-cli",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Curated list of 150+ tools, skills, subagents and plugins for OpenAI Codex CLI; NEW awesome-list focused on Codex ecosystem",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/falconnt/windsurf-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Windsurf-compatible skills collection; 12 of 14 Claude Code skills ported to Windsurf as of Jan 2026; early mover in cross-IDE skill portability",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/akapug/RuleSurf",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Intelligent rules framework for WindSurf IDE; persistent context-aware AI-assisted dev using global_rules.md and .windsurfrules; supercharged rules system",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/yusufkaraaslan/Skill_Seekers",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Tool that generates structured docs from any framework/codebase and packages as .windsurfrules or SKILL.md; cross-platform doc-to-skill pipeline for Windsurf/Cline",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/wshobson/agents",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, and Gemini CLI; cross-platform agents.md distribution",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/d-kimuson/claude-code-viewer",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46500801",
+      "source_context": "Full-featured web-based Claude Code client; start new convos, resume sessions, monitor running tasks, browse history; addresses gap in native UI",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/maleta/claude-sessions",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46500801",
+      "source_context": "Auto-tracks and summarizes Claude Code sessions using Haiku; web UI for history; per-project SESSION_SUMMARIES.md for future context injection",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/xiaolai/cccmemory",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46500801",
+      "source_context": "MCP server indexing and searching Claude Code conversation history with decision tracking and git integration; semantic search over past sessions",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/TimEvans/ccsession",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=46500801",
+      "source_context": "MCP server for Claude Code session awareness; context budget tracking, todos, planning docs, intelligent reset recommendations",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/mnemox-ai/tradememory-protocol",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Decision audit trail + persistent memory for AI trading agents; MCP server; 1k stars; emerging fintech agent memory pattern",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ThinkWatchProject/ThinkWatch",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Enterprise AI bastion host for secure AI API and MCP access; 1k stars; security-focused MCP gateway at enterprise scale",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/0xMassi/webclaw",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Fast local-first web content extraction for LLMs; scrape and extract; 1.3k stars; MCP server for agent web access without heavy browser dependency",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/777genius/agent-teams-ai",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Boss-and-agents kanban model; agents message each other and review each other's work; Codex/Claude/OpenCode with 200+ models; build an AI company with multiple teams",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/quemsah/awesome-claude-plugins",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45530150",
+      "source_context": "Automated collection of Claude Code plugin adoption metrics across GitHub repos using n8n workflows; meta-analytics layer on the skills ecosystem; NEW awesome-list",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/GetBindu/awesome-claude-code-and-skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=45607117",
+      "source_context": "Collection of Claude Skills; active curation of community-submitted skill packs; NEW awesome-list not in current n8n pipeline",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/dadbodgeoff/drift",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Codebase intelligence for AI; detects patterns and conventions; 781 stars; MCP server for convention-aware code generation",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/anysearch-ai/anysearch-mcp-server",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Unified real-time search engine skill for AI agents; 822 stars; aggregates multiple search backends into single MCP interface",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/Mcp-Brasil/mcp-brasil",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "MCP Server for 70 Brazilian public APIs; 1.6k stars; first country-specific MCP server bundle for civic data integrations",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/kamusis/windsurf_best_practice",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Comprehensive guide and collection of resources for improving skills when using Windsurf editor; curated best practices",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hypnguyen1209/offensive-claude",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Offensive security Claude Code skills; 260 stars; created May 2026; security-focused skill bundle with vulnerability research patterns",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/hoangsonww/Claude-Code-Agent-Monitor",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=47602986",
+      "source_context": "Real-time monitoring dashboard built with SQLite3, Node/Express, React, Vite, TailwindCSS, WebSockets; tracks sessions, tool usage, subagent orchestration; MacOS native app",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/wondelai/skills",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Skills collection by Wondelai; 1.2k stars; created Jan 2026; topic: claude-code-skills",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/ComposioHQ/secure-openclaw",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "Personal 24x7 AI assistant like OpenClaw on WhatsApp/Telegram/Signal/iMessage with full Claude tool access, persistent memory, 500+ app integrations via Composio",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    },
+    {
+      "action": "queue",
+      "repo_url": "https://github.com/jnMetaCode/agency-orchestrator",
+      "source": "hackernews",
+      "source_url": "https://news.ycombinator.com/item?id=48289950",
+      "source_context": "One sentence → multi-AI-role collaboration → complete plan; MCP server; 1.1k stars; novel LLM orchestration pattern with structured role delegation",
+      "discovered_at": "2026-06-01T10:14:24Z"
+    }
+  ],
+  "budget": {
+    "web_search_calls": 31,
+    "web_fetch_calls": 3,
+    "github_calls": 4,
+    "wall_clock_seconds": 575
+  }
+}

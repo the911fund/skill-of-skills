@@ -1,0 +1,35 @@
+{
+  "retire": [],
+  "propose": [
+    {
+      "query": "\"claude code\" \"agent teams\" dashboard github.com",
+      "platform": "claude_code",
+      "tool_type": "workflow",
+      "justification": "6+ repos for real-time multi-agent team monitoring emerged in Q1-Q2 2026, none in existing pipeline: mukul975/claude-team-dashboard, simple10/agents-observe, CronusL-1141/AI-company, 777genius/agent-teams-ai, hoangsonww/Claude-Code-Agent-Monitor, disler/claude-code-hooks-multi-agent-observability. HN Show HN hit: https://news.ycombinator.com/item?id=47602986"
+    },
+    {
+      "query": "openclaw github.com claude OR plugin OR skill",
+      "platform": "claude_code",
+      "tool_type": "plugin",
+      "justification": "OpenClaw ecosystem spawned 5+ distinct forks/implementations in 2026: openclaw/openclaw, moazbuilds/claudeclaw, andrehuang/claude-claw, swarmclawai/swarmclaw, Enderfga/openclaw-claude-code, ComposioHQ/secure-openclaw. Toli HN shoutout: https://x.com/tolibear_/status/2017218484560597146"
+    },
+    {
+      "query": "topic:windsurf-skills OR topic:windsurf-ai github.com",
+      "platform": "windsurf",
+      "tool_type": "skill",
+      "justification": "Windsurf skill/rules repos are emerging as distinct category: falconnt/windsurf-skills, kinopeee/windsurfrules, akapug/RuleSurf, kamusis/windsurf_best_practice, yusufkaraaslan/Skill_Seekers. Current queries do not target Windsurf-specific skill format (.windsurfrules)"
+    },
+    {
+      "query": "MCP gateway permissions security proxy github.com",
+      "platform": "generic",
+      "tool_type": "mcp_server",
+      "justification": "MCP security/permission proxies are a new tool class with 2+ distinct implementations: usewombat/gateway (Unix rwxd model, HN #47418076 March 2026) and ThinkWatchProject/ThinkWatch (enterprise bastion host). Pattern suggests more are coming as agent access-control becomes a concern."
+    },
+    {
+      "query": "\"gemini cli\" skill OR agents.md github.com",
+      "platform": "generic",
+      "tool_type": "skill",
+      "justification": "Gemini CLI now supports Agent Skills spec; official Google repos published: google-gemini/gemini-skills, google/agents-cli, saeed-vayghan/gemini-agent-skills, addyosmani/agent-skills. Current pipeline appears Claude-Code-centric; Gemini CLI skills gap is significant and growing."
+    }
+  ]
+}
