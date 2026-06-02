@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1354-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1362-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9420k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-9438k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1354 skills** across 10 skill types | 🤖 claude code: 1203 | 🧠 codex: 368 | 🔧 generic: 105 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
+**1362 skills** across 10 skill types | 🤖 claude code: 1209 | 🧠 codex: 373 | 🔧 generic: 105 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
-- 📄  **[grindinggear/skilltree-export](https://github.com/grindinggear/skilltree-export)** 🔧 R:🟡 M:⚪ — No description by grindinggear *(206 ⭐)* — discovered Jun 1
-- 📄 🔶 **[cloudflare/agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🟡 M:⚪ — No description by cloudflare *(298 ⭐)* — discovered Jun 1
-- 📄  **[0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert](https://github.com/0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert)** 🔧 R:🟡 M:⚪ — No description by 0xneobyte *(321 ⭐)* — discovered Jun 1
-- 📄 🔶 **[PoESkillTree/PoESkillTree](https://github.com/PoESkillTree/PoESkillTree)** 🔧 R:🟡 M:⚪ — No description by PoESkillTree *(682 ⭐)* — discovered Jun 1
-- 📄 🔷 **[elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** 🤖 R:🟡 M:⚪ — No description by elementalsouls *(1.6k ⭐)* — discovered Jun 1
+- 📄 🔷 **[Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** 🤖🧠 R:🟡 M:⚪ — No description by Agent-Threat-Rule *(239 ⭐)* — discovered Jun 1
+- 📄 🔷 **[Jennyee1/AcademicAgent](https://github.com/Jennyee1/AcademicAgent)** 🤖 R:🟡 M:⚪ — No description by Jennyee1 *(336 ⭐)* — discovered Jun 1
+- 📄 🔶 **[A-EVO-Lab/a-evolve](https://github.com/A-EVO-Lab/a-evolve)** 🤖 R:🔴 M:⚪ — No description by A-EVO-Lab *(562 ⭐)* — discovered Jun 1
+- 📄 🔷 **[0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)** 🧠 R:⚫ M:⚪ — No description by 0xSteph *(579 ⭐)* — discovered Jun 1
+- 📄 🔷 **[chopratejas/headroom](https://github.com/chopratejas/headroom)** 🤖🧠 R:🟡 M:⚪ — No description by chopratejas *(3.6k ⭐)* — discovered Jun 1
 
 ---
 
@@ -50,8 +50,8 @@
 - 🔌 ⭐ **[myclaude](https://github.com/cexll/myclaude)** 🤖🧠 R:🟡 M:🟠 — Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) by cexll *(2.6k ⭐)*
 - 📄 ⭐ **[notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** 🤖 R:🟢 M:✅ — Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base. by PleasePrompto *(5.4k ⭐)*
 - 🔌 ⭐ **[claude-code-prompt-improver](https://github.com/severity1/claude-code-prompt-improver)** 🤖 R:🟢 M:🟠 — Intelligent prompt improver hook for Claude Code. Type vibes, ship precision. by severity1 *(1.3k ⭐)*
-- ⌨️ 🔷 **[fastmcp](https://github.com/jlowin/fastmcp)** 🤖 R:🟢 M:✅ — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(24.2k ⭐)*
 - 🔌 ⭐ **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** 🤖🖱️ R:🟢 M:🟠 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(299 ⭐)*
+- ⌨️ 🔷 **[fastmcp](https://github.com/jlowin/fastmcp)** 🤖 R:🟢 M:✅ — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(24.2k ⭐)*
 - 📄 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** 🤖🖱️ R:🟢 M:🟠 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(11.0k ⭐)*
 - 📚 🔷 **[llama.cpp](https://github.com/ggml-org/llama.cpp)**  R:🟢 M:🟢 — LLM inference in C/C++ by ggml-org *(0 ⭐)*
 - ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:✅ — Give Claude Code a subconscious by letta-ai *(2.5k ⭐)*
@@ -145,6 +145,7 @@
 - 🔌 🔷 **[Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)**  R:🟢 M:🟢 — An agent skill focused entirely on Swift Testing, helping you write better tests, migrate from XCTest, improve test architecture, and adopt modern Swift testing patterns with confidence. by AvdLee *(325 ⭐)*
 - 📚 🔷 **[autogen](https://github.com/microsoft/autogen)**  R:🟢 M:⚪ — A programming framework for agentic AI by microsoft *(56.7k ⭐)*
 - 📚 🔷 **[appwrite/appwrite](https://github.com/appwrite/appwrite)**  R:🟢 M:⚪ — No description by appwrite *(55.5k ⭐)*
+- 📄 ⭐ **[dmtrKovalenko/fff](https://github.com/dmtrKovalenko/fff)** 🤖🧠 R:🟡 M:⚪ — No description by dmtrKovalenko *(7.0k ⭐)*
 - 📄 🔷 **[caveman](https://github.com/JuliusBrussee/caveman)** 🤖🖱️🧠📟 R:🟡 M:⚪ — No description by JuliusBrussee *(40.8k ⭐)*
 - ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:⚫ M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
 - 🔌 ⭐ **[claude-stt](https://github.com/jarrodwatts/claude-stt)** 🤖 R:🟢 M:🟠 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(361 ⭐)*
@@ -368,12 +369,13 @@
 - 📄 🔶 **[annyang](https://github.com/TalAter/annyang)** 🤖 R:🟡 M:⚪ — No description by TalAter *(6.7k ⭐)*
 - 📚 🔷 **[junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)**  R:🟢 M:⚪ — No description by junhoyeo *(0 ⭐)*
 - 📄 🔷 **[transloco](https://github.com/jsverse/transloco)** 🤖🖱️ R:🟡 M:⚪ — No description by jsverse *(2.2k ⭐)*
-- 📚 🔶 **[ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)**  R:🔴 M:🟢 — Headless IDA Pro MCP Server by blacktop *(251 ⭐)*
+- 📚 🔶 **[ida-mcp-rs](https://github.com/blacktop/ida-mcp-rs)**  R:🔴 M:🟠 — Headless IDA Pro MCP Server by blacktop *(251 ⭐)*
 - 📄 🔷 **[Factory](https://github.com/hmlongco/Factory)** 🤖 R:🟢 M:⚪ — No description by hmlongco *(2.8k ⭐)*
 - 📚 🔶 **[google-deepmind/gemma](https://github.com/google-deepmind/gemma)**  R:🟢 M:⚪ — No description by google-deepmind *(4.4k ⭐)*
 - 📄 🔷 **[semiotic](https://github.com/nteract/semiotic)** 🤖🖱️🏄📟 R:🟡 M:⚪ — No description by nteract *(2.7k ⭐)*
 - 📄 🔶 **[kotest](https://github.com/kotest/kotest)** 🤖🖱️ R:🟡 M:⚪ — No description by kotest *(4.8k ⭐)*
 - 📚 🔷 **[AmoyLab/Unla](https://github.com/AmoyLab/Unla)**  R:🟢 M:⚪ — No description by AmoyLab *(2.1k ⭐)*
+- 📄 🔷 **[elementalsouls/Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** 🤖 R:🔴 M:⚪ — No description by elementalsouls *(1.6k ⭐)*
 - 📄 🔷 **[py-shiny](https://github.com/posit-dev/py-shiny)** 🤖 R:🟡 M:⚪ — No description by posit-dev *(1.7k ⭐)*
 - 📄 🔷 **[sceneview](https://github.com/sceneview/sceneview)** 🤖🖱️🏄 R:🔴 M:⚪ — No description by sceneview *(1.2k ⭐)*
 - 📚 🔷 **[microsoft/azure-skills](https://github.com/microsoft/azure-skills)**  R:🟢 M:⚪ — No description by microsoft *(0 ⭐)*
@@ -517,11 +519,11 @@
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:⚪ — No description by sofastack *(1.6k ⭐)*
 - 📚 🔶 **[Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)**  R:🟢 M:⚪ — No description by Infatoshi *(1.3k ⭐)*
 - 📄 🔷 **[mcp-server](https://github.com/mapbox/mcp-server)** 🤖🧠 R:🟡 M:⚪ — No description by mapbox *(339 ⭐)*
-- 📄 🔷 **[aperture](https://github.com/lightninglabs/aperture)** 🤖 R:🟢 M:⚪ — No description by lightninglabs *(263 ⭐)*
 - 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
+- 📄 🔷 **[aperture](https://github.com/lightninglabs/aperture)** 🤖 R:🟢 M:⚪ — No description by lightninglabs *(263 ⭐)*
 - 📄 🔶 **[RPG-JS](https://github.com/RSamaium/RPG-JS)** 🤖🧠 R:🟢 M:⚪ — No description by RSamaium *(1.6k ⭐)*
 - 📚 🔶 **[KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)**  R:🟢 M:⚪ — No description by KimYx0207 *(3.0k ⭐)*
-- 📄 🔷 **[pulsar](https://github.com/software-mansion/pulsar)** 🤖🧠 R:🟡 M:⚪ — No description by software-mansion *(326 ⭐)*
+- 📄 🔷 **[pulsar](https://github.com/software-mansion/pulsar)** 🤖🧠 R:🟢 M:⚪ — No description by software-mansion *(326 ⭐)*
 - 📄 🔶 **[rynfar/meridian](https://github.com/rynfar/meridian)** 🤖 R:🔴 M:⚪ — No description by rynfar *(668 ⭐)*
 - 📚 🔷 **[trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)**  R:🟢 M:⚪ — No description by trailofbits *(331 ⭐)*
 - 📄 🔶 **[multik](https://github.com/Kotlin/multik)** 🤖 R:🟡 M:⚪ — No description by Kotlin *(720 ⭐)*
@@ -595,6 +597,7 @@
 - 📄 🔶 **[classifier](https://github.com/cardmagic/classifier)** 🤖 R:🟢 M:⚪ — No description by cardmagic *(717 ⭐)*
 - 📄 🔶 **[mcp-code-graph](https://github.com/JudiniLabs/mcp-code-graph)** 🤖 R:🟡 M:⚪ — No description by JudiniLabs *(0 ⭐)*
 - 📄 🔶 **[ai](https://github.com/dart-lang/ai)** 🤖 R:🟡 M:⚪ — No description by dart-lang *(260 ⭐)*
+- 📄 🔶 **[cloudflare/agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🟢 M:⚪ — No description by cloudflare *(298 ⭐)*
 - 📄 🔶 **[goose.nvim](https://github.com/azorng/goose.nvim)** 🔧 R:🟡 M:⚪ — No description by azorng *(306 ⭐)*
 - 📄 🔶 **[Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows)** 🤖 R:🟡 M:⚪ — No description by LKbaba *(212 ⭐)*
 - ⌨️ 🔶 **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🔴 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(261 ⭐)*
@@ -615,6 +618,7 @@
 - 📄  **[claude-code-book](https://github.com/huifer/claude-code-book)** 🤖 R:🟢 M:⚪ — No description by huifer *(225 ⭐)*
 - 📚  **[rust-in-production](https://github.com/ImplFerris/rust-in-production)**  R:🟢 M:🟠 — Rust In Production by ImplFerris *(239 ⭐)*
 - 📄  **[ai-efficiency-handbooks](https://github.com/Abhisheksinha1506/ai-efficiency-handbooks)** 🔧 R:🟢 M:⚪ — No description by Abhisheksinha1506 *(201 ⭐)*
+- 📄  **[grindinggear/skilltree-export](https://github.com/grindinggear/skilltree-export)** 🔧 R:🟢 M:⚪ — No description by grindinggear *(206 ⭐)*
 
 ## 🧪 Product Verification
 
@@ -1239,6 +1243,7 @@
 - 📄 🔷 **[port-kill](https://github.com/treadiehq/port-kill)** 🖱️ R:🟡 M:⚪ — No description by treadiehq *(2.0k ⭐)*
 - 📄 ⭐ **[Light-Heart-Labs/DreamServer](https://github.com/Light-Heart-Labs/DreamServer)** 🤖🧠 R:🔴 M:⚪ — No description by Light-Heart-Labs *(953 ⭐)*
 - 📄 🔷 **[mnfst/manifest](https://github.com/mnfst/manifest)** 🤖 R:🟡 M:⚪ — No description by mnfst *(5.2k ⭐)*
+- 📄 🔷 **[yusing/godoxy](https://github.com/yusing/godoxy)** 🧠 R:🟡 M:⚪ — No description by yusing *(3.2k ⭐)*
 - 📄 🔷 **[ogulcancelik/herdr](https://github.com/ogulcancelik/herdr)** 🤖🧠 R:🟡 M:⚪ — No description by ogulcancelik *(3.1k ⭐)*
 - 📄 🔷 **[token-optimizer](https://github.com/alexgreensh/token-optimizer)** 🤖 R:🔴 M:⚪ — No description by alexgreensh *(979 ⭐)*
 - 📄 🔷 **[vllm-project/aibrix](https://github.com/vllm-project/aibrix)** 🔧 R:🟡 M:⚪ — No description by vllm-project *(4.7k ⭐)*
@@ -1392,6 +1397,7 @@
 - 📄 🔶 **[ai-boost/awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)** 🤖🧠 R:🟢 M:⚪ — No description by ai-boost *(1.3k ⭐)*
 - 📄 🔷 **[woocommerce-ios](https://github.com/woocommerce/woocommerce-ios)** 🤖🧠 R:🟡 M:⚪ — No description by woocommerce *(357 ⭐)*
 - 📄 🔶 **[docs](https://github.com/mongodb/docs)** 🤖 R:🟡 M:⚪ — No description by mongodb *(772 ⭐)*
+- 📄 🔶 **[PoESkillTree/PoESkillTree](https://github.com/PoESkillTree/PoESkillTree)** 🔧 R:🟢 M:⚪ — No description by PoESkillTree *(682 ⭐)*
 - 📄 🔶 **[harness-engineering-from-cc-to-ai-coding](https://github.com/ZhangHanDong/harness-engineering-from-cc-to-ai-coding)** 🤖 R:🟢 M:⚪ — No description by ZhangHanDong *(1.3k ⭐)*
 - 📄 🔶 **[ghcertified](https://github.com/FidelusAleksander/ghcertified)** 🤖 R:🟡 M:⚪ — No description by FidelusAleksander *(906 ⭐)*
 - 📄 🔷 **[jat](https://github.com/joewinke/jat)** 🤖🧠 R:⚫ M:⚪ — No description by joewinke *(225 ⭐)*
@@ -1399,6 +1405,7 @@
 - 📄 🔷 **[malice-network](https://github.com/chainreactors/malice-network)** 🤖🧠 R:⚫ M:⚪ — No description by chainreactors *(445 ⭐)*
 - 📄 🔷 **[claude-code_evil](https://github.com/Ta0ing/claude-code_evil)** 🤖 R:⚫ M:⚪ — No description by Ta0ing *(299 ⭐)*
 - 📄 🔶 **[opensource-job-portal](https://github.com/MicroPyramid/opensource-job-portal)** 🤖 R:🟡 M:⚪ — No description by MicroPyramid *(472 ⭐)*
+- 📄 🔶 **[jimuzhe/tiez-clipboard](https://github.com/jimuzhe/tiez-clipboard)** 🤖 R:🟡 M:⚪ — No description by jimuzhe *(1.8k ⭐)*
 - 📄 🔶 **[awesome_ai_agents](https://github.com/jim-schwoebel/awesome_ai_agents)** 🔧 R:🟢 M:⚪ — No description by jim-schwoebel *(1.6k ⭐)*
 - 📄 🔶 **[talkcody](https://github.com/talkcody/talkcody)** 🧠 R:🟡 M:⚪ — No description by talkcody *(436 ⭐)*
 - 📄 🔶 **[woocommerce-android](https://github.com/woocommerce/woocommerce-android)** 🤖🧠 R:🔴 M:⚪ — No description by woocommerce *(312 ⭐)*
@@ -1417,6 +1424,7 @@
 - 📄  **[awesome-llm-plaza](https://github.com/metame-ai/awesome-llm-plaza)** 🧠 R:🟢 M:⚪ — No description by metame-ai *(216 ⭐)*
 - 📄  **[awesome-readwise](https://github.com/Scarvy/awesome-readwise)** 🔧 R:🟢 M:⚪ — No description by Scarvy *(290 ⭐)*
 - 📄  **[morphic-programming](https://github.com/nicolasahar/morphic-programming)** 🔧 R:🟢 M:⚪ — No description by nicolasahar *(0 ⭐)*
+- 📄  **[0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert](https://github.com/0xneobyte/TryHackMe-Learning-Path-From-Beginner-to-Expert)** 🔧 R:🟢 M:⚪ — No description by 0xneobyte *(321 ⭐)*
 
 ---
 
@@ -1512,6 +1520,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-06-01 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-06-02 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
-
