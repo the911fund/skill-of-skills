@@ -465,8 +465,8 @@
 - 📄 🔶 **[up-fetch](https://github.com/L-Blondy/up-fetch)** 🤖 R:🟢 M:⚪ — No description by L-Blondy *(1.4k ⭐)*
 - 📄 🔶 **[node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet)** 🤖 R:🟡 M:⚪ — No description by theoephraim *(2.5k ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(0 ⭐)*
 - 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
+- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(0 ⭐)*
 - 📄 🔷 **[binance-skills-hub](https://github.com/binance/binance-skills-hub)** 🤖 R:🟡 M:⚪ — No description by binance *(827 ⭐)*
 - 📄 🔷 **[skills](https://github.com/heygen-com/skills)** 🤖🧠 R:🟡 M:⚪ — No description by heygen-com *(237 ⭐)*
 - 📄 🔷 **[courtlistener](https://github.com/freelawproject/courtlistener)** 🤖 R:🟡 M:⚪ — No description by freelawproject *(928 ⭐)*
@@ -519,8 +519,8 @@
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:⚪ — No description by sofastack *(1.6k ⭐)*
 - 📚 🔶 **[Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)**  R:🟢 M:⚪ — No description by Infatoshi *(1.3k ⭐)*
 - 📄 🔷 **[mcp-server](https://github.com/mapbox/mcp-server)** 🤖🧠 R:🟡 M:⚪ — No description by mapbox *(339 ⭐)*
-- 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
 - 📄 🔷 **[aperture](https://github.com/lightninglabs/aperture)** 🤖 R:🟢 M:⚪ — No description by lightninglabs *(263 ⭐)*
+- 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
 - 📄 🔶 **[RPG-JS](https://github.com/RSamaium/RPG-JS)** 🤖🧠 R:🟢 M:⚪ — No description by RSamaium *(1.6k ⭐)*
 - 📚 🔶 **[KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)**  R:🟢 M:⚪ — No description by KimYx0207 *(3.0k ⭐)*
 - 📄 🔷 **[pulsar](https://github.com/software-mansion/pulsar)** 🤖🧠 R:🟢 M:⚪ — No description by software-mansion *(326 ⭐)*
@@ -747,7 +747,6 @@
 - 📚 🔷 **[openclaw](https://github.com/openclaw/openclaw)**  R:🟢 M:🟠 — Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞 by openclaw *(349.0k ⭐)*
 - 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟢 M:🟢 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(7.1k ⭐)*
 - 📄 ⭐ **[gastownhall/gastown](https://github.com/gastownhall/gastown)** 🤖🖱️🧠 R:🔴 M:⚪ — No description by gastownhall *(15.2k ⭐)*
-- 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🔴 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(9.4k ⭐)*
 - 📚 ⭐ **[ductor](https://github.com/PleasePrompto/ductor)**  R:⚫ M:🟢 — Control Claude Code, Codex CLI and Gemini CLI from Telegram. Live streaming, persistent memory, cron jobs, webhooks, Docker sandboxing. by PleasePrompto *(221 ⭐)*
 - 📄 🔷 **[paperclip](https://github.com/paperclipai/paperclip)** 🤖🧠 R:🔴 M:⚪ — No description by paperclipai *(66.8k ⭐)*
 - ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🟢 M:🟠 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.5k ⭐)*
@@ -758,6 +757,7 @@
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)**  R:🟢 M:⚪ — No description by builderz-labs *(3.8k ⭐)*
 - 📚 🔷 **[nanochat](https://github.com/karpathy/nanochat)**  R:🟢 M:🟠 — The best ChatGPT that $100 can buy. by karpathy *(51.1k ⭐)*
 - 📚 🔷 **[continue](https://github.com/continuedev/continue)**  R:🟢 M:🟠 — ⏩ Ship faster with Continuous AI. Open-source CLI that can be used in Headless mode to run async cloud agents or TUI mode as an in sync coding agent by continuedev *(32.3k ⭐)*
+- 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🔴 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(9.4k ⭐)*
 - 🔌 🔷 **[agentkits-marketing](https://github.com/aitytech/agentkits-marketing)**  R:🟡 M:🟢 — Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills by aitytech *(418 ⭐)*
 - 📚 🔷 **[chatgpt-on-wechat](https://github.com/zhayujie/chatgpt-on-wechat)**  R:🟢 M:🟠 — CowAgent是基于大模型的超级AI助理，能主动思考和任务规划、访问操作系统和外部资源、创造和执行Skills、拥有长期记忆并不断成长。同时支持飞书、钉钉、企业微信应用、微信公众号、网页等接入，可选择OpenAI/Claude/Gemini/DeepSeek/ Qwen/GLM/Kimi/LinkAI，能处理文本、语音、图片和文件，可快速搭建个人AI助手和企业数字员工。 by zhayujie *(42.8k ⭐)*
 - ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🟡 M:🟠 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(708 ⭐)*
@@ -1287,7 +1287,6 @@
 - ⌨️ 🔷 **[Flowise](https://github.com/FlowiseAI/Flowise)**  R:🟡 M:🟢 — Build AI Agents, Visually by FlowiseAI *(52.4k ⭐)*
 - 📚 ⭐ **[brightbean-studio](https://github.com/brightbeanxyz/brightbean-studio)**  R:🟡 M:🟢 — Open-source, self-hostable social media management platform. Schedule, publish, and manage content across 10+ platforms from a single dashboard. Free alternative to Buffer, Sendible, and SocialPilot. by brightbeanxyz *(1.5k ⭐)*
 - 📚 🔷 **[goose](https://github.com/aaif-goose/goose)**  R:🔴 M:🟢 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by aaif-goose *(39.8k ⭐)*
-- 📚 🔷 **[BrowserOS](https://github.com/browseros-ai/BrowserOS)**  R:🔴 M:🟢 — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. by browseros-ai *(10.3k ⭐)*
 - ⌨️ 🔷 **[AI-Trader](https://github.com/HKUDS/AI-Trader)**  R:🔴 M:🟢 — "AI-Trader: 100% Fully-Automated Agent-Native Trading" by HKUDS *(12.6k ⭐)*
 - 📄 🔷 **[langgenius/dify](https://github.com/langgenius/dify)** 🤖🧠 R:🟡 M:⚪ — No description by langgenius *(140.5k ⭐)*
 - ⌨️ 🔷 **[octofriend](https://github.com/synthetic-lab/octofriend)**  R:🟡 M:🟢 — An open-source coding helper. Very friendly! by synthetic-lab *(938 ⭐)*
@@ -1297,6 +1296,7 @@
 - ⌨️ ⭐ **[1code](https://github.com/21st-dev/1code)**  R:🔴 M:🟢 — Orchestration layer for coding agents (Claude Code, Codex) by 21st-dev *(5.4k ⭐)*
 - ⌨️ 🔷 **[orca](https://github.com/stablyai/orca)**  R:🟡 M:🟢 — Orca is the next-gen IDE for building with coding agents by stablyai *(0 ⭐)*
 - ⌨️ 🔷 **[mem0-chrome-extension](https://github.com/mem0ai/mem0-chrome-extension)**  R:🟢 M:🟢 — OpenMemory Chrome Extension: Long-term memory for ChatGPT, Claude, Perplexity, Grok etc by mem0ai *(666 ⭐)*
+- 📚 🔷 **[BrowserOS](https://github.com/browseros-ai/BrowserOS)**  R:🔴 M:🟢 — 🌐 The open-source Agentic browser; alternative to ChatGPT Atlas, Perplexity Comet, Dia. by browseros-ai *(10.3k ⭐)*
 - ⌨️ 🔷 **[skales](https://github.com/skalesapp/skales)**  R:🟡 M:🟢 — Your local AI Desktop Agent for Windows, macOS & Linux. Agent Skills (SKILL.md), autonomous coding (Codework), multi-agent teams, desktop automation, 15+ AI providers, Desktop Buddy. No Docker, no terminal. Free. by skalesapp *(723 ⭐)*
 - 📄 🔷 **[agents](https://github.com/wshobson/agents)** 🤖🧠 R:🔴 M:⚪ — No description by wshobson *(35.8k ⭐)*
 - 📄 ⭐ **[pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents)** 🤖 R:🟡 M:⚪ — No description by pablodelucca *(6.6k ⭐)*
@@ -1520,6 +1520,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-06-02 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-06-03 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
-
