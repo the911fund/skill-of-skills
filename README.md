@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1362-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1363-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9438k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-9447k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1362 skills** across 10 skill types | 🤖 claude code: 1209 | 🧠 codex: 373 | 🔧 generic: 105 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
+**1363 skills** across 10 skill types | 🤖 claude code: 1210 | 🧠 codex: 373 | 🔧 generic: 105 | 🖱️ cursor: 91 | 🏄 windsurf: 5 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:⚪ — No description by HKUDS *(9.6k ⭐)* — discovered Jun 3
 - 📄 🔷 **[Agent-Threat-Rule/agent-threat-rules](https://github.com/Agent-Threat-Rule/agent-threat-rules)** 🤖🧠 R:🟡 M:⚪ — No description by Agent-Threat-Rule *(239 ⭐)* — discovered Jun 1
 - 📄 🔷 **[Jennyee1/AcademicAgent](https://github.com/Jennyee1/AcademicAgent)** 🤖 R:🟡 M:⚪ — No description by Jennyee1 *(336 ⭐)* — discovered Jun 1
 - 📄 🔶 **[A-EVO-Lab/a-evolve](https://github.com/A-EVO-Lab/a-evolve)** 🤖 R:🔴 M:⚪ — No description by A-EVO-Lab *(562 ⭐)* — discovered Jun 1
 - 📄 🔷 **[0xSteph/pentest-ai](https://github.com/0xSteph/pentest-ai)** 🧠 R:⚫ M:⚪ — No description by 0xSteph *(579 ⭐)* — discovered Jun 1
-- 📄 🔷 **[chopratejas/headroom](https://github.com/chopratejas/headroom)** 🤖🧠 R:🟡 M:⚪ — No description by chopratejas *(3.6k ⭐)* — discovered Jun 1
 
 ---
 
@@ -222,6 +222,7 @@
 - 🔌 🔷 **[walkerOS](https://github.com/elbwalker/walkerOS)** 🤖 R:🟢 M:🟠 — Open-source tag manager for developers by elbwalker *(332 ⭐)*
 - 📚 ⭐ **[ht-mcp](https://github.com/memextech/ht-mcp)**  R:🟡 M:🟠 — Pure Rust implementation of MCP server for headless terminal by memextech *(212 ⭐)*
 - 📄 🔷 **[topoteretes/cognee](https://github.com/topoteretes/cognee)** 🤖🧠 R:🟡 M:⚪ — No description by topoteretes *(15.6k ⭐)*
+- 📄 🔷 **[chopratejas/headroom](https://github.com/chopratejas/headroom)** 🤖🧠 R:🟡 M:⚪ — No description by chopratejas *(3.6k ⭐)*
 - 📄 ⭐ **[CMB2](https://github.com/CMB2/CMB2)** 🤖🧠 R:🟡 M:⚪ — No description by CMB2 *(3.0k ⭐)*
 - 📄 🔷 **[mattpocock/sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🔴 M:⚪ — No description by mattpocock *(5.5k ⭐)*
 - 🔌 🔷 **[dotai](https://github.com/udecode/dotai)** 🤖 R:🟡 M:🟠 — Context manager for all agents by udecode *(1.1k ⭐)*
@@ -1522,3 +1523,4 @@ MIT License - see [LICENSE](LICENSE)
 <p align="center">
   <sub>Auto-generated 2026-06-03 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
+
