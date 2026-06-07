@@ -134,3 +134,7 @@ docs/
 
 # GitHub workflows - NOT gitignored (sync to GitHub for CI/CD)
 # .github/workflows/
+
+# Python cache
+__pycache__/
+*.py[cod]
