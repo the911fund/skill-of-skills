@@ -31,9 +31,35 @@ def main() -> int:
 
     require_contains("sources.yml", ["official-n8n-skills", "n8n-io/skills", "using-n8n-skills"])
     require_contains("docs/scoring.md", ["relevance_score", "task-fit beats stars", "best_for_query"])
-    require_contains("docs/api.md", ["POST /api/v1/route", "recommended_skills"])
+    require_contains("docs/api.md", ["POST /api/v1/route", "recommended_skills", "scripts/route_skills.py"])
     require_contains(".github/workflows/sync-official.yml", ["Validate source registry", "N8N_SYNC_WEBHOOK"])
     require_contains(".github/workflows/validate-tool.yml", ["repo_validated", "risk_reasons"])
+
+    route = subprocess.run(
+        [
+            sys.executable,
+            "scripts/route_skills.py",
+            "build an n8n workflow with GitHub issues and Slack alerts",
+            "--platform",
+            "n8n",
+            "--max-results",
+            "3",
+        ],
+        cwd=ROOT,
+        check=True,
+        text=True,
+        capture_output=True,
+    )
+    routed = json.loads(route.stdout)
+    top = routed["recommended_skills"][0]
+    if top["source_id"] != "official-n8n-skills":
+        raise AssertionError(f"expected official n8n skill first, got {top}")
+    names = [item["name"] for item in routed["recommended_skills"]]
+    if "awesome-automation-tools" in names[:2]:
+        raise AssertionError("generic stars-heavy repo outranked task-fit skills")
+    if top["score_breakdown"]["relevance_score"] <= 0.75:
+        raise AssertionError(f"top route has weak relevance: {top}")
+    print("route ok: official n8n task-fit beats stars-heavy generic repo")
 
     print("all repository smoke tests passed")
     return 0

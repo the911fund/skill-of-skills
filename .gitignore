@@ -94,6 +94,7 @@ scripts/
 !scripts/validate_sources.py
 !scripts/sync_official_sources.py
 !scripts/test_repository.py
+!scripts/route_skills.py
 
 # Configuration
 config/

@@ -1,0 +1,54 @@
+[
+  {
+    "name": "using-n8n-skills",
+    "repo": "https://github.com/n8n-io/skills",
+    "source_id": "official-n8n-skills",
+    "description": "Official n8n meta-skill for building n8n workflows, selecting node configuration skills, handling credentials, validating workflows, and using n8n Agent skills for integrations such as GitHub issues, Slack alerts, and automation notifications.",
+    "platforms": ["n8n", "claude_code"],
+    "trust": "official",
+    "record_granularity": "skill_level",
+    "stars": 0,
+    "quality_signals": ["trigger", "examples", "verification", "references", "approval_gates"],
+    "maintenance": "active",
+    "safety": "medium"
+  },
+  {
+    "name": "n8n-skills",
+    "repo": "https://github.com/czlonkowski/n8n-skills",
+    "source_id": "community-n8n-skills",
+    "description": "Community n8n skillset for Claude Code to build n8n workflows and automation.",
+    "platforms": ["n8n", "claude_code"],
+    "trust": "community",
+    "record_granularity": "skill_level",
+    "stars": 4000,
+    "quality_signals": ["trigger", "examples", "verification"],
+    "maintenance": "active",
+    "safety": "medium"
+  },
+  {
+    "name": "awesome-automation-tools",
+    "repo": "https://github.com/example/awesome-automation-tools",
+    "source_id": "generic-crawl",
+    "description": "Large list of automation, workflow, Slack, GitHub, Zapier, and AI resources.",
+    "platforms": ["generic"],
+    "trust": "unknown",
+    "record_granularity": "repo_level",
+    "stars": 100000,
+    "quality_signals": [],
+    "maintenance": "unknown",
+    "safety": "unknown"
+  },
+  {
+    "name": "github-code-review",
+    "repo": "https://github.com/example/agent-skills",
+    "source_id": "community-agent-skills",
+    "description": "Review GitHub pull requests with diff inspection, inline comments, security review, and CI checks.",
+    "platforms": ["github", "claude_code", "codex"],
+    "trust": "community",
+    "record_granularity": "skill_level",
+    "stars": 900,
+    "quality_signals": ["trigger", "examples", "verification", "approval_gates"],
+    "maintenance": "active",
+    "safety": "medium"
+  }
+]

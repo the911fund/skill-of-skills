@@ -67,3 +67,18 @@ A user or agent should not have to browse 1,400 records to pick an operational p
 - `/api/v1/search`: keyword/exploration endpoint.
 - `/api/v1/tools`: directory browsing endpoint.
 - `/api/v1/route`: decision endpoint for agents selecting skills before action.
+
+## Local contract prototype
+
+`scripts/route_skills.py` is a dependency-free local prototype for this endpoint. It is not the production API server; it is an executable contract test for the ranking behavior the backend must preserve.
+
+Example:
+
+```bash
+python3 scripts/route_skills.py \
+  "build an n8n workflow with GitHub issues and Slack alerts" \
+  --platform n8n \
+  --max-results 3
+```
+
+The smoke tests assert that the official n8n skill-level record surfaces before a generic stars-heavy automation repo. This prevents regressions where popularity silently beats task fit.
