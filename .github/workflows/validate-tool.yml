@@ -23,126 +23,203 @@ jobs:
     timeout-minutes: 10
 
     steps:
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '20'
+      - name: Validate inputs
+        id: input_check
+        env:
+          REPO_URL: ${{ inputs.repo_url }}
+          CALLBACK_URL: ${{ inputs.callback_url }}
+        run: |
+          set -euo pipefail
+          if ! echo "$REPO_URL" | grep -Eq '^https://github\.com/[A-Za-z0-9_.-]+/[A-Za-z0-9_.-]+/?$'; then
+            echo "repo_url must be a canonical GitHub repository URL" >&2
+            exit 2
+          fi
+          if ! echo "$CALLBACK_URL" | grep -Eq '^https://'; then
+            echo "callback_url must be an https URL" >&2
+            exit 2
+          fi
 
       - name: Extract repo info
         id: repo
+        env:
+          REPO_URL: ${{ inputs.repo_url }}
         run: |
-          URL="${{ inputs.repo_url }}"
-          OWNER=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\1|')
-          REPO=$(echo "$URL" | sed -E 's|https://github.com/([^/]+)/([^/]+).*|\2|')
-          echo "owner=$OWNER" >> $GITHUB_OUTPUT
-          echo "repo=$REPO" >> $GITHUB_OUTPUT
+          set -euo pipefail
+          OWNER=$(echo "$REPO_URL" | sed -E 's|https://github.com/([^/]+)/([^/]+)/?$|\1|')
+          REPO=$(echo "$REPO_URL" | sed -E 's|https://github.com/([^/]+)/([^/]+)/?$|\2|')
+          echo "owner=$OWNER" >> "$GITHUB_OUTPUT"
+          echo "repo=$REPO" >> "$GITHUB_OUTPUT"
 
       - name: Clone repository
+        env:
+          REPO_URL: ${{ inputs.repo_url }}
         run: |
-          git clone --depth 1 ${{ inputs.repo_url }} test-repo
-        continue-on-error: true
+          set -euo pipefail
+          git clone --depth 1 "$REPO_URL" test-repo
+          git -C test-repo rev-parse HEAD > commit-sha.txt
 
-      - name: Detect platforms
+      - name: Detect platforms and skill evidence
         id: platform_check
         run: |
-          PLATFORMS=""
+          set -euo pipefail
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json
+          from pathlib import Path
 
-          # Claude Code markers
-          if find test-repo -name "SKILL.md" -o -name "skill.md" -o -name "CLAUDE.md" 2>/dev/null | grep -q .; then
-            PLATFORMS="${PLATFORMS}claude_code,"
-            echo "has_skill_md=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_skill_md=false" >> $GITHUB_OUTPUT
-          fi
+          root = Path('test-repo')
+          files = [p for p in root.rglob('*') if p.is_file() and '.git' not in p.parts]
+          rels = [str(p.relative_to(root)) for p in files]
 
-          if [ -d "test-repo/.claude-plugin" ] || [ -d "test-repo/.claude" ]; then
-            PLATFORMS="${PLATFORMS}claude_code,"
-            echo "has_claude_plugin=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_claude_plugin=false" >> $GITHUB_OUTPUT
-          fi
+          def any_name(*names):
+              lower = {r.lower() for r in rels}
+              return any(n.lower() in lower for n in names)
 
-          if [ -f "test-repo/mcp.json" ]; then
-            PLATFORMS="${PLATFORMS}claude_code,"
-            echo "has_mcp_json=true" >> $GITHUB_OUTPUT
-          else
-            echo "has_mcp_json=false" >> $GITHUB_OUTPUT
-          fi
+          skill_files = [r for r in rels if Path(r).name.lower() == 'skill.md']
+          agent_files = [r for r in rels if Path(r).name == 'AGENTS.md']
+          claude_files = [r for r in rels if Path(r).name == 'CLAUDE.md']
+          cursor_files = [r for r in rels if r == '.cursorrules' or r.startswith('.cursor/rules/')]
+          windsurf_files = [r for r in rels if Path(r).name == '.windsurfrules']
+          cline_files = [r for r in rels if Path(r).name == '.clinerules' or r.startswith('cline-config/')]
+          mcp_files = [r for r in rels if Path(r).name == 'mcp.json']
 
-          # Cursor markers
-          if find test-repo -name ".cursorrules" -o -name ".cursor" -type d 2>/dev/null | grep -q .; then
-            PLATFORMS="${PLATFORMS}cursor,"
-          fi
+          platforms = []
+          if skill_files or claude_files or mcp_files or any(r.startswith('.claude/') or r.startswith('.claude-plugin/') for r in rels):
+              platforms.append('claude_code')
+          if cursor_files:
+              platforms.append('cursor')
+          if agent_files:
+              platforms.append('codex')
+          if windsurf_files:
+              platforms.append('windsurf')
+          if cline_files:
+              platforms.append('cline')
+          if not platforms:
+              platforms.append('generic')
 
-          # Codex markers
-          if find test-repo -name "AGENTS.md" 2>/dev/null | grep -q .; then
-            PLATFORMS="${PLATFORMS}codex,"
-          fi
+          detected = {
+              'skill_files': skill_files[:50],
+              'agent_files': agent_files[:50],
+              'claude_files': claude_files[:50],
+              'cursor_files': cursor_files[:50],
+              'windsurf_files': windsurf_files[:50],
+              'cline_files': cline_files[:50],
+              'mcp_files': mcp_files[:50],
+          }
+          print('platforms=' + ','.join(dict.fromkeys(platforms)))
+          print('has_skill_md=' + str(bool(skill_files)).lower())
+          print('has_claude_plugin=' + str(any(r.startswith('.claude/') or r.startswith('.claude-plugin/') for r in rels)).lower())
+          print('has_mcp_json=' + str(bool(mcp_files)).lower())
+          print('detected_files_json=' + json.dumps(detected, separators=(',', ':')))
+          PY
 
-          # Windsurf markers
-          if find test-repo -name ".windsurfrules" 2>/dev/null | grep -q .; then
-            PLATFORMS="${PLATFORMS}windsurf,"
-          fi
-
-          # Cline markers
-          if find test-repo -name ".clinerules" -o -name "cline-config" 2>/dev/null | grep -q .; then
-            PLATFORMS="${PLATFORMS}cline,"
-          fi
-
-          # Remove trailing comma, default to generic
-          PLATFORMS=$(echo "$PLATFORMS" | sed 's/,$//')
-          if [ -z "$PLATFORMS" ]; then
-            PLATFORMS="generic"
-          fi
-
-          echo "platforms=$PLATFORMS" >> $GITHUB_OUTPUT
-        continue-on-error: true
-
-      - name: Check for risky patterns
-        id: risk_check
+      - name: Check quality and risky patterns
+        id: quality_risk
         run: |
-          RISK="low"
-          if grep -rE "(subprocess|os\.system|exec\(|spawn|child_process)" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
-            RISK="medium"
-          fi
-          if grep -rE "(sudo|chmod 777|rm -rf|eval\()" test-repo/ 2>/dev/null | grep -v node_modules | grep -q .; then
-            RISK="high"
-          fi
-          echo "risk_level=$RISK" >> $GITHUB_OUTPUT
-        continue-on-error: true
+          set -euo pipefail
+          python3 - <<'PY' >> "$GITHUB_OUTPUT"
+          import json, re
+          from pathlib import Path
+          root = Path('test-repo')
+          files = [p for p in root.rglob('*') if p.is_file() and '.git' not in p.parts and p.stat().st_size < 500_000]
+          text_blob = ''
+          for p in files[:500]:
+              try:
+                  text_blob += '\n' + p.read_text(errors='ignore')[:10000]
+              except Exception:
+                  pass
+          low = text_blob.lower()
+
+          quality = {
+              'has_gotchas': bool(re.search(r'gotchas?|pitfalls?|caveats?', low)),
+              'has_examples': bool(re.search(r'examples?|usage|sample', low)),
+              'has_verification': bool(re.search(r'verif(y|ication)|test|validate|checklist', low)),
+              'has_install_docs': bool(re.search(r'install|setup|configuration|getting started', low)),
+              'has_trigger_desc': bool(re.search(r'use when|trigger|when to use|description:', low)),
+              'has_approval_gates': bool(re.search(r'approval|confirm|human[- ]in[- ]the[- ]loop|destructive', low)),
+          }
+          risk_reasons = []
+          patterns = [
+              ('shell/process execution', r'\b(subprocess|os\.system|exec\(|spawn|child_process|shell)\b'),
+              ('destructive shell command', r'\b(sudo|chmod\s+777|rm\s+-rf|eval\()\b'),
+              ('credential or environment access', r'\b(api[_-]?key|secret|token|process\.env|os\.environ)\b'),
+              ('subagent or multi-agent execution', r'\b(subagent|multi-agent|spawn agent|delegate)\b'),
+              ('browser/computer-use automation', r'\b(browser automation|computer use|playwright|selenium|puppeteer)\b'),
+          ]
+          for reason, pattern in patterns:
+              if re.search(pattern, low):
+                  risk_reasons.append(reason)
+          if any('destructive' in r for r in risk_reasons) or len(risk_reasons) >= 3:
+              risk = 'high'
+          elif risk_reasons:
+              risk = 'medium'
+          else:
+              risk = 'low'
+          print('risk_level=' + risk)
+          print('risk_reasons_json=' + json.dumps(risk_reasons, separators=(',', ':')))
+          print('quality_json=' + json.dumps(quality, separators=(',', ':')))
+          PY
 
       - name: Relevance gate
         id: relevance
         run: |
-          # Must have at least one platform marker to pass
+          set -euo pipefail
           PLATFORMS="${{ steps.platform_check.outputs.platforms }}"
-          if [ "$PLATFORMS" = "generic" ]; then
-            # Generic repos need README with AI coding skill indicators
-            if grep -qiE "(ai coding|skill|rule|agent|mcp|claude|cursor|codex|windsurf|cline)" test-repo/README.md 2>/dev/null; then
-              echo "relevant=true" >> $GITHUB_OUTPUT
-            else
-              echo "relevant=false" >> $GITHUB_OUTPUT
-            fi
-          else
-            echo "relevant=true" >> $GITHUB_OUTPUT
+          if [ "$PLATFORMS" != "generic" ]; then
+            echo "relevant=true" >> "$GITHUB_OUTPUT"
+            echo "validation_status=passed" >> "$GITHUB_OUTPUT"
+            exit 0
           fi
-        continue-on-error: true
+
+          if [ -f test-repo/README.md ] && grep -qiE '(ai coding|skill|rule|agent|mcp|claude|cursor|codex|windsurf|cline)' test-repo/README.md; then
+            echo "relevant=true" >> "$GITHUB_OUTPUT"
+            echo "validation_status=resource_only" >> "$GITHUB_OUTPUT"
+          else
+            echo "relevant=false" >> "$GITHUB_OUTPUT"
+            echo "validation_status=needs_review" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: Send results to n8n
+        env:
+          CALLBACK_URL: ${{ inputs.callback_url }}
+          REPO_URL: ${{ inputs.repo_url }}
+          OWNER: ${{ steps.repo.outputs.owner }}
+          REPO: ${{ steps.repo.outputs.repo }}
+          TOOL_TYPE: ${{ inputs.tool_type }}
+          HAS_SKILL_MD: ${{ steps.platform_check.outputs.has_skill_md }}
+          HAS_CLAUDE_PLUGIN: ${{ steps.platform_check.outputs.has_claude_plugin }}
+          HAS_MCP_JSON: ${{ steps.platform_check.outputs.has_mcp_json }}
+          PLATFORMS: ${{ steps.platform_check.outputs.platforms }}
+          DETECTED_FILES_JSON: ${{ steps.platform_check.outputs.detected_files_json }}
+          RISK_LEVEL: ${{ steps.quality_risk.outputs.risk_level }}
+          RISK_REASONS_JSON: ${{ steps.quality_risk.outputs.risk_reasons_json }}
+          QUALITY_JSON: ${{ steps.quality_risk.outputs.quality_json }}
+          RELEVANT: ${{ steps.relevance.outputs.relevant }}
+          VALIDATION_STATUS: ${{ steps.relevance.outputs.validation_status }}
         run: |
-          curl -X POST "${{ inputs.callback_url }}" \
+          set -euo pipefail
+          python3 - <<'PY' > payload.json
+          import json, os
+          payload = {
+              'repo_url': os.environ['REPO_URL'],
+              'owner': os.environ['OWNER'],
+              'repo': os.environ['REPO'],
+              'commit_sha': open('commit-sha.txt').read().strip(),
+              'tool_type': os.environ['TOOL_TYPE'],
+              'has_skill_md': os.environ['HAS_SKILL_MD'] == 'true',
+              'has_claude_plugin': os.environ['HAS_CLAUDE_PLUGIN'] == 'true',
+              'has_mcp_json': os.environ['HAS_MCP_JSON'] == 'true',
+              'platforms': os.environ['PLATFORMS'],
+              'detected_files': json.loads(os.environ['DETECTED_FILES_JSON']),
+              'risk_level': os.environ['RISK_LEVEL'],
+              'risk_reasons': json.loads(os.environ['RISK_REASONS_JSON']),
+              'quality_signals': json.loads(os.environ['QUALITY_JSON']),
+              'repo_validated': True,
+              'skill_detected': os.environ['HAS_SKILL_MD'] == 'true' or bool(json.loads(os.environ['DETECTED_FILES_JSON']).get('agent_files')),
+              'relevant': os.environ['RELEVANT'] == 'true',
+              'validation_status': os.environ['VALIDATION_STATUS'],
+          }
+          print(json.dumps(payload))
+          PY
+          curl --fail --show-error --silent -X POST "$CALLBACK_URL" \
             -H "Content-Type: application/json" \
-            -d '{
-              "repo_url": "${{ inputs.repo_url }}",
-              "owner": "${{ steps.repo.outputs.owner }}",
-              "repo": "${{ steps.repo.outputs.repo }}",
-              "tool_type": "${{ inputs.tool_type }}",
-              "has_skill_md": ${{ steps.platform_check.outputs.has_skill_md || 'false' }},
-              "has_claude_plugin": ${{ steps.platform_check.outputs.has_claude_plugin || 'false' }},
-              "has_mcp_json": ${{ steps.platform_check.outputs.has_mcp_json || 'false' }},
-              "platforms": "${{ steps.platform_check.outputs.platforms || 'generic' }}",
-              "risk_level": "${{ steps.risk_check.outputs.risk_level || 'low' }}",
-              "relevant": ${{ steps.relevance.outputs.relevant || 'true' }},
-              "validation_status": "passed",
-              "validated_at": "'$(date -u +"%Y-%m-%dT%H:%M:%SZ")'"
-            }'
+            --data @payload.json

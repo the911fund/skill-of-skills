@@ -1,0 +1,14 @@
+{
+  "repo": "example/multi-skill-pack",
+  "files": [
+    "skills/using-platform-skills/SKILL.md",
+    "skills/node-configuration/SKILL.md",
+    "skills/credentials-and-security/SKILL.md",
+    "README.md"
+  ],
+  "expected": {
+    "repo_records": 1,
+    "skill_records": 3,
+    "routing_entrypoint": "using-platform-skills"
+  }
+}
