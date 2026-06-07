@@ -17,39 +17,72 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Fetch README from API
+      - name: Fetch README and live stats from API
         id: fetch
         run: |
-          # Retry up to 3 times with exponential backoff
-          for i in 1 2 3; do
-            echo "Attempt $i: Fetching README..."
-            RESPONSE=$(curl -s --max-time 30 "https://skills.911fund.io/api/v1/readme/regenerate")
+          set -euo pipefail
+          API_BASE="https://skills.911fund.io/api/v1"
 
-            # Check if response looks like JSON
-            if echo "$RESPONSE" | jq -e '.readme_content' > /dev/null 2>&1; then
-              echo "$RESPONSE" | jq -r '.readme_content' > README.md
-              break
+          for i in 1 2 3; do
+            echo "Attempt $i: Fetching README and stats..."
+            curl --fail --show-error --silent --max-time 30 "$API_BASE/readme/regenerate" -o readme-response.json && \
+            curl --fail --show-error --silent --max-time 30 "$API_BASE/stats" -o stats-response.json && \
+            jq -e '.readme_content | type == "string" and length > 1000' readme-response.json >/dev/null && \
+            jq -e '.totalTools | type == "number" and . > 0' stats-response.json >/dev/null && \
+            break
+
+            if [ "$i" -lt 3 ]; then
+              echo "Waiting before retry..."
+              sleep $((i * 5))
             else
-              echo "Received non-JSON response: ${RESPONSE:0:200}"
-              if [ $i -lt 3 ]; then
-                echo "Waiting before retry..."
-                sleep $((i * 5))
-              fi
+              echo "Failed to fetch valid README/stats responses after 3 attempts" >&2
+              exit 1
             fi
           done
 
-          # Check if README was updated
-          if [ -s README.md ] && [ "$(head -c 10 README.md)" != "null" ]; then
-            echo "updated=true" >> $GITHUB_OUTPUT
-          else
-            echo "updated=false" >> $GITHUB_OUTPUT
-            echo "Failed to fetch README content after 3 attempts"
-            exit 1
+          jq -r '.readme_content' readme-response.json > README.md
+          TOTAL_TOOLS=$(jq -r '.totalTools' stats-response.json)
+          README_COUNT=$(grep -Eo '\*\*[0-9]+ skills\*\*|badge/skills-[0-9]+' README.md | grep -Eo '[0-9]+' | head -1 || true)
+
+          if [ -n "$README_COUNT" ]; then
+            DIFF=$(( TOTAL_TOOLS > README_COUNT ? TOTAL_TOOLS - README_COUNT : README_COUNT - TOTAL_TOOLS ))
+            if [ "$DIFF" -gt 25 ]; then
+              echo "README count ($README_COUNT) differs from live API totalTools ($TOTAL_TOOLS) by more than 25" >&2
+              exit 1
+            fi
           fi
+
+          SHA=$(sha256sum README.md | cut -d' ' -f1)
+          {
+            echo "updated=true"
+            echo "total_tools=$TOTAL_TOOLS"
+            echo "readme_sha=$SHA"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Add generated metadata comment
+        env:
+          TOTAL_TOOLS: ${{ steps.fetch.outputs.total_tools }}
+          README_SHA: ${{ steps.fetch.outputs.readme_sha }}
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from datetime import datetime, timezone
+          from pathlib import Path
+          import os
+          path = Path('README.md')
+          text = path.read_text()
+          marker = '<!-- skill-of-skills:generated'
+          generated_at = datetime.now(timezone.utc).strftime('%Y-%m-%dT%H:%M:%SZ')
+          meta = f"<!-- skill-of-skills:generated at={generated_at} total_tools={os.environ['TOTAL_TOOLS']} sha256={os.environ['README_SHA']} -->\n"
+          if text.startswith(marker):
+              text = text.split('-->\n', 1)[1]
+          path.write_text(meta + text)
+          PY
 
       - name: Commit and push
         if: steps.fetch.outputs.updated == 'true'
         run: |
+          set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
@@ -58,6 +91,9 @@ jobs:
           else
             git add README.md
             git commit -m "📊 Auto-update README with latest tools
+
+            total_tools=${{ steps.fetch.outputs.total_tools }}
+            readme_sha=${{ steps.fetch.outputs.readme_sha }}
 
             Co-Authored-By: Skill of Skills Bot <bot@911fund.com>"
             git push

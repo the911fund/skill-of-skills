@@ -1,0 +1,16 @@
+{
+  "repo": "n8n-io/skills",
+  "expected": {
+    "source_id": "official-n8n-skills",
+    "platform": "n8n",
+    "trust": "official",
+    "record_granularity": "skill_level",
+    "must_surface_before": ["czlonkowski/n8n-skills"],
+    "queries": [
+      "build an n8n workflow",
+      "use skills in n8n agent node",
+      "n8n node configuration",
+      "n8n workflow validation"
+    ]
+  }
+}

@@ -90,6 +90,11 @@ web/
 
 # Scripts & automation
 scripts/
+!scripts/
+!scripts/validate_sources.py
+!scripts/sync_official_sources.py
+!scripts/test_repository.py
+!scripts/route_skills.py
 
 # Configuration
 config/
@@ -119,7 +124,18 @@ templates/
 reports/
 
 # Internal documentation
+# Most internal docs stay out of the showcase repo; the public Skill of Skills
+# workflow docs below are explicitly tracked.
 docs/
+!docs/
+!docs/sources.md
+!docs/scoring.md
+!docs/validation.md
+!docs/api.md
 
 # GitHub workflows - NOT gitignored (sync to GitHub for CI/CD)
 # .github/workflows/
+
+# Python cache
+__pycache__/
+*.py[cod]

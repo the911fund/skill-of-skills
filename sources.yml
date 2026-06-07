@@ -1,0 +1,84 @@
+# Skill of Skills source registry
+#
+# This file is the public source-of-truth for high-trust ingestion. The live
+# backend/n8n workflow should ingest from here instead of hard-coded one-off
+# GitHub searches.
+
+sources:
+  - id: official-n8n-skills
+    name: n8n Official Skills
+    repo: n8n-io/skills
+    type: official_skill_pack
+    platform: n8n
+    vendor: n8n
+    trust: official
+    entrypoint: using-n8n-skills
+    paths:
+      - skills
+      - README.md
+    notes: >-
+      Official n8n skills and meta-skill workflow. Treat repo import as a
+      collection; crawl individual skill files and references, not only the
+      repository record.
+
+  - id: n8n-use-skills-workflow
+    name: Use Skills in n8n Agent Node Workflow
+    url: https://n8nworkflows.xyz/workflows/use-skills-in-n8n-agent-node-13270
+    type: workflow_template
+    platform: n8n
+    vendor: n8n-community
+    trust: reference
+    entrypoint: using-n8n-skills
+    notes: >-
+      Public workflow reference showing the meta-skill/router pattern:
+      available-skills index, choose skill, open skill, follow references.
+
+  - id: anthropic-skills
+    name: Anthropic Skills
+    repo: anthropics/skills
+    type: official_skill_pack
+    platform: claude_code
+    vendor: anthropic
+    trust: official
+    paths:
+      - skills
+      - README.md
+    notes: >-
+      Official Anthropic skills source. Prefer skill-level records over a
+      single repo-level record.
+
+  - id: anthropic-knowledge-work-plugins
+    name: Anthropic Knowledge Work Plugins
+    repo: anthropics/knowledge-work-plugins
+    type: official_plugin_pack
+    platform: claude_code
+    vendor: anthropic
+    trust: official
+    paths:
+      - plugins
+      - README.md
+    notes: >-
+      Official Anthropic plugin collection. Crawl plugin manifests and linked
+      skill/plugin instructions.
+
+  - id: cursor-rules-and-skills
+    name: Cursor Rules and Skills Discovery
+    query: "Cursor AI rules skills .cursor/rules AGENTS.md"
+    type: discovery_query
+    platform: cursor
+    vendor: cursor
+    trust: discovered
+    notes: >-
+      Discovery query for Cursor-compatible skills/rules. Results require
+      stricter validation because this is not an official registry.
+
+  - id: codex-agent-instructions
+    name: Codex Agent Instructions Discovery
+    query: "OpenAI Codex AGENTS.md skills agent instructions"
+    type: discovery_query
+    platform: codex
+    vendor: openai
+    trust: discovered
+    notes: >-
+      Discovery query for Codex-compatible AGENTS.md instructions and skill
+      packs. Results require task-fit and source quality scoring.

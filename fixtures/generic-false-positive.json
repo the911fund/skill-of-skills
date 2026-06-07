@@ -1,0 +1,14 @@
+{
+  "repo": "example/high-star-generic-library",
+  "signals": {
+    "stars": 100000,
+    "skill_files": [],
+    "agent_instruction_files": [],
+    "readme_keywords": ["AI", "developer", "framework"]
+  },
+  "expected": {
+    "validation_status": "resource_only",
+    "should_not_outrank_actual_skill": true,
+    "reason": "Popularity and AI keywords are not enough to make a repository a task-loadable skill."
+  }
+}

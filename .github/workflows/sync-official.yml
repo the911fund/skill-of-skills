@@ -1,52 +1,45 @@
-name: Sync Official Plugins
+name: Sync Official Sources
 
 on:
   schedule:
     - cron: '0 */12 * * *'  # Every 12 hours
   workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Validate and discover sources without posting to n8n'
+        required: false
+        default: 'false'
+        type: choice
+        options:
+          - 'false'
+          - 'true'
 
 jobs:
   sync:
     runs-on: ubuntu-latest
+    permissions:
+      contents: read
 
     steps:
-      - name: Fetch official sources
-        id: fetch
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Validate source registry
+        run: python3 scripts/validate_sources.py
+
+      - name: Check webhook configuration
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        env:
+          N8N_SYNC_WEBHOOK: ${{ secrets.N8N_SYNC_WEBHOOK }}
         run: |
-          # Anthropic official plugins
-          ANTHROPIC_PLUGINS=$(curl -s "https://api.github.com/repos/anthropics/claude-plugins-official/contents/plugins" \
-            -H "Authorization: Bearer ${{ secrets.GITHUB_TOKEN }}" \
-            -H "Accept: application/vnd.github.v3+json" 2>/dev/null || echo "[]")
+          if [ -z "$N8N_SYNC_WEBHOOK" ]; then
+            echo "N8N_SYNC_WEBHOOK is not configured. Add it as a repository secret or run workflow_dispatch with dry_run=true." >&2
+            exit 2
+          fi
 
-          echo "$ANTHROPIC_PLUGINS" > anthropic-plugins.json
-          echo "anthropic_count=$(echo "$ANTHROPIC_PLUGINS" | jq 'if type == "array" then length else 0 end')" >> $GITHUB_OUTPUT
-
-      - name: Sync Anthropic plugins
-        run: |
-          cat anthropic-plugins.json | jq -c 'if type == "array" then .[] | select(.type == "dir") | {name: .name, path: .path, url: .html_url} else empty end' 2>/dev/null | while read plugin; do
-            NAME=$(echo "$plugin" | jq -r '.name')
-            URL=$(echo "$plugin" | jq -r '.url')
-
-            curl -s -X POST "${{ secrets.N8N_SYNC_WEBHOOK }}" \
-              -H "Content-Type: application/json" \
-              -d "{
-                \"name\": \"$NAME\",
-                \"repo_url\": \"https://github.com/anthropics/claude-plugins-official\",
-                \"plugin_path\": \"plugins/$NAME\",
-                \"source\": \"github_official\",
-                \"platform\": \"claude_code\",
-                \"vendor\": \"anthropics\",
-                \"is_official\": true,
-                \"is_verified\": true
-              }"
-
-            sleep 1
-          done
-
-      - name: Summary
-        run: |
-          echo "Synced official plugins:"
-          echo "  Anthropic: ${{ steps.fetch.outputs.anthropic_count }}"
-          echo ""
-          echo "Note: Cursor (getcursor), OpenAI (codex), and other vendor"
-          echo "official repos will be added as they publish official skill/rule directories."
+      - name: Sync official/reference sources to n8n
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          N8N_SYNC_WEBHOOK: ${{ secrets.N8N_SYNC_WEBHOOK }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || 'false' }}
+        run: python3 scripts/sync_official_sources.py
