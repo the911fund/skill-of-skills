@@ -1,12 +1,13 @@
+<!-- skill-of-skills:generated at=2026-06-08T10:17:06Z total_tools=1444 sha256=1bebcf6346a41aa98598f07307a93416374dde04aea3aabd2b2b155741b52e6e -->
 # Skill of Skills
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1442-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1444-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9901k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-9902k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1442 skills** across 10 skill types | 🤖 claude code: 1277 | 🧠 codex: 403 | 🔧 generic: 114 | 🖱️ cursor: 96 | 🏄 windsurf: 6 | 📟 cline: 5
+**1444 skills** across 10 skill types | 🤖 claude code: 1279 | 🧠 codex: 404 | 🔧 generic: 114 | 🖱️ cursor: 96 | 🏄 windsurf: 6 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -31,11 +32,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[bunqueue](https://github.com/egeominotti/bunqueue)** 🤖 R:🟡 M:⚪ — No description by egeominotti *(478 ⭐)* — discovered Jun 8
+- 📄 🔷 **[Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)** 🤖🧠 R:🟡 M:⚪ — No description by AvdLee *(1.1k ⭐)* — discovered Jun 8
 - 📄 🔶 **[autoresearch-claude-code](https://github.com/drivelineresearch/autoresearch-claude-code)** 🤖 R:🔴 M:⚪ — No description by drivelineresearch *(312 ⭐)* — discovered Jun 7
 - 📄 🔶 **[devenjarvis/lathe](https://github.com/devenjarvis/lathe)** 🤖 R:🟡 M:⚪ — No description by devenjarvis *(225 ⭐)* — discovered Jun 7
 - 📄 🔷 **[atlassian-mcp-server](https://github.com/atlassian/atlassian-mcp-server)** 🤖 R:🟢 M:⚪ — No description by atlassian *(763 ⭐)* — discovered Jun 7
-- 📄 🔶 **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** 🔧 R:🟢 M:⚪ — No description by ashishpatel26 *(31.9k ⭐)* — discovered Jun 7
-- 📄 🔷 **[moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)** 🔧 R:🟡 M:⚪ — No description by moorcheh-ai *(631 ⭐)* — discovered Jun 7
 
 ---
 
@@ -483,8 +484,8 @@
 - 📄 🔶 **[up-fetch](https://github.com/L-Blondy/up-fetch)** 🤖 R:🟢 M:⚪ — No description by L-Blondy *(1.4k ⭐)*
 - 📄 🔶 **[node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet)** 🤖 R:🟡 M:⚪ — No description by theoephraim *(2.5k ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(0 ⭐)*
 - 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
+- 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(0 ⭐)*
 - 📄 🔷 **[binance-skills-hub](https://github.com/binance/binance-skills-hub)** 🤖 R:🟡 M:⚪ — No description by binance *(827 ⭐)*
 - 📄 🔷 **[skills](https://github.com/heygen-com/skills)** 🤖🧠 R:🟡 M:⚪ — No description by heygen-com *(237 ⭐)*
 - 📄 🔷 **[courtlistener](https://github.com/freelawproject/courtlistener)** 🤖 R:🟡 M:⚪ — No description by freelawproject *(928 ⭐)*
@@ -510,6 +511,7 @@
 - 📄 🔷 **[tombi-toml/tombi](https://github.com/tombi-toml/tombi)** 🤖🧠 R:🟡 M:⚪ — No description by tombi-toml *(914 ⭐)*
 - 📄 🔷 **[kaggle-environments](https://github.com/Kaggle/kaggle-environments)** 🤖🧠 R:🟡 M:⚪ — No description by Kaggle *(397 ⭐)*
 - 📄 🔷 **[memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp)** 🔧 R:🟡 M:⚪ — No description by alioshr *(904 ⭐)*
+- 📄 🔷 **[moorcheh-ai/memanto](https://github.com/moorcheh-ai/memanto)** 🔧 R:🟡 M:⚪ — No description by moorcheh-ai *(631 ⭐)*
 - 📄 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** 🤖 R:🟡 M:⚪ — No description by rekog-labs *(0 ⭐)*
 - 📄 🔷 **[python-sdk](https://github.com/askui/python-sdk)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by askui *(538 ⭐)*
 - 📚 🔶 **[samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)**  R:🟢 M:🟢 — No description by samber *(1.1k ⭐)*
@@ -586,8 +588,8 @@
 - 📄 🔷 **[agentipy](https://github.com/niceberginc/agentipy)** 🔧 R:🟡 M:⚪ — No description by niceberginc *(0 ⭐)*
 - 📄 🔶 **[zk](https://github.com/zkoss/zk)** 🤖 R:🟡 M:⚪ — No description by zkoss *(467 ⭐)*
 - 📄 🔷 **[registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills)** 🤖 R:🟢 M:⚪ — No description by hashgraph-online *(227 ⭐)*
-- 📄 🔷 **[ng-aquila](https://github.com/allianz/ng-aquila)** 🤖 R:🟢 M:⚪ — No description by allianz *(250 ⭐)*
 - 📄 🔷 **[tilth](https://github.com/jahala/tilth)** 🤖🧠 R:🟡 M:⚪ — No description by jahala *(250 ⭐)*
+- 📄 🔷 **[ng-aquila](https://github.com/allianz/ng-aquila)** 🤖 R:🟢 M:⚪ — No description by allianz *(250 ⭐)*
 - 📄 🔶 **[bashunit](https://github.com/TypedDevs/bashunit)** 🤖 R:🔴 M:⚪ — No description by TypedDevs *(403 ⭐)*
 - 📄 🔶 **[OpenClaw-Skill](https://github.com/win4r/OpenClaw-Skill)** 🤖🧠 R:🔴 M:⚪ — No description by win4r *(309 ⭐)*
 - 📄 🔶 **[agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** 🤖 R:🟢 M:⚪ — No description by aws *(541 ⭐)*
@@ -933,6 +935,7 @@
 - 🔌 🔶 **[makepad-skills](https://github.com/ZhangHanDong/makepad-skills)** 🤖 R:🟢 M:🟠 — Build App with Makepad and AI skills by ZhangHanDong *(732 ⭐)*
 - 📄 🔷 **[skills](https://github.com/MiniMax-AI/skills)** 🤖 R:🟢 M:⚪ — No description by MiniMax-AI *(12.0k ⭐)*
 - 📚 🔷 **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)**  R:🟢 M:⚪ — No description by Gitlawb *(0 ⭐)*
+- 📄 🔷 **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** 🤖 R:🟡 M:⚪ — No description by THU-MAIC *(17.3k ⭐)*
 - 📄 🔷 **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** 🤖🧠 R:🟡 M:⚪ — No description by onlook-dev *(25.4k ⭐)*
 - 📚 🔷 **[plandex](https://github.com/plandex-ai/plandex)**  R:🟢 M:⚪ — Open source AI coding agent. Designed for large projects and real world tasks. by plandex-ai *(15.2k ⭐)*
 - 📚 🔷 **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)**  R:🟢 M:⚪ — No description by microsoft *(16.5k ⭐)*
@@ -1385,7 +1388,6 @@
 - 📄 🔷 **[nesquena/hermes-webui](https://github.com/nesquena/hermes-webui)** 🧠 R:🟡 M:⚪ — No description by nesquena *(9.6k ⭐)*
 - 📄 🔷 **[anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** 🤖🧠 R:🟢 M:⚪ — No description by anthropics *(13.2k ⭐)*
 - 📄 🔷 **[ironclaw](https://github.com/nearai/ironclaw)** 🤖🧠 R:🔴 M:⚪ — No description by nearai *(11.9k ⭐)*
-- 📄 🔷 **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** 🤖 R:🟡 M:⚪ — No description by THU-MAIC *(17.3k ⭐)*
 - 📄 🔶 **[CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio)** 🤖🧠 R:🟡 M:⚪ — No description by CherryHQ *(0 ⭐)*
 - 📄 🔷 **[AndyMik90/Aperant](https://github.com/AndyMik90/Aperant)** 🤖 R:🔴 M:⚪ — No description by AndyMik90 *(14.2k ⭐)*
 - 📄 🔶 **[khoj-ai/khoj](https://github.com/khoj-ai/khoj)** 🧠 R:🟡 M:⚪ — No description by khoj-ai *(34.9k ⭐)*
@@ -1406,6 +1408,7 @@
 - 📄 🔷 **[openakita](https://github.com/openakita/openakita)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by openakita *(1.8k ⭐)*
 - 📄 🔷 **[MetaClaw](https://github.com/aiming-lab/MetaClaw)** 🤖🧠 R:🟢 M:⚪ — No description by aiming-lab *(0 ⭐)*
 - 📄 🔷 **[openclaw-master-skills](https://github.com/LeoYeAI/openclaw-master-skills)** 🤖🧠 R:🟢 M:⚪ — No description by LeoYeAI *(2.0k ⭐)*
+- 📄 🔶 **[ashishpatel26/500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** 🔧 R:🟢 M:⚪ — No description by ashishpatel26 *(31.9k ⭐)*
 - 📄 🔷 **[costrict](https://github.com/zgsm-ai/costrict)** 🤖🧠 R:🟡 M:⚪ — No description by zgsm-ai *(4.0k ⭐)*
 - 📄 🔷 **[yao](https://github.com/YaoApp/yao)** 🤖 R:🔴 M:⚪ — No description by YaoApp *(7.5k ⭐)*
 - 📄 🔶 **[windows95](https://github.com/felixrieseberg/windows95)** 🤖 R:🟡 M:⚪ — No description by felixrieseberg *(24.1k ⭐)*
@@ -1602,3 +1605,4 @@ MIT License - see [LICENSE](LICENSE)
 <p align="center">
   <sub>Auto-generated 2026-06-08 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
+
