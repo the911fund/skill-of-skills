@@ -28,16 +28,19 @@ jobs:
         run: python3 scripts/validate_sources.py
 
       - name: Check webhook configuration
-        if: ${{ github.event.inputs.dry_run != 'true' }}
+        id: webhook
         env:
           N8N_SYNC_WEBHOOK: ${{ secrets.N8N_SYNC_WEBHOOK }}
         run: |
           if [ -z "$N8N_SYNC_WEBHOOK" ]; then
-            echo "N8N_SYNC_WEBHOOK is not configured. Add it as a repository secret or run workflow_dispatch with dry_run=true." >&2
-            exit 2
+            echo "::notice::N8N_SYNC_WEBHOOK is not configured — skipping sync. Add it as a repository secret to enable posting to n8n."
+            echo "configured=false" >> "$GITHUB_OUTPUT"
+          else
+            echo "configured=true" >> "$GITHUB_OUTPUT"
           fi
 
       - name: Sync official/reference sources to n8n
+        if: ${{ steps.webhook.outputs.configured == 'true' || github.event.inputs.dry_run == 'true' }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           N8N_SYNC_WEBHOOK: ${{ secrets.N8N_SYNC_WEBHOOK }}

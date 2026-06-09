@@ -110,11 +110,11 @@ def source_payload(source: dict, candidates: list[dict]) -> dict:
 
 def main() -> int:
     webhook = os.environ.get("N8N_SYNC_WEBHOOK", "").strip()
-    if not webhook:
+    dry_run = os.environ.get("DRY_RUN", "false").lower() in {"1", "true", "yes"}
+    if not webhook and not dry_run:
         print("error: N8N_SYNC_WEBHOOK is not configured; refusing to POST to an empty URL", file=sys.stderr)
         return 2
     token = os.environ.get("GITHUB_TOKEN", "").strip() or None
-    dry_run = os.environ.get("DRY_RUN", "false").lower() in {"1", "true", "yes"}
 
     sources = parse_sources((ROOT / "sources.yml").read_text())
     errors = validate(sources)
