@@ -1,13 +1,12 @@
-<!-- skill-of-skills:generated at=2026-06-09T08:59:49Z total_tools=1451 sha256=47732ddde07cbd09c87e6d2baaf6632cc34a55b9053e3278c9aafee4a35c56da -->
 # Skill of Skills
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-1451-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-1454-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-9939k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-10089k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**1451 skills** across 10 skill types | 🤖 claude code: 1286 | 🧠 codex: 408 | 🔧 generic: 114 | 🖱️ cursor: 96 | 🏄 windsurf: 6 | 📟 cline: 5
+**1454 skills** across 10 skill types | 🤖 claude code: 1288 | 🧠 codex: 408 | 🔧 generic: 115 | 🖱️ cursor: 96 | 🏄 windsurf: 6 | 📟 cline: 5
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -32,11 +31,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[anthropics/claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🟡 M:⚪ — No description by anthropics *(5.1k ⭐)* — discovered Jun 9
+- 📄 🔷 **[wonderwhy-er/DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** 🤖 R:🔴 M:⚪ — No description by wonderwhy-er *(6.1k ⭐)* — discovered Jun 9
+- 📄  **[x1xhlol/system-prompts-and-models-of-ai-tools](https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools)** 🔧 R:🟢 M:⚪ — No description by x1xhlol *(139.0k ⭐)* — discovered Jun 9
 - 📄 🔷 **[codmate](https://github.com/loocor/codmate)** 🤖🧠 R:🟢 M:⚪ — No description by loocor *(668 ⭐)* — discovered Jun 8
 - 📄 🔶 **[ibelick/ui-skills](https://github.com/ibelick/ui-skills)** 🤖 R:🟢 M:⚪ — No description by ibelick *(2.1k ⭐)* — discovered Jun 8
-- 📄 🔷 **[asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)** 🤖 R:🟡 M:⚪ — No description by asheshgoplani *(2.7k ⭐)* — discovered Jun 8
-- 📄 🔷 **[xerrors/Yuxi](https://github.com/xerrors/Yuxi)** 🤖🧠 R:🔴 M:⚪ — No description by xerrors *(5.5k ⭐)* — discovered Jun 8
-- 📄 🔷 **[777genius/agent-teams-ai](https://github.com/777genius/agent-teams-ai)** 🤖🧠 R:🔴 M:⚪ — No description by 777genius *(1.2k ⭐)* — discovered Jun 8
 
 ---
 
@@ -486,8 +485,8 @@
 - 📄 🔶 **[up-fetch](https://github.com/L-Blondy/up-fetch)** 🤖 R:🟢 M:⚪ — No description by L-Blondy *(1.4k ⭐)*
 - 📄 🔶 **[node-google-spreadsheet](https://github.com/theoephraim/node-google-spreadsheet)** 🤖 R:🟡 M:⚪ — No description by theoephraim *(2.5k ⭐)*
 - 📚 🔷 **[CortexReach/memory-lancedb-pro-skill](https://github.com/CortexReach/memory-lancedb-pro-skill)**  R:🟢 M:⚪ — No description by CortexReach *(213 ⭐)*
-- 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
 - 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:⚪ — No description by oisee *(0 ⭐)*
+- 📚 🔷 **[shankar0123/certctl](https://github.com/shankar0123/certctl)**  R:🟢 M:⚪ — No description by shankar0123 *(283 ⭐)*
 - 📄 🔷 **[binance-skills-hub](https://github.com/binance/binance-skills-hub)** 🤖 R:🟡 M:⚪ — No description by binance *(827 ⭐)*
 - 📄 🔷 **[skills](https://github.com/heygen-com/skills)** 🤖🧠 R:🟡 M:⚪ — No description by heygen-com *(237 ⭐)*
 - 📄 🔷 **[courtlistener](https://github.com/freelawproject/courtlistener)** 🤖 R:🟡 M:⚪ — No description by freelawproject *(928 ⭐)*
@@ -546,8 +545,8 @@
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:⚪ — No description by sofastack *(1.6k ⭐)*
 - 📚 🔶 **[Infatoshi/OpenSquirrel](https://github.com/Infatoshi/OpenSquirrel)**  R:🟢 M:⚪ — No description by Infatoshi *(1.3k ⭐)*
 - 📄 🔷 **[mcp-server](https://github.com/mapbox/mcp-server)** 🤖🧠 R:🟡 M:⚪ — No description by mapbox *(339 ⭐)*
-- 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
 - 📄 🔷 **[aperture](https://github.com/lightninglabs/aperture)** 🤖 R:🟢 M:⚪ — No description by lightninglabs *(263 ⭐)*
+- 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🔴 M:⚪ — No description by waiterxiaoyy *(263 ⭐)*
 - 📄 🔶 **[RPG-JS](https://github.com/RSamaium/RPG-JS)** 🤖🧠 R:🟢 M:⚪ — No description by RSamaium *(1.6k ⭐)*
 - 📚 🔶 **[KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh](https://github.com/KimYx0207/Claude-Code-x-OpenClaw-Guide-Zh)**  R:🟢 M:⚪ — No description by KimYx0207 *(3.0k ⭐)*
 - 📄 🔷 **[pulsar](https://github.com/software-mansion/pulsar)** 🤖🧠 R:🟢 M:⚪ — No description by software-mansion *(326 ⭐)*
@@ -820,6 +819,7 @@
 - 📄 🔷 **[My-Brain-Is-Full-Crew](https://github.com/gnekt/My-Brain-Is-Full-Crew)** 🤖🧠 R:🔴 M:⚪ — No description by gnekt *(3.1k ⭐)*
 - 🔌 ⭐ **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** 🤖 R:⚫ M:🟠 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(355 ⭐)*
 - 📄 🔷 **[pro-workflow](https://github.com/rohitg00/pro-workflow)** 🤖🧠 R:🟡 M:⚪ — No description by rohitg00 *(2.2k ⭐)*
+- 📄 🔷 **[asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck)** 🤖 R:🟡 M:⚪ — No description by asheshgoplani *(2.7k ⭐)*
 - 📄 🔷 **[Product-Manager-Skills](https://github.com/deanpeters/Product-Manager-Skills)** 🤖🧠 R:🟡 M:⚪ — No description by deanpeters *(4.4k ⭐)*
 - 📚 🔷 **[wanshuiyin/Auto-claude-code-research-in-sleep](https://github.com/wanshuiyin/Auto-claude-code-research-in-sleep)**  R:🟢 M:⚪ — No description by wanshuiyin *(0 ⭐)*
 - 📚 🔷 **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)**  R:🟢 M:⚪ — No description by agenticnotetaking *(0 ⭐)*
@@ -1406,6 +1406,7 @@
 - 📚 🔶 **[awesome-agent-orchestrators](https://github.com/andyrewlee/awesome-agent-orchestrators)**  R:🟢 M:🟢 — List of agent orchestrators by andyrewlee *(423 ⭐)*
 - 📄 ⭐ **[clui-cc](https://github.com/lcoutodemos/clui-cc)** 🧠 R:🔴 M:⚪ — No description by lcoutodemos *(1.2k ⭐)*
 - 📄 🔷 **[BigBodyCobain/Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** 🤖 R:🔴 M:⚪ — No description by BigBodyCobain *(6.4k ⭐)*
+- 📄 🔷 **[xerrors/Yuxi](https://github.com/xerrors/Yuxi)** 🤖🧠 R:🔴 M:⚪ — No description by xerrors *(5.5k ⭐)*
 - 📄 🔷 **[bytebot-ai/bytebot](https://github.com/bytebot-ai/bytebot)** 🔧 R:🔴 M:⚪ — No description by bytebot-ai *(11.0k ⭐)*
 - 📚 🔶 **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)**  R:🟢 M:🟢 — A collection of 130+ specialized Codex subagents covering a wide range of development use cases. by VoltAgent *(4.4k ⭐)*
 - 📄 🔶 **[awesome-openclaw-skills](https://github.com/VoltAgent/awesome-openclaw-skills)** 🤖 R:🟢 M:⚪ — No description by VoltAgent *(49.1k ⭐)*
@@ -1427,6 +1428,7 @@
 - 📄 ⭐ **[obsidian-gemini](https://github.com/allenhutchison/obsidian-gemini)** 🤖🧠 R:🔴 M:⚪ — No description by allenhutchison *(380 ⭐)*
 - 📄 ⭐ **[zeptoclaw](https://github.com/qhkm/zeptoclaw)** 🤖🧠 R:🔴 M:⚪ — No description by qhkm *(633 ⭐)*
 - 📄 🔶 **[ublacklist](https://github.com/iorate/ublacklist)** 🤖🧠 R:🟡 M:⚪ — No description by iorate *(6.5k ⭐)*
+- 📄 🔷 **[777genius/agent-teams-ai](https://github.com/777genius/agent-teams-ai)** 🤖🧠 R:🔴 M:⚪ — No description by 777genius *(1.2k ⭐)*
 - 📄 🔷 **[blog](https://github.com/huggingface/blog)** 🤖🧠 R:🟢 M:⚪ — No description by huggingface *(3.4k ⭐)*
 - 📄 🔷 **[cabinet](https://github.com/hilash/cabinet)** 🤖 R:🟡 M:⚪ — No description by hilash *(2.0k ⭐)*
 - 📄 🔷 **[nopua](https://github.com/wuji-labs/nopua)** 🤖 R:🟢 M:⚪ — No description by wuji-labs *(1.3k ⭐)*
@@ -1610,6 +1612,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-06-09 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-06-10 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
-
