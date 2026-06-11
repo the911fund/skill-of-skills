@@ -72,6 +72,28 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   (affaan-m/ECC, awesome-codex-skills, full-stack-skills) kept and categorized.
   Directory: 837 active tools, **zero uncategorized, zero below the quality floor**.
 
+### Security (evening hardening, same day)
+- **App-layer webhook auth RE-ENABLED** on `readme/regenerate`, `batch/quality-score`,
+  `batch/trending-recalc` (401 without `x-webhook-secret`; nginx 403 remains the public
+  layer). All n8n callers and the host recalc cron now send the header.
+- **n8n Postgres credential repaired** — stale password caused every pg node in
+  WF01/07/09/13 to fail instantly for weeks ("password authentication failed").
+  Verified live post-fix (WF01 success 18:00, WF07 success 18:25).
+
+### Changed (evening, same day)
+- **WF07 rewired as a thin API caller** — it had diverged in the n8n UI into a legacy
+  README generator that pushed its own (sections-less) format directly to GitHub.
+  Now: schedule (every 3h at :25) → POST `readme/regenerate` with secret → Discord.
+- **Six live-only workflows exported to git** (01, 07, 07-minimal, 08-notifier, 09, 10)
+  — closes the WF01 source-of-truth gap; git is now authoritative for all 13.
+- **WF09 weekly digest** now reports the `needs_review` count.
+- **Pipeline health** gains `n8n_exec_errors_6h` — any errored n8n execution within 6h
+  degrades status, so WF15 alerts on workflow failures (previously invisible).
+- **Tier-0 deterministic categorization fallback** (`tier0-categorization.ts`) — applied
+  only when the AI declines; high-precision keyword/file-marker rules.
+- **2 dead repos deactivated** (404: error-prone-support, parruda/swarm; tag `dead-repo`).
+- **CLAUDE.md scrubbed of stale AWS-era references** (hetzner1 is the only host).
+
 ## [3.4.1] - 2026-04-30
 
 ### Fixed
