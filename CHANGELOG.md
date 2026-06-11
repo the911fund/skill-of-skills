@@ -5,6 +5,73 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.5.0] - 2026-06-11
+
+### Changed
+- **Quality-first ranking is live** — composite re-weighted to quality 45 / velocity 20 /
+  gravity 12 / social 10 / recency 8 / ratings 5, with reputation multiplier (official
+  1.5× / known-vendor 1.25× / verified 1.15×, capped), dep-vuln penalty, quorum-gated
+  ratings, and recency-decayed social. `SCORING_PROFILE=legacy` reverts at runtime.
+- **`/trending` page** with week/month/all windows, 🔥 Viral / 📈 Trending momentum
+  badges, and a quality floor (≥40) so trending never surfaces junk.
+- **README leads with 🏆 Best of the Best and 🔥 Trending Now** sections.
+
+### Added
+- **Below-threshold demotion lifecycle** — the daily recalc stamps
+  `first_fell_below_threshold_at` when a tool's quality drops below 40, clears it on
+  recovery, and deactivates (reversibly) after 14 days below. Config in
+  `SCORING.demotion`; pure `evaluateDemotion()` helper with tests. Closes the loop that
+  let 41 sub-40 tools accumulate in the active directory.
+- **`trending-recalc` offset paging** — daily recalc can now cover the whole directory
+  (`{limit, offset}`), not just the top-500 by stars. Paged calls skip the digest.
+- **Outbound distribution module** (`distribution.ts`) — Discord digest + X post builder,
+  gated OFF by default (`OUTBOUND_DISTRIBUTION_ENABLED`); dry-run returns payloads
+  without network calls.
+- **migration 007** — `metrics_history.quality_score` / `trending_score` snapshot columns.
+- **Categorization clarity plan** (`docs/plans/2026-06-11-001`) — terminal states,
+  attempt tracking, escalation model, WF13 retry-budget fix, health-metric tripwire.
+
+### Fixed
+- **`first_fell_below_threshold_at` was missing from `schema.prisma`** — the column
+  existed in the live DB but Prisma couldn't see it, so nothing ever populated it.
+- **`cline` added to known vendors** (`scoring-config.ts`, `relevance-gate.ts`) — the
+  Cline repo's owner is `cline`, not `cline-ai`; it was getting no reputation boost.
+- **`is_official` backfilled** for 15 known-vendor repos (openai, anthropics, cline,
+  continuedev, modelcontextprotocol) that predated vendor-aware official status.
+- **`database/schema.sql` updated** with migration 007's columns (drift-check clean).
+
+### Added (clarity plan implementation, same day)
+- **Categorization attempt tracking** (migration 008, `categorization_attempts`) —
+  every AI attempt is counted; a real category resets the counter; attempts >= 3 with
+  NULL confidence is the terminal `needs_review` state (no more infinite nightly retry).
+- **Model escalation** — retry passes for quality>=40 tools use `claude-sonnet-4-6`
+  instead of Haiku (`ESCALATION_MODEL`).
+- **Scope-aware relevance gate** — Tier-2 triage prompt now leads with "FOR a coding
+  agent vs IS ITSELF an AI app?" and names the families that previously slipped through.
+- **Pipeline-health tripwire** — `uncategorized_pending`/`needs_review`/
+  `uncategorized_pending_pct` in `/health/pipeline/detail`; status degrades when the
+  retry backlog exceeds 5% of active tools, so WF15's hourly Discord alert fires.
+- **`scripts/daily-trending-recalc.sh` + host cron (04:30 UTC)** — no n8n workflow was
+  calling `/api/v1/batch/trending-recalc` (WF12 inactive; the "WF14 calls it" note was
+  stale), so scores/demotion/metrics-history had no scheduled driver.
+- **`scripts/backfill-github-metadata.py`** — one-shot backfill: 550 active tools had
+  no `last_commit_at` (UNKNOWN maintenance badges in the UI) and 547 no description;
+  now 3 and 18.
+- **WF13 catch-up fix staged in git** — `Get Uncategorized` LIMIT 10→50 + attempts<3
+  (applies on next `deploy-n8n-workflows.sh` run).
+
+### Operations
+- **Directory scrub** — 41 active sub-40 tools deactivated (off-topic/list/prompt-dump
+  noise); directory now 899 active tools, zero below the Review Required line.
+- **One-time categorization drain** — all 86 uncategorized / no-confidence /
+  low-confidence tools re-run through `categorize-single` with `forceRefetch`;
+  21 resolved to real categories.
+- **Scope scrub** — the 65 that re-declined turned out to be scope misfits (AI
+  apps/platforms like dify, LobeHub, Flowise, LibreChat — not coding-agent skills).
+  62 deactivated with tag `out-of-scope` (reversible); 3 in-scope skill collections
+  (affaan-m/ECC, awesome-codex-skills, full-stack-skills) kept and categorized.
+  Directory: 837 active tools, **zero uncategorized, zero below the quality floor**.
+
 ## [3.4.1] - 2026-04-30
 
 ### Fixed
