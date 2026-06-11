@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-837-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-835-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-9-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-10078k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-10076k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**837 skills** across 9 skill types | 🤖 claude code: 784 | 🧠 codex: 162 | 🔧 generic: 43 | 🖱️ cursor: 36 | 📟 cline: 3 | 🏄 windsurf: 2
+**835 skills** across 9 skill types | 🤖 claude code: 782 | 🧠 codex: 160 | 🔧 generic: 43 | 🖱️ cursor: 36 | 📟 cline: 3 | 🏄 windsurf: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -434,14 +434,12 @@
 - 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🔴 M:🟠 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(202 ⭐)*
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(476 ⭐)*
 - 📚 🔷 **[thellimist/clihub](https://github.com/thellimist/clihub)**  R:🟢 M:🟠 — Turn any MCP server into CLI by thellimist *(666 ⭐)*
-- 📄 🔶 **[swarm](https://github.com/parruda/swarm)** 🤖🧠 R:🟡 M:⚪ — No description by parruda *(1.7k ⭐)*
 - ⌨️ 🔷 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🟡 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(334 ⭐)*
 - 🔗 🔶 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** 🤖🔧 R:🟢 M:🟢 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
 - 📄 🔷 **[agentipy](https://github.com/niceberginc/agentipy)** 🔧 R:🟡 M:🟠 — The #Python framework for connecting AI agents to any onchain app on  @solana-labs  🤖🐍 by niceberginc *(252 ⭐)*
 - 🔌 🔶 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** 🤖 R:🟢 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(491 ⭐)*
 - 📚 🔶 **[realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills)**  R:🟢 M:🟢 — Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems. by realkimbarrett *(663 ⭐)*
 - 📄 🔶 **[qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs)** 🤖 R:🔴 M:🟢 — A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. by second-state *(221 ⭐)*
-- 📄 🔷 **[error-prone-support](https://github.com/PicnicSupermarket/error-prone-support)** 🤖🧠 R:🔴 M:⚪ — No description by PicnicSupermarket *(234 ⭐)*
 - 📄 🔶 **[goose.nvim](https://github.com/azorng/goose.nvim)** 🔧 R:🟡 M:🟢 — seamless neovim integration with goose - work with a powerful AI agent without leaving your editor by azorng *(310 ⭐)*
 - 📚 🔶 **[microsoft/BitNet](https://github.com/microsoft/BitNet)**  R:🟢 M:🟠 — Official inference framework for 1-bit LLMs by microsoft *(39.3k ⭐)*
 - 📚 🔶 **[use-novamira/novamira](https://github.com/use-novamira/novamira)**  R:🟢 M:🟢 — MCP server that gives AI agents full access to WordPress through PHP execution and filesystem operations by use-novamira *(393 ⭐)*
