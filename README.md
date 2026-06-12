@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-835-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-840-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-9-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-10076k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-10311k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**835 skills** across 9 skill types | 🤖 claude code: 782 | 🧠 codex: 160 | 🔧 generic: 43 | 🖱️ cursor: 36 | 📟 cline: 3 | 🏄 windsurf: 2
+**840 skills** across 9 skill types | 🤖 claude code: 787 | 🧠 codex: 165 | 🔧 generic: 43 | 🖱️ cursor: 38 | 📟 cline: 3 | 🏄 windsurf: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -65,11 +65,11 @@
 
 ## 🆕 Latest
 
-- 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:🟢 — "Vibe-Trading: Your Personal Trading Agent" by HKUDS *(11.8k ⭐)* — discovered Jun 11
-- 📄 🔷 **[santifer/career-ops](https://github.com/santifer/career-ops)** 🤖🧠 R:🟡 M:🟢 — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. by santifer *(52.7k ⭐)* — discovered Jun 11
-- 📄 🔷 **[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)** 🤖🖱️🧠 R:🟡 M:🟢 — 🪓 An orchestration engine for background tasks, AI agents, and durable workflows by hatchet-dev *(7.3k ⭐)* — discovered Jun 11
-- 📄 🔷 **[LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind)** 🤖🧠 R:🟢 M:🟢 — QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance. by LLMQuant *(1.1k ⭐)* — discovered Jun 11
-- 📄 🔷 **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** 🤖🖱️🧠 R:🟡 M:🟢 — Trigger.dev – build and deploy fully‑managed AI agents and workflows by triggerdotdev *(15.3k ⭐)* — discovered Jun 11
+- 📄 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** 🤖🧠 R:🟡 M:⚪ — No description by langchain-ai *(139.1k ⭐)* — discovered Jun 12
+- 📄 🔷 **[novuhq/novu](https://github.com/novuhq/novu)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by novuhq *(39.1k ⭐)* — discovered Jun 12
+- 📄 🔷 **[Kong/insomnia](https://github.com/Kong/insomnia)** 🤖🧠 R:🟡 M:⚪ — No description by Kong *(38.5k ⭐)* — discovered Jun 12
+- 📄 🔷 **[MemTensor/MemOS](https://github.com/MemTensor/MemOS)** 🤖🧠 R:🟡 M:⚪ — No description by MemTensor *(9.8k ⭐)* — discovered Jun 12
+- 📄 🔷 **[LMCache/LMCache](https://github.com/LMCache/LMCache)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by LMCache *(8.6k ⭐)* — discovered Jun 12
 
 ---
 
@@ -215,6 +215,7 @@
 - 📄 🔷 **[ripple](https://github.com/Ripple-TS/ripple)** 🤖🖱️🧠 R:🟡 M:🟢 — the elegant TypeScript UI framework by Ripple-TS *(7.4k ⭐)*
 - 📚 🔷 **[jcodemunch-mcp](https://github.com/jgravelle/jcodemunch-mcp)**  R:🟡 M:🟢 — The leading, most token-efficient MCP server for GitHub source code exploration via tree-sitter AST parsing by jgravelle *(1.9k ⭐)*
 - 📄 🔶 **[EvoMap/evolver](https://github.com/EvoMap/evolver)** 🤖 R:🔴 M:🟢 — The GEP-powered self-evolving engine for AI agents. Auditable evolution with Genes, Capsules, and Events. | evomap.ai by EvoMap *(8.5k ⭐)*
+- 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:🟢 — "Vibe-Trading: Your Personal Trading Agent" by HKUDS *(11.8k ⭐)*
 - 📄 🔷 **[google/adk-go](https://github.com/google/adk-go)** 🤖 R:🟢 M:🟢 — An open-source, code-first Go toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. by google *(8.1k ⭐)*
 - 📄 🔷 **[codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** 🤖🧠 R:🟡 M:🟢 — ✨ AI Coding, Vim Style by olimorris *(6.7k ⭐)*
 - 📚 🔶 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)**  R:⚫ M:🟢 — MCP Server for Computer Use in Windows by CursorTouch *(5.9k ⭐)*
@@ -294,6 +295,7 @@
 - 📚 🔶 **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**  R:🟢 M:🟢 — SwiftUI agent skill for Claude Code, Codex, and other AI tools. by twostraws *(4.1k ⭐)*
 - 📄 ⭐ **[cursor-rules-java](https://github.com/jabrena/cursor-rules-java)** 🤖🖱️🧠 R:🟡 M:🟢 — An opinionated, AI-native development workflow for Java Enterprise — reusable Skills, Agents, Commands, and MCP servers combined with a human-in-the-loop model to modernize real-world SDLC practices. by jabrena *(404 ⭐)*
 - 📄 🔷 **[Rabby](https://github.com/RabbyHub/Rabby)** 🤖🧠 R:🟡 M:🟢 — The game-changing wallet for Ethereum and all EVM chains by RabbyHub *(1.8k ⭐)*
+- 📄 🔷 **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** 🤖🖱️🧠 R:🟡 M:🟢 — Trigger.dev – build and deploy fully‑managed AI agents and workflows by triggerdotdev *(15.3k ⭐)*
 - 📄 ⭐ **[unbrowse](https://github.com/unbrowse-ai/unbrowse)**  R:🔴 M:🟢 — Unbrowse — api native browser skill/cli for any agent. Auto-discovers APIs from browser traffic, generates skills on the fly to call APIs directly 100x faster, 80% cheaper locally. by unbrowse-ai *(704 ⭐)*
 - 📄 🔷 **[cloudflare/agents](https://github.com/cloudflare/agents)** 🧠 R:🟡 M:🟢 — Build and deploy AI Agents on Cloudflare  by cloudflare *(5.1k ⭐)*
 - 📚 🔷 **[chenhg5/cc-connect](https://github.com/chenhg5/cc-connect)**  R:🟢 M:🟢 — Bridge local AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). Chat with your AI dev assistant from anywhere — no public IP required for most platforms. by chenhg5 *(12.2k ⭐)*
@@ -333,6 +335,7 @@
 - 📄 🔷 **[rynfar/meridian](https://github.com/rynfar/meridian)** 🤖 R:🔴 M:🟢 — Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools. by rynfar *(1.4k ⭐)*
 - 🔗 🔷 **[claude-self-reflect](https://github.com/ramakay/claude-self-reflect)**  R:🟡 M:🟢 — Claude forgets everything. This fixes that. 🔗 www.npmjs.com/package/claude-self-reflect by ramakay *(216 ⭐)*
 - ⌨️ 🔷 **[dexto](https://github.com/truffle-ai/dexto)**  R:🔴 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(631 ⭐)*
+- 📄 🔷 **[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)** 🤖🖱️🧠 R:🟡 M:🟢 — 🪓 An orchestration engine for background tasks, AI agents, and durable workflows by hatchet-dev *(7.3k ⭐)*
 - 🔌 🔷 **[tidy3d](https://github.com/flexcompute/tidy3d)**  R:🟡 M:🟢 — fast, large scale photonic simulation platform by flexcompute *(349 ⭐)*
 - 🔗 🔷 **[BioClaw](https://github.com/Runchuan-BU/BioClaw)**  R:🔴 M:🟢 — AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. by Runchuan-BU *(384 ⭐)*
 - 📚 🔶 **[starship/starship](https://github.com/starship/starship)**  R:🟢 M:🟢 — ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! by starship *(58.3k ⭐)*
@@ -504,6 +507,7 @@
 - 📄 🔷 **[arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server)** 🤖 R:🟢 M:🟢 — A Model Context Protocol server for searching and analyzing arXiv papers by blazickjp *(2.8k ⭐)*
 - 📄 🔷 **[Helicone/helicone](https://github.com/Helicone/helicone)** 🤖🖱️🧠 R:🟡 M:🟢 — 🧊 Open source LLM observability platform. One line of code to monitor, evaluate, and experiment. YC W23 🍓 by Helicone *(5.8k ⭐)*
 - 📄 🔷 **[AgentSeal/codeburn](https://github.com/AgentSeal/codeburn)** 🤖 R:🟡 M:🟢 — See where your AI coding tokens go. Interactive TUI dashboard for Claude Code, Codex, and Cursor cost observability. by AgentSeal *(7.9k ⭐)*
+- 📄 🔷 **[LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind)** 🤖🧠 R:🟢 M:🟢 — QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance. by LLMQuant *(1.1k ⭐)*
 - 📄 🔷 **[dbhub](https://github.com/bytebase/dbhub)** 🤖 R:🟡 M:🟢 — Zero-dependency, token-efficient database MCP server for Postgres, MySQL, SQL Server, MariaDB, SQLite. by bytebase *(3.0k ⭐)*
 - 📄 🔷 **[kenn-io/agentsview](https://github.com/kenn-io/agentsview)** 🤖🧠 R:🟡 M:🟢 — Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! by kenn-io *(1.5k ⭐)*
 - 📚 🔷 **[peteromallet/dataclaw](https://github.com/peteromallet/dataclaw)**  R:🟢 M:🟢 — Agent harness to publish your history from Claude Code et al. as Huggingface datasets.  by peteromallet *(2.1k ⭐)*
@@ -560,6 +564,7 @@
 - 📄 🔷 **[Resume-Matcher](https://github.com/srbhr/Resume-Matcher)**  R:🟢 M:🟢 — Improve your resumes with Resume Matcher. Get insights, keyword suggestions and tune your resumes to job descriptions.  by srbhr *(27.3k ⭐)*
 - 📚 🔷 **[AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads)**  R:🟢 M:🟢 — Comprehensive paid advertising audit & optimization skill for Claude Code. 250+ checks across Google, Meta, YouTube, LinkedIn, TikTok, Microsoft & Apple Ads with weighted scoring, parallel agents, industry templates, and AI creative generation. by AgriciDaniel *(5.9k ⭐)*
 - 📚 🔷 **[nanochat](https://github.com/karpathy/nanochat)**  R:🟢 M:🟢 — The best ChatGPT that $100 can buy. by karpathy *(54.9k ⭐)*
+- 📄 🔷 **[santifer/career-ops](https://github.com/santifer/career-ops)** 🤖🧠 R:🟡 M:🟢 — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. by santifer *(52.7k ⭐)*
 - 📄 🔷 **[romainsimon/paperasse](https://github.com/romainsimon/paperasse)** 🤖 R:🟢 M:🟢 — 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... by romainsimon *(2.1k ⭐)*
 - 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)**  R:🟢 M:🟢 — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. by Shpigford *(1.4k ⭐)*
 - 📄 🔶 **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** 🔧 R:🟡 M:🟢 — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 by sansan0 *(59.3k ⭐)*
