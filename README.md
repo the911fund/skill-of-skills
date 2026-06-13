@@ -759,7 +759,7 @@
 - 📚 🔷 **[cassler/awesome-claude-code-setup](https://github.com/cassler/awesome-claude-code-setup)**  R:🟢 M:🟢 — Give Claude the super powers it deserves with this power user collection of bash scripts and slash commands by cassler *(268 ⭐)*
 - ⌨️ 🔷 **[agents-radar](https://github.com/duanyytop/agents-radar)**  R:🟢 M:🟢 — Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. by duanyytop *(814 ⭐)*
 - 📚 🔷 **[milisp/codexia](https://github.com/milisp/codexia)**  R:🟢 M:🟢 — Agent Workstation for Codex CLI + Claude Code — with task scheduler, git worktree & remote control, skills management by milisp *(722 ⭐)*
-- 📄 🔷 **[claude-code](https://github.com/MadAppGang/claude-code)** 🤖🧠 R:🔴 M:🟢 — claude code plugins marketplace by MadAppGang *(281 ⭐)*
+- 📄 🔷 **[claude-code](https://github.com/MadAppGang/claude-code)** 🤖🧠 R:🔴 M:🟠 — claude code plugins marketplace by MadAppGang *(281 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)**  R:🟢 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(752 ⭐)*
 - 📄 🔷 **[bruin-data/dac](https://github.com/bruin-data/dac)** 🤖🧠 R:🟡 M:🟢 — DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. by bruin-data *(696 ⭐)*
 - 📄 🔷 **[gpt-image2-ppt-skills](https://github.com/JuneYaooo/gpt-image2-ppt-skills)** 🤖🧠 R:🟡 M:🟢 — Clone any .pptx into your own deck — OpenAI gpt-image-2 mimics the layout, you supply the content. 10 bundled styles. | 把任何 .pptx 模板"抄"成你的 PPT：gpt-image-2 仿版式、你换内容，另含 10 套精选风格。Claude Code / OpenClaw skill.  by JuneYaooo *(913 ⭐)*
