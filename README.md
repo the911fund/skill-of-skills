@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-840-blue)](https://github.com/the911fund/skill-of-skills)
-[![Categories](https://img.shields.io/badge/skill_types-9-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-10311k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-843-blue)](https://github.com/the911fund/skill-of-skills)
+[![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-10440k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**840 skills** across 9 skill types | 🤖 claude code: 787 | 🧠 codex: 165 | 🔧 generic: 43 | 🖱️ cursor: 38 | 📟 cline: 3 | 🏄 windsurf: 2
+**843 skills** across 10 skill types | 🤖 claude code: 789 | 🧠 codex: 168 | 🔧 generic: 43 | 🖱️ cursor: 39 | 📟 cline: 3 | 🏄 windsurf: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -26,6 +26,7 @@
 - [CI/CD & Deployment](#-cicd-deployment)
 - [Runbooks](#-runbooks)
 - [Infrastructure Operations](#-infrastructure-ops)
+- [Uncategorized](#-uncategorized)
 - [How It Works](#how-it-works)
 
 ---
@@ -65,11 +66,11 @@
 
 ## 🆕 Latest
 
+- 📄 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** 🧠 R:🟡 M:⚪ — No description by AstrBotDevs *(34.6k ⭐)* — discovered Jun 13
+- 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:⚪ — No description by ansible *(68.9k ⭐)* — discovered Jun 13
+- 📄 🔶 **[vercel/ai](https://github.com/vercel/ai)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by vercel *(24.8k ⭐)* — discovered Jun 13
 - 📄 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** 🤖🧠 R:🟢 M:⚪ — No description by langchain-ai *(139.1k ⭐)* — discovered Jun 12
 - 📄 🔷 **[novuhq/novu](https://github.com/novuhq/novu)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by novuhq *(39.1k ⭐)* — discovered Jun 12
-- 📄 🔷 **[Kong/insomnia](https://github.com/Kong/insomnia)** 🤖🧠 R:🟡 M:⚪ — No description by Kong *(38.5k ⭐)* — discovered Jun 12
-- 📄 🔷 **[MemTensor/MemOS](https://github.com/MemTensor/MemOS)** 🤖🧠 R:🔴 M:⚪ — No description by MemTensor *(9.8k ⭐)* — discovered Jun 12
-- 📄 🔷 **[LMCache/LMCache](https://github.com/LMCache/LMCache)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by LMCache *(8.6k ⭐)* — discovered Jun 12
 
 ---
 
@@ -382,6 +383,7 @@
 - 🔌 🔷 **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**  R:🟢 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(836 ⭐)*
 - 📄 🔷 **[openclaw-claude-code](https://github.com/Enderfga/openclaw-claude-code)** 🤖 R:🔴 M:🟢 — Run Claude Code, Codex, Gemini, Cursor Agent and custom coding CLIs as one unified runtime for claw-style agent systems. Runs standalone, with first-class OpenClaw plugin support. by Enderfga *(500 ⭐)*
 - ⌨️ 🔷 **[amp.dev](https://github.com/ampproject/amp.dev)**  R:🟢 M:🟢 — The AMP Project Website. by ampproject *(600 ⭐)*
+- 📄 🔷 **[Kong/insomnia](https://github.com/Kong/insomnia)** 🤖🧠 R:🟡 M:⚪ — No description by Kong *(38.5k ⭐)*
 - 📄 🔷 **[pelikan](https://github.com/pelikan-io/pelikan)** 🤖 R:🟢 M:🟢 — Pelikan is a framework for building local or distributed caches. It comes with a highly extensible architecture, best-in-class performance, and superb operational ergonomics. You can use it to replace most of Memcached or a subset of Redis features. by pelikan-io *(287 ⭐)*
 - 🔌 🔷 **[memora](https://github.com/agentic-box/memora)**  R:🟡 M:🟢 — Give your AI agents persistent memory. by agentic-box *(410 ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(809 ⭐)*
@@ -402,6 +404,7 @@
 - 🔌 🔷 **[Swift-Testing-Agent-Skill](https://github.com/AvdLee/Swift-Testing-Agent-Skill)**  R:🟢 M:🟢 — An agent skill focused entirely on Swift Testing, helping you write better tests, migrate from XCTest, improve test architecture, and adopt modern Swift testing patterns with confidence. by AvdLee *(408 ⭐)*
 - 📄 🔶 **[fintool](https://github.com/second-state/fintool)** 🤖 R:🟡 M:🟢 — A suite of Rust CLI tools for agentic trading and market intelligence. Each exchange has its own dedicated binary — hyperliquid, binance, coinbase, okx, polymarket — plus a shared fintool for exchange-agnostic market intelligence (quotes, news, SEC filings). Supports crypto, stocks, commodities, and prediction markets.  by second-state *(294 ⭐)*
 - 🔌 🔷 **[coderlm](https://github.com/JaredStewart/coderlm)**  R:🟡 M:🟢 — Tree-sitter-powered code indexing server that gives LLM agents precise, on-demand access to symbols, implementations, callers, tests, and grep across multi-language projects - so they explore codebases through targeted queries instead of loading everything into context. by JaredStewart *(283 ⭐)*
+- 📄 🔷 **[MemTensor/MemOS](https://github.com/MemTensor/MemOS)** 🤖🧠 R:🔴 M:⚪ — No description by MemTensor *(9.8k ⭐)*
 - 📄 🔶 **[zotero-mcp](https://github.com/cookjohn/zotero-mcp)** 🤖 R:🟢 M:🟢 — Zotero MCP Plugin 是一个 Zotero 插件，通过 MCP协议实现 AI 助手与 Zotero深度集成。插件支持文献检索、元   数据管理、全文分析和智能问答等功能，让 Claude、ChatGPT 等 AI 工具能够直接访问和操作您的文献库。 Zotero MCP Plugin enables integration between AI assistants and Zotero through MCP.  by cookjohn *(888 ⭐)*
 - 📚 🔷 **[meitarbe/cognetivy](https://github.com/meitarbe/cognetivy)**  R:🟢 M:🟢 — The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections. by meitarbe *(691 ⭐)*
 - 🔗 🔶 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** 🤖🔧 R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(673 ⭐)*
@@ -416,6 +419,7 @@
 - 📄 🔷 **[SuperGemini_Framework](https://github.com/SuperClaude-Org/SuperGemini_Framework)** 🤖🧠 R:🟡 M:🟠 — No description by SuperClaude-Org *(243 ⭐)*
 - ⌨️ 🔷 **[claudraband](https://github.com/halfwhey/claudraband)**  R:🔴 M:🟢 — Claude Code for the Power User by halfwhey *(282 ⭐)*
 - 📄 🔷 **[luamake](https://github.com/actboy168/luamake)** 🤖 R:🟡 M:🟢 — No description by actboy168 *(208 ⭐)*
+- 📄 🔷 **[LMCache/LMCache](https://github.com/LMCache/LMCache)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by LMCache *(8.6k ⭐)*
 - 📄 🔷 **[registry-broker-skills](https://github.com/hashgraph-online/registry-broker-skills)** 🤖 R:🟢 M:🟢 — AI agent skills for the Universal Registry - search, chat, and register 72,000+ agents across 14+ protocols. Works with Claude, Codex, Cursor, OpenClaw, and any AI assistant. by hashgraph-online *(350 ⭐)*
 - 📄 🔶 **[indicator](https://github.com/cinar/indicator)** 🤖 R:🟢 M:🟢 — Indicator Go delivers a rich set of technical analysis indicators, customizable strategies, and a powerful backtesting framework. No dependencies, just pure simplicity. ✨ See how! 👀 by cinar *(1.1k ⭐)*
 - 📄 🔶 **[claude-skills-collection](https://github.com/abubakarsiddik31/claude-skills-collection)** 🤖 R:🟢 M:🟢 — A curated collection of official and community-built Claude Skills – extend Anthropic's Claude with powerful, modular capabilities for productivity, creativity, coding, and more. by abubakarsiddik31 *(686 ⭐)*
@@ -715,8 +719,8 @@
 - 📚 🔷 **[Gitlawb/openclaude](https://github.com/Gitlawb/openclaude)**  R:🟢 M:🟢 — runs anywhere. uses anything by Gitlawb *(28.6k ⭐)*
 - 📚 🔷 **[Donchitos/Claude-Code-Game-Studios](https://github.com/Donchitos/Claude-Code-Game-Studios)**  R:🟢 M:🟢 — Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy. by Donchitos *(21.4k ⭐)*
 - 🔌 🔷 **[research-writing-skill](https://github.com/Norman-bury/research-writing-skill)**  R:🟡 M:🟢 — 科研写作助手 (Research Writing Assistant) by Norman-bury *(2.3k ⭐)*
-- 📄 ⭐ **[agentic-flow](https://github.com/ruvnet/agentic-flow)** 🤖🧠 R:⚫ M:🟢 — Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud. by ruvnet *(743 ⭐)*
 - 📚 ⭐ **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)**  R:🟢 M:🟢 — Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install. by sangrokjung *(743 ⭐)*
+- 📄 ⭐ **[agentic-flow](https://github.com/ruvnet/agentic-flow)** 🤖🧠 R:⚫ M:🟢 — Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud. by ruvnet *(743 ⭐)*
 - 📚 🔷 **[rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents)**  R:🟡 M:🟢 — A collection of specialized AI skills, agents, rules and hooks for modern Rails AI driven-development. by ThibautBaissac *(594 ⭐)*
 - 📚 🔷 **[caliber-ai-org/ai-setup](https://github.com/caliber-ai-org/ai-setup)**  R:🟢 M:🟢 — Continuously sync your AI setups with one command. Codebase tailor suited agent skills, MCPs and config files for Claude Code, Cursor, and Codex. by caliber-ai-org *(1.1k ⭐)*
 - 📚 🔷 **[AgentsMesh/AgentsMesh](https://github.com/AgentsMesh/AgentsMesh)**  R:🟢 M:🟢 — The AI Agent Workforce Platform — where teams scale beyond headcount. Give every team member an AI agent squad. by AgentsMesh *(2.2k ⭐)*
