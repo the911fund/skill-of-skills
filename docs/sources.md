@@ -7,6 +7,8 @@ Skill of Skills should behave like a skill selector, not a broad AI-adjacent rep
 `sources.yml` is the public source-of-truth for high-trust ingestion. It includes:
 
 - official skill/plugin packs, such as `n8n-io/skills` and Anthropic-owned sources
+- vendor-owned plugin and skill repositories with concrete skill artifacts, such
+  as `Xquik-dev/tweetclaw`
 - reference workflows, such as the n8n “use skills in agent node” workflow
 - lower-trust discovery queries for ecosystems without official registries
 
@@ -32,6 +34,7 @@ For each source repo:
 2. Traverse declared `paths` from `sources.yml`.
 3. Detect candidate files:
    - `SKILL.md`, `skill.md`
+   - packaged skill paths declared by official plugin sources
    - `AGENTS.md`
    - `CLAUDE.md`
    - `.cursor/rules/**`

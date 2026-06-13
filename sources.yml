@@ -61,6 +61,24 @@ sources:
       Official Anthropic plugin collection. Crawl plugin manifests and linked
       skill/plugin instructions.
 
+  - id: xquik-tweetclaw
+    name: TweetClaw OpenClaw Plugin and Skill
+    repo: Xquik-dev/tweetclaw
+    type: official_plugin_pack
+    platform: openclaw
+    vendor: Xquik
+    trust: official
+    entrypoint: skills/tweetclaw/SKILL.md
+    paths:
+      - skills/tweetclaw
+      - README.md
+      - package.json
+    notes: >-
+      Vendor-owned OpenClaw plugin and packaged skill for X/Twitter automation.
+      Crawl the skill entrypoint and package metadata, preserve approval gates
+      for write-like social account actions, and treat source evidence separately
+      from account-changing actions.
+
   - id: cursor-rules-and-skills
     name: Cursor Rules and Skills Discovery
     query: "Cursor AI rules skills .cursor/rules AGENTS.md"

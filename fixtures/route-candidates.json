@@ -50,5 +50,18 @@
     "quality_signals": ["trigger", "examples", "verification", "approval_gates"],
     "maintenance": "active",
     "safety": "medium"
+  },
+  {
+    "name": "tweetclaw",
+    "repo": "https://github.com/Xquik-dev/tweetclaw",
+    "source_id": "xquik-tweetclaw",
+    "description": "Official OpenClaw plugin and packaged skill for X/Twitter automation: scrape tweets, search tweet replies, export followers, look up users, upload and download media, manage direct messages, monitor tweets, receive webhooks, run giveaway draws, and use approval-gated posting workflows.",
+    "platforms": ["openclaw", "claude_code", "codex"],
+    "trust": "official",
+    "record_granularity": "skill_level",
+    "stars": 0,
+    "quality_signals": ["trigger", "examples", "verification", "references", "approval_gates"],
+    "maintenance": "active",
+    "safety": "medium"
   }
 ]
