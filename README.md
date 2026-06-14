@@ -68,7 +68,7 @@
 
 - 📄 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** 🧠 R:🟡 M:⚪ — No description by AstrBotDevs *(34.6k ⭐)* — discovered Jun 13
 - 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:⚪ — No description by ansible *(68.9k ⭐)* — discovered Jun 13
-- 📄 🔶 **[vercel/ai](https://github.com/vercel/ai)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by vercel *(24.8k ⭐)* — discovered Jun 13
+- 📄 🔶 **[vercel/ai](https://github.com/vercel/ai)** 🤖🖱️🧠 R:🟢 M:⚪ — No description by vercel *(24.8k ⭐)* — discovered Jun 13
 - 📄 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** 🤖🧠 R:🟢 M:⚪ — No description by langchain-ai *(139.1k ⭐)* — discovered Jun 12
 - 📄 🔷 **[novuhq/novu](https://github.com/novuhq/novu)** 🤖🖱️🧠 R:🟡 M:⚪ — No description by novuhq *(39.1k ⭐)* — discovered Jun 12
 
