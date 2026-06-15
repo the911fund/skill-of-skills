@@ -2,11 +2,11 @@
 
 > The curated directory for AI coding skills — quality-scored across Claude Code, Cursor, Codex, Windsurf, Cline & more.
 
-[![Tools](https://img.shields.io/badge/skills-867-blue)](https://github.com/the911fund/skill-of-skills)
+[![Tools](https://img.shields.io/badge/skills-869-blue)](https://github.com/the911fund/skill-of-skills)
 [![Categories](https://img.shields.io/badge/skill_types-10-green)](https://github.com/the911fund/skill-of-skills)
-[![Stars](https://img.shields.io/badge/total_stars-10926k-yellow)](https://github.com/the911fund/skill-of-skills)
+[![Stars](https://img.shields.io/badge/total_stars-10927k-yellow)](https://github.com/the911fund/skill-of-skills)
 
-**867 skills** across 10 skill types | 🤖 claude code: 810 | 🧠 codex: 184 | 🖱️ cursor: 44 | 🔧 generic: 44 | 📟 cline: 3 | 🏄 windsurf: 2
+**869 skills** across 10 skill types | 🤖 claude code: 812 | 🧠 codex: 186 | 🖱️ cursor: 44 | 🔧 generic: 44 | 📟 cline: 4 | 🏄 windsurf: 2
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** | 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -66,11 +66,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** 🤖🧠 R:🔴 M:🟢 — No description by GoogleChrome *(763 ⭐)* — discovered Jun 15
+- 🔗 ⭐ **[mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops)** 🤖🧠📟 R:🔴 M:🟢 — An MCP server for Azure DevOps by Tiberriver256 *(373 ⭐)* — discovered Jun 15
 - 🔄 🔶 **[pocket-server](https://github.com/yayasoumah/pocket-server)** 🤖 R:🔴 M:🟠 — An OS for your agents, built for your pocket. by yayasoumah *(836 ⭐)* — discovered Jun 15
 - 🔄 ⭐ **[lago](https://github.com/getlago/lago)** 🤖 R:🔴 M:🟢 — Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics by getlago *(9.9k ⭐)* — discovered Jun 15
 - 🔌 ⭐ **[cli-printing-press](https://github.com/mvanhorn/cli-printing-press)** 🤖🧠 R:🔴 M:🟢 — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands. by mvanhorn *(3.4k ⭐)* — discovered Jun 15
-- 🔌 ⭐ **[TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** 🤖 R:🔴 M:🟢 — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. by TencentCloud *(5.8k ⭐)* — discovered Jun 15
-- 🔗 🔷 **[manaflow](https://github.com/manaflow-ai/manaflow)** 🤖🖱️🧠 R:🟡 M:🟢 — Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative by manaflow-ai *(1.1k ⭐)* — discovered Jun 15
 
 ---
 
@@ -239,6 +239,7 @@
 - 🔌 🔷 **[SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** 🤖 R:🟢 M:🟢 — Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). by AvdLee *(3.0k ⭐)*
 - 📚 🔷 **[autogen](https://github.com/microsoft/autogen)**  R:🟢 M:🟢 — A programming framework for agentic AI by microsoft *(58.9k ⭐)*
 - 📄 ⭐ **[hcom](https://github.com/aannoo/hcom)** 🤖 R:🔴 M:🟢 — Let AI agents message, watch, and spawn each other across terminals. Claude Code, Codex, Antigravity CLI, Cursor CLI, OpenCode, Kilo, Pi, Kimi by aannoo *(339 ⭐)*
+- 🔌 ⭐ **[TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** 🤖 R:🔴 M:🟢 — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. by TencentCloud *(5.8k ⭐)*
 - 📚 🔷 **[K9i-0/ccpocket](https://github.com/K9i-0/ccpocket)**  R:🟢 M:🟢 — Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge by K9i-0 *(878 ⭐)*
 - 📚 🔷 **[npcpy](https://github.com/NPC-Worldwide/npcpy)**  R:🟡 M:🟢 — The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. by NPC-Worldwide *(1.4k ⭐)*
 - 📚 🔷 **[genai-toolbox](https://github.com/googleapis/genai-toolbox)**  R:🟢 M:🟢 — MCP Toolbox for Databases is an open source MCP server for databases. by googleapis *(15.6k ⭐)*
@@ -901,6 +902,7 @@
 - 📄 ⭐ **[codev](https://github.com/cluesmith/codev)** 🤖🧠 R:🔴 M:🟢 — Codev helps humans and agents co-develop both the context and the code of the project.  by cluesmith *(276 ⭐)*
 - 📄 🔷 **[sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis)** 🤖 R:🟡 M:🟢 — French-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native Salesforce CLI + Allows you to define a complete CI/CD Pipeline and Schedule a daily Metadata backup & monitoring of your orgs + AI-enhanced org Documentation by hardisgroupcom *(348 ⭐)*
 - ⌨️ 🔷 **[optio](https://github.com/jonwiggins/optio)**  R:⚫ M:🟢 — Workflow orchestration for AI coding agents, from task to merged PR. by jonwiggins *(981 ⭐)*
+- 🔗 🔷 **[manaflow](https://github.com/manaflow-ai/manaflow)** 🤖🖱️🧠 R:🟡 M:🟢 — Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative by manaflow-ai *(1.1k ⭐)*
 - 🔌 🔷 **[genie](https://github.com/automagik-dev/genie)**  R:⚫ M:🟢 — Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. by automagik-dev *(324 ⭐)*
 - 📚 🔷 **[agent](https://github.com/buildkite/agent)**  R:🟡 M:🟢 — The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network by buildkite *(998 ⭐)*
 - ⌨️ 🔶 **[ralph](https://github.com/snarktank/ralph)** 🤖 R:🟡 M:🟠 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(20.2k ⭐)*
