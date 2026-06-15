@@ -82,3 +82,18 @@ sources:
     notes: >-
       Discovery query for Codex-compatible AGENTS.md instructions and skill
       packs. Results require task-fit and source quality scoring.
+
+  - id: xquik-x-twitter-scraper
+    name: Xquik x-twitter-scraper
+    repo: Xquik-dev/x-twitter-scraper
+    type: skill_pack
+    platform: codex
+    vendor: xquik
+    trust: reference
+    paths:
+      - skills/x-twitter-scraper/SKILL.md
+      - .codex-plugin/plugin.json
+      - README.md
+    notes: >-
+      Public Codex and OpenClaw skill package for X data workflows, REST API
+      setup, MCP setup, SDK references, and task-oriented workflow guidance.
