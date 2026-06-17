@@ -1037,21 +1037,21 @@ This directory is automatically updated by the Skill of Skills discovery engine:
 
 ```mermaid
 flowchart LR
-    subgraph "Multi-Platform Discovery"
+    subgraph discovery["Multi-Platform Discovery"]
         A[🔍 GitHub Scan] --> B[🤖 Claude Code]
         A --> C[🖱️ Cursor]
         A --> D[🧠 Codex]
         A --> E[🏄 Windsurf/Cline]
     end
-    subgraph "Quality Analysis"
-        B & C & D & E --> F[📋 Platform Detection]
-        F --> G[🧪 Quality Scoring]
+    subgraph analysis["Quality Analysis"]
+        F[📋 Platform Detection] --> G[🧪 Quality Scoring]
         G --> H[🤖 AI Categorization]
     end
-    subgraph "Publishing"
-        H --> I[📝 README Update]
-        I --> J[🌐 Web Directory]
+    subgraph publishing["Publishing"]
+        I[📝 README Update] --> J[🌐 Web Directory]
     end
+    B & C & D & E --> F
+    H --> I
 ```
 
 | Schedule | Stage | Description |
