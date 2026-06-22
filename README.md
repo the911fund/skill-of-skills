@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-891-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-894-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-134-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-135-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**891 skills** across 10 skill types · **134** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 11.3M ⭐. Platforms: 🤖 claude code: 829 | 🧠 codex: 196 | 🔧 generic: 48 | 🖱️ cursor: 47 | 📟 cline: 5 | 🏄 windsurf: 3
+**894 skills** across 10 skill types · **135** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 11.4M ⭐. Platforms: 🤖 claude code: 832 | 🧠 codex: 198 | 🔧 generic: 48 | 🖱️ cursor: 47 | 📟 cline: 5 | 🏄 windsurf: 3
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -67,11 +67,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🔴 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(72.4k ⭐)* — discovered Jun 22
+- 🔄 🔷 **[hello-halo](https://github.com/openkursar/hello-halo)** 🤖 R:🔴 M:🟢 — 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. by openkursar *(1.6k ⭐)* — discovered Jun 22
+- 🧠 🔷 **[octocode](https://github.com/bgauryy/octocode)** 🤖🧠 R:🔴 M:🟢 — MCP server for semantic code research and context generation on real-time using LLM patterns | Search naturally across public & private repos based on your permissions | Transform any accessible codebase/s into AI-optimized knowledge on simple and complex flows | Find real implementations and live docs from anywhere by bgauryy *(867 ⭐)* — discovered Jun 22
 - 🔄 🔷 **[dapr](https://github.com/dapr/dapr)** 🔧 R:🟡 M:🟢 — Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. by dapr *(25.8k ⭐)* — discovered Jun 21
 - 🧠 🔷 **[hunk](https://github.com/modem-dev/hunk)** 🤖🧠 R:🟡 M:🟢 — Review-first terminal diff viewer for agentic coders by modem-dev *(5.3k ⭐)* — discovered Jun 21
-- 🔄 🔷 **[slime](https://github.com/THUDM/slime)** 🤖 R:🔴 M:🟢 — slime is an LLM post-training framework for RL Scaling. by THUDM *(6.5k ⭐)* — discovered Jun 20
-- 🔌 ⭐ **[agent-deck](https://github.com/asheshgoplani/agent-deck)** 🤖 R:🔴 M:🟢 — Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. by asheshgoplani *(215 ⭐)* — discovered Jun 19
-- 📝 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🔴 M:🟠 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(3.7k ⭐)* — discovered Jun 19
 
 ---
 
@@ -485,6 +485,7 @@
 - 📚 🔶 **[kingbootoshi/nano-banana-2-skill](https://github.com/kingbootoshi/nano-banana-2-skill)**  R:🟢 M:🟢 — AI image generation CLI powered by Gemini 3 Pro. Green screen transparency, reference images, style transfer. Also a Claude Code plugin. by kingbootoshi *(386 ⭐)*
 - 📄 🔶 **[open-responses](https://github.com/open-responses/open-responses)** 🤖 R:🟡 M:🔴 — Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc) by open-responses *(221 ⭐)*
 - 📄 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(324 ⭐)*
+- 📝 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🔴 M:🟠 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(3.7k ⭐)*
 - 📚 🔶 **[kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server)**  R:🟢 M:🔴 — Example of an MCP server with custom tools that can be called directly from cursor by kleneway *(336 ⭐)*
 - ⌨️ 🔶 **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)**  R:🔴 M:🟠 — Multi-LLM orchestration framework by MedChaouch *(272 ⭐)*
 - 🔗 🔶 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** 🤖🔧 R:🟡 M:🟠 — F2C MCP Server by f2c-ai *(406 ⭐)*
@@ -614,6 +615,7 @@
 - 📚 🔷 **[rowboat](https://github.com/rowboatlabs/rowboat)**  R:🔴 M:🟢 — Open-source AI coworker, with memory by rowboatlabs *(15k ⭐)*
 - 📚 ⭐ **[MassGen](https://github.com/massgen/MassGen)**  R:🔴 M:🟢 — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(1.1k ⭐)*
 - 📄 🔷 **[dr-claw](https://github.com/OpenLAIR/dr-claw)** 🤖🧠 R:🔴 M:🟢 — A Super AI Lab with massive AI Doctors as Assistants. Best IDE for Research via AI Power.  by OpenLAIR *(1k ⭐)*
+- 🔌 ⭐ **[agent-deck](https://github.com/asheshgoplani/agent-deck)** 🤖 R:🔴 M:🟢 — Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more. by asheshgoplani *(215 ⭐)*
 - 📄 🔷 **[kimaki](https://github.com/remorses/kimaki)** 🤖🧠 R:🔴 M:🟢 — all opencode features deeply integrated inside Discord. each project is a channel. each session a thread by remorses *(1.2k ⭐)*
 - 📄 🔷 **[devenjarvis/lathe](https://github.com/devenjarvis/lathe)** 🤖 R:🟡 M:🟢 — Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ by devenjarvis *(1.5k ⭐)*
 - 📚 🔷 **[AgentHub](https://github.com/jamesrochabrun/AgentHub)**  R:🟡 M:🟢 — Manage all sessions in Claude Code and Codex. Easily create new worktrees, run multiple terminals in parallel, preview edits before accepting them, make inline changes directly from diffs, and more. by jamesrochabrun *(401 ⭐)*
@@ -754,6 +756,7 @@
 - 📚 🔶 **[awesome-codex-subagents](https://github.com/VoltAgent/awesome-codex-subagents)**  R:🟢 M:🟢 — A collection of 130+ specialized Codex subagents covering a wide range of development use cases. by VoltAgent *(5.2k ⭐)*
 - 📚 ⭐ **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)**  R:🟢 M:🟢 — Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install. by sangrokjung *(749 ⭐)*
 - 📄 🔶 **[SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)** 🤖🧠 R:🟡 M:🟢 — A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed. by SamurAIGPT *(3k ⭐)*
+- 🔄 🔷 **[slime](https://github.com/THUDM/slime)** 🤖 R:🔴 M:🟢 — slime is an LLM post-training framework for RL Scaling. by THUDM *(6.5k ⭐)*
 - 📄 🔷 **[code-abyss](https://github.com/telagod/code-abyss)** 🤖🧠 R:🟡 M:🟢 — Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec. by telagod *(229 ⭐)*
 - 📄 🔷 **[Pensieve](https://github.com/kingkongshot/Pensieve)**  R:🟡 M:🟢 — tore your decisions and principles. Claude reads them to make better choices. by kingkongshot *(2.5k ⭐)*
 - 📚 🔷 **[The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion)**  R:🟢 M:🟢 — Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile by The-Vibe-Company *(2.4k ⭐)*
