@@ -624,6 +624,7 @@
 - 📚 🔷 **[AgentHub](https://github.com/jamesrochabrun/AgentHub)**  R:🟡 M:🟢 — Manage all sessions in Claude Code and Codex. Easily create new worktrees, run multiple terminals in parallel, preview edits before accepting them, make inline changes directly from diffs, and more. by jamesrochabrun *(401 ⭐)*
 - 📄 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration. by kingbootoshi *(314 ⭐)*
 - 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)**  R:🟢 M:🟢 — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. by Shpigford *(1.4k ⭐)*
+- 🔄 🔷 **[hello-halo](https://github.com/openkursar/hello-halo)** 🤖 R:🔴 M:🟢 — 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. by openkursar *(1.6k ⭐)*
 - 📚 🔷 **[collaborator-ai/collab-public](https://github.com/collaborator-ai/collab-public)**  R:🟢 M:🟢 — Collaborator is a place to create with agents. by collaborator-ai *(2.5k ⭐)*
 - 📄 🔷 **[romainsimon/paperasse](https://github.com/romainsimon/paperasse)** 🤖 R:🟢 M:🟢 — 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... by romainsimon *(2.1k ⭐)*
 - 📄 🔶 **[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)** 🤖 R:🔴 M:🟢 — Chat with Claude Code from WeChat - a Claude Code Skill by Wechat-ggGitHub *(510 ⭐)*
@@ -994,7 +995,6 @@
 
 - 📄 🔷 **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** 🤖🧠 R:⚫ M:🟢 — A lightweight coding agent for open models like Deepseek, Kimi, and Qwen by openinterpreter *(64k ⭐)*
 - 🔗 🔷 **[happy](https://github.com/slopus/happy)** 🤖🖱️🧠 R:🟡 M:🟢 — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured by slopus *(22k ⭐)*
-- 🔄 🔷 **[hello-halo](https://github.com/openkursar/hello-halo)** 🤖 R:🔴 M:🟢 — 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. by openkursar *(1.6k ⭐)*
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
 - 🔌 🔷 **[Claude-code](https://github.com/fazxes/Claude-code)** 🤖 R:🔴 M:🟢 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source. by fazxes *(221 ⭐)*
 
