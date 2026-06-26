@@ -311,7 +311,7 @@
 - 🔗 🔷 **[travel-hacking-toolkit](https://github.com/borski/travel-hacking-toolkit)**  R:🟡 M:🟢 — AI-powered travel hacking with points, miles, and award flights. Drop-in skills and MCP servers for OpenCode and Claude Code. by borski *(543 ⭐)*
 - 📄 🔷 **[NewsBlur](https://github.com/samuelclay/NewsBlur)** 🤖🧠 R:🔴 M:🟢 — NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. by samuelclay *(7.5k ⭐)*
 - 📚 🔶 **[servo/servo](https://github.com/servo/servo)**  R:🟢 M:🟢 — Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications. by servo *(37.1k ⭐)*
-- 🔄 ⭐ **[metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)** 🤖 R:🔴 M:🟢 — Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform by ariadng *(560 ⭐)*
+- 🔄 ⭐ **[metatrader-mcp-server](https://github.com/ariadng/metatrader-mcp-server)** 🤖 R:🔴 M:🟠 — Model Context Protocol (MCP) to enable AI LLMs to trade using MetaTrader platform by ariadng *(560 ⭐)*
 - 📚 🔶 **[samber/cc-skills-golang](https://github.com/samber/cc-skills-golang)**  R:🟢 M:🟢 — 🧑‍🎨 A collection of Golang agentic skills that works by samber *(2.2k ⭐)*
 - 🧠 🔷 **[corsair](https://github.com/corsairdev/corsair)** 🤖🧠 R:🟡 M:🟢 — Your Agent's Integration Layer by corsairdev *(2.8k ⭐)*
 - 📄 🔶 **[github/github-mcp-server](https://github.com/github/github-mcp-server)** 🤖 R:🟢 M:🟢 — GitHub's official MCP Server by github *(30.8k ⭐)*
