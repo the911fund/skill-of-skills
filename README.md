@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-915-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-919-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-142-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-144-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**915 skills** across 10 skill types · **142** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 11.7M ⭐. Platforms: 🤖 claude code: 849 | 🧠 codex: 210 | 🔧 generic: 50 | 🖱️ cursor: 49 | 📟 cline: 5 | 🏄 windsurf: 3
+**919 skills** across 10 skill types · **144** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 11.7M ⭐. Platforms: 🤖 claude code: 853 | 🧠 codex: 213 | 🔧 generic: 50 | 🖱️ cursor: 49 | 📟 cline: 5 | 🏄 windsurf: 3
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -67,11 +67,11 @@
 
 ## 🆕 Latest
 
+- 🔄 ⭐ **[peerdb](https://github.com/PeerDB-io/peerdb)** 🤖 R:🔴 M:🟢 — Fast, Simple and a cost effective tool to replicate data from Postgres to Data Warehouses, Queues and Storage by PeerDB-io *(3.2k ⭐)* — discovered Jun 28
+- 🧠 🔷 **[agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by AgentWrapper *(7.7k ⭐)* — discovered Jun 28
+- 🧠 🔶 **[12-factor-agents](https://github.com/humanlayer/12-factor-agents)** 🤖🧠 R:🟡 M:🟠 — What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? by humanlayer *(23.6k ⭐)* — discovered Jun 28
+- 🧠 ⭐ **[craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss)** 🤖🧠 R:🔴 M:🟢 — No description by craft-ai-agents *(6.4k ⭐)* — discovered Jun 28
 - 🧠 🔷 **[pr-agent](https://github.com/The-PR-Agent/pr-agent)** 🧠 R:🔴 M:🟢 — 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier. by The-PR-Agent *(11.8k ⭐)* — discovered Jun 27
-- 📦 ⭐ **[video-use](https://github.com/browser-use/video-use)** 🤖 R:🔴 M:🟢 — Edit videos with coding agents by browser-use *(10.4k ⭐)* — discovered Jun 27
-- 🔄 🔷 **[astryx](https://github.com/facebook/astryx)** 🤖 R:🟡 M:🟢 — An open source design system that's fully customizable and agent ready by facebook *(470 ⭐)* — discovered Jun 27
-- 🔗 🔷 **[lightdash](https://github.com/lightdash/lightdash)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic BI. Analytics at the speed of code ⚡️ by lightdash *(5.9k ⭐)* — discovered Jun 27
-- 🧠 🔷 **[kargo](https://github.com/akuity/kargo)** 🤖🧠 R:🟡 M:🟢 — Application lifecycle orchestration by akuity *(3.4k ⭐)* — discovered Jun 26
 
 ---
 
@@ -130,6 +130,7 @@
 - 📚 ⭐ **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)**  R:🟢 M:🟢 — Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts by rudrankriyam *(4.8k ⭐)*
 - 📄 🔷 **[earendil-works/pi](https://github.com/earendil-works/pi)** 🤖🧠 R:🟡 M:🟢 — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI by earendil-works *(63.5k ⭐)*
 - 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:🟢 — "Vibe-Trading: Your Personal Trading Agent" by HKUDS *(12.4k ⭐)*
+- 📦 ⭐ **[video-use](https://github.com/browser-use/video-use)** 🤖 R:🔴 M:🟢 — Edit videos with coding agents by browser-use *(10.4k ⭐)*
 - 📄 🔷 **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(50.7k ⭐)*
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)**  R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(35k ⭐)*
 - 📄 🔷 **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** 🤖 R:🟡 M:🟢 — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. by Tencent *(16.4k ⭐)*
@@ -743,6 +744,7 @@
 - 📚 🔷 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)**  R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(27.8k ⭐)*
 - 📄 🔷 **[open-mercato/open-mercato](https://github.com/open-mercato/open-mercato)** 🤖🧠 R:🟢 M:🟢 — AI-Engineering Foundation Framework built with AI and designed for AI. Hundreds of architectural and domain decisions (multi-tenancy, RBAC,  event flow, pricing, sales pipeline,CRM/ERP processes) are already made conventions and specs so agents (Cursor, Claude Code, Codex) arch. decisions without reinventing.  Ship production grade with AI Agents. by open-mercato *(1.4k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)**  R:🟢 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(33.5k ⭐)*
+- 🔄 🔷 **[astryx](https://github.com/facebook/astryx)** 🤖 R:🟡 M:🟢 — An open source design system that's fully customizable and agent ready by facebook *(470 ⭐)*
 - 🔌 🔷 **[agent-native](https://github.com/BuilderIO/agent-native)** 🤖🧠📟 R:🔴 M:🟢 — A framework for building agent-native applications. by BuilderIO *(677 ⭐)*
 - 📄 🔷 **[onlook-dev/onlook](https://github.com/onlook-dev/onlook)** 🤖🧠 R:🟡 M:🟢 — The Cursor for Designers • An Open-Source AI-First Design tool • Visually build, style, and edit your React App with AI by onlook-dev *(25.9k ⭐)*
 - 📚 🔷 **[zubair-trabzada/geo-seo-claude](https://github.com/zubair-trabzada/geo-seo-claude)**  R:🟢 M:🟢 — GEO-first SEO skill for Claude Code. Comprehensive AI search optimization for any website — citability scoring, AI crawler analysis, brand authority, schema markup, platform-specific optimization, and PDF reports.  If you want learn how to sell this to real businesses, check out the skool community by zubair-trabzada *(8.2k ⭐)*
@@ -948,6 +950,7 @@
 - 📚 🔷 **[gh-aw](https://github.com/github/gh-aw)**  R:🟡 M:🟢 — GitHub Agentic Workflows by github *(4.6k ⭐)*
 - 📄 🔷 **[sfdx-hardis](https://github.com/hardisgroupcom/sfdx-hardis)** 🤖 R:🟡 M:🟢 — French-army-knife Toolbox for Salesforce. Orchestrates base commands and assist users with interactive wizards to make much more than native Salesforce CLI + Allows you to define a complete CI/CD Pipeline and Schedule a daily Metadata backup & monitoring of your orgs + AI-enhanced org Documentation by hardisgroupcom *(348 ⭐)*
 - 🔌 🔷 **[genie](https://github.com/automagik-dev/genie)**  R:⚫ M:🟢 — Wishes in, PRs out. CLI agent that interviews you, plans the work, dispatches parallel agents in isolated worktrees, and reviews code before you see it. by automagik-dev *(325 ⭐)*
+- 🧠 🔷 **[kargo](https://github.com/akuity/kargo)** 🤖🧠 R:🟡 M:🟢 — Application lifecycle orchestration by akuity *(3.4k ⭐)*
 - 📄 🔷 **[dohooo/helmor](https://github.com/dohooo/helmor)** 🤖🧠 R:🔴 M:🟢 — Open-source local workbench for multi-agent software development. by dohooo *(1.2k ⭐)*
 - ⌨️ 🔶 **[ralph](https://github.com/snarktank/ralph)** 🤖 R:🟡 M:🟠 — Ralph is an autonomous AI agent loop that runs repeatedly until all PRD items are complete. by snarktank *(20.3k ⭐)*
 - 📄 🔶 **[continuous-claude](https://github.com/AnandChowdhary/continuous-claude)** 🔧 R:⚫ M:🟢 — 🔂 Ralph loop with PRs: Run Claude Code in a continuous loop, autonomously creating PRs, waiting for checks, and merging by AnandChowdhary *(1.3k ⭐)*
@@ -1012,6 +1015,7 @@
 - 🔌 ⭐ **[agents](https://github.com/wshobson/agents)** 🤖🖱️🧠 R:🟡 M:🟢 — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI by wshobson *(37.1k ⭐)*
 - 🔗 🔷 **[happy](https://github.com/slopus/happy)** 🤖🖱️🧠 R:🟡 M:🟢 — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured by slopus *(22k ⭐)*
 - 🧠 🔷 **[hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)** 🤖🧠 R:🔴 M:🟢 — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics by EKKOLearnAI *(8.5k ⭐)*
+- 🔗 🔷 **[lightdash](https://github.com/lightdash/lightdash)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic BI. Analytics at the speed of code ⚡️ by lightdash *(5.9k ⭐)*
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
 - 🔌 🔷 **[Claude-code](https://github.com/fazxes/Claude-code)** 🤖 R:🔴 M:🟢 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source. by fazxes *(221 ⭐)*
 
