@@ -812,7 +812,7 @@
 - 📄 🔷 **[bruin-data/dac](https://github.com/bruin-data/dac)** 🤖🧠 R:🟡 M:🟢 — DaC is a dashboard-as-code tool. Build interactive dashboards using YAML and JSX. Built-in semantic layer. Get your agents to build standardized, reviewable dashboards. by bruin-data *(697 ⭐)*
 - 🔌 🔷 **[COG-second-brain](https://github.com/huytieu/COG-second-brain)**  R:🔴 M:🟢 — The Easiest Second Brain Setup That Actually Self-Evolves using Claude code - Obsidian - Github by huytieu *(541 ⭐)*
 - 📄 🔷 **[amphi-etl](https://github.com/amphi-ai/amphi-etl)** 🤖 R:🟡 M:🟢 — visual data prep powered by python by amphi-ai *(1.4k ⭐)*
-- 📚 🔶 **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)**  R:🟢 M:🟢 — A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. by zarazhangrui *(4.7k ⭐)*
+- 📚 🔶 **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)**  R:🟢 M:🟠 — A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. by zarazhangrui *(4.7k ⭐)*
 - 📚 🔷 **[MixtapeTools](https://github.com/scunning1975/MixtapeTools)**  R:🟡 M:🟢 — Tools for coding, teaching, and presentations with AI assistance by scunning1975 *(388 ⭐)*
 - 📚 🔷 **[tabby](https://github.com/TabbyML/tabby)**  R:🟢 M:🟠 — Self-hosted AI coding assistant by TabbyML *(33.6k ⭐)*
 - 📚 🔷 **[glommer/codemogger](https://github.com/glommer/codemogger)**  R:🟢 M:🟢 — Codemogger is a code indexing library and MCP server for AI coding agents by glommer *(322 ⭐)*
