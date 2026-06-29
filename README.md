@@ -430,7 +430,7 @@
 - ⌨️ 🔶 **[claude-subconscious](https://github.com/letta-ai/claude-subconscious)** 🤖 R:🟢 M:🟢 — Give Claude Code a subconscious by letta-ai *(2.8k ⭐)*
 - ⌨️ 🔷 **[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)** 🤖 R:🟢 M:🟠 — Master Claude Code Hooks by disler *(3.8k ⭐)*
 - 📄 🔶 **[regipy](https://github.com/mkorman90/regipy)** 🤖 R:🟢 M:🟢 — Regipy is an os independent python library for parsing offline registry hives by mkorman90 *(276 ⭐)*
-- 📚 🔶 **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)**  R:🟢 M:🟢 — No description by ChinaSiro *(9.4k ⭐)*
+- 📚 🔶 **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)**  R:🟢 M:🟠 — No description by ChinaSiro *(9.4k ⭐)*
 - 📚 🔷 **[meitarbe/cognetivy](https://github.com/meitarbe/cognetivy)**  R:🟢 M:🟢 — The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections. by meitarbe *(690 ⭐)*
 - 🔌 🔶 **[walkerOS](https://github.com/elbwalker/walkerOS)** 🤖 R:🟢 M:🟢 — Open-source tag manager for developers by elbwalker *(340 ⭐)*
 - 🔗 🔶 **[supabase-cache-helpers](https://github.com/psteinroe/supabase-cache-helpers)** 🤖🔧 R:🟢 M:🟢 — A collection of framework specific Cache utilities for working with Supabase. by psteinroe *(676 ⭐)*
