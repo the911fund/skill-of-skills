@@ -82,3 +82,22 @@ sources:
     notes: >-
       Discovery query for Codex-compatible AGENTS.md instructions and skill
       packs. Results require task-fit and source quality scoring.
+
+  - id: sequenzy-skills
+    name: Sequenzy Email Marketing Skills
+    repo: Sequenzy/skills
+    type: official_skill_pack
+    platform: multi_agent
+    vendor: sequenzy
+    trust: official
+    entrypoint: sequenzy-email-marketing
+    paths:
+      - skills/sequenzy-email-marketing
+      - skills/sequenzy
+      - .well-known/skills/index.json
+      - README.md
+    notes: >-
+      Vendor-maintained agent skills for operating permissioned lifecycle,
+      campaign, and transactional email workflows from Claude Code, Codex,
+      Hermes, and other SKILL.md-compatible agents. Crawl skill-level records
+      rather than only the repository record.
