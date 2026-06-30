@@ -663,7 +663,7 @@
 - 🔌 🔶 **[agentkits-marketing](https://github.com/aitytech/agentkits-marketing)**  R:🟡 M:🟠 — Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills by aitytech *(539 ⭐)*
 - 📚 🔶 **[louislva/claude-peers-mcp](https://github.com/louislva/claude-peers-mcp)**  R:🟢 M:🟢 — Allow all your Claude Codes to message each other ad-hoc! by louislva *(2.1k ⭐)*
 - 📄 🔷 **[shinkoku](https://github.com/kazukinagata/shinkoku)** 🤖 R:🟡 M:🟠 — 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで by kazukinagata *(343 ⭐)*
-- ⌨️ 🔶 **[outworked](https://github.com/outworked/outworked)**  R:🔴 M:🟢 — Outworked - Cozy Office for Claude Code by outworked *(299 ⭐)*
+- ⌨️ 🔶 **[outworked](https://github.com/outworked/outworked)**  R:🔴 M:🟠 — Outworked - Cozy Office for Claude Code by outworked *(299 ⭐)*
 - 🔌 🔶 **[claude-diary](https://github.com/rlancemartin/claude-diary)** 🤖 R:🟢 M:🟠 — A simple memory system for claude code by rlancemartin *(376 ⭐)*
 
 ## 🏗️ Code Scaffolding & Templates
