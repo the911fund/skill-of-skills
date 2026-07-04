@@ -848,7 +848,7 @@
 - 📄 🔶 **[Claude-Code-Projects-Index](https://github.com/danielrosehill/Claude-Code-Projects-Index)** 🤖 R:🟡 M:🟢 — An index of my Claude Code related repos including a wide variety of starter templates for using Claude Code for common and more imaginative purposes! by danielrosehill *(501 ⭐)*
 - 📄 🔷 **[llm-wiki](https://github.com/mduongvandinh/llm-wiki)** 🤖🧠 R:🟡 M:🟢 — Hệ thống knowledge base cá nhân hoàn toàn tự động, vận hành bởi LLM. Dựa trên pattern LLM Wiki của Andrej Karpathy. by mduongvandinh *(212 ⭐)*
 - 📄 🔶 **[SpringBlade](https://github.com/chillzhuang/SpringBlade)** 🤖 R:🟡 M:🟢 — SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java17 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 3.5 、Spring Cloud 2025 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。 by chillzhuang *(6.9k ⭐)*
-- 🔌 🔶 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**  R:🟡 M:🟢 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(502 ⭐)*
+- 🔌 🔶 **[personal-os-skills](https://github.com/ArtemXTech/personal-os-skills)**  R:🟡 M:🟠 — Claude Code skills for Obsidian | Claude Code Lab starts Mar 17 by ArtemXTech *(502 ⭐)*
 - 📚 🔶 **[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)**  R:🟢 M:🟢 — AI Agent 源码深度研究报告 by tvytlx *(5.8k ⭐)*
 - 📚 🔶 **[ponponon/claude_code_src](https://github.com/ponponon/claude_code_src)**  R:🟢 M:🟢 — 2026.3.31 claude code 意外把包含源码的文件上传到 npm 仓库，版本号是 2.1.88，其中 cli.js.map 文件有 57MB 的体积，claude code 的源码在该文件的 sourcesContent 字段里面，解压还原后有 70w 行代码 by ponponon *(2.3k ⭐)*
 - 🔌 🔷 **[ai-design-components](https://github.com/ancoleman/ai-design-components)**  R:🟡 M:🟠 — Comprehensive UI/UX and Backend component design skills for AI-assisted development with Claude by ancoleman *(374 ⭐)*
@@ -912,7 +912,7 @@
 - 📄 🔶 **[M3UAndroid](https://github.com/oxyroid/M3UAndroid)** 🤖 R:🟡 M:🟢 — a clean, practical, ad-free IPTV app by oxyroid *(1.2k ⭐)*
 - 📚 🔷 **[oboard/claude-code-rev](https://github.com/oboard/claude-code-rev)**  R:🟢 M:🟢 — Runnable ClaudeCode source code by oboard *(3.2k ⭐)*
 - 🔌 🔷 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** 🤖 R:🟡 M:🟠 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(1.1k ⭐)*
-- 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**  R:🟢 M:🟢 — Tutorials, Guides and Agent Skills Directories by heilcheng *(5.6k ⭐)*
+- 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**  R:🟢 M:🟠 — Tutorials, Guides and Agent Skills Directories by heilcheng *(5.6k ⭐)*
 - 📚 🔶 **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)**  R:🟢 M:🟢 — A curated list of Claude Skills. by BehiSecc *(9.5k ⭐)*
 - 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)**  R:🟢 M:🟢 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.2k ⭐)*
 - 📚 🔷 **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)**  R:🟢 M:🟠 — An orchestrated sub agent dev team powered by claude code by vijaythecoder *(4.3k ⭐)*
