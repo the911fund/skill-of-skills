@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-992-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-994-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-160-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**992 skills** across 10 skill types · **160** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.3M ⭐. Platforms: 🤖 claude code: 905 | 🧠 codex: 246 | 🔧 generic: 65 | 🖱️ cursor: 61 | 📟 cline: 8 | 🏄 windsurf: 6
+**994 skills** across 10 skill types · **160** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.3M ⭐. Platforms: 🤖 claude code: 906 | 🧠 codex: 247 | 🔧 generic: 65 | 🖱️ cursor: 63 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -67,11 +67,11 @@
 
 ## 🆕 Latest
 
+- 🖱️ 🔶 **[open-multi-agent-canvas](https://github.com/CopilotKit/open-multi-agent-canvas)** 🖱️ R:🔴 M:🟢 — The open-source multi-agent chat interface that lets you manage multiple agents in one dynamic conversation and add MCP servers for deep research by CopilotKit *(507 ⭐)* — discovered Jul 6
+- 🔌 🔷 **[lobe-chat-pro](https://github.com/vual/lobe-chat-pro)** 🤖🖱️🧠 R:🔴 M:🟢 — 基于lobe-chat，增加了无限画布功能，支持doubao、google、openai、kling、midjourney等画图和视频模型，还有额外的独立的绘图、音乐、视频等创作面板，支持用户注册登录，充值消费，模型及价格管理，聊天、绘图、音乐、视频创作记录管理，通知公告等 by vual *(288 ⭐)* — discovered Jul 6
 - 🧠 🔷 **[emdash](https://github.com/generalaction/emdash)** 🤖🧠 R:🟡 M:🟢 — Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider. by generalaction *(5.1k ⭐)* — discovered Jul 6
 - 📝 🔶 **[deep-research-mcp](https://github.com/teelaitila/deep-research-mcp)** 🔧 R:🔴 M:🟠 — No description by teelaitila *(323 ⭐)* — discovered Jul 6
 - 🧠 🔷 **[schaltwerk](https://github.com/2mawi2/schaltwerk)** 🤖🧠 R:🟡 M:🟢 — The IDE without editor by 2mawi2 *(281 ⭐)* — discovered Jul 6
-- 🔄 🔶 **[codbash](https://github.com/vakovalskii/codbash)** 🤖 R:🔴 M:🟢 — Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions. by vakovalskii *(236 ⭐)* — discovered Jul 6
-- 🔄 🔷 **[obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** 🤖 R:🔴 M:🟠 — A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault. by Roasbeef *(207 ⭐)* — discovered Jul 6
 
 ---
 
@@ -501,6 +501,7 @@
 - 📚 🔷 **[chatmcp/mcpso](https://github.com/chatmcp/mcpso)**  R:🟢 M:🔴 — directory for Awesome MCP Servers by chatmcp *(2k ⭐)*
 - 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🔴 M:🟠 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(203 ⭐)*
 - 📄 🔶 **[mcp-server-12306](https://github.com/drfccv/mcp-server-12306)** 🔧 R:🟢 M:🟢 — 12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 by drfccv *(344 ⭐)*
+- 🔄 🔷 **[obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** 🤖 R:🔴 M:🟠 — A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault. by Roasbeef *(207 ⭐)*
 - 📚 🔶 **[microsoft/BitNet](https://github.com/microsoft/BitNet)**  R:🟢 M:🟠 — Official inference framework for 1-bit LLMs by microsoft *(39.3k ⭐)*
 - 🔄 🔷 **[mcptools](https://github.com/f/mcptools)** 🔧 R:🔴 M:🟠 — A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport. by f *(1.6k ⭐)*
 - 📚 🔷 **[thellimist/clihub](https://github.com/thellimist/clihub)**  R:🟢 M:🟠 — Turn any MCP server into CLI by thellimist *(666 ⭐)*
@@ -701,6 +702,7 @@
 - 📚 🔶 **[smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad)**  R:🟢 M:🟢 — Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp. by smtg-ai *(7.8k ⭐)*
 - 📄 🔷 **[jezweb/roo-commander](https://github.com/jezweb/roo-commander)** 🤖🧠 R:🟡 M:🟠 — Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code by jezweb *(724 ⭐)*
 - 📚 🔷 **[kibitzsh/kibitz](https://github.com/kibitzsh/kibitz)**  R:🟢 M:🟠 — Real-time decoded feed of AI agent actions — monitor multiple Claude Code & Codex sessions, see exactly what each agent is doing, and coordinate swarms efficiently by kibitzsh *(512 ⭐)*
+- 🔄 🔶 **[codbash](https://github.com/vakovalskii/codbash)** 🤖 R:🔴 M:🟢 — Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions. by vakovalskii *(236 ⭐)*
 - 📄 🔶 **[research-companion](https://github.com/andrehuang/research-companion)** 🤖 R:🟢 M:🟢 — Strategic research thinking agents for Claude Code — idea evaluation, project triage, and structured brainstorming. Helps you decide which papers to write, not just how to write them. by andrehuang *(683 ⭐)*
 - 📄 🔷 **[shinkoku](https://github.com/kazukinagata/shinkoku)** 🤖 R:🟡 M:🟠 — 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで by kazukinagata *(343 ⭐)*
 - 🔌 🔶 **[agentkits-marketing](https://github.com/aitytech/agentkits-marketing)**  R:🟡 M:🟠 — Enterprise-grade AI marketing automation for Claude Code, Cursor, GitHub Copilot, and any AI assistant supporting agents & skills by aitytech *(539 ⭐)*
