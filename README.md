@@ -415,6 +415,7 @@
 - ⌨️ 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)**  R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(820 ⭐)*
 - 📚 🔷 **[Algorithms](https://github.com/williamfiset/Algorithms)**  R:🟡 M:🟠 — A collection of algorithms and data structures by williamfiset *(18.6k ⭐)*
 - 📄 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** 🤖 R:🟡 M:🟢 — A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts. by rekog-labs *(663 ⭐)*
+- 🔄 🔷 **[PhoneClaw](https://github.com/kellyvv/PhoneClaw)** 🤖 R:🔴 M:🟢 — Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference by kellyvv *(1.1k ⭐)*
 - 📚 🔷 **[polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)**  R:🔴 M:🟢 — 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features by caiovicentino *(562 ⭐)*
 - ⌨️ 🔷 **[marketplace](https://github.com/aiskillstore/marketplace)** 🤖🧠 R:🟢 M:🟢 — Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. by aiskillstore *(363 ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(816 ⭐)*
@@ -523,6 +524,7 @@
 - 📄 🔶 **[claude-code-mcpinstall](https://github.com/undeadpickle/claude-code-mcpinstall)** 🔧 R:🔴 M:🔴 — Easy guide to installing Claude Code MCPs globally on your machine. by undeadpickle *(235 ⭐)*
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(476 ⭐)*
 - 📄 🔶 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** 🔧 R:🟡 M:🟠 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(206 ⭐)*
+- 📚 🔶 **[agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🔴 M:🟢 — A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. by cloudflare *(317 ⭐)*
 - 📚 🔶 **[realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills)**  R:🟢 M:🟠 — Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems. by realkimbarrett *(671 ⭐)*
 - 📚 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)**  R:🟢 M:🟠 — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.1k ⭐)*
 - 🔗 🔶 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** 🤖🔧 R:🟢 M:🟢 — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
@@ -1089,10 +1091,8 @@
 - 📝 🔷 **[Agent](https://github.com/macOS26/Agent)** 🔧 R:🔴 M:🟢 — Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs. by macOS26 *(517 ⭐)*
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
 - 🧠 🔷 **[awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)** 🤖🧠 R:🔴 M:🟢 — Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. by ai-boost *(2.7k ⭐)*
-- 🔄 🔷 **[PhoneClaw](https://github.com/kellyvv/PhoneClaw)** 🤖 R:🔴 M:🟢 — Mobile-native local AI Agent framework for phones and edge devices, with an iOS runtime, fully offline local path, on-device models, native iOS Skills, and optional Mac Gateway inference by kellyvv *(1.1k ⭐)*
 - 🔄 🔶 **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** 🔧 R:🔴 M:🟢 — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. by ashishpatel26 *(33.5k ⭐)*
 - 🔌 🔷 **[Claude-code](https://github.com/fazxes/Claude-code)** 🤖 R:🔴 M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source. by fazxes *(221 ⭐)*
-- 📚 🔶 **[agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🔴 M:🟢 — A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. by cloudflare *(317 ⭐)*
 
 ---
 
