@@ -19,6 +19,8 @@ Keep component scores separate so users and agents can inspect why something ran
 - `safety_score`: permission scope, shell execution, subagents, destructive actions, approval gates.
 - `installability_score`: clear installation/loading steps, supported platforms, dependencies.
 - `popularity_score`: stars/forks/social signals, capped to prevent giant generic repos from dominating.
+- `evidence_score`: machine-checkable proof that the skill's claims, inputs,
+  outputs, and resume state can be verified instead of trusted as prose.
 
 ## Default weighted rank
 
@@ -59,11 +61,14 @@ Positive:
 - examples
 - gotchas/pitfalls
 - verification section
+- evidence/provenance section for generated outputs, handoffs, or derived context
 - linked references/templates/scripts
 - progressive disclosure instead of huge context dumps
 - explicit safety/approval gates
 - install/load instructions
 - exact commands with expected outputs
+- stale/invalidator rules for handoffs, cached context, generated files, or
+  tool catalogs (`stale_if`, source hash changed, branch changed, toolset changed)
 
 Negative:
 
@@ -71,9 +76,35 @@ Negative:
 - no description or trigger language
 - stale with no releases
 - broad system access with no approval gates
+- handoff or memory claims with no source refs, timestamps, commit/worktree state,
+  or re-verification instructions
 - hallucinated/generated README only
 - repo-level record pretending to be a skill-level record
 - clone or validation failed but status says passed
+
+## Evidence and provenance signals
+
+Skills increasingly generate durable artifacts: handoff files, context packs,
+tool catalogs, cached summaries, task plans, audit logs, and merged/fused rule
+sets. Treat these as higher quality when they include a small evidence block that
+lets the next agent or human reviewer verify whether the artifact is still safe
+to act on.
+
+Useful fields to detect and surface:
+
+- source artifact references: file paths, trace ids, session ids, issue/PR refs,
+  or upstream skill ids
+- source digests or commit/worktree state used when the artifact was produced
+- generator identity and version: skill/command name, renderer version, model or
+  agent harness when intentionally disclosed
+- verification commands or read-only smoke checks with expected output
+- omitted-private-context markers without exposing the private content
+- `stale_if` invalidators: source hash changed, branch/commit changed, tool
+  registry changed, skill version changed, compaction policy changed, or
+  referenced file changed after capture
+
+Do not require raw prompts, secrets, full traces, or private file contents. Hashes
+and stable references are enough for ranking and review.
 
 ## Tiers
 
