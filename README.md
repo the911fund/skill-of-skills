@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1000-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1004-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-161-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-162-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1000 skills** across 10 skill types · **161** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.4M ⭐. Platforms: 🤖 claude code: 912 | 🧠 codex: 251 | 🔧 generic: 65 | 🖱️ cursor: 63 | 📟 cline: 8 | 🏄 windsurf: 6
+**1004 skills** across 10 skill types · **162** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.5M ⭐. Platforms: 🤖 claude code: 915 | 🧠 codex: 252 | 🔧 generic: 66 | 🖱️ cursor: 63 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -67,11 +67,11 @@
 
 ## 🆕 Latest
 
+- 🔗 ⭐ **[graphify](https://github.com/Graphify-Labs/graphify)** 🤖🧠 R:🔴 M:🟢 — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. by Graphify-Labs *(80k ⭐)* — discovered Jul 8
+- 🔄 🔶 **[google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)** 🔧 R:🔴 M:🟢 — No description by googleanalytics *(2.6k ⭐)* — discovered Jul 8
+- 🔌 🔷 **[SkillOpt](https://github.com/microsoft/SkillOpt)** 🤖 R:🟡 M:🟢 — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. by microsoft *(11.6k ⭐)* — discovered Jul 8
+- 🔄 🔷 **[notion-mcp-server](https://github.com/makenotion/notion-mcp-server)** 🤖 R:🔴 M:🟢 — Official Notion MCP Server by makenotion *(4.5k ⭐)* — discovered Jul 8
 - 🧠 🔶 **[axi](https://github.com/kunchenguid/axi)** 🤖🧠 R:🔴 M:🟢 — Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. by kunchenguid *(1.4k ⭐)* — discovered Jul 7
-- 🧠 🔶 **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** 🤖🧠 R:🟡 M:🟢 — Project Manager Extension for Visual Studio Code by alefragnani *(2.6k ⭐)* — discovered Jul 7
-- 🔌 🔷 **[dev-browser](https://github.com/SawyerHood/dev-browser)** 🤖🧠 R:🟡 M:🟢 — A Claude Skill to give your agent the ability to use a web browser by SawyerHood *(6.4k ⭐)* — discovered Jul 7
-- 🧠 🔷 **[deepcode-cli](https://github.com/lessweb/deepcode-cli)** 🤖🧠 R:🔴 M:🟢 — Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 by lessweb *(1.7k ⭐)* — discovered Jul 7
-- 🔄 🔷 **[OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** 🤖 R:🔴 M:🟢 — OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. by iOfficeAI *(9.3k ⭐)* — discovered Jul 7
 
 ---
 
@@ -282,6 +282,7 @@
 - 📄 🔷 **[rynfar/meridian](https://github.com/rynfar/meridian)** 🤖 R:🔴 M:🟢 — Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools. by rynfar *(1.4k ⭐)*
 - ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:⚫ M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
 - 📄 🔷 **[dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)** 🧠 R:🟡 M:🟢 — Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators). by dimensionalOS *(3.5k ⭐)*
+- 🧠 🔷 **[deepcode-cli](https://github.com/lessweb/deepcode-cli)** 🤖🧠 R:🔴 M:🟢 — Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 by lessweb *(1.7k ⭐)*
 - 📄 🔷 **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** 🤖🖱️🧠 R:🟡 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients. by PrefectHQ *(25.7k ⭐)*
 - 📄 🔶 **[google/skills](https://github.com/google/skills)** 🤖 R:🟡 M:🟢 — Agent Skills for Google products and technologies by google *(13.8k ⭐)*
 - 📄 🔷 **[nibiru](https://github.com/NibiruChain/nibiru)** 🤖 R:🟢 M:🟢 — The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more. by NibiruChain *(207 ⭐)*
@@ -289,6 +290,7 @@
 - 📚 🔷 **[onecli/onecli](https://github.com/onecli/onecli)**  R:🟢 M:🟢 — Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys. by onecli *(2.4k ⭐)*
 - 📄 🔷 **[vercel-labs/portless](https://github.com/vercel-labs/portless)** 🤖🧠 R:🟡 M:🟢 — Replace port numbers with stable, named local URLs. For humans and agents. by vercel-labs *(9.8k ⭐)*
 - 📚 🔷 **[Unity-Skills](https://github.com/Besty0728/Unity-Skills)**  R:🔴 M:🟢 — AI automation skills specifically designed for Unity by Besty0728 *(1.3k ⭐)*
+- 🔄 🔷 **[OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** 🤖 R:🔴 M:🟢 — OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. by iOfficeAI *(9.3k ⭐)*
 - 📄 ⭐ **[claude-codex-settings](https://github.com/fcakyon/claude-codex-settings)** 🤖🧠 R:🟢 M:🟢 — My personal Claude Code and OpenAI Codex setup with battle-tested skills, commands, hooks, agents and MCP servers that I use daily. by fcakyon *(741 ⭐)*
 - ⌨️ 🔷 **[mcp-use](https://github.com/mcp-use/mcp-use)** 🤖 R:🟢 M:🟢 — mcp-use is the easiest way to interact with mcp servers with custom agents by mcp-use *(10.1k ⭐)*
 - 🔗 🔷 **[linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)** 🤖🧠 R:🔴 M:🟢 — Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages. by stickerdaniel *(2.7k ⭐)*
@@ -576,6 +578,7 @@
 - ⌨️ 🔷 **[terminaI](https://github.com/Prof-Harita/terminaI)**  R:🔴 M:🟢 — Open-source, local-first alternative to Cowork-style computer assistants: real PTY terminal ops, explicit approvals, JSONL audit logs. Windows + Linux + macOS. Model agnostic. by Prof-Harita *(415 ⭐)*
 - 📄 ⭐ **[pi-interactive-shell](https://github.com/nicobailon/pi-interactive-shell)**  R:🔴 M:🟢 — Pi coding agent extension that allows Pi to autonomously control interactive CLIs in an observable overlay. Full PTY emulation, no  tmux, token efficient. User can take over anytime. by nicobailon *(523 ⭐)*
 - 📄 🔶 **[pingcap/tidb](https://github.com/pingcap/tidb)** 🤖🧠 R:🟡 M:🟢 — TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, analytics, and vector search. No data silos. No noisy neighbors. No infrastructure ceiling. by pingcap *(40.2k ⭐)*
+- 🔌 🔷 **[dev-browser](https://github.com/SawyerHood/dev-browser)** 🤖🧠 R:🟡 M:🟢 — A Claude Skill to give your agent the ability to use a web browser by SawyerHood *(6.4k ⭐)*
 - 📚 🔷 **[agent-skills](https://github.com/apify/agent-skills)** 🤖 R:🟢 M:🟢 — Agent Skills for Test Automation by apify *(2.2k ⭐)*
 - ⌨️ 🔷 **[buttercut](https://github.com/barefootford/buttercut)** 🤖 R:🟢 M:🟢 — Edit Video with Claude Code by barefootford *(535 ⭐)*
 - 🔌 🔷 **[superpowers-chrome](https://github.com/obra/superpowers-chrome)** 🤖 R:🟢 M:🟢 — Claude Code plugin for direct Chrome browser control via DevTools Protocol - zero dependencies by obra *(317 ⭐)*
@@ -698,7 +701,7 @@
 - 🔌 🔷 **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** 🤖 R:⚫ M:🟠 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(363 ⭐)*
 - 🔄 🔷 **[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)** 🔧 R:🔴 M:🟠 — Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails. by JessyTsui *(1.3k ⭐)*
 - ⌨️ 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🟢 M:🟠 — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.6k ⭐)*
-- ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🟡 M:🟢 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(762 ⭐)*
+- ⌨️ 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** 🤖 R:🟡 M:🟠 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(762 ⭐)*
 - 📄 🔶 **[agtx](https://github.com/fynnfluegge/agtx)** 🤖🧠 R:🔴 M:🟢 — 🏄🏼‍♂️ The blackboard for coding agents - multi-agent session-toolbox for claude code, cursor, codex, gemini by fynnfluegge *(1.1k ⭐)*
 - 📚 🔶 **[patchwork](https://github.com/patched-codes/patchwork)**  R:🔴 M:🟢 — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.6k ⭐)*
 - 📚 🔶 **[nikilster/clawflows](https://github.com/nikilster/clawflows)**  R:🟢 M:🟢 — ⚡️ Superpowers for your Openclaw. Powerful prebuilt agent workflows. by nikilster *(1.7k ⭐)*
@@ -1098,6 +1101,7 @@
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
 - 🧠 🔷 **[awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)** 🤖🧠 R:🔴 M:🟢 — Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. by ai-boost *(2.7k ⭐)*
 - 🔄 🔶 **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** 🔧 R:🔴 M:🟢 — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. by ashishpatel26 *(33.5k ⭐)*
+- 🧠 🔶 **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** 🤖🧠 R:🟡 M:🟢 — Project Manager Extension for Visual Studio Code by alefragnani *(2.6k ⭐)*
 - 🔌 🔷 **[Claude-code](https://github.com/fazxes/Claude-code)** 🤖 R:🔴 M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source. by fazxes *(221 ⭐)*
 
 ---
