@@ -457,6 +457,7 @@
 - 🔄 🔶 **[firecrawl-mcp-server](https://github.com/firecrawl/firecrawl-mcp-server)** 🔧 R:🔴 M:🟢 — 🔥 Official Firecrawl MCP Server - Adds powerful web scraping and search to Cursor, Claude and any other LLM clients. by firecrawl *(6.8k ⭐)*
 - 🔌 🔶 **[korean-law-mcp](https://github.com/chrisryugj/korean-law-mcp)** 🤖 R:🔴 M:🟢 — 법제처 국가법령정보 MCP — 법령·판례·조례 조회부터 인용 환각 검증까지 · Korean law MCP for LLMs by chrisryugj *(2.1k ⭐)*
 - 📄 🔶 **[regipy](https://github.com/mkorman90/regipy)** 🤖 R:🟢 M:🟢 — Regipy is an os independent python library for parsing offline registry hives by mkorman90 *(276 ⭐)*
+- 🧠 🔶 **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** 🤖🧠 R:🟡 M:🟢 — Project Manager Extension for Visual Studio Code by alefragnani *(2.6k ⭐)*
 - ⌨️ 🔷 **[claude-code-hooks-mastery](https://github.com/disler/claude-code-hooks-mastery)** 🤖 R:🟢 M:🟠 — Master Claude Code Hooks by disler *(3.8k ⭐)*
 - 📚 🔷 **[meitarbe/cognetivy](https://github.com/meitarbe/cognetivy)**  R:🟢 M:🟢 — The open-source state layer for AI coding agents. Turn chaotic agent sessions into structured, traceable workflows with a local workspace for runs, events, and collections. by meitarbe *(690 ⭐)*
 - 🔌 🔶 **[walkerOS](https://github.com/elbwalker/walkerOS)** 🤖 R:🟢 M:🟢 — Open-source tag manager for developers by elbwalker *(340 ⭐)*
@@ -1101,7 +1102,6 @@
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
 - 🧠 🔷 **[awesome-harness-engineering](https://github.com/ai-boost/awesome-harness-engineering)** 🤖🧠 R:🔴 M:🟢 — Awesome list for AI agent harness engineering: tools, patterns, evals, memory, MCP, permissions, observability, and orchestration. by ai-boost *(2.7k ⭐)*
 - 🔄 🔶 **[500-AI-Agents-Projects](https://github.com/ashishpatel26/500-AI-Agents-Projects)** 🔧 R:🔴 M:🟢 — The 500 AI Agents Projects is a curated collection of AI agent use cases across various industries. It showcases practical applications and provides links to open-source projects for implementation, illustrating how AI agents are transforming sectors such as healthcare, finance, education, retail, and more. by ashishpatel26 *(33.5k ⭐)*
-- 🧠 🔶 **[vscode-project-manager](https://github.com/alefragnani/vscode-project-manager)** 🤖🧠 R:🟡 M:🟢 — Project Manager Extension for Visual Studio Code by alefragnani *(2.6k ⭐)*
 - 🔌 🔷 **[Claude-code](https://github.com/fazxes/Claude-code)** 🤖 R:🔴 M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster through natural language commands. Rebuilt from leaked source. by fazxes *(221 ⭐)*
 
 ---
