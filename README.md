@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1010-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1011-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-162-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-163-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1010 skills** across 10 skill types · **162** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.6M ⭐. Platforms: 🤖 claude code: 918 | 🧠 codex: 255 | 🔧 generic: 68 | 🖱️ cursor: 63 | 📟 cline: 8 | 🏄 windsurf: 6
+**1011 skills** across 10 skill types · **163** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.6M ⭐. Platforms: 🤖 claude code: 919 | 🧠 codex: 256 | 🔧 generic: 68 | 🖱️ cursor: 63 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -67,11 +67,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[comfyui-mcp](https://github.com/artokun/comfyui-mcp)** 🤖🧠 R:🔴 M:🟢 — The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud. by artokun *(340 ⭐)* — discovered Jul 10
 - 🧠 🔷 **[mcp-go](https://github.com/mark3labs/mcp-go)** 🧠 R:🔴 M:🟢 — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. by mark3labs *(8.9k ⭐)* — discovered Jul 9
 - 🔄 🔷 **[dspy](https://github.com/stanfordnlp/dspy)** 🔧 R:🟡 M:🟢 — DSPy: The framework for programming—not prompting—language models by stanfordnlp *(36k ⭐)* — discovered Jul 9
 - 🔄 🔷 **[Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** 🤖 R:🔴 M:🟢 — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. by BigBodyCobain *(9.7k ⭐)* — discovered Jul 9
 - 🔗 🔷 **[inspector](https://github.com/modelcontextprotocol/inspector)** 🤖🧠 R:🔴 M:🟢 — Visual testing tool for MCP servers by modelcontextprotocol *(10.3k ⭐)* — discovered Jul 9
-- 🧠 🔷 **[traycer](https://github.com/traycerai/traycer)** 🤖🧠 R:🟡 M:🟢 — Traycer: Nerve Center for Agentic Coding by traycerai *(409 ⭐)* — discovered Jul 9
 
 ---
 
@@ -1103,6 +1103,7 @@
 - 🔗 🔷 **[happy](https://github.com/slopus/happy)** 🤖🖱️🧠 R:🟡 M:🟢 — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured by slopus *(22k ⭐)*
 - 🧠 🔷 **[hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)** 🤖🧠 R:🔴 M:🟢 — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics by EKKOLearnAI *(8.5k ⭐)*
 - 🔗 🔷 **[lightdash](https://github.com/lightdash/lightdash)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic BI. Analytics at the speed of code ⚡️ by lightdash *(5.9k ⭐)*
+- 🧠 🔷 **[traycer](https://github.com/traycerai/traycer)** 🤖🧠 R:🟡 M:🟢 — Traycer: Nerve Center for Agentic Coding by traycerai *(409 ⭐)*
 - 📝 🔷 **[Agent](https://github.com/macOS26/Agent)** 🔧 R:🔴 M:🟢 — Mac Agent for macOS 26: the agentic AI harness for your Mac Desktop. Computer use, automation, scripting, coding, and more. Powered by 18+ providers across local and cloud LLMs. by macOS26 *(517 ⭐)*
 - 🔌 🔷 **[lobe-chat-pro](https://github.com/vual/lobe-chat-pro)** 🤖🖱️🧠 R:🔴 M:🟢 — 基于lobe-chat，增加了无限画布功能，支持doubao、google、openai、kling、midjourney等画图和视频模型，还有额外的独立的绘图、音乐、视频等创作面板，支持用户注册登录，充值消费，模型及价格管理，聊天、绘图、音乐、视频创作记录管理，通知公告等 by vual *(288 ⭐)*
 - 🔗 🔷 **[codex](https://github.com/Haleclipse/codex)** 🤖🧠 R:🔴 M:🟢 — Lightweight coding agent that runs in your terminal by Haleclipse *(473 ⭐)*
