@@ -986,7 +986,7 @@
 - 📚 🔶 **[webfuse-com/awesome-claude](https://github.com/webfuse-com/awesome-claude)**  R:🟢 M:🟢 — A curated list of awesome things related to Anthropic Claude by webfuse-com *(1.5k ⭐)*
 - 📚 🔶 **[ai-boost/awesome-a2a](https://github.com/ai-boost/awesome-a2a)**  R:🟢 M:🟢 — Agent2Agent (A2A) – awesome A2A agents, tools, servers & clients, all in one place. by ai-boost *(620 ⭐)*
 - 📄 🔶 **[openapi-diff](https://github.com/OpenAPITools/openapi-diff)** 🧠 R:🟢 M:🟢 — Utility for comparing two OpenAPI specifications. by OpenAPITools *(1.1k ⭐)*
-- 📚 🔶 **[chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)**  R:🟢 M:🟢 — 🔥 A collection of the newest Claude Code open source by chauncygu *(2.6k ⭐)*
+- 📚 🔶 **[chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)**  R:🟢 M:🟠 — 🔥 A collection of the newest Claude Code open source by chauncygu *(2.6k ⭐)*
 - 📚 🔶 **[LangGPT/awesome-claude-code](https://github.com/LangGPT/awesome-claude-code)**  R:🟢 M:🟢 — Awesome Claude Code Resources, Projects、Prompts、Agents、Commands，everything about claude code! Claude Code 精选资源列表 （by 云中江树） by LangGPT *(252 ⭐)*
 - 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**  R:🟢 M:🟠 — Tutorials, Guides and Agent Skills Directories by heilcheng *(5.6k ⭐)*
 - 📚 🔶 **[dontriskit/awesome-ai-system-prompts](https://github.com/dontriskit/awesome-ai-system-prompts)**  R:🟢 M:🟠 — 🧠 Curated collection of system prompts for top AI tools. Perfect for AI agent builders and prompt engineers. Incuding: ChatGPT, Claude, Perplexity, Manus, Claude-Code, Loveable, v0, Grok, same new, windsurf, notion, and MetaAI.  by dontriskit *(6k ⭐)*
