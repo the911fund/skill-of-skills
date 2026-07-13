@@ -5,6 +5,93 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.8.0] - 2026-07-12
+
+### Added
+- **MCP server — agent-native access to the directory (owner decision (a),
+  2026-07-12 strategy report).** Streamable-HTTP endpoint at `/api/mcp`
+  (`mcp-handler` over the official SDK, stateless, no auth, read-only). Six tools:
+  `search_skills` (full-text, ranked by the quality-first composite), `get_skill`
+  (full profile incl. risk level + reasons), `compare_tools`, `list_collections`,
+  `get_collection`, `demand_pulse` (public k-anonymous pulse only).
+  - **Endorsement-risk mitigations baked in (C11):** all third-party text is
+    sanitized to inert plain text (HTML/markdown/links/control+bidi chars stripped,
+    length-capped); every result carries `risk_level`; discovery surfaces exclude
+    high/critical-risk tools and sub-40 quality by default; install commands are
+    never served; every response embeds a not-an-endorsement disclaimer; per-IP
+    rate limit + `MCP_DISABLED=1` kill switch.
+  - **MCP demand telemetry:** tool calls log to `interaction_events`
+    (`surface='mcp'`, `is_bot=true`, salted daily-rotating session hash — no raw
+    IP), so agent-side demand becomes part of the interaction dataset.
+- **Registry-compatible sub-registry** at `GET /api/v0.1/servers` — the
+  directory's `mcp_server` subset served in the official MCP Registry's frozen
+  v0.1 list shape, with quality metadata under `_meta["io.911fund.skills/quality"]`
+  (honest `version: "0.0.0"` sentinel; upstream versions are not tracked).
+- llms.txt + repo README now advertise the MCP endpoint
+  (`claude mcp add --transport http skill-of-skills https://skills.911fund.io/api/mcp`).
+- **Web UI:** an "Agent-native — Connect over MCP" section on the home page (copy-able
+  connect command + the six tools at a glance) and a persistent "MCP & llms.txt" footer
+  link, so human visitors discover the endpoint too.
+
+## [3.7.0] - 2026-06-18
+
+### Added
+- **Private interaction dataset — the demand-side moat (Phase 1).** Privacy-first,
+  first-party behavioral telemetry that captures what users actually *do*, not just what
+  the catalog contains. The single most important defensibility asset.
+  - New `interaction_events` table (migration `009`) + `POST /api/v1/events` ingest
+    endpoint. Captures passive signals: searches performed (with result counts →
+    surfaces *demand gaps*), result clicks (surface + position), profile views & scroll
+    depth, install & export actions, save/watchlist events, and per-navigation
+    page-views for return-visit cohorts. Phase-2 event types (vendor claim,
+    broken-install report, AI-client compatibility outcome) are reserved in the schema
+    so no migration is needed later.
+  - **Public "Demand pulse"** section on `/analytics` — curated, k-anonymous social proof
+    (trending searches shown only at ≥5 distinct sessions, most-saved, most-installed,
+    a live interactions counter). Never exposes gap-searches, CTR, funnels, or cohorts.
+  - **Private admin dashboard** at `/analytics/private` (gated by `ANALYTICS_ADMIN_TOKEN`,
+    timing-safe, fail-closed, `notFound()` on miss) — the full moat: search→click CTR,
+    zero/low-result demand gaps, profile-depth distribution, install/save rates per tool,
+    return-visit cohorts by tool/platform/task, the view→install→save funnel, platform
+    breakdown, and a derived "Profile completeness" card. (The Phase-2 "reserved capture"
+    placeholder for the unbuilt vendor-claim/broken-install/compat signals is withheld from
+    the UI until those features ship; the query layer is kept.)
+  - Client tracking via `navigator.sendBeacon` with a `getSessionId()` reusing the
+    existing anonymous localStorage id; result clicks/exports captured by one delegated
+    listener (`data-sos-*` attrs) so pages stay server-rendered.
+
+### Privacy
+- Anonymous-only (no PII). Raw IP is never stored; the user-agent is salted-hashed
+  (`EVENT_SALT`, non-reversible) for bot/return-visit dedup only. Do-Not-Track and Global
+  Privacy Control are honored (events suppressed → `204`). Bot traffic is flagged and
+  excluded from all analytics. First-party Postgres only — no third-party analytics, no
+  consent banner required under this posture.
+
+### Notes
+- Phase 2 (separate pass) builds the submission surfaces: vendor profile-claim flow
+  (needs a verification decision — ties into the deferred Verified-tier/author-claim loop),
+  broken-install reports, and AI-client compatibility outcomes.
+
+## [3.6.0] - 2026-06-12
+
+### Changed
+- **Full front-end redesign ("Neon Command Deck")** grounded in 2026 design trends —
+  retrofuturist neon-gradient palette over the existing Stitch tokens, Space Grotesk
+  display type, kinetic gradient hero ("Find AI skills that actually ship."), aurora +
+  blueprint-grid backdrop with floating particles, glass pill navigation with active
+  states and scroll elevation, live animated stat counters, an infinite "Fresh in the
+  index" ticker, staggered scroll-reveal sections, cursor-tracking spotlight cards with
+  3D tilt and iridescent borders, podium rank chips (gold/silver/bronze) on /trending,
+  and a numbered pipeline explainer. All motion is pure CSS keyframes + three tiny
+  client components (no animation deps) and fully respects `prefers-reduced-motion`.
+- Reveal system is progressive-enhancement-safe: content is visible by default, hidden
+  only after a JS bootstrap signals readiness, with a 1.8s failsafe that reveals
+  everything if hydration never lands.
+
+### Added
+- **Hidden easter egg** — a certain classic key sequence (hinted in the footer)
+  toggles TURBO MODE: skill-emoji rain plus a site-wide neon hue shift.
+
 ## [3.5.0] - 2026-06-11
 
 ### Changed
