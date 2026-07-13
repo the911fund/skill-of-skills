@@ -658,7 +658,7 @@
 - 📄 🔷 **[mcp-gsc](https://github.com/AminForou/mcp-gsc)** 🤖 R:🟡 M:🟢 — Google Search Console Insights with Claude AI for SEOs by AminForou *(1k ⭐)*
 - 📚 🔷 **[chrisryugj/kordoc](https://github.com/chrisryugj/kordoc)**  R:🟢 M:🟢 — 모두 파싱해버리겠다 — HWP3·HWP·HWPX·HWPML·PDF·XLS·XLSX·DOCX → Markdown. 신구대조·양식 자동 채우기·MCP 통합 (CLI + MCP Server) | Parse Korean documents (HWP3-5, HWPX, HWPML, PDF, Office) to Markdown — CLI + MCP Server with form-filler & diff by chrisryugj *(1.1k ⭐)*
 - 🔄 🔷 **[AcademicAgent](https://github.com/Jennyee1/AcademicAgent)** 🤖 R:🔴 M:🟢 — ScholarMind - 面向大模型Agent领域的多模态学术 Agent | Multimodal Academic Research Agent with Knowledge Graph & Learning Path Planning by Jennyee1 *(340 ⭐)*
-- 📚 🔷 **[mnemox-ai/idea-reality-mcp](https://github.com/mnemox-ai/idea-reality-mcp)**  R:🟢 M:🟢 — Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars. by mnemox-ai *(721 ⭐)*
+- 📚 🔷 **[mnemox-ai/idea-reality-mcp](https://github.com/mnemox-ai/idea-reality-mcp)**  R:🟢 M:🟠 — Pre-build reality check for AI coding agents. Scans GitHub, HN, npm, PyPI, Product Hunt. MCP server. 290+ stars. by mnemox-ai *(721 ⭐)*
 - 📄 🔶 **[last30days-skill-cn](https://github.com/Jesseovo/last30days-skill-cn)** 🤖 R:🟡 M:🟢 — last30days-cn 是一个 AI Agent 技能（Skill），能够自动搜索中国互联网 8 大主流平台最近 30 天的内容，综合分析后生成有据可查的研究报告。 by Jesseovo *(725 ⭐)*
 - 🔄 🔶 **[google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)** 🔧 R:🔴 M:🟢 — No description by googleanalytics *(2.6k ⭐)*
 - 📄 🔶 **[Github-Ranking-AI](https://github.com/yuxiaopeng/Github-Ranking-AI)** 🤖🧠 R:🟢 M:🟢 — A list of the most popular AI Topic repositories on GitHub based on the number of stars they have received.| AI相关主题Github仓库排名，每日自动更新。 by yuxiaopeng *(435 ⭐)*
