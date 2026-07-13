@@ -32,6 +32,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - **Web UI:** an "Agent-native — Connect over MCP" section on the home page (copy-able
   connect command + the six tools at a glance) and a persistent "MCP & llms.txt" footer
   link, so human visitors discover the endpoint too.
+- **Published to the official MCP Registry** as `io.911fund.skills/directory` (remote
+  streamable-http). Namespace claimed via HTTP domain proof (`/.well-known/mcp-registry-auth`
+  on skills.911fund.io), so any MCP client or downstream aggregator (PulseMCP, Glama, mcp.so,
+  …) that ingests the registry now surfaces the directory.
 
 ## [3.7.0] - 2026-06-18
 
