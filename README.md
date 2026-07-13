@@ -9,7 +9,7 @@
 
 **1049 skills** across 10 skill types · **176** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.9M ⭐. Platforms: 🤖 claude code: 948 | 🧠 codex: 274 | 🔧 generic: 77 | 🖱️ cursor: 65 | 📟 cline: 8 | 🏄 windsurf: 6
 
-🌐 **[Browse the Directory](https://skills.911fund.io)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
+🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
 🤖 **Agent-native:** connect via MCP — `claude mcp add --transport http skill-of-skills https://skills.911fund.io/api/mcp` (quality-ranked search, profiles, risk assessments, demand pulse; scores are evidence, not endorsements). Docs: [llms.txt](https://skills.911fund.io/llms.txt)
 
