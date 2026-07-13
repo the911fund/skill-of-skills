@@ -5,6 +5,33 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.0] - 2026-07-13
+
+### Added
+- **GEO/AEO answer guides — the demand-generation layer (distribution move #2).**
+  Programmatic buyer-intent "best skills for X" pages tuned for answer engines
+  (ChatGPT, Perplexity, Google AI) and search, at `/guides` + `/guides/[slug]`.
+  - Each guide answers one high-intent query with a **citable answer block**, a
+    quality-first **ranked evidence table** (tier / score / risk / platforms) drawn
+    from live data, a hand-written **FAQ**, and a monthly freshness stamp.
+  - **JSON-LD structured data** (the first on the site): FAQPage + ItemList +
+    BreadcrumbList + CollectionPage, so answer engines parse the answer, ranking and
+    FAQ as facts rather than scraping prose (`lib/structured-data.ts`).
+  - **Agent-readable variants** at `/api/v1/guides` (index) and
+    `/api/v1/guides/[slug]` (answer + ranked skills + risk levels + FAQ as JSON).
+  - **12 launch guides**, config-driven (`lib/guides.ts`, trivially extensible):
+    5 platform bests (Claude Code, Cursor, Codex, Windsurf, Cline), 4 net-new
+    capabilities collections don't cover (documentation, git/PR, API integration,
+    refactoring), and 3 **demand-capture gap pages** seeded from real zero-result
+    searches (Excel, Android, TradingView) that render an honest "open gap" + submit
+    CTA instead of an empty list.
+  - Wired into the sitemap, llms.txt, and footer nav; cross-links to the matching
+    collection hub where one exists.
+  - Rationale: Phase-2's demand-data product is data-starved (0 k-anonymous search
+    rows, 141 human sessions) — the binding constraint is traffic, not code. Guides
+    are the unblocked, no-outbound-needed channel that generates the qualified demand
+    Phase 2 needs, seeded by the exact gap data the telemetry surfaced.
+
 ## [3.8.0] - 2026-07-12
 
 ### Added
