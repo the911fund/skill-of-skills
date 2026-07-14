@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1054-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1055-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-178-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1054 skills** across 10 skill types · **178** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.9M ⭐. Platforms: 🤖 claude code: 953 | 🧠 codex: 277 | 🔧 generic: 77 | 🖱️ cursor: 65 | 📟 cline: 8 | 🏄 windsurf: 6
+**1055 skills** across 10 skill types · **178** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.9M ⭐. Platforms: 🤖 claude code: 954 | 🧠 codex: 277 | 🔧 generic: 77 | 🖱️ cursor: 66 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🖱️ 🔷 **[rejourney](https://github.com/rejourneyco/rejourney)** 🤖🖱️ R:🟡 M:🟢 — Rejourney is a open source, self-hostable/hosted observability tool for web and mobile apps. Focus on lightweight and performance. by rejourneyco *(228 ⭐)* — discovered Jul 14
 - 🧠 🔷 **[trainer](https://github.com/kubeflow/trainer)** 🤖🧠 R:🟡 M:🟢 — Distributed AI Model Training and LLM Fine-Tuning on Kubernetes by kubeflow *(2.1k ⭐)* — discovered Jul 14
 - 🔄 🔷 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** 🤖 R:🟡 M:🟢 — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills by kangarooking *(2.8k ⭐)* — discovered Jul 14
 - 📝 ⭐ **[remote-agentic-coding-system](https://github.com/coleam00/remote-agentic-coding-system)** 🤖 R:🔴 M:🟠 — Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc. by coleam00 *(346 ⭐)* — discovered Jul 13
 - 🔌 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(266 ⭐)* — discovered Jul 13
-- 🧠 ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🔴 M:🟢 — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(934 ⭐)* — discovered Jul 13
 
 ---
 
@@ -162,6 +162,7 @@
 - 🔌 🔷 **[engram](https://github.com/Gentleman-Programming/engram)**  R:🟡 M:🟢 — Persistent memory system for AI coding agents. Agent-agnostic Go binary with SQLite + FTS5, MCP server, HTTP API, CLI, and TUI. by Gentleman-Programming *(4.4k ⭐)*
 - 📄 ⭐ **[elsa-core](https://github.com/elsa-workflows/elsa-core)** 🤖🧠 R:🔴 M:🟢 — The Workflow Engine for .NET by elsa-workflows *(7.8k ⭐)*
 - 🔗 ⭐ **[mcp-server-azure-devops](https://github.com/Tiberriver256/mcp-server-azure-devops)** 🤖🧠📟 R:🔴 M:🟢 — An MCP server for Azure DevOps by Tiberriver256 *(374 ⭐)*
+- 🧠 ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🔴 M:🟢 — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(934 ⭐)*
 - 📚 🔷 **[Fabric](https://github.com/danielmiessler/Fabric)**  R:🟢 M:🟢 — Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. by danielmiessler *(42.4k ⭐)*
 - 📚 🔷 **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)**  R:🟢 M:🟢 — OpenShell is the safe, private runtime for autonomous AI agents. by NVIDIA *(7.1k ⭐)*
 - 📚 🔷 **[onyx](https://github.com/onyx-dot-app/onyx)**  R:🟡 M:🟢 — Open Source AI Platform - AI Chat with advanced features that works with every LLM by onyx-dot-app *(30.4k ⭐)*
