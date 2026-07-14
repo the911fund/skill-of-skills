@@ -5,6 +5,27 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.1] - 2026-07-14
+
+### Added
+- **Structured data on tool profile pages** (`SoftwareApplication` + `BreadcrumbList`
+  JSON-LD). Tool pages are the surface answer engines already cite most (the organic
+  ChatGPT referrals land on `/tools/*` deep links), yet they carried no structured data.
+  Quality tier/score and risk ride as `additionalProperty`; an `aggregateRating` is emitted
+  only when real user ratings exist (never faked from the internal score). `lib/structured-data.ts`.
+- **Internal linking into the guides** — a "Related guides" section on each tool page
+  (`guidesForTool()` matches by keyword / tool type / platform, capability matches ranked
+  first, and renders nothing when there's no genuine match) and an "Answer guides" strip on
+  the home page. Funnels visitors from the pages answer engines cite into the answer pages.
+- Canonical URL added to tool-page metadata.
+
+### Changed
+- Sitemap `lastmod` for the data-driven listing/index pages now uses the most recent tool
+  update (a truthful "directory last changed" signal) instead of the request time.
+
+### Removed
+- Dead `Navigation.tsx` component (the live nav is `Header.tsx`).
+
 ## [3.9.0] - 2026-07-13
 
 ### Added
