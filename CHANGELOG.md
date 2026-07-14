@@ -5,6 +5,21 @@ All notable changes to Skill of Skills will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [3.9.2] - 2026-07-14
+
+### Changed
+- **Query-level caching to cut DB load on crawled pages.** The most-crawled surfaces
+  (tool profiles, guides) now cache their DB queries for an hour via `unstable_cache`, so
+  repeated hits (answer-engine crawlers, humans) skip the database. Wrapped: `getToolBySlug`,
+  `getGuideResult`/`getGuideSummaries`, `getStats`, `getCategories`. Rankings change on the
+  daily refresh, so ≤1h staleness is well within tolerance.
+  - Note: page-level ISR (`export const revalidate`) was evaluated and does **not** work in
+    this deployment — a dynamic `[slug]` route needs `generateStaticParams` to engage the
+    route cache, which prerenders at build time, but the docker image build has no database.
+    Query-level caching achieves the same DB-load reduction while the pages stay dynamically
+    rendered (no build-time DB needed). Cached values serialize dates to strings, which is
+    safe here because `formatDate` and `getMaintenanceStatus` both accept `Date | string`.
+
 ## [3.9.1] - 2026-07-14
 
 ### Added
