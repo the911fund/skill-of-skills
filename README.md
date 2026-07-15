@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1055-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1058-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-178-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-181-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1055 skills** across 10 skill types · **178** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 12.9M ⭐. Platforms: 🤖 claude code: 954 | 🧠 codex: 277 | 🔧 generic: 77 | 🖱️ cursor: 66 | 📟 cline: 8 | 🏄 windsurf: 6
+**1058 skills** across 10 skill types · **181** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13M ⭐. Platforms: 🤖 claude code: 957 | 🧠 codex: 280 | 🔧 generic: 77 | 🖱️ cursor: 67 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)** 🤖🖱️🧠 R:🔴 M:🟢 — Agentic RL Training at Scale by PrimeIntellect-ai *(1.7k ⭐)* — discovered Jul 15
+- 🧠 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** 🤖🧠 R:🔴 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(45.6k ⭐)* — discovered Jul 15
+- 🧠 ⭐ **[boop-agent](https://github.com/raroque/boop-agent)** 🤖🧠 R:🔴 M:🟢 — iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. by raroque *(1k ⭐)* — discovered Jul 15
 - 🖱️ 🔷 **[rejourney](https://github.com/rejourneyco/rejourney)** 🤖🖱️ R:🟡 M:🟢 — Rejourney is a open source, self-hostable/hosted observability tool for web and mobile apps. Focus on lightweight and performance. by rejourneyco *(228 ⭐)* — discovered Jul 14
 - 🧠 🔷 **[trainer](https://github.com/kubeflow/trainer)** 🤖🧠 R:🟡 M:🟢 — Distributed AI Model Training and LLM Fine-Tuning on Kubernetes by kubeflow *(2.1k ⭐)* — discovered Jul 14
-- 🔄 🔷 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** 🤖 R:🟡 M:🟢 — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills by kangarooking *(2.8k ⭐)* — discovered Jul 14
-- 📝 ⭐ **[remote-agentic-coding-system](https://github.com/coleam00/remote-agentic-coding-system)** 🤖 R:🔴 M:🟠 — Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc. by coleam00 *(346 ⭐)* — discovered Jul 13
-- 🔌 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(266 ⭐)* — discovered Jul 13
 
 ---
 
@@ -335,6 +335,7 @@
 - 📄 🔷 **[NewsBlur](https://github.com/samuelclay/NewsBlur)** 🤖🧠 R:🔴 M:🟢 — NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. by samuelclay *(7.5k ⭐)*
 - 📄 🔷 **[google/langextract](https://github.com/google/langextract)** 🤖 R:🟢 M:🟢 — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. by google *(36.9k ⭐)*
 - 📚 🔶 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)**  R:⚫ M:🟢 — MCP Server for Computer Use in Windows by CursorTouch *(6.1k ⭐)*
+- 🔌 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(266 ⭐)*
 - 📄 🔷 **[codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim)** 🤖🧠 R:🟡 M:🟢 — ✨ AI Coding, Vim Style by olimorris *(6.7k ⭐)*
 - ⌨️ 🔷 **[dexto](https://github.com/truffle-ai/dexto)**  R:🔴 M:🟢 — A coding agent and general agent harness for building and orchestrating agentic applications. by truffle-ai *(633 ⭐)*
 - 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:🟢 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  by Leonxlnx *(45.7k ⭐)*
@@ -722,6 +723,7 @@
 - 🔗 🔷 **[Dorothy](https://github.com/Charlie85270/Dorothy)** 🤖🖱️🧠 R:🔴 M:🟢 — Dorothy, the wife your AI agents needs. by Charlie85270 *(320 ⭐)*
 - 🔄 🔷 **[hello-halo](https://github.com/openkursar/hello-halo)** 🤖 R:🔴 M:🟢 — 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. by openkursar *(1.6k ⭐)*
 - 📄 🔷 **[kimaki](https://github.com/remorses/kimaki)** 🤖🧠 R:🔴 M:🟢 — all opencode features deeply integrated inside Discord. each project is a channel. each session a thread by remorses *(1.2k ⭐)*
+- 📝 ⭐ **[remote-agentic-coding-system](https://github.com/coleam00/remote-agentic-coding-system)** 🤖 R:🔴 M:🟠 — Remote Coding Agent for the Dynamous Agentic Coding Course and special Black Friday livestream. Connect Claude Code or Codex to Slack, Telegram, GitHub, etc. by coleam00 *(346 ⭐)*
 - 📄 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration. by kingbootoshi *(314 ⭐)*
 - 📄 🔶 **[sansan0/TrendRadar](https://github.com/sansan0/TrendRadar)** 🔧 R:🟡 M:🟢 — ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS, and smart alerts.🎯 告别信息过载，你的 AI 舆情监控助手与热点筛选工具！聚合多平台热点 +  RSS 订阅，支持关键词精准筛选。AI 智能筛选新闻 + AI 翻译 +  AI 分析简报直推手机，也支持接入 MCP 架构，赋能 AI 自然语言对话分析、情感洞察与趋势预测等。支持 Docker ，数据本地/云端自持。集成微信/飞书/钉钉/Telegram/邮件/ntfy/bark/slack 等渠道智能推送。 by sansan0 *(59.6k ⭐)*
 - 📚 🔷 **[ai-berkshire](https://github.com/xbtlin/ai-berkshire)** 🤖 R:🟡 M:🟢 — AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework   built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis. by xbtlin *(1.5k ⭐)*
@@ -851,6 +853,7 @@
 - 📚 🔷 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)**  R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(27.8k ⭐)*
 - 📄 🔷 **[pilot-shell](https://github.com/maxritter/pilot-shell)** 🤖 R:🔴 M:🟢 — How real engineers run Claude Code and Codex: spec-driven planning, enforced TDD, persistent memory, and quality enforcement on all levels. Make your agents production-ready. by maxritter *(1.8k ⭐)*
 - 📄 🔷 **[AutoMaker-Org/automaker](https://github.com/AutoMaker-Org/automaker)** 🤖 R:🔴 M:🟢 — No description by AutoMaker-Org *(3.2k ⭐)*
+- 🔄 🔷 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** 🤖 R:🟡 M:🟢 — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills by kangarooking *(2.8k ⭐)*
 - 📚 ⭐ **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)**  R:🟢 M:🟢 — Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install. by sangrokjung *(749 ⭐)*
 - 📄 ⭐ **[agentic-flow](https://github.com/ruvnet/agentic-flow)** 🤖🧠 R:⚫ M:🟢 — Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud. by ruvnet *(749 ⭐)*
 - 🔌 🔷 **[webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)** 🤖 R:🔴 M:🟢 — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 by lingfengQAQ *(5.6k ⭐)*
