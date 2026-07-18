@@ -695,6 +695,7 @@
 - ⌨️ ⭐ **[openwork](https://github.com/different-ai/openwork)**  R:🔴 M:🟢 — An open-source alternative to Claude Cowork built for teams, powered by opencode by different-ai *(16.1k ⭐)*
 - 📄 ⭐ **[claude-mem](https://github.com/thedotmack/claude-mem)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that automatically captures everything Claude does during your coding sessions, compresses it with AI (using Claude's agent-sdk), and injects relevant context back into future sessions. by thedotmack *(82.9k ⭐)*
 - 🧠 ⭐ **[gastown](https://github.com/gastownhall/gastown)** 🤖🖱️🧠 R:🟡 M:🟢 — Gas Town - multi-agent workspace manager by gastownhall *(16.2k ⭐)*
+- 🔌 🔷 **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** 🤖🧠 R:🟡 M:🟢 — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork by anthropics *(22.8k ⭐)*
 - ⌨️ ⭐ **[oh-my-codex](https://github.com/Yeachan-Heo/oh-my-codex)**  R:🔴 M:🟢 — OmX - Oh My codeX: Your codex is not alone. Add hooks, agent teams, HUDs, and so much more. by Yeachan-Heo *(31k ⭐)*
 - 📚 ⭐ **[builderz-labs/mission-control](https://github.com/builderz-labs/mission-control)**  R:🟢 M:🟢 — Self-hosted AI agent orchestration platform: dispatch tasks, run multi-agent workflows, monitor spend, and govern operations from one mission control dashboard. by builderz-labs *(5.3k ⭐)*
 - 📚 🔷 **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**  R:🟢 M:🟢 — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. by Panniantong *(32.7k ⭐)*
@@ -1154,7 +1155,6 @@
 
 ## 📦 Uncategorized
 
-- 🔌 🔷 **[knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins)** 🤖🧠 R:🟡 M:🟢 — Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork by anthropics *(22.8k ⭐)*
 - 🧠 ⭐ **[craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss)** 🤖🧠 R:🔴 M:🟢 — No description by craft-ai-agents *(6.4k ⭐)*
 - 🔌 ⭐ **[agents](https://github.com/wshobson/agents)** 🤖🖱️🧠 R:🟡 M:🟢 — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI by wshobson *(37.1k ⭐)*
 - 📄 🔷 **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** 🤖🧠 R:⚫ M:🟢 — A lightweight coding agent for open models like Deepseek, Kimi, and Qwen by openinterpreter *(64k ⭐)*
