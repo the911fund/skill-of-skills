@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1070-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1075-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-186-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-188-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1070 skills** across 10 skill types · **186** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13M ⭐. Platforms: 🤖 claude code: 969 | 🧠 codex: 287 | 🔧 generic: 77 | 🖱️ cursor: 69 | 📟 cline: 8 | 🏄 windsurf: 6
+**1075 skills** across 10 skill types · **188** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.1M ⭐. Platforms: 🤖 claude code: 974 | 🧠 codex: 291 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
-- 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)* — discovered Jul 18
-- 🖱️ ⭐ **[superplane](https://github.com/superplanehq/superplane)** 🤖🖱️🧠 R:🟡 M:🟢 — The open source control plane for agentic engineering. by superplanehq *(4k ⭐)* — discovered Jul 17
-- 🧠 🔷 **[substrate](https://github.com/agent-substrate/substrate)** 🤖🧠 R:🔴 M:🟢 — Agent Substrate: the core system by agent-substrate *(776 ⭐)* — discovered Jul 17
-- 🔄 🔷 **[skills](https://github.com/android/skills)** 🤖 R:🟡 M:🟢 — No description by android *(6.2k ⭐)* — discovered Jul 17
-- 🖱️ 🔷 **[sourcebot](https://github.com/sourcebot-dev/sourcebot)** 🤖🖱️🧠 R:🟡 M:🟢 — Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. by sourcebot-dev *(3.6k ⭐)* — discovered Jul 17
+- 🔄 🔷 **[forall](https://github.com/astrio-labs/forall)** 🤖 R:🔴 M:🟢 — Forall (∀) is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. by astrio-labs *(280 ⭐)* — discovered Jul 18
+- 🔌 ⭐ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. by agentscope-ai *(23.3k ⭐)* — discovered Jul 18
+- 🔌 🔷 **[nimbalyst](https://github.com/nimbalyst/nimbalyst)** 🤖🧠 R:🟡 M:🟢 — Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android. by nimbalyst *(1.3k ⭐)* — discovered Jul 18
+- 🖱️ 🔷 **[signoz](https://github.com/SigNoz/signoz)** 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(30.6k ⭐)* — discovered Jul 18
+- 🔗 ⭐ **[wigolo](https://github.com/KnockOutEZ/wigolo)** 🤖🧠 R:🔴 M:🟢 — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. by KnockOutEZ *(944 ⭐)* — discovered Jul 18
 
 ---
 
@@ -239,6 +239,7 @@
 - 🔄 🔷 **[whisper](https://github.com/openai/whisper)** 🔧 R:🟡 M:🟠 — Robust Speech Recognition via Large-Scale Weak Supervision by openai *(104.2k ⭐)*
 - 🧠 🔷 **[deepcode-cli](https://github.com/lessweb/deepcode-cli)** 🤖🧠 R:🔴 M:🟢 — Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 by lessweb *(1.7k ⭐)*
 - 📚 🔶 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)**  R:🟢 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(39.2k ⭐)*
+- 🔄 🔷 **[skills](https://github.com/android/skills)** 🤖 R:🟡 M:🟢 — No description by android *(6.2k ⭐)*
 - 📄 🔷 **[vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)** 🤖🧠 R:🟡 M:🟢 — Bash for Agents by vercel-labs *(3.8k ⭐)*
 - 🔄 🔷 **[OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** 🤖 R:🔴 M:🟢 — OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. by iOfficeAI *(9.3k ⭐)*
 - 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)**  R:🟢 M:🟢 — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(28.8k ⭐)*
@@ -645,6 +646,7 @@
 - 📚 🔷 **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**  R:🟢 M:🟢 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 by 666ghj *(66.7k ⭐)*
 - 🔗 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)**  R:🔴 M:🟢 — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
 - 🔄 ⭐ **[datagouv-mcp](https://github.com/datagouv/datagouv-mcp)** 🔧 R:🔴 M:🟢 — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. by datagouv *(1.6k ⭐)*
+- 🖱️ 🔷 **[sourcebot](https://github.com/sourcebot-dev/sourcebot)** 🤖🖱️🧠 R:🟡 M:🟢 — Sourcebot is a self-hosted tool that helps humans and agents understand your codebase. by sourcebot-dev *(3.6k ⭐)*
 - 📚 🔷 **[TradingAgents-astock](https://github.com/simonlin1212/TradingAgents-astock)** 🤖 R:🔴 M:🟢 — A股多Agent投研框架 — 适配A股数据源(龙虎榜/游资/解禁等)，7位分析师基于A股规则的辩论决策，基于TradingAgents深度改造，适配大A。A-share multi-agent investment research framework — 7 AI analysts, bull/bear debate, risk assessment。 by simonlin1212 *(2.1k ⭐)*
 - 📄 🔷 **[LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind)** 🤖🧠 R:🟢 M:🟢 — QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance. by LLMQuant *(1.4k ⭐)*
 - 📄 🔷 **[comet-ml/opik](https://github.com/comet-ml/opik)** 🤖🧠 R:🔴 M:🟢 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. by comet-ml *(19.7k ⭐)*
@@ -1065,6 +1067,7 @@
 - 📚 ⭐ **[open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)**  R:🟢 M:🟢 — A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files. by open-gitagent *(547 ⭐)*
 - 📄 🔶 **[openai/symphony](https://github.com/openai/symphony)** 🤖🧠 R:🔴 M:🟢 — Symphony turns project work into isolated, autonomous implementation runs, allowing teams to manage work instead of supervising coding agents. by openai *(25.4k ⭐)*
 - 🔗 🔷 **[superset](https://github.com/superset-sh/superset)**  R:⚫ M:🟢 — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine by superset-sh *(11.9k ⭐)*
+- 🖱️ ⭐ **[superplane](https://github.com/superplanehq/superplane)** 🤖🖱️🧠 R:🟡 M:🟢 — The open source control plane for agentic engineering. by superplanehq *(4k ⭐)*
 - 🧠 ⭐ **[code](https://github.com/just-every/code)** 🤖🧠 R:🔴 M:🟢 — Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider. by just-every *(3.8k ⭐)*
 - 📄 🔷 **[coleam00/Archon](https://github.com/coleam00/Archon)** 🤖 R:🔴 M:🟢 — The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. by coleam00 *(22.4k ⭐)*
 - 🧠 🔷 **[agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by AgentWrapper *(7.7k ⭐)*
@@ -1091,6 +1094,7 @@
 
 ## 📋 Runbooks
 
+- 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)*
 - 📄 🔷 **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** 🤖 R:🔴 M:🟢 — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code. by shuvonsec *(3.4k ⭐)*
 - 📄 🔷 **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** 🤖🖱️🧠 R:🟡 M:🟢 — Build your own AI SRE agents. The open source toolkit for the AI era. by Tracer-Cloud *(7.1k ⭐)*
 - 📚 🔷 **[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)**  R:🟢 M:🟢 — Giving Kubernetes Superpowers to everyone by k8sgpt-ai *(7.9k ⭐)*
@@ -1119,6 +1123,7 @@
 - 🧠 🔷 **[herdr](https://github.com/ogulcancelik/herdr)** 🤖🧠 R:🟡 M:🟢 — agent multiplexer that lives in your terminal. by ogulcancelik *(8.7k ⭐)*
 - 🧠 🔷 **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** 🤖🧠 R:🟡 M:🟢 — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. by TencentCloud *(6.7k ⭐)*
 - 📄 🔷 **[BenedictKing/ccx](https://github.com/BenedictKing/ccx)** 🤖🧠 R:🟡 M:🟢 — Claude / Codex / Gemini API Proxy - CCX by BenedictKing *(3.6k ⭐)*
+- 🧠 🔷 **[substrate](https://github.com/agent-substrate/substrate)** 🤖🧠 R:🔴 M:🟢 — Agent Substrate: the core system by agent-substrate *(776 ⭐)*
 - 📄 🔷 **[Infisical/agent-vault](https://github.com/Infisical/agent-vault)** 🤖🧠 R:🟡 M:🟢 — A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more. by Infisical *(1.7k ⭐)*
 - 🧠 🔷 **[octo-server](https://github.com/Mininglamp-OSS/octo-server)** 🤖🧠 R:🔴 M:🟢 — 🐙 The Go backend powering OCTO — an open workplace built for humans × AI agents. REST & WebSocket APIs, Lobster (AI agent) orchestration, and WuKongIM real-time messaging control plane. by Mininglamp-OSS *(309 ⭐)*
 - 🧠 🔷 **[schaltwerk](https://github.com/2mawi2/schaltwerk)** 🤖🧠 R:🟡 M:🟢 — The IDE without editor by 2mawi2 *(281 ⭐)*
