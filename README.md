@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1075-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1077-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-188-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1075 skills** across 10 skill types · **188** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.1M ⭐. Platforms: 🤖 claude code: 974 | 🧠 codex: 291 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
+**1077 skills** across 10 skill types · **188** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.1M ⭐. Platforms: 🤖 claude code: 976 | 🧠 codex: 292 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[pi-subagents](https://github.com/nicobailon/pi-subagents)** 🤖 R:🔴 M:🟢 — Pi extension for async subagent delegation with truncation, artifacts, and session sharing by nicobailon *(2.6k ⭐)* — discovered Jul 19
+- 🔌 🔷 **[WrenAI](https://github.com/Canner/WrenAI)** 🤖🧠 R:🟡 M:🟢 — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. by Canner *(16.1k ⭐)* — discovered Jul 19
 - 🔄 🔷 **[forall](https://github.com/astrio-labs/forall)** 🤖 R:🔴 M:🟢 — Forall (∀) is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. by astrio-labs *(280 ⭐)* — discovered Jul 18
 - 🔌 ⭐ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. by agentscope-ai *(23.3k ⭐)* — discovered Jul 18
 - 🔌 🔷 **[nimbalyst](https://github.com/nimbalyst/nimbalyst)** 🤖🧠 R:🟡 M:🟢 — Nimbalyst - The open-source visual workspace for Claude Code, Codex, and OpenCode. Run multiple coding agents in parallel, edit their work visually in markdown, mockups, and diagrams, and track tasks. Free, MIT-licensed desktop app for macOS, Windows, Linux, with mobile companion for iOS and Android. by nimbalyst *(1.3k ⭐)* — discovered Jul 18
-- 🖱️ 🔷 **[signoz](https://github.com/SigNoz/signoz)** 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(30.6k ⭐)* — discovered Jul 18
-- 🔗 ⭐ **[wigolo](https://github.com/KnockOutEZ/wigolo)** 🤖🧠 R:🔴 M:🟢 — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. by KnockOutEZ *(944 ⭐)* — discovered Jul 18
 
 ---
 
@@ -99,6 +99,7 @@
 - 📄 ⭐ **[antigravity-awesome-skills](https://github.com/sickn33/antigravity-awesome-skills)** 🤖🖱️ R:🟢 M:🟢 — The Ultimate Collection of 700+ Agentic Skills for Claude Code/Antigravity/Cursor. Battle-tested, high-performance skills for AI agents including official skills from Anthropic and Vercel. by sickn33 *(41k ⭐)*
 - 📚 ⭐ **[jackwener/opencli](https://github.com/jackwener/opencli)**  R:🟢 M:🟢 — Make Any Website into CLI & Use your logged-in browser by AI agent.  by jackwener *(24.6k ⭐)*
 - 📚 ⭐ **[Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api)**  R:🟢 M:🟢 — Sub2API is an open-source relay platform that unifies Claude, OpenAI, Gemini, and Antigravity subscriptions into a single endpoint. It supports account sharing and cost-sharing, with seamless native tool compatibility. by Wei-Shaw *(28.2k ⭐)*
+- 🔗 ⭐ **[wigolo](https://github.com/KnockOutEZ/wigolo)** 🤖🧠 R:🔴 M:🟢 — The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta. by KnockOutEZ *(944 ⭐)*
 - 📚 ⭐ **[crewAI](https://github.com/crewAIInc/crewAI)**  R:🟢 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(53.8k ⭐)*
 - 🔄 🔷 **[openai-python](https://github.com/openai/openai-python)** 🔧 R:🔴 M:🟢 — The official Python library for the OpenAI API by openai *(31.2k ⭐)*
 - 🔗 ⭐ **[ghidra-mcp](https://github.com/bethington/ghidra-mcp)**  R:🟡 M:🟢 — Ghidra MCP Server — 194 MCP tools for AI-powered reverse engineering. GUI plugin + headless server, lazy tool loading, convention enforcement, batch operations, Ghidra Server integration, and Docker deployment. by bethington *(2.5k ⭐)*
@@ -651,6 +652,7 @@
 - 📄 🔷 **[comet-ml/opik](https://github.com/comet-ml/opik)** 🤖🧠 R:🔴 M:🟢 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. by comet-ml *(19.7k ⭐)*
 - 📚 ⭐ **[ai-observer](https://github.com/tobilg/ai-observer)**  R:🟢 M:🟢 — Unified local observability for AI coding assistants by tobilg *(239 ⭐)*
 - 🔗 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)**  R:🔴 M:🟠 — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
+- 🖱️ 🔷 **[signoz](https://github.com/SigNoz/signoz)** 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(30.6k ⭐)*
 - 📚 ⭐ **[erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)**  R:🟢 M:🟢 — Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS. by erikdarlingdata *(419 ⭐)*
 - 🔄 🔷 **[openobserve](https://github.com/openobserve/openobserve)** 🤖 R:🔴 M:🟢 — Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. by openobserve *(19.3k ⭐)*
 - 📄 🔷 **[TokenTracker](https://github.com/mm7894215/TokenTracker)** 🤖🧠 R:🟡 M:🟢 — Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets. by mm7894215 *(726 ⭐)*
