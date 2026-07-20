@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1078-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1079-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-188-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1078 skills** across 10 skill types · **188** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.1M ⭐. Platforms: 🤖 claude code: 977 | 🧠 codex: 292 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
+**1079 skills** across 10 skill types · **188** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.1M ⭐. Platforms: 🤖 claude code: 978 | 🧠 codex: 293 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[Netcatty](https://github.com/binaricat/Netcatty)** 🤖🧠 R:🔴 M:🟢 — SSH workspace, SFTP, and terminals in one by binaricat *(3.7k ⭐)* — discovered Jul 20
 - 🔗 🔷 **[ai-agent-book](https://github.com/bojieli/ai-agent-book)** 🤖 R:🔴 M:🟢 — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 by bojieli *(5.4k ⭐)* — discovered Jul 20
 - 🔄 🔷 **[pi-subagents](https://github.com/nicobailon/pi-subagents)** 🤖 R:🔴 M:🟢 — Pi extension for async subagent delegation with truncation, artifacts, and session sharing by nicobailon *(2.6k ⭐)* — discovered Jul 19
 - 🔌 🔷 **[WrenAI](https://github.com/Canner/WrenAI)** 🤖🧠 R:🟡 M:🟢 — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. by Canner *(16.1k ⭐)* — discovered Jul 19
 - 🔄 🔷 **[forall](https://github.com/astrio-labs/forall)** 🤖 R:🔴 M:🟢 — Forall (∀) is a coding agent from Astrio that helps developers build correct software by generating spec-driven code alongside machine-checkable proofs. by astrio-labs *(280 ⭐)* — discovered Jul 18
-- 🔌 ⭐ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. by agentscope-ai *(23.3k ⭐)* — discovered Jul 18
 
 ---
 
@@ -1165,6 +1165,7 @@
 
 - 🧠 ⭐ **[craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss)** 🤖🧠 R:🔴 M:🟢 — No description by craft-ai-agents *(6.4k ⭐)*
 - 🔌 ⭐ **[agents](https://github.com/wshobson/agents)** 🤖🖱️🧠 R:🟡 M:🟢 — Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI by wshobson *(37.1k ⭐)*
+- 🔌 ⭐ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. by agentscope-ai *(23.3k ⭐)*
 - 📄 🔷 **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** 🤖🧠 R:⚫ M:🟢 — A lightweight coding agent for open models like Deepseek, Kimi, and Qwen by openinterpreter *(64k ⭐)*
 - 🔗 🔷 **[happy](https://github.com/slopus/happy)** 🤖🖱️🧠 R:🟡 M:🟢 — Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured by slopus *(22k ⭐)*
 - 🧠 🔷 **[hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)** 🤖🧠 R:🔴 M:🟢 — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics by EKKOLearnAI *(8.5k ⭐)*
