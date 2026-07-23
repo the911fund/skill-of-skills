@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1093-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1097-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-193-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-194-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1093 skills** across 10 skill types · **193** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 991 | 🧠 codex: 303 | 🔧 generic: 77 | 🖱️ cursor: 70 | 📟 cline: 8 | 🏄 windsurf: 6
+**1097 skills** across 10 skill types · **194** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 994 | 🧠 codex: 306 | 🔧 generic: 78 | 🖱️ cursor: 71 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[skypilot](https://github.com/skypilot-org/skypilot)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. by skypilot-org *(10.4k ⭐)* — discovered Jul 23
+- 🧠 ⭐ **[serena](https://github.com/oraios/serena)** 🤖🧠 R:🔴 M:🟢 — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent by oraios *(26.8k ⭐)* — discovered Jul 23
+- 📚 🔶 **[awesome-ai-agents](https://github.com/slavakurilyak/awesome-ai-agents)** 🔧 R:🔴 M:🟠 — Awesome list of 300+ agentic AI resources by slavakurilyak *(2k ⭐)* — discovered Jul 23
+- 🔌 🔷 **[ego-lite](https://github.com/citrolabs/ego-lite)** 🤖🧠 R:🟡 M:🟢 — The best browser for both you and your AI agents work in parallel. by citrolabs *(1.3k ⭐)* — discovered Jul 23
 - 🔌 🔷 **[kimi-code](https://github.com/MoonshotAI/kimi-code)** 🤖🧠 R:🔴 M:🟢 — Kimi Code CLI  —  The Starting Point for Next-Gen Agents by MoonshotAI *(4.5k ⭐)* — discovered Jul 22
-- 🔌 ⭐ **[open-code-review](https://github.com/alibaba/open-code-review)** 🤖 R:🔴 M:🟢 — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. by alibaba *(10.9k ⭐)* — discovered Jul 22
-- 🧠 🔷 **[Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** 🤖🧠 R:🟡 M:🟢 — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. by NVIDIA *(3.3k ⭐)* — discovered Jul 22
-- 🧠 ⭐ **[codealmanac](https://github.com/AlmanacCode/codealmanac)** 🤖🧠 R:🔴 M:🟢 — A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas. by AlmanacCode *(554 ⭐)* — discovered Jul 22
-- 🧠 ⭐ **[ODS](https://github.com/Osmantic/ODS)** 🤖🧠 R:🔴 M:🟢 — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. by Osmantic *(3.3k ⭐)* — discovered Jul 21
 
 ---
 
@@ -106,6 +106,7 @@
 - 🧠 ⭐ **[skyvern](https://github.com/Skyvern-AI/skyvern)** 🤖🧠 R:🔴 M:🟢 — Automate browser based workflows with AI by Skyvern-AI *(22.2k ⭐)*
 - 🔌 ⭐ **[comfyui-mcp](https://github.com/artokun/comfyui-mcp)** 🤖🧠 R:🔴 M:🟢 — The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud. by artokun *(340 ⭐)*
 - 📚 ⭐ **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)**  R:🟢 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. by microsoft *(11.4k ⭐)*
+- 🧠 ⭐ **[codealmanac](https://github.com/AlmanacCode/codealmanac)** 🤖🧠 R:🔴 M:🟢 — A codebase wiki for AI coding agents. Captures what the code can't say: decisions, flows, invariants, gotchas. by AlmanacCode *(554 ⭐)*
 - 📚 ⭐ **[teng-lin/notebooklm-py](https://github.com/teng-lin/notebooklm-py)**  R:🟢 M:🟢 — Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw. by teng-lin *(16.6k ⭐)*
 - 🔌 ⭐ **[pup](https://github.com/datadog-labs/pup)**  R:🟡 M:🟢 — Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. by datadog-labs *(906 ⭐)*
 - ⌨️ ⭐ **[claude-howto](https://github.com/luongnv89/claude-howto)** 🤖 R:🟢 M:🟢 — A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value. by luongnv89 *(37.4k ⭐)*
@@ -200,6 +201,7 @@
 - 📄 🔷 **[upstash/context7](https://github.com/upstash/context7)** 🤖🖱️ R:🟢 M:🟢 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors by upstash *(57.6k ⭐)*
 - 📚 🔷 **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)**  R:🟢 M:🟢 — "RAG-Anything: All-in-One RAG Framework" by HKUDS *(21.4k ⭐)*
 - 🔌 🔷 **[worktrunk](https://github.com/max-sixty/worktrunk)**  R:🟡 M:🟢 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows by max-sixty *(5.5k ⭐)*
+- 🧠 🔷 **[Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** 🤖🧠 R:🟡 M:🟢 — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. by NVIDIA *(3.3k ⭐)*
 - 📄 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(35.2k ⭐)*
 - 🔌 🔷 **[memsearch](https://github.com/zilliztech/memsearch)**  R:🟡 M:🟢 — A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. by zilliztech *(2.1k ⭐)*
 - 📚 🔷 **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)**  R:🟢 M:🟢 — Financial data platform for analysts, quants and AI agents. by OpenBB-finance *(69.3k ⭐)*
@@ -1001,6 +1003,7 @@
 - 🔌 ⭐ **[pua](https://github.com/tanweai/pua)**  R:🔴 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(18.3k ⭐)*
 - 📚 ⭐ **[skills](https://github.com/trailofbits/skills)**  R:🟡 M:🟢 — Supercharge your AI agents/bots with reusable skills by trailofbits *(5.7k ⭐)*
 - 📚 🔷 **[f/prompts.chat](https://github.com/f/prompts.chat)**  R:🟢 M:🟢 — f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy. by f *(163.8k ⭐)*
+- 🔌 ⭐ **[open-code-review](https://github.com/alibaba/open-code-review)** 🤖 R:🔴 M:🟢 — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. by alibaba *(10.9k ⭐)*
 - 📄 🔷 **[linshenkx/prompt-optimizer](https://github.com/linshenkx/prompt-optimizer)** 🤖🧠 R:🟡 M:🟢 — An AI prompt optimizer for writing better prompts and getting better AI results. by linshenkx *(31k ⭐)*
 - 📚 ⭐ **[moltis](https://github.com/moltis-org/moltis)**  R:🟡 M:🟢 — A Rust-native claw you can trust. One binary — sandboxed, secure, auditable. Voice, memory, MCP tools, and multi-channel access built-in. by moltis-org *(2.7k ⭐)*
 - 📚 🔷 **[Arindam200/awesome-ai-apps](https://github.com/Arindam200/awesome-ai-apps)**  R:🟢 M:🟢 — A collection of projects showcasing RAG, agents, workflows, and other AI use cases by Arindam200 *(12.8k ⭐)*
@@ -1133,6 +1136,7 @@
 - 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🔴 M:🟢 — Claude Desktop for Linux by aaddrick *(5k ⭐)*
 - 🧠 ⭐ **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🔴 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(72.4k ⭐)*
 - ⌨️ ⭐ **[Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)**  R:🟡 M:🟢 — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 by lbjlaq *(29.8k ⭐)*
+- 🧠 ⭐ **[ODS](https://github.com/Osmantic/ODS)** 🤖🧠 R:🔴 M:🟢 — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. by Osmantic *(3.3k ⭐)*
 - 🧠 🔷 **[herdr](https://github.com/ogulcancelik/herdr)** 🤖🧠 R:🟡 M:🟢 — agent multiplexer that lives in your terminal. by ogulcancelik *(8.7k ⭐)*
 - 📚 🔷 **[bifrost](https://github.com/maximhq/bifrost)**  R:🟡 M:🟢 — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. by maximhq *(5.9k ⭐)*
 - 🧠 🔷 **[CubeSandbox](https://github.com/TencentCloud/CubeSandbox)** 🤖🧠 R:🟡 M:🟢 — Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents. by TencentCloud *(6.7k ⭐)*
