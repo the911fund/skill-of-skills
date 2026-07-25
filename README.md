@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1102-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1104-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-198-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-199-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1102 skills** across 10 skill types · **198** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 999 | 🧠 codex: 312 | 🔧 generic: 77 | 🖱️ cursor: 72 | 📟 cline: 8 | 🏄 windsurf: 6
+**1104 skills** across 10 skill types · **199** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 1001 | 🧠 codex: 313 | 🔧 generic: 77 | 🖱️ cursor: 73 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)** 🤖 R:🔴 M:🟢 — AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. by mrexodia *(10.8k ⭐)* — discovered Jul 25
+- 🖱️ ⭐ **[SurfSense](https://github.com/MODSetter/SurfSense)** 🤖🖱️🧠 R:🔴 M:🟢 — Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9 by MODSetter *(15.4k ⭐)* — discovered Jul 25
 - 🧠 ⭐ **[flashinfer](https://github.com/flashinfer-ai/flashinfer)** 🤖🧠 R:🟡 M:🟢 — FlashInfer: Kernel Library for LLM Serving by flashinfer-ai *(6k ⭐)* — discovered Jul 24
 - 🔌 ⭐ **[framework](https://github.com/ai-driven-dev/framework)** 🤖🧠 R:🔴 M:🟢 — Marketplace Framework AI-Driven Dev : Context Engineering, Plugins, Agents, Skills, Hooks, Templates, SDLC by ai-driven-dev *(322 ⭐)* — discovered Jul 24
 - 🧠 ⭐ **[little-coder](https://github.com/itayinbarr/little-coder)** 🧠 R:🔴 M:🟢 — A harness optimized to smaller LLMs by itayinbarr *(1.9k ⭐)* — discovered Jul 24
-- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🔴 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.5k ⭐)* — discovered Jul 24
-- 🔌 ⭐ **[Instatic](https://github.com/CoreBunch/Instatic)** 🤖🧠 R:🔴 M:🟢 — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. by CoreBunch *(4.1k ⭐)* — discovered Jul 24
 
 ---
 
@@ -243,6 +243,7 @@
 - 📄 🔷 **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** 🤖 R:🟡 M:🟢 — A curated list of practical Codex skills for automating workflows across the Codex CLI and API. by ComposioHQ *(13.8k ⭐)*
 - 🔄 🔷 **[skills](https://github.com/android/skills)** 🤖 R:🟡 M:🟢 — No description by android *(6.2k ⭐)*
 - 🔄 🔷 **[OfficeCLI](https://github.com/iOfficeAI/OfficeCLI)** 🤖 R:🔴 M:🟢 — OfficeCLI is the first and best Office suite  purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required. by iOfficeAI *(9.3k ⭐)*
+- 🔗 🔷 **[llmgateway](https://github.com/theopenco/llmgateway)** 🤖🧠 R:🔴 M:🟢 — Route, manage, and analyze your LLM requests across multiple providers with a unified API interface. by theopenco *(1.5k ⭐)*
 - 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)**  R:🟡 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(37.8k ⭐)*
 - 🔗 🔷 **[linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server)** 🤖🧠 R:🔴 M:🟢 — Open-source MCP server for LinkedIn. Give Claude and any MCP-compatible AI agent access to profiles, companies, jobs, and messages. by stickerdaniel *(2.7k ⭐)*
 - 📄 🔷 **[vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)** 🤖🧠 R:🟡 M:🟢 — Bash for Agents by vercel-labs *(3.8k ⭐)*
@@ -818,6 +819,7 @@
 - 🔌 ⭐ **[claude-code](https://github.com/timothywarner-org/claude-code)** 🤖🧠 R:🔴 M:🟢 — Claude Code and Large-Context Reasoning (O'Reilly Live Learning) by timothywarner-org *(220 ⭐)*
 - 📄 ⭐ **[xming521/WeClone](https://github.com/xming521/WeClone)** 🖱️ R:🟡 M:🟢 — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.   by xming521 *(18k ⭐)*
 - 📚 🔷 **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)**  R:🟢 M:🟢 — Clone any website with one command using AI coding agents by JCodesMore *(17.1k ⭐)*
+- 🔌 ⭐ **[Instatic](https://github.com/CoreBunch/Instatic)** 🤖🧠 R:🔴 M:🟢 — The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there. by CoreBunch *(4.1k ⭐)*
 - 🔌 🔷 **[superpowers-zh](https://github.com/jnMetaCode/superpowers-zh)**  R:🟡 M:🟢 — 🦸 AI 编程超能力 · 中文增强版 — superpowers（99k+ ⭐）完整汉化 + 6 个中国原创 skills，让 OpenClaw / Claude Code / Cursor / Windsurf / Kiro / Gemini CLI 等 14 款 AI 编程工具真正会干活 by jnMetaCode *(5.5k ⭐)*
 - 🖱️ ⭐ **[LifeOS](https://github.com/danielmiessler/LifeOS)** 🤖🖱️🧠 R:🔴 M:🟢 — Agentic AI Infrastructure for magnifying HUMAN capabilities. by danielmiessler *(16.2k ⭐)*
 - 📄 🔷 **[claude-obsidian](https://github.com/AgriciDaniel/claude-obsidian)** 🤖🖱️🧠 R:🔴 M:🟢 — Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern. by AgriciDaniel *(7k ⭐)*
@@ -959,7 +961,7 @@
 - 🔌 🔷 **[COG-second-brain](https://github.com/huytieu/COG-second-brain)**  R:🔴 M:🟠 — The Easiest Second Brain Setup That Actually Self-Evolves using Claude code - Obsidian - Github by huytieu *(541 ⭐)*
 - 📚 🔷 **[glommer/codemogger](https://github.com/glommer/codemogger)**  R:🟢 M:🟢 — Codemogger is a code indexing library and MCP server for AI coding agents by glommer *(322 ⭐)*
 - 📚 🔶 **[VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)**  R:🟢 M:🟢 — A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases by VoltAgent *(22k ⭐)*
-- 📚 🔷 **[nexu-io/nexu](https://github.com/nexu-io/nexu)**  R:🟢 M:🟢 — The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7. by nexu-io *(3.1k ⭐)*
+- 📚 🔷 **[nexu-io/nexu](https://github.com/nexu-io/nexu)**  R:🟢 M:🟠 — The simplest desktop client for OpenClaw 🦞 — bridge your Agent to WeChat, Feishu, Slack & Discord in one click. Works with Claude Code, Codex & any LLM. BYOK, Oauth, local-first, chat from your phone 24/7. by nexu-io *(3.1k ⭐)*
 - 📄 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:🔴 M:🟢 — Claude-Code-Multi-Agent驱动的新一代AI编程助手生态系统，基于Claude Code构建的智能代理协调工作空间，实现从需求到交付的全流程自动化开发 by Prorise-cool *(297 ⭐)*
 - 📚 🔷 **[ghostwright/ghost-os](https://github.com/ghostwright/ghost-os)**  R:🟢 M:🟠 — Full computer-use for AI agents. Self-learning workflows. Native macOS. No screenshots required. by ghostwright *(1.5k ⭐)*
 - 📄 🔷 **[awesome-agent-skills](https://github.com/libukai/awesome-agent-skills)** 🤖 R:🟡 M:🟠 — Agent Skills 终极指南：快速入门、资源推荐、精选技能与实用工具 ｜The Ultimate Guide to Agent Skills: QuickStart, Resources, Features&Toolkit by libukai *(4.7k ⭐)*
