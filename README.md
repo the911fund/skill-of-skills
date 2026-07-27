@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1106-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1107-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-200-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-201-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1106 skills** across 10 skill types · **200** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 1003 | 🧠 codex: 314 | 🔧 generic: 77 | 🖱️ cursor: 75 | 📟 cline: 8 | 🏄 windsurf: 6
+**1107 skills** across 10 skill types · **201** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.3M ⭐. Platforms: 🤖 claude code: 1003 | 🧠 codex: 315 | 🔧 generic: 77 | 🖱️ cursor: 75 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 ⭐ **[ClawX](https://github.com/ValueCell-ai/ClawX)** 🧠 R:🔴 M:🟢 — ClawX is a desktop app that provides a graphical interface for OpenClaw AI agents. It turns CLI-based AI orchestration into a desktop experience without using the terminal. China website is https://clawx.com.cn. by ValueCell-ai *(7.6k ⭐)* — discovered Jul 27
 - 🔌 ⭐ **[unifi-mcp](https://github.com/sirkirby/unifi-mcp)** 🤖🖱️🧠 R:🔴 M:🟢 — MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive by sirkirby *(578 ⭐)* — discovered Jul 26
 - 🔌 🔷 **[buildwithclaude](https://github.com/davepoon/buildwithclaude)** 🤖🖱️ R:🟡 M:🟢 — A single hub to find Claude Skills, Agents, Commands, Hooks, Plugins, and Marketplace collections to extend Claude Code, Claude Desktop, Agent SDK and OpenClaw by davepoon *(3.2k ⭐)* — discovered Jul 26
 - 🔌 🔷 **[ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)** 🤖 R:🔴 M:🟢 — AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. by mrexodia *(10.8k ⭐)* — discovered Jul 25
 - 🖱️ ⭐ **[SurfSense](https://github.com/MODSetter/SurfSense)** 🤖🖱️🧠 R:🔴 M:🟢 — Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9 by MODSetter *(15.4k ⭐)* — discovered Jul 25
-- 🧠 ⭐ **[flashinfer](https://github.com/flashinfer-ai/flashinfer)** 🤖🧠 R:🟡 M:🟢 — FlashInfer: Kernel Library for LLM Serving by flashinfer-ai *(6k ⭐)* — discovered Jul 24
 
 ---
 
@@ -171,6 +171,7 @@
 - ⌨️ ⭐ **[claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)** 🤖 R:🟢 M:🟢 — Claude Code (Anthropic): the learning curve, solved. ~16K-line guide + 100 templates + 257 quiz questions + 22 event hooks + 37 resource evaluations. Beginner → Power User. by FlorianBruniaux *(5.1k ⭐)*
 - 📚 🔷 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**  R:🟢 M:🟢 — The batteries-included agent harness. by langchain-ai *(24.8k ⭐)*
 - 📚 🔷 **[llama.cpp](https://github.com/ggml-org/llama.cpp)**  R:🟢 M:🟢 — LLM inference in C/C++ by ggml-org *(117k ⭐)*
+- 🧠 ⭐ **[flashinfer](https://github.com/flashinfer-ai/flashinfer)** 🤖🧠 R:🟡 M:🟢 — FlashInfer: Kernel Library for LLM Serving by flashinfer-ai *(6k ⭐)*
 - 📄 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** 🧠 R:🟡 M:🟢 — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ by AstrBotDevs *(34.8k ⭐)*
 - 🔄 ⭐ **[crawl4ai](https://github.com/unclecode/crawl4ai)** 🤖 R:🔴 M:🟢 — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN by unclecode *(69.2k ⭐)*
 - 📚 🔷 **[AgriciDaniel/claude-seo](https://github.com/AgriciDaniel/claude-seo)**  R:🟢 M:🟢 — Universal SEO skill for Claude Code. 25 sub-skills + 18 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, backlinks, local SEO, maps intelligence, semantic clustering, e-commerce SEO, international SEO, Google APIs, and PDF/Excel reporting. Optional DataForSEO, Firecrawl, and Banana extensions. by AgriciDaniel *(9.1k ⭐)*
