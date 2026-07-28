@@ -933,7 +933,7 @@
 - 📚 🔷 **[mcpware/claude-code-organizer](https://github.com/mcpware/claude-code-organizer)**  R:🟢 M:🟢 — Cross-Code Organizer (formerly Claude Code Organizer): cross-harness config dashboard for Claude Code, Codex CLI, MCP servers, skills, memories, agents, sessions, security scanning, context budget, and backups. by mcpware *(340 ⭐)*
 - 🖱️ 🔷 **[CADAM](https://github.com/Adam-CAD/CADAM)** 🖱️ R:🔴 M:🟢 — CADAM is the open source text-to-CAD web application by Adam-CAD *(4.1k ⭐)*
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(262 ⭐)*
-- 📚 🔷 **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)**  R:🟢 M:🟢 — The absolute trainer to light up AI agents. by microsoft *(17.3k ⭐)*
+- 📚 🔷 **[microsoft/agent-lightning](https://github.com/microsoft/agent-lightning)**  R:🟢 M:🟠 — The absolute trainer to light up AI agents. by microsoft *(17.3k ⭐)*
 - 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(320 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)**  R:🟢 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(760 ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🔴 M:🟢 — No description by divinevideo *(256 ⭐)*
@@ -1057,7 +1057,7 @@
 - 📚 🔷 **[vijaythecoder/awesome-claude-agents](https://github.com/vijaythecoder/awesome-claude-agents)**  R:🟢 M:🟠 — An orchestrated sub agent dev team powered by claude code by vijaythecoder *(4.3k ⭐)*
 - 📚 🔶 **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)**  R:🟢 M:🟢 — A curated list of Claude Skills. by BehiSecc *(9.5k ⭐)*
 - 📚 🔶 **[ComposioHQ/awesome-claude-plugins](https://github.com/ComposioHQ/awesome-claude-plugins)**  R:🟢 M:🟢 — A curated list of Plugins that let you extend Claude Code with custom commands, agents, hooks, and MCP servers through the plugin system. by ComposioHQ *(1.8k ⭐)*
-- 📚 🔷 **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)**  R:🟢 M:🟢 — ✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience. by Code-and-Sorts *(536 ⭐)*
+- 📚 🔷 **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)**  R:🟢 M:🟠 — ✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience. by Code-and-Sorts *(536 ⭐)*
 - ⌨️ 🔷 **[shippie](https://github.com/mattzcarey/shippie)**  R:🔴 M:🟠 — extendable code review and QA agent 🚢 by mattzcarey *(2.4k ⭐)*
 - 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)**  R:🟢 M:🟢 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.2k ⭐)*
 - 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)**  R:🟢 M:🟠 — Tutorials, Guides and Agent Skills Directories by heilcheng *(5.6k ⭐)*
