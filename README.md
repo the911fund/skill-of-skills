@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1120-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1121-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-205-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-206-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1120 skills** across 10 skill types · **205** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.4M ⭐. Platforms: 🤖 claude code: 1012 | 🧠 codex: 323 | 🔧 generic: 79 | 🖱️ cursor: 75 | 📟 cline: 8 | 🏄 windsurf: 6
+**1121 skills** across 10 skill types · **206** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.4M ⭐. Platforms: 🤖 claude code: 1012 | 🧠 codex: 323 | 🔧 generic: 80 | 🖱️ cursor: 75 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 ⭐ **[coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)** 🔧 R:🔴 M:🟢 — Give any AI agent the ability to code by xyTom *(519 ⭐)* — discovered Jul 29
 - 🔄 ⭐ **[dozzle](https://github.com/amir20/dozzle)** 🤖 R:🔴 M:🟢 — Realtime log viewer for containers.  Supports Docker, Swarm and K8s. by amir20 *(13.8k ⭐)* — discovered Jul 28
 - 🔄 🔷 **[adhd](https://github.com/UditAkhourii/adhd)** 🤖 R:🔴 M:🟢 — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. by UditAkhourii *(2.5k ⭐)* — discovered Jul 28
 - 🧠 ⭐ **[skill-up](https://github.com/alibaba/skill-up)** 🤖🧠 R:🔴 M:🟢 — An evaluation and evolution tool for Agent Skills. by alibaba *(226 ⭐)* — discovered Jul 28
 - 🧠 🔷 **[tokenspeed](https://github.com/lightseekorg/tokenspeed)** 🤖🧠 R:🟡 M:🟢 — TokenSpeed is a speed-of-light LLM inference engine. by lightseekorg *(1.7k ⭐)* — discovered Jul 28
-- 🔄 🔷 **[OpenSpace](https://github.com/HKUDS/OpenSpace)** 🤖 R:🔴 M:🟢 — "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/ by HKUDS *(7.1k ⭐)* — discovered Jul 28
 
 ---
 
@@ -199,6 +199,7 @@
 - 🔗 ⭐ **[kubernetes-mcp-server](https://github.com/containers/kubernetes-mcp-server)** 🤖🧠 R:🔴 M:🟢 — Model Context Protocol (MCP) server for Kubernetes and OpenShift by containers *(1.7k ⭐)*
 - 📚 ⭐ **[airweave](https://github.com/airweave-ai/airweave)**  R:🟡 M:🟢 — Open-source context retrieval layer for AI agents by airweave-ai *(6.4k ⭐)*
 - 🔌 ⭐ **[unifi-mcp](https://github.com/sirkirby/unifi-mcp)** 🤖🖱️🧠 R:🔴 M:🟢 — MCP servers for the UniFi suite of applications, Network, Protect, Access, and Drive by sirkirby *(578 ⭐)*
+- 🔄 🔷 **[OpenSpace](https://github.com/HKUDS/OpenSpace)** 🤖 R:🔴 M:🟢 — "OpenSpace: The Skill Management Layer for AI Agents" -- https://open-space.cloud/ by HKUDS *(7.1k ⭐)*
 - 🔌 🔷 **[SocratiCode](https://github.com/giancarloerra/SocratiCode)**  R:🟡 M:🟢 — Enterprise-grade (40m+ lines) codebase intelligence in a zero-setup, private and local Claude Plugin or MCP: managed indexing, hybrid semantic search, polyglot code dependency graphs, and DB/API/infra knowledge. Benchmark: 61% less tokens, 84% fewer calls, 37x faster than standard AI grep. by giancarloerra *(3k ⭐)*
 - 🧠 🔷 **[Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer)** 🤖🧠 R:🟡 M:🟢 — A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed. by NVIDIA *(3.3k ⭐)*
 - 📚 🔷 **[block/goose](https://github.com/block/goose)**  R:🟢 M:🟢 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by block *(49.7k ⭐)*
