@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1124-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1125-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-207-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1124 skills** across 10 skill types · **207** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.4M ⭐. Platforms: 🤖 claude code: 1015 | 🧠 codex: 326 | 🔧 generic: 80 | 🖱️ cursor: 76 | 📟 cline: 8 | 🏄 windsurf: 6
+**1125 skills** across 10 skill types · **207** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.4M ⭐. Platforms: 🤖 claude code: 1016 | 🧠 codex: 327 | 🔧 generic: 80 | 🖱️ cursor: 76 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔗 🔷 **[harbor](https://github.com/harbor-framework/harbor)** 🤖🧠 R:🔴 M:🟢 — Framework for evaluating and improving agents by harbor-framework *(3.7k ⭐)* — discovered Jul 30
 - 🧠 ⭐ **[App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI)** 🤖🧠 R:🔴 M:🟢 — Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts by rorkai *(5.3k ⭐)* — discovered Jul 29
 - 🔌 🔷 **[ag-ui](https://github.com/ag-ui-protocol/ag-ui)** 🤖🖱️🧠 R:🟡 M:🟢 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. by ag-ui-protocol *(15k ⭐)* — discovered Jul 29
 - 🧠 🔷 **[botmux](https://github.com/deepcoldy/botmux)** 🤖🧠 R:🟡 M:🟢 — Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session by deepcoldy *(866 ⭐)* — discovered Jul 29
 - 🔄 ⭐ **[coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)** 🔧 R:🔴 M:🟢 — Give any AI agent the ability to code by xyTom *(519 ⭐)* — discovered Jul 29
-- 🔄 ⭐ **[dozzle](https://github.com/amir20/dozzle)** 🤖 R:🔴 M:🟢 — Realtime log viewer for containers.  Supports Docker, Swarm and K8s. by amir20 *(13.8k ⭐)* — discovered Jul 28
 
 ---
 
@@ -435,7 +435,7 @@
 - 📚 🔷 **[trailofbits/skills-curated](https://github.com/trailofbits/skills-curated)**  R:🟢 M:🟢 — Curated, community-vetted Claude Code plugin marketplace by trailofbits *(438 ⭐)*
 - 📄 🔶 **[github/github-mcp-server](https://github.com/github/github-mcp-server)** 🤖 R:🟢 M:🟢 — GitHub's official MCP Server by github *(30.8k ⭐)*
 - ⌨️ 🔶 **[n8n-skills](https://github.com/czlonkowski/n8n-skills)** 🤖 R:🟢 M:🟢 — n8n skillset for Claude Code to build flawless n8n workflows by czlonkowski *(5.5k ⭐)*
-- 📄 ⭐ **[mcp_chatbot](https://github.com/keli-wen/mcp_chatbot)** 🔧 R:🟢 M:🟠 — A chatbot implementation compatible with MCP (terminal / streamlit supported) by keli-wen *(249 ⭐)*
+- 📄 ⭐ **[mcp_chatbot](https://github.com/keli-wen/mcp_chatbot)** 🔧 R:🟢 M:🔴 — A chatbot implementation compatible with MCP (terminal / streamlit supported) by keli-wen *(249 ⭐)*
 - 📄 🔷 **[codex-proxy](https://github.com/icebear0828/codex-proxy)** 🤖 R:🔴 M:🟢 — OpenAI-compatible proxy for ChatGPT Codex Responses API by icebear0828 *(1.4k ⭐)*
 - 📄 🔷 **[apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)** 🤖🧠 R:🟡 M:🟢 — Apollo MCP Server by apollographql *(290 ⭐)*
 - 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(977 ⭐)*
@@ -1152,6 +1152,7 @@
 - ⌨️ ⭐ **[cc-switch](https://github.com/farion1231/cc-switch)**  R:🟡 M:🟢 — A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI. by farion1231 *(103.2k ⭐)*
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.1k ⭐)*
 - 🧠 ⭐ **[codex-lb](https://github.com/Soju06/codex-lb)** 🤖🧠 R:🔴 M:🟢 — Codex/ChatGPT multiple account load balancer & proxy with usage tracking, dashboard, and OpenCode-compatible endpoints by Soju06 *(2.2k ⭐)*
+- 🔄 ⭐ **[dozzle](https://github.com/amir20/dozzle)** 🤖 R:🔴 M:🟢 — Realtime log viewer for containers.  Supports Docker, Swarm and K8s. by amir20 *(13.8k ⭐)*
 - 🔌 ⭐ **[agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** 🤖🧠 R:🔴 M:🟢 — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. by microsoft *(4.6k ⭐)*
 - 📄 ⭐ **[agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw)** 🤖🧠 R:🟡 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(4.9k ⭐)*
 - 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🔴 M:🟢 — Claude Desktop for Linux by aaddrick *(5k ⭐)*
