@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1167-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1168-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-218-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1167 skills** across 10 skill types · **218** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1047 | 🧠 codex: 350 | 🔧 generic: 88 | 🖱️ cursor: 80 | 📟 cline: 8 | 🏄 windsurf: 6
+**1168 skills** across 10 skill types · **218** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1048 | 🧠 codex: 351 | 🔧 generic: 88 | 🖱️ cursor: 80 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[computer](https://github.com/cloudflare/computer)** 🤖🧠 R:🔴 M:🟢 — Give your agent a computer 👾 by cloudflare *(2.4k ⭐)* — discovered Aug 5
 - 🧠 🔷 **[AgentRecall](https://github.com/zszz3/AgentRecall)** 🤖🧠 R:🔴 M:🟢 — No description by zszz3 *(699 ⭐)* — discovered Aug 5
 - 🖱️ ⭐ **[tau2-bench](https://github.com/sierra-research/tau2-bench)** 🖱️🧠 R:🔴 M:🟢 — τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains by sierra-research *(1.7k ⭐)* — discovered Aug 5
 - 🔄 🔷 **[SkyRL](https://github.com/NovaSky-AI/SkyRL)** 🤖 R:🟡 M:🟢 — SkyRL: A Modular Full-stack RL Library for LLMs by NovaSky-AI *(2.1k ⭐)* — discovered Aug 5
 - 🧠 ⭐ **[code_puppy](https://github.com/mpfaffenberger/code_puppy)** 🤖🧠 R:🔴 M:🟢 — Agentic AI for writing code by mpfaffenberger *(735 ⭐)* — discovered Aug 5
-- 🔗 🔷 **[workflow_templates](https://github.com/Comfy-Org/workflow_templates)** 🤖🧠 R:🔴 M:🟢 — ComfyUI template workflows by Comfy-Org *(710 ⭐)* — discovered Aug 5
 
 ---
 
@@ -511,7 +511,7 @@
 - 📄 🔷 **[ahujasid/ableton-mcp](https://github.com/ahujasid/ableton-mcp)** 🔧 R:🟡 M:🟢 — No description by ahujasid *(2.7k ⭐)*
 - 📄 🔷 **[SuperGemini_Framework](https://github.com/SuperClaude-Org/SuperGemini_Framework)** 🤖🧠 R:🟡 M:🟠 — No description by SuperClaude-Org *(242 ⭐)*
 - 📄 🔷 **[shell_gpt](https://github.com/TheR1D/shell_gpt)**  R:🟢 M:🟠 — A command-line productivity tool powered by AI large language models like GPT-5, will help you accomplish your tasks faster and more efficiently. by TheR1D *(12.1k ⭐)*
-- ⌨️ 🔷 **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** 🤖 R:🟢 M:🟢 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(526 ⭐)*
+- ⌨️ 🔷 **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** 🤖 R:🟢 M:🟠 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(526 ⭐)*
 - 📚 🔷 **[AutoAgent](https://github.com/HKUDS/AutoAgent)**  R:🔴 M:🟠 — "AutoAgent: Fully-Automated and Zero-Code LLM Agent Framework" by HKUDS *(9.4k ⭐)*
 - 📚 🔶 **[WecomTeam/wecom-cli](https://github.com/WecomTeam/wecom-cli)**  R:🟢 M:🟢 — 企业微信开放平台命令行工具 — 让人类和 AI Agent 都能在终端中操作企业微信 by WecomTeam *(2.3k ⭐)*
 - 📄 🔶 **[multik](https://github.com/Kotlin/multik)** 🤖 R:🟡 M:🟢 — Multidimensional array library for Kotlin by Kotlin *(729 ⭐)*
@@ -891,6 +891,7 @@
 - 🔌 ⭐ **[antigravity-workspace-template](https://github.com/study8677/antigravity-workspace-template)** 🤖🖱️🧠🏄📟 R:🔴 M:🟢 — Give Claude Code, Cursor, Codex CLI a ChatGPT for your codebase. Multi-agent knowledge engine, grounded Q&A with file paths and line numbers. Works in any AI IDE. by study8677 *(1.3k ⭐)*
 - 🔌 🔷 **[ouroboros](https://github.com/Q00/ouroboros)**  R:🟡 M:🟢 — Stop prompting. Start specifying. by Q00 *(4.6k ⭐)*
 - 📄 🔷 **[SuperClaude_Framework](https://github.com/SuperClaude-Org/SuperClaude_Framework)** 🤖 R:🟢 M:🟢 — A configuration framework that enhances Claude Code with specialized commands, cognitive personas, and development methodologies. by SuperClaude-Org *(23.3k ⭐)*
+- 🔗 🔷 **[workflow_templates](https://github.com/Comfy-Org/workflow_templates)** 🤖🧠 R:🔴 M:🟢 — ComfyUI template workflows by Comfy-Org *(710 ⭐)*
 - 📚 🔷 **[my-claude-code-setup](https://github.com/centminmod/my-claude-code-setup)**  R:🟡 M:🟢 — Shared starter template configuration and CLAUDE.md memory bank system for Claude Code by centminmod *(2.4k ⭐)*
 - 📄 🔷 **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** 🔧 R:🟢 M:🟢 — A straightforward method for training your LLM, from downloading data to generating text. by FareedKhan-dev *(6.6k ⭐)*
 - 🔌 🔷 **[infinite-canvas](https://github.com/basketikun/infinite-canvas)** 🤖🧠 R:🔴 M:🟢 — 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。 by basketikun *(3.1k ⭐)*
