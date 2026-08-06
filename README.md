@@ -121,8 +121,8 @@
 - 📚 ⭐ **[googleworkspace/cli](https://github.com/googleworkspace/cli)**  R:🟢 M:🟢 — Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. by googleworkspace *(27.1k ⭐)*
 - 📄 ⭐ **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** 🤖🧠 R:🟡 M:🟢 — #1 Persistent memory for AI coding agents based on real-world benchmarks by rohitg00 *(23.2k ⭐)*
 - 🔄 🔷 **[rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)** 🔧 R:🔴 M:🟢 — The official Rust SDK for the Model Context Protocol by modelcontextprotocol *(3.7k ⭐)*
-- 📚 🔷 **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)**  R:🟢 M:🟢 — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. by Lum1104 *(62.4k ⭐)*
 - 🧠 🔷 **[java-sdk](https://github.com/modelcontextprotocol/java-sdk)** 🧠 R:🔴 M:🟢 — The official Java SDK for Model Context Protocol servers and clients. Maintained in collaboration with Spring AI by modelcontextprotocol *(3.6k ⭐)*
+- 📚 🔷 **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)**  R:🟢 M:🟢 — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. by Lum1104 *(62.4k ⭐)*
 - 🧠 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** 🤖🧠 R:🔴 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(45.6k ⭐)*
 - 📦 ⭐ **[video-use](https://github.com/browser-use/video-use)** 🤖 R:🔴 M:🟢 — Edit videos with coding agents by browser-use *(10.4k ⭐)*
 - 📚 ⭐ **[xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)**  R:🟢 M:🟢 — A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more. by xingkongliang *(2.3k ⭐)*
@@ -163,8 +163,8 @@
 - 🧠 ⭐ **[ragflow](https://github.com/infiniflow/ragflow)** 🤖🧠 R:🔴 M:🟢 — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs by infiniflow *(83k ⭐)*
 - 📚 🔷 **[Fabric](https://github.com/danielmiessler/Fabric)**  R:🟢 M:🟢 — Fabric is an open-source framework for augmenting humans using AI. It provides a modular system for solving specific problems using a crowdsourced set of AI prompts that can be used anywhere. by danielmiessler *(42.4k ⭐)*
 - 🔄 ⭐ **[agent-framework-go](https://github.com/microsoft/agent-framework-go)** 🤖 R:🔴 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go. by microsoft *(202 ⭐)*
-- 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:🟢 — "Vibe-Trading: Your Personal Trading Agent" by HKUDS *(12.4k ⭐)*
 - 🔄 🔷 **[csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk)** 🤖 R:🟢 M:🟢 — The official C# SDK for Model Context Protocol servers and clients. Maintained in collaboration with Microsoft. by modelcontextprotocol *(4.4k ⭐)*
+- 📄 🔷 **[HKUDS/Vibe-Trading](https://github.com/HKUDS/Vibe-Trading)** 🤖 R:🟡 M:🟢 — "Vibe-Trading: Your Personal Trading Agent" by HKUDS *(12.4k ⭐)*
 - 🧠 ⭐ **[prime-rl](https://github.com/PrimeIntellect-ai/prime-rl)** 🤖🖱️🧠 R:🔴 M:🟢 — Agentic RL Training at Scale by PrimeIntellect-ai *(1.7k ⭐)*
 - 🔄 ⭐ **[lago](https://github.com/getlago/lago)** 🤖 R:🔴 M:🟢 — Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics by getlago *(10k ⭐)*
 - 📄 🔷 **[Tencent/WeKnora](https://github.com/Tencent/WeKnora)** 🤖 R:🟡 M:🟢 — Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki. by Tencent *(16.4k ⭐)*
@@ -175,8 +175,8 @@
 - ⌨️ ⭐ **[claude-code-ultimate-guide](https://github.com/FlorianBruniaux/claude-code-ultimate-guide)** 🤖 R:🟢 M:🟢 — Claude Code (Anthropic): the learning curve, solved. ~16K-line guide + 100 templates + 257 quiz questions + 22 event hooks + 37 resource evaluations. Beginner → Power User. by FlorianBruniaux *(5.1k ⭐)*
 - 📚 🔷 **[larksuite/cli](https://github.com/larksuite/cli)**  R:🟢 M:🟢 — The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills. by larksuite *(14.3k ⭐)*
 - 📚 🔷 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**  R:🟢 M:🟢 — The batteries-included agent harness. by langchain-ai *(24.8k ⭐)*
-- 📄 🔷 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** 🤖🧠 R:🔴 M:🟢 — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) by Alishahryar1 *(35.1k ⭐)*
 - 🔄 ⭐ **[crawl4ai](https://github.com/unclecode/crawl4ai)** 🤖 R:🔴 M:🟢 — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN by unclecode *(69.2k ⭐)*
+- 📄 🔷 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** 🤖🧠 R:🔴 M:🟢 — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) by Alishahryar1 *(35.1k ⭐)*
 - 📚 🔷 **[llama.cpp](https://github.com/ggml-org/llama.cpp)**  R:🟢 M:🟢 — LLM inference in C/C++ by ggml-org *(117k ⭐)*
 - 📄 ⭐ **[elizaOS/eliza](https://github.com/elizaOS/eliza)** 🤖🖱️🧠 R:🔴 M:🟢 — Open source agentic operating system by elizaOS *(18.6k ⭐)*
 - 🔌 🔷 **[WrenAI](https://github.com/Canner/WrenAI)** 🤖🧠 R:🟡 M:🟢 — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. by Canner *(16.1k ⭐)*
@@ -206,15 +206,15 @@
 - 📚 ⭐ **[pg_textsearch](https://github.com/timescale/pg_textsearch)**  R:🟡 M:🟢 — PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. by timescale *(3.8k ⭐)*
 - 📚 🔷 **[HKUDS/RAG-Anything](https://github.com/HKUDS/RAG-Anything)**  R:🟢 M:🟢 — "RAG-Anything: All-in-One RAG Framework" by HKUDS *(21.4k ⭐)*
 - 🧠 ⭐ **[mcpvault](https://github.com/bitbonsai/mcpvault)** 🤖🧠 R:🔴 M:🟢 — A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access by bitbonsai *(1.4k ⭐)*
-- 📚 🔷 **[block/goose](https://github.com/block/goose)**  R:🟢 M:🟢 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by block *(49.7k ⭐)*
 - 📄 ⭐ **[hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)** 🧠 R:🟡 M:🟢 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. by hashicorp *(1.4k ⭐)*
+- 📚 🔷 **[block/goose](https://github.com/block/goose)**  R:🟢 M:🟢 — an open source, extensible AI agent that goes beyond code suggestions - install, execute, edit, and test with any LLM by block *(49.7k ⭐)*
 - 📄 🔷 **[upstash/context7](https://github.com/upstash/context7)** 🤖🖱️ R:🟢 M:🟢 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors by upstash *(57.6k ⭐)*
 - 🔌 🔷 **[text-to-cad](https://github.com/earthtojake/text-to-cad)** 🤖🧠 R:🟡 M:🟢 — A collection of agent skills for CAD, robotics and hardware design by earthtojake *(8.8k ⭐)*
 - 🔄 ⭐ **[coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)** 🔧 R:🔴 M:🟢 — Give any AI agent the ability to code by xyTom *(519 ⭐)*
 - 🔌 🔷 **[memsearch](https://github.com/zilliztech/memsearch)**  R:🟡 M:🟢 — A Markdown-first memory system, a standalone library for any AI agent. Inspired by OpenClaw. by zilliztech *(2.1k ⭐)*
 - 📄 🔷 **[activeloopai/hivemind](https://github.com/activeloopai/hivemind)** 🤖 R:🔴 M:🟢 — One brain for all your agents by activeloopai *(1.3k ⭐)*
-- 📄 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(35.2k ⭐)*
 - 🧠 🔷 **[adk-python](https://github.com/google/adk-python)** 🤖🧠 R:🟡 M:🟢 — An open-source, code-first Python toolkit for building, evaluating, and deploying sophisticated AI agents with flexibility and control. by google *(20.4k ⭐)*
+- 📄 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(35.2k ⭐)*
 - 📄 ⭐ **[cursor-rules-java](https://github.com/jabrena/cursor-rules-java)** 🤖🖱️🧠 R:🟡 M:🟢 — An opinionated, AI-native development workflow for Java Enterprise — reusable Skills, Agents, Commands, and MCP servers combined with a human-in-the-loop model to modernize real-world SDLC practices. by jabrena *(404 ⭐)*
 - 📚 🔷 **[plastic-labs/honcho](https://github.com/plastic-labs/honcho)**  R:🟢 M:🟢 —  Memory library for building stateful agents by plastic-labs *(5.2k ⭐)*
 - 📚 🔷 **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)**  R:🟢 M:🟢 — Financial data platform for analysts, quants and AI agents. by OpenBB-finance *(69.3k ⭐)*
@@ -241,8 +241,8 @@
 - 📄 🔷 **[pydantic/pydantic-ai](https://github.com/pydantic/pydantic-ai)** 🤖🖱️🧠 R:🟢 M:🟢 — AI Agent Framework, the Pydantic way by pydantic *(17.8k ⭐)*
 - 🔄 ⭐ **[OpenHarness](https://github.com/HKUDS/OpenHarness)** 🤖 R:🔴 M:🟢 — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" by HKUDS *(14.8k ⭐)*
 - 🔗 🔷 **[XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP)** 🤖🖱️🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. by getsentry *(6k ⭐)*
-- 📄 🔷 **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** 🤖 R:🟡 M:🟢 — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. by musistudio *(35.1k ⭐)*
 - 📚 🔷 **[DingTalk-Real-AI/dingtalk-workspace-cli](https://github.com/DingTalk-Real-AI/dingtalk-workspace-cli)**  R:🟢 M:🟢 — DingTalk Workspace is an officially open-sourced cross-platform CLI tool from DingTalk. It unifies DingTalk’s full suite of product capabilities into a single package, is designed for both human users and AI agent scenarios. by DingTalk-Real-AI *(2.2k ⭐)*
+- 📄 🔷 **[musistudio/claude-code-router](https://github.com/musistudio/claude-code-router)** 🤖 R:🟡 M:🟢 — Use Claude Code as the foundation for coding infrastructure, allowing you to decide how to interact with the model while enjoying updates from Anthropic. by musistudio *(35.1k ⭐)*
 - 🔄 🔷 **[graphrag](https://github.com/microsoft/graphrag)** 🔧 R:🟡 M:🟢 — A modular graph-based Retrieval-Augmented Generation (RAG) system by microsoft *(34.3k ⭐)*
 - 🔄 🔷 **[whisper](https://github.com/openai/whisper)** 🔧 R:🟡 M:🟠 — Robust Speech Recognition via Large-Scale Weak Supervision by openai *(104.2k ⭐)*
 - 🔄 🔷 **[skills](https://github.com/android/skills)** 🤖 R:🟡 M:🟢 — No description by android *(6.2k ⭐)*
@@ -308,8 +308,8 @@
 - 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** 🔧 R:🔴 M:🟢 — AirLLM 70B inference with single 4GB GPU by lyogavin *(20.9k ⭐)*
 - 📄 🔷 **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** 🤖🖱️🧠 R:🟡 M:🟢 — Trigger.dev – build and deploy fully‑managed AI agents and workflows by triggerdotdev *(15.4k ⭐)*
 - 📄 🔷 **[open-pencil](https://github.com/open-pencil/open-pencil)** 🧠 R:🟡 M:🟢 — AI-native design editor. Open-source Figma alternative. by open-pencil *(5.6k ⭐)*
-- 📄 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** 🤖🧠 R:🔴 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(10.4k ⭐)*
 - 📚 🔷 **[kagent](https://github.com/kagent-dev/kagent)**  R:🟡 M:🟢 — Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord by kagent-dev *(3k ⭐)*
+- 📄 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** 🤖🧠 R:🔴 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(10.4k ⭐)*
 - 📄 🔷 **[trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)** 🤖🧠 R:🟡 M:🟢 — A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. by trpc-group *(1.4k ⭐)*
 - ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:⚫ M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)**  R:🟢 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.1k ⭐)*
@@ -329,8 +329,8 @@
 - 🔌 🔷 **[SwiftUI-Agent-Skill](https://github.com/AvdLee/SwiftUI-Agent-Skill)** 🤖 R:🟢 M:🟢 — Add expert SwiftUI Best Practices guidance to your AI coding tool (Agent Skills open format). by AvdLee *(3k ⭐)*
 - 📄 🔷 **[vercel-labs/just-bash](https://github.com/vercel-labs/just-bash)** 🤖🧠 R:🟡 M:🟢 — Bash for Agents by vercel-labs *(3.8k ⭐)*
 - ⌨️ 🔷 **[fastmcp](https://github.com/jlowin/fastmcp)** 🤖 R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(25.7k ⭐)*
-- 📄 🔷 **[VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)** 🤖 R:🟡 M:🟢 — 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. by WEIFENG2333 *(15k ⭐)*
 - 📄 🔷 **[hatchet-dev/hatchet](https://github.com/hatchet-dev/hatchet)** 🤖🖱️🧠 R:🟡 M:🟢 — 🪓 An orchestration engine for background tasks, AI agents, and durable workflows by hatchet-dev *(7.4k ⭐)*
+- 📄 🔷 **[VideoCaptioner](https://github.com/WEIFENG2333/VideoCaptioner)** 🤖 R:🟡 M:🟢 — 🎬 卡卡字幕助手 | VideoCaptioner - 基于 LLM 的智能字幕助手 - 视频字幕生成、断句、校正、字幕翻译全流程处理！- A powered tool for easy and efficient video subtitling. by WEIFENG2333 *(15k ⭐)*
 - 📄 🔷 **[apify/crawlee](https://github.com/apify/crawlee)** 🤖 R:🟡 M:🟢 — Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. by apify *(23.8k ⭐)*
 - 🔌 🔷 **[DesktopCommanderMCP](https://github.com/wonderwhy-er/DesktopCommanderMCP)** 🤖 R:🔴 M:🟢 — This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities by wonderwhy-er *(6.2k ⭐)*
 - 🔄 ⭐ **[stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)** 🤖 R:🔴 M:🟢 — The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. by vibheksoni *(1.5k ⭐)*
@@ -341,9 +341,9 @@
 - 📄 🔷 **[topoteretes/cognee](https://github.com/topoteretes/cognee)** 🤖🧠 R:🟡 M:🟢 — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. by topoteretes *(17.9k ⭐)*
 - 📚 🔷 **[onecli/onecli](https://github.com/onecli/onecli)**  R:🟢 M:🟢 — Open-source credential gateway with a built-in vault. give your AI agents access to services without exposing keys. by onecli *(2.4k ⭐)*
 - 📚 🔷 **[genai-toolbox](https://github.com/googleapis/genai-toolbox)**  R:🟢 M:🟢 — MCP Toolbox for Databases is an open source MCP server for databases. by googleapis *(15.6k ⭐)*
-- 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:🟢 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  by Leonxlnx *(45.7k ⭐)*
 - 🔄 🔷 **[notion-mcp-server](https://github.com/makenotion/notion-mcp-server)** 🤖 R:🔴 M:🟢 — Official Notion MCP Server by makenotion *(4.5k ⭐)*
 - 📄 🔷 **[dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)** 🧠 R:🟡 M:🟢 — Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators). by dimensionalOS *(3.5k ⭐)*
+- 📚 🔶 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)**  R:🟢 M:🟢 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  by Leonxlnx *(45.7k ⭐)*
 - 🖱️ 🔷 **[mcp-openapi-server](https://github.com/ivo-toby/mcp-openapi-server)** 🤖🖱️🧠 R:🔴 M:🟢 — MCP Server (Model Context Protocol) for turning OpenAPI specifications into a MCP Resource by ivo-toby *(277 ⭐)*
 - 📚 🔷 **[K9i-0/ccpocket](https://github.com/K9i-0/ccpocket)**  R:🟢 M:🟢 — Mobile client for Codex and Claude — control coding agents from your phone via WebSocket bridge by K9i-0 *(911 ⭐)*
 - 📄 🔷 **[microsoft/apm](https://github.com/microsoft/apm)** 🤖🧠 R:🟡 M:🟢 — Agent Package Manager by microsoft *(2.9k ⭐)*
@@ -359,9 +359,9 @@
 - 📚 ⭐ **[ht-mcp](https://github.com/memextech/ht-mcp)**  R:🟡 M:🟠 — Pure Rust implementation of MCP server for headless terminal by memextech *(212 ⭐)*
 - 📄 🔷 **[oisee/vibing-steampunk](https://github.com/oisee/vibing-steampunk)** 🤖 R:🟡 M:🟢 — vs-punk: ADT to MCP bridge - Vibe code in ABAP / AMDP by oisee *(380 ⭐)*
 - 🔌 🔷 **[google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp)** 🤖 R:🔴 M:🟢 — Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tasks, Search & Drive with AI - Comprehensive Google Workspace / G Suite MCP Server & CLI Tool by taylorwilsdon *(2.8k ⭐)*
+- 🧠 🔷 **[mcp-go](https://github.com/mark3labs/mcp-go)** 🧠 R:🔴 M:🟢 — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. by mark3labs *(8.9k ⭐)*
 - 📄 🔷 **[vercel-labs/portless](https://github.com/vercel-labs/portless)** 🤖🧠 R:🟡 M:🟢 — Replace port numbers with stable, named local URLs. For humans and agents. by vercel-labs *(9.8k ⭐)*
 - 📄 🔷 **[github/copilot-sdk](https://github.com/github/copilot-sdk)** 🤖🧠 R:🟡 M:🟢 — Multi-platform SDK for integrating GitHub Copilot Agent into apps and services by github *(9.4k ⭐)*
-- 🧠 🔷 **[mcp-go](https://github.com/mark3labs/mcp-go)** 🧠 R:🔴 M:🟢 — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. by mark3labs *(8.9k ⭐)*
 - 📚 🔷 **[Unity-Skills](https://github.com/Besty0728/Unity-Skills)**  R:🔴 M:🟢 — AI automation skills specifically designed for Unity by Besty0728 *(1.3k ⭐)*
 - 🧠 🔷 **[vexa](https://github.com/Vexa-ai/vexa)** 🤖🧠 R:🟡 M:🟢 — Open-source meeting transcription API for Google Meet, Microsoft Teams & Zoom. Auto-join bots, real-time WebSocket transcripts, MCP server for AI agents. Self-host or use hosted SaaS. by Vexa-ai *(2.5k ⭐)*
 - 📚 🔷 **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)**  R:🟢 M:🟢 — The Unofficial and Awesome Home Assistant MCP Server by homeassistant-ai *(3.4k ⭐)*
@@ -488,10 +488,10 @@
 - 📝 🔶 **[freecad-mcp](https://github.com/neka-nat/freecad-mcp)** 🔧 R:🔴 M:🟢 — FreeCAD MCP(Model Context Protocol) server by neka-nat *(1.6k ⭐)*
 - 📚 🔷 **[polymarket-mcp-server](https://github.com/caiovicentino/polymarket-mcp-server)**  R:🔴 M:🟢 — 🤖 AI-Powered MCP Server for Polymarket - Enable Claude to trade prediction markets with 45 tools, real-time monitoring, and enterprise-grade safety features by caiovicentino *(562 ⭐)*
 - 📚 🔶 **[google-deepmind/gemma](https://github.com/google-deepmind/gemma)**  R:🟢 M:🟢 — Gemma open-weight LLM library, from Google DeepMind by google-deepmind *(5.4k ⭐)*
-- 📄 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** 🤖🖱️ R:🟢 M:🟢 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(16k ⭐)*
 - ⌨️ 🔷 **[amp.dev](https://github.com/ampproject/amp.dev)**  R:🟢 M:🟢 — The AMP Project Website. by ampproject *(600 ⭐)*
-- 📚 🔷 **[chandra](https://github.com/datalab-to/chandra)**  R:🟢 M:🟠 — OCR model that handles complex tables, forms, handwriting with full layout. by datalab-to *(11.2k ⭐)*
+- 📄 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** 🤖🖱️ R:🟢 M:🟢 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(16k ⭐)*
 - 🔗 🔷 **[v10](https://github.com/videojs/v10)** 🤖🔧 R:🟢 M:🟢 — Technical preview of Video.js v10 - open source media player framework for Web and React. by videojs *(816 ⭐)*
+- 📚 🔷 **[chandra](https://github.com/datalab-to/chandra)**  R:🟢 M:🟠 — OCR model that handles complex tables, forms, handwriting with full layout. by datalab-to *(11.2k ⭐)*
 - ⌨️ 🔷 **[marketplace](https://github.com/aiskillstore/marketplace)** 🤖🧠 R:🟢 M:🟢 — Security-audited skills for Claude, Codex & Claude Code. One-click install, quality verified. by aiskillstore *(363 ⭐)*
 - 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(1.6k ⭐)*
 - ⌨️ 🔷 **[agentset](https://github.com/agentset-ai/agentset)**  R:🟡 M:🟠 — The open-source RAG platform: built-in citations, deep research, 22+ file formats, partitions, MCP server, and more. by agentset-ai *(2k ⭐)*
@@ -678,8 +678,8 @@
 - 🔌 ⭐ **[gbrain](https://github.com/garrytan/gbrain)** 🤖🧠 R:🔴 M:🟢 — Garry's Opinionated OpenClaw/Hermes Agent Brain by garrytan *(23.3k ⭐)*
 - 🔌 ⭐ **[minutes](https://github.com/silverstein/minutes)**  R:🔴 M:🟢 — Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer. by silverstein *(1.3k ⭐)*
 - ⌨️ ⭐ **[mcp-grafana](https://github.com/grafana/mcp-grafana)** 🤖 R:🟢 M:🟢 — MCP server for Grafana by grafana *(3.2k ⭐)*
-- 📚 🔷 **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)**  R:🟢 M:🟢 — TradingAgents: Multi-Agents LLM Financial Trading Framework by TauricResearch *(86.9k ⭐)*
 - 🖱️ ⭐ **[SurfSense](https://github.com/MODSetter/SurfSense)** 🤖🖱️🧠 R:🔴 M:🟢 — Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9 by MODSetter *(15.4k ⭐)*
+- 📚 🔷 **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)**  R:🟢 M:🟢 — TradingAgents: Multi-Agents LLM Financial Trading Framework by TauricResearch *(86.9k ⭐)*
 - 📚 🔷 **[playwright](https://github.com/microsoft/playwright)**  R:🟢 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(91.1k ⭐)*
 - 🔄 🔷 **[Shadowbroker](https://github.com/BigBodyCobain/Shadowbroker)** 🤖 R:🔴 M:🟢 — Open-source intelligence for the global theater. Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface. Hook an AI agent up to have it parse through data and find previously unseen correlations. The knowledge is available to all but rarely aggregated in the open, until now. by BigBodyCobain *(9.7k ⭐)*
 - 🔌 ⭐ **[agents-observe](https://github.com/simple10/agents-observe)**  R:🔴 M:🟢 — Real-time observability of claude code sessions & multi-agents. by simple10 *(594 ⭐)*
@@ -698,8 +698,8 @@
 - 🔄 ⭐ **[datagouv-mcp](https://github.com/datagouv/datagouv-mcp)** 🔧 R:🔴 M:🟢 — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. by datagouv *(1.6k ⭐)*
 - 🖱️ 🔷 **[signoz](https://github.com/SigNoz/signoz)** 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(30.6k ⭐)*
 - 📚 ⭐ **[erikdarlingdata/PerformanceMonitor](https://github.com/erikdarlingdata/PerformanceMonitor)**  R:🟢 M:🟢 — Free, open-source SQL Server performance monitoring — 32 collectors, real-time alerts, graphical plan viewer, MCP server for AI analysis. Supports SQL 2016-2025, Azure SQL, AWS RDS. by erikdarlingdata *(419 ⭐)*
-- 📚 🔷 **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**  R:🟢 M:🟢 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 by 666ghj *(66.7k ⭐)*
 - 🔄 🔷 **[openobserve](https://github.com/openobserve/openobserve)** 🤖 R:🔴 M:🟢 — Open source observability platform for logs, metrics, traces, frontend monitoring, pipelines and LLM observability. A sophisticated, simple and highly performant alternative to Datadog, Splunk, and Elasticsearch with 140x lower storage costs and single binary deployment. by openobserve *(19.3k ⭐)*
+- 📚 🔷 **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)**  R:🟢 M:🟢 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 by 666ghj *(66.7k ⭐)*
 - 🔗 🔷 **[azure-devops-mcp](https://github.com/microsoft/azure-devops-mcp)** 🔧 R:🟡 M:🟢 — The MCP server for Azure DevOps, bringing the power of Azure DevOps directly to your agents. by microsoft *(1.9k ⭐)*
 - 🔄 🔷 **[open_deep_research](https://github.com/langchain-ai/open_deep_research)** 🤖 R:🔴 M:🟢 — No description by langchain-ai *(12.1k ⭐)*
 - 📄 🔷 **[TokenTracker](https://github.com/mm7894215/TokenTracker)** 🤖🧠 R:🟡 M:🟢 — Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets. by mm7894215 *(726 ⭐)*
@@ -1364,5 +1364,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-08-05 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-08-06 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
