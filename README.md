@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1170-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1173-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-218-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-219-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1170 skills** across 10 skill types · **218** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1050 | 🧠 codex: 352 | 🔧 generic: 88 | 🖱️ cursor: 81 | 📟 cline: 8 | 🏄 windsurf: 6
+**1173 skills** across 10 skill types · **219** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1052 | 🧠 codex: 354 | 🔧 generic: 89 | 🖱️ cursor: 81 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[freebuff](https://github.com/CodebuffAI/freebuff)** 🤖🧠 R:🔴 M:🟢 — The free coding agent by CodebuffAI *(8.5k ⭐)* — discovered Aug 7
+- 🔄 🔷 **[swarm-forge](https://github.com/unclebob/swarm-forge)** 🔧 R:🔴 M:🟢 — A simple tool for coordinating several AI agents. by unclebob *(1.7k ⭐)* — discovered Aug 7
+- 🧠 ⭐ **[prime-agent](https://github.com/PrimeIntellect-ai/prime-agent)** 🤖🧠 R:🔴 M:🟢 — A self-improving RLM agent for coding workflows and long-running autonomous tasks. by PrimeIntellect-ai *(5.2k ⭐)* — discovered Aug 7
 - 🔄 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** 🤖 R:🔴 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4k ⭐)* — discovered Aug 6
 - 🔌 🔷 **[datadog-agent](https://github.com/DataDog/datadog-agent)** 🤖🖱️🧠 R:🟡 M:🟢 — Main repository for Datadog Agent by DataDog *(3.7k ⭐)* — discovered Aug 6
-- 🧠 🔷 **[computer](https://github.com/cloudflare/computer)** 🤖🧠 R:🔴 M:🟢 — Give your agent a computer 👾 by cloudflare *(2.4k ⭐)* — discovered Aug 5
-- 🧠 🔷 **[AgentRecall](https://github.com/zszz3/AgentRecall)** 🤖🧠 R:🔴 M:🟢 — No description by zszz3 *(699 ⭐)* — discovered Aug 5
-- 🖱️ ⭐ **[tau2-bench](https://github.com/sierra-research/tau2-bench)** 🖱️🧠 R:🔴 M:🟢 — τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains by sierra-research *(1.7k ⭐)* — discovered Aug 5
 
 ---
 
@@ -274,6 +274,7 @@
 - 🔄 🔷 **[dapr](https://github.com/dapr/dapr)** 🔧 R:🟡 M:🟢 — Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. by dapr *(25.8k ⭐)*
 - 📚 🔶 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)**  R:🟢 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(39.2k ⭐)*
 - 📄 🔷 **[LMCache/LMCache](https://github.com/LMCache/LMCache)** 🤖🖱️🧠 R:🟡 M:🟢 — LMCache: Supercharge Your LLM with the Fastest KV Cache Layer by LMCache *(9.2k ⭐)*
+- 🧠 🔷 **[computer](https://github.com/cloudflare/computer)** 🤖🧠 R:🔴 M:🟢 — Give your agent a computer 👾 by cloudflare *(2.4k ⭐)*
 - ⌨️ 🔷 **[ccs](https://github.com/kaitranntt/ccs)**  R:🔴 M:🟢 — Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. by kaitranntt *(2.5k ⭐)*
 - 📚 🔷 **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)**  R:🟢 M:🟢 — OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. by volcengine *(25.8k ⭐)*
 - 📚 🔷 **[greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)**  R:🟢 M:🟢 — a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task by greyhaven-ai *(1.2k ⭐)*
@@ -630,6 +631,7 @@
 - 📄 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** 🤖 R:🟢 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(25.4k ⭐)*
 - 📚 ⭐ **[multi-agent-shogun](https://github.com/yohey-w/multi-agent-shogun)**  R:⚫ M:🟢 — Samurai-inspired multi-agent system for Claude Code. Orchestrate parallel AI tasks via tmux with shogun → karo → ashigaru hierarchy. by yohey-w *(1.3k ⭐)*
 - 🔗 🔷 **[inspector](https://github.com/modelcontextprotocol/inspector)** 🤖🧠 R:🔴 M:🟢 — Visual testing tool for MCP servers by modelcontextprotocol *(10.3k ⭐)*
+- 🖱️ ⭐ **[tau2-bench](https://github.com/sierra-research/tau2-bench)** 🖱️🧠 R:🔴 M:🟢 — τ-Bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains by sierra-research *(1.7k ⭐)*
 - 📚 🔷 **[vercel-labs/agent-browser](https://github.com/vercel-labs/agent-browser)**  R:🟢 M:🟢 — Browser automation CLI for AI agents by vercel-labs *(36.3k ⭐)*
 - 🔗 🔷 **[vscode](https://github.com/microsoft/vscode)** 🤖🧠 R:🟡 M:🟢 — Visual Studio Code by microsoft *(186.5k ⭐)*
 - 🔗 🔷 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🤖🔧 R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(43.8k ⭐)*
@@ -775,6 +777,7 @@
 - 📄 🔷 **[Chorus](https://github.com/Chorus-AIDLC/Chorus)** 🤖🧠 R:🟡 M:🟢 — The Agent Harness for AI-Human Collaboration, inspired by the AI-DLC (AI-Driven Development Lifecycle) by Chorus-AIDLC *(1k ⭐)*
 - 📄 🔷 **[nex-crm/wuphf](https://github.com/nex-crm/wuphf)** 🖱️🧠 R:🔴 M:🟢 — WUPHF is a collaborative office of AI employees who build and maintain their own knowledge base to never lose context for the tasks you give them. Supports Claude Code, Codex, OpenClaw and local LLMs via OpenCode. by nex-crm *(1.2k ⭐)*
 - 🔌 ⭐ **[claude-orchestration](https://github.com/mbruhler/claude-orchestration)** 🤖 R:🟡 M:🟢 — Multi-agent workflow orchestration plugin for Claude Code by mbruhler *(216 ⭐)*
+- 🧠 🔷 **[AgentRecall](https://github.com/zszz3/AgentRecall)** 🤖🧠 R:🔴 M:🟢 — No description by zszz3 *(699 ⭐)*
 - 🧠 🔷 **[botmux](https://github.com/deepcoldy/botmux)** 🤖🧠 R:🟡 M:🟢 — Bridge Feishu/Lark to AI coding CLIs — Claude Code, Codex, Gemini, OpenCode… every DM, group or topic spawns its own live-streaming CLI session by deepcoldy *(866 ⭐)*
 - 📄 ⭐ **[phodal/routa](https://github.com/phodal/routa)** 🤖🧠 R:🔴 M:🟢 — Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop. by phodal *(1.7k ⭐)*
 - 🔌 🔷 **[NemoClaw](https://github.com/NVIDIA/NemoClaw)** 🤖🧠 R:🟡 M:🟢 — Run agents like Hermes and OpenClaw more securely inside NVIDIA OpenShell with managed inference by NVIDIA *(21.4k ⭐)*
