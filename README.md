@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1181-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1182-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-220-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1181 skills** across 10 skill types · **220** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1059 | 🧠 codex: 357 | 🔧 generic: 89 | 🖱️ cursor: 81 | 📟 cline: 8 | 🏄 windsurf: 6
+**1182 skills** across 10 skill types · **220** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1060 | 🧠 codex: 358 | 🔧 generic: 89 | 🖱️ cursor: 82 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[Kun](https://github.com/KunAgent/Kun)** 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.1k ⭐)* — discovered Aug 10
 - 🧠 ⭐ **[qm](https://github.com/yc-software/qm)** 🤖🧠 R:🔴 M:🟢 — Multiplayer agent harness for work by yc-software *(12.8k ⭐)* — discovered Aug 10
 - 🧠 🔷 **[godoxy](https://github.com/yusing/godoxy)** 🧠 R:🔴 M:🟢 — High-performance reverse proxy and container orchestrator for self-hosters by yusing *(4k ⭐)* — discovered Aug 9
 - 🧠 🔷 **[octo-web](https://github.com/Mininglamp-OSS/octo-web)** 🤖🧠 R:🔴 M:🟢 — Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX. by Mininglamp-OSS *(582 ⭐)* — discovered Aug 9
 - 🔌 🔷 **[Olares](https://github.com/beclab/Olares)** 🤖 R:🟡 M:🟢 — Open-Source Personal Cloud OS for Always-On Agents by beclab *(5.2k ⭐)* — discovered Aug 8
-- 🔄 🔷 **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🔴 M:🟠 — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. by anthropics *(5.8k ⭐)* — discovered Aug 8
 
 ---
 
@@ -1084,10 +1084,11 @@
 - ⌨️ 🔷 **[Roo-Code](https://github.com/RooCodeInc/Roo-Code)**  R:🟡 M:🟢 — Roo Code gives you a whole dev team of AI agents in your code editor. by RooCodeInc *(24.2k ⭐)*
 - 📚 ⭐ **[sidecar](https://github.com/marcus/sidecar)**  R:🟡 M:🟢 — Use sidecar next to CLI agents for diffs, file trees, conversation history, and task management with td by marcus *(1k ⭐)*
 - ⌨️ 🔷 **[react-doctor](https://github.com/millionco/react-doctor)**  R:🟡 M:🟢 — Let coding agents diagnose and fix your React code by millionco *(12.8k ⭐)*
+- 🔄 🔷 **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🔴 M:🟠 — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. by anthropics *(5.8k ⭐)*
 - 🔌 ⭐ **[claude-delegator](https://github.com/jarrodwatts/claude-delegator)**  R:🔴 M:🟠 — Delegate tasks to Codex and Gemini directly from within Claude Code. by jarrodwatts *(973 ⭐)*
 - 🔌 🔷 **[agentguard](https://github.com/GoPlusSecurity/agentguard)** 🤖 R:🟡 M:🟢 — Security guard for AI agents — blocks malicious skills, prevents data leaks, protects secrets. 24 detection rules, runtime action evaluation, trust registry. by GoPlusSecurity *(428 ⭐)*
 - ⌨️ 🔷 **[claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)** 🤖 R:🟢 M:🟢 — Claude Code専用の開発ハーネス - 自律的なPlan→Work→Reviewサイクルで高品質な開発を実現 by Chachamaru127 *(2.8k ⭐)*
-- 📚 🔷 **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)**  R:🟢 M:🟢 — The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. by rohitg00 *(2.1k ⭐)*
+- 📚 🔷 **[rohitg00/awesome-claude-code-toolkit](https://github.com/rohitg00/awesome-claude-code-toolkit)**  R:🟢 M:🟠 — The most comprehensive toolkit for Claude Code -- 135 agents, 35 curated skills, 42 commands, 176+ plugins, 20 hooks, 15 rules, 7 templates, 14 MCP configs, 26 companion apps, 52 ecosystem entries, and more. by rohitg00 *(2.1k ⭐)*
 - 🧠 🔷 **[pr-agent](https://github.com/The-PR-Agent/pr-agent)** 🧠 R:🔴 M:🟢 — 🚀 PR Agent: The Original Open-Source PR Reviewer.  This project It is not the Qodo free tier. by The-PR-Agent *(11.8k ⭐)*
 - 📚 🔷 **[mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)**  R:🟢 M:🟢 — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours! by mergisi *(3.7k ⭐)*
 - 📚 🔷 **[affaan-m/agentshield](https://github.com/affaan-m/agentshield)**  R:🟢 M:🟢 — AI agent security scanner. Detect vulnerabilities in agent configurations, MCP servers, and tool permissions. Available as CLI, GitHub Action, ECC plugin, and GitHub App integration. 🛡️ by affaan-m *(882 ⭐)*
