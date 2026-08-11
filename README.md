@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1185-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1186-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-221-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1185 skills** across 10 skill types · **221** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1062 | 🧠 codex: 361 | 🔧 generic: 89 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1186 skills** across 10 skill types · **221** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.7M ⭐. Platforms: 🤖 claude code: 1063 | 🧠 codex: 361 | 🔧 generic: 89 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[eigent](https://github.com/eigent-ai/eigent)** 🤖 R:🔴 M:🟢 — Eigent: The Open Source Cowork Desktop - Local and Free Alternative to Claude Cowork and Codex by eigent-ai *(14.9k ⭐)* — discovered Aug 11
 - 🧠 🔷 **[49Agents](https://github.com/alpbahadur/49Agents)** 🤖🧠 R:🔴 M:🟢 — Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluster via Tailscale OR connect to app.49agents.com (coming soon) by alpbahadur *(371 ⭐)* — discovered Aug 10
 - 🖱️ ⭐ **[kandev](https://github.com/kdlbs/kandev)** 🤖🖱️🧠 R:🔴 M:🟢 — AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. by kdlbs *(565 ⭐)* — discovered Aug 10
 - 🧠 🔷 **[deepteam](https://github.com/confident-ai/deepteam)** 🧠 R:🟡 M:🟢 — DeepTeam is a framework to red team LLMs and AI agents. by confident-ai *(2.4k ⭐)* — discovered Aug 10
 - 🧠 🔷 **[Kun](https://github.com/KunAgent/Kun)** 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.1k ⭐)* — discovered Aug 10
-- 🧠 ⭐ **[qm](https://github.com/yc-software/qm)** 🤖🧠 R:🔴 M:🟢 — Multiplayer agent harness for work by yc-software *(12.8k ⭐)* — discovered Aug 10
 
 ---
 
@@ -1206,6 +1206,7 @@
 - 📄 ⭐ **[agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw)** 🤖🧠 R:🟡 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(4.9k ⭐)*
 - 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🔴 M:🟢 — Claude Desktop for Linux by aaddrick *(5k ⭐)*
 - 🧠 ⭐ **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🔴 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(72.4k ⭐)*
+- 🧠 ⭐ **[qm](https://github.com/yc-software/qm)** 🤖🧠 R:🔴 M:🟢 — Multiplayer agent harness for work by yc-software *(12.8k ⭐)*
 - 🔌 ⭐ **[agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** 🤖🧠 R:🔴 M:🟢 — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. by microsoft *(4.6k ⭐)*
 - ⌨️ ⭐ **[Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)**  R:🟡 M:🟢 — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 by lbjlaq *(29.8k ⭐)*
 - 🔌 🔷 **[skypilot](https://github.com/skypilot-org/skypilot)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. by skypilot-org *(10.4k ⭐)*
