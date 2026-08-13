@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1195-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1196-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-226-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-227-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1195 skills** across 10 skill types · **226** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.8M ⭐. Platforms: 🤖 claude code: 1071 | 🧠 codex: 368 | 🔧 generic: 89 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1196 skills** across 10 skill types · **227** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.8M ⭐. Platforms: 🤖 claude code: 1072 | 🧠 codex: 369 | 🔧 generic: 89 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 ⭐ **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** 🤖🧠 R:🔴 M:🟢 — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. by NVIDIA-NeMo *(1.1k ⭐)* — discovered Aug 13
 - 🔄 🔷 **[semaphore](https://github.com/semaphoreui/semaphore)** 🤖 R:🟡 M:🟢 — Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. by semaphoreui *(14k ⭐)* — discovered Aug 13
 - 🔌 🔷 **[md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)** 🤖🧠 R:🔴 M:🟢 — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 by geekjourneyx *(3.5k ⭐)* — discovered Aug 13
 - 🔗 🔷 **[compozy](https://github.com/compozy/compozy)** 🤖🧠 R:🟡 M:🟢 — An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. by compozy *(2.5k ⭐)* — discovered Aug 13
 - 🧠 ⭐ **[Automodel](https://github.com/NVIDIA-NeMo/Automodel)** 🤖🧠 R:🔴 M:🟢 — 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support by NVIDIA-NeMo *(817 ⭐)* — discovered Aug 13
-- 🧠 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** 🧠 R:🔴 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.2k ⭐)* — discovered Aug 12
 
 ---
 
@@ -1185,6 +1185,7 @@
 ## 📋 Runbooks
 
 - 🔌 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🟡 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(10.1k ⭐)*
+- 🧠 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** 🧠 R:🔴 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.2k ⭐)*
 - 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)*
 - 📄 🔷 **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** 🤖 R:🔴 M:🟢 — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code. by shuvonsec *(3.4k ⭐)*
 - 📚 🔷 **[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)**  R:🟢 M:🟢 — Giving Kubernetes Superpowers to everyone by k8sgpt-ai *(7.9k ⭐)*
