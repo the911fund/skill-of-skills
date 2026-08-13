@@ -120,7 +120,7 @@
 - 🔄 🔷 **[rust-sdk](https://github.com/modelcontextprotocol/rust-sdk)** 🔧 R:🔴 M:🟢 — The official Rust SDK for the Model Context Protocol by modelcontextprotocol *(3.7k ⭐)*
 - 📄 ⭐ **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** 🤖🧠 R:🟡 M:🟢 — #1 Persistent memory for AI coding agents based on real-world benchmarks by rohitg00 *(23.2k ⭐)*
 - 🧠 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** 🤖🧠 R:🔴 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(45.6k ⭐)*
-- 📦 ⭐ **[video-use](https://github.com/browser-use/video-use)** 🤖 R:🔴 M:🟢 — Edit videos with coding agents by browser-use *(10.4k ⭐)*
+- 📦 ⭐ **[video-use](https://github.com/browser-use/video-use)** 🤖 R:🔴 M:🟠 — Edit videos with coding agents by browser-use *(10.4k ⭐)*
 - 📚 🔷 **[Lum1104/Understand-Anything](https://github.com/Lum1104/Understand-Anything)**  R:🟢 M:🟢 — Graphs that teach > graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more. by Lum1104 *(62.4k ⭐)*
 - 🔌 ⭐ **[headroom](https://github.com/headroomlabs-ai/headroom)** 🤖 R:🔴 M:🟢 — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server. by headroomlabs-ai *(64.3k ⭐)*
 - 📚 ⭐ **[xingkongliang/skills-manager](https://github.com/xingkongliang/skills-manager)**  R:🟢 M:🟢 — A lightweight desktop app to manage, sync, and organize AI agent skills across 15+ coding tools — Cursor, Claude Code, Codex, Copilot, and more. by xingkongliang *(2.3k ⭐)*
@@ -607,7 +607,7 @@
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:🟠 — SOFAArk is a light-weight，java based classloader isolation framework. by sofastack *(1.6k ⭐)*
 - 📄 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟢 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.1k ⭐)*
 - 📄 🔶 **[open-responses](https://github.com/open-responses/open-responses)** 🤖 R:🟡 M:🔴 — Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc) by open-responses *(221 ⭐)*
-- 📄 🔶 **[muffin](https://github.com/klen/muffin)** 🧠 R:🟢 M:🟢 — Muffin is a fast, simple and asyncronous web-framework for Python 3 by klen *(691 ⭐)*
+- 📄 🔶 **[muffin](https://github.com/klen/muffin)** 🧠 R:🟢 M:🟠 — Muffin is a fast, simple and asyncronous web-framework for Python 3 by klen *(691 ⭐)*
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(476 ⭐)*
 - 📄 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(324 ⭐)*
 - 📚 🔶 **[agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🔴 M:🟠 — A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. by cloudflare *(317 ⭐)*
