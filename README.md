@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1196-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1198-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-227-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1196 skills** across 10 skill types · **227** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.8M ⭐. Platforms: 🤖 claude code: 1072 | 🧠 codex: 369 | 🔧 generic: 89 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1198 skills** across 10 skill types · **227** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.8M ⭐. Platforms: 🤖 claude code: 1072 | 🧠 codex: 369 | 🔧 generic: 91 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[ToolJet](https://github.com/ToolJet/ToolJet)** 🔧 R:🟡 M:🟢 — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 by ToolJet *(38.8k ⭐)* — discovered Aug 14
+- 📚 🔶 **[awesome-deepseek-agent](https://github.com/deepseek-ai/awesome-deepseek-agent)** 🔧 R:🔴 M:🟢 — No description by deepseek-ai *(5.5k ⭐)* — discovered Aug 14
 - 🧠 ⭐ **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** 🤖🧠 R:🔴 M:🟢 — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. by NVIDIA-NeMo *(1.1k ⭐)* — discovered Aug 13
 - 🔄 🔷 **[semaphore](https://github.com/semaphoreui/semaphore)** 🤖 R:🟡 M:🟢 — Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools. by semaphoreui *(14k ⭐)* — discovered Aug 13
 - 🔌 🔷 **[md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)** 🤖🧠 R:🔴 M:🟢 — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 by geekjourneyx *(3.5k ⭐)* — discovered Aug 13
-- 🔗 🔷 **[compozy](https://github.com/compozy/compozy)** 🤖🧠 R:🟡 M:🟢 — An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. by compozy *(2.5k ⭐)* — discovered Aug 13
-- 🧠 ⭐ **[Automodel](https://github.com/NVIDIA-NeMo/Automodel)** 🤖🧠 R:🔴 M:🟢 — 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support by NVIDIA-NeMo *(817 ⭐)* — discovered Aug 13
 
 ---
 
@@ -180,6 +180,7 @@
 - 🖱️ 🔷 **[langflow](https://github.com/langflow-ai/langflow)** 🤖🖱️🧠 R:🟡 M:🟢 — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. by langflow-ai *(150.4k ⭐)*
 - 📄 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** 🧠 R:🟡 M:🟢 — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ by AstrBotDevs *(34.8k ⭐)*
 - 📄 🔷 **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** 🤖 R:🔴 M:🟢 — Browser Harness | Self-healing harness that enables LLMs to complete any task. by browser-use *(15k ⭐)*
+- 🧠 ⭐ **[Automodel](https://github.com/NVIDIA-NeMo/Automodel)** 🤖🧠 R:🔴 M:🟢 — 🚀 Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support by NVIDIA-NeMo *(817 ⭐)*
 - 📄 ⭐ **[ntm](https://github.com/Dicklesworthstone/ntm)**  R:🔴 M:🟢 — Named Tmux Manager: spawn, tile, and coordinate multiple AI coding agents (Claude, Codex, Gemini) across tmux panes with a TUI command palette by Dicklesworthstone *(356 ⭐)*
 - 🧠 ⭐ **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(3.6k ⭐)*
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)**  R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(99.3k ⭐)*
@@ -606,7 +607,7 @@
 - 📚 🔶 **[web-performance](https://github.com/w3c/web-performance)**  R:🟢 M:🟢 — W3C Web Performance Working Group repo by w3c *(433 ⭐)*
 - 🔌 🔶 **[flyai-skill](https://github.com/alibaba-flyai/flyai-skill)**  R:🟢 M:🟠 — fly ai agent skill by alibaba-flyai *(743 ⭐)*
 - 📄 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** 🤖 R:🟢 M:🟠 — SOFAArk is a light-weight，java based classloader isolation framework. by sofastack *(1.6k ⭐)*
-- 📄 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟢 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.1k ⭐)*
+- 📄 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟠 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.1k ⭐)*
 - 📄 🔶 **[open-responses](https://github.com/open-responses/open-responses)** 🤖 R:🟡 M:🔴 — Self-hosted alternative to OpenAI's Responses API compatible with Agents SDK and works with all model providers (Claude/R1/Qwen/Ollama etc) by open-responses *(221 ⭐)*
 - 📄 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(476 ⭐)*
 - 📄 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(324 ⭐)*
@@ -1219,6 +1220,7 @@
 - ⌨️ ⭐ **[Antigravity-Manager](https://github.com/lbjlaq/Antigravity-Manager)**  R:🟡 M:🟢 — Professional Antigravity Account Manager & Switcher. One-click seamless account switching for Antigravity Tools. Built with Tauri v2 + React (Rust).专业的 Antigravity 账号管理与切换工具。为 Antigravity 提供一键无缝账号切换功能。 by lbjlaq *(29.8k ⭐)*
 - 🔌 🔷 **[skypilot](https://github.com/skypilot-org/skypilot)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. by skypilot-org *(10.4k ⭐)*
 - 🧠 ⭐ **[ODS](https://github.com/Osmantic/ODS)** 🤖🧠 R:🔴 M:🟢 — Turn your PC, Mac, or Linux box into an AI server.  LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. by Osmantic *(3.3k ⭐)*
+- 🔗 🔷 **[compozy](https://github.com/compozy/compozy)** 🤖🧠 R:🟡 M:🟢 — An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. by compozy *(2.5k ⭐)*
 - 🧠 🔷 **[godoxy](https://github.com/yusing/godoxy)** 🧠 R:🔴 M:🟢 — High-performance reverse proxy and container orchestrator for self-hosters by yusing *(4k ⭐)*
 - 🔌 🔷 **[Netcatty](https://github.com/binaricat/Netcatty)** 🤖🧠 R:🔴 M:🟢 — SSH workspace, SFTP, and terminals in one by binaricat *(3.7k ⭐)*
 - 📚 🔷 **[bifrost](https://github.com/maximhq/bifrost)**  R:🟡 M:🟢 — Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & <100 µs overhead at 5k RPS. by maximhq *(5.9k ⭐)*
