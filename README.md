@@ -658,7 +658,7 @@
 - 🔗 🔷 **[langwatch](https://github.com/langwatch/langwatch)** 🤖🔧 R:🟢 M:🟢 — The platform for LLM evaluations and AI agent testing by langwatch *(3.3k ⭐)*
 - 🧠 🔷 **[hunk](https://github.com/modem-dev/hunk)** 🤖🧠 R:🟡 M:🟢 — Review-first terminal diff viewer for agentic coders by modem-dev *(5.3k ⭐)*
 - 🧠 ⭐ **[mcp-playwright](https://github.com/executeautomation/mcp-playwright)** 🧠 R:🟡 M:🟠 — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 by executeautomation *(5.6k ⭐)*
-- 📄 🔷 **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** 🧠 R:🔴 M:🟢 — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra by bytedance *(36.6k ⭐)*
+- 📄 🔷 **[bytedance/UI-TARS-desktop](https://github.com/bytedance/UI-TARS-desktop)** 🧠 R:🔴 M:🟠 — The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra by bytedance *(36.6k ⭐)*
 - 🔄 🔷 **[harvey-labs](https://github.com/harveyai/harvey-labs)** 🤖 R:🟡 M:🟢 — A benchmark built to evaluate and improve agent capabilities for supporting legal work. by harveyai *(645 ⭐)*
 - 📚 ⭐ **[Intent-Lab/VisionClaw](https://github.com/Intent-Lab/VisionClaw)**  R:🟢 M:🟠 — Real-time AI assistant for Meta Ray-Ban smart glasses -- voice + vision + agentic actions via Gemini Live and OpenClaw by Intent-Lab *(2.4k ⭐)*
 - 📄 🔷 **[trailblaze](https://github.com/block/trailblaze)** 🤖 R:🟡 M:🟢 — AI-driven UI testing framework. by block *(237 ⭐)*
