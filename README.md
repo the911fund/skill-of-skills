@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1209-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1210-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-232-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1209 skills** across 10 skill types · **232** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.9M ⭐. Platforms: 🤖 claude code: 1080 | 🧠 codex: 375 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1210 skills** across 10 skill types · **232** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.9M ⭐. Platforms: 🤖 claude code: 1081 | 🧠 codex: 375 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔗 🔷 **[pipeshub-ai](https://github.com/pipeshub-ai/pipeshub-ai)** 🤖 R:🔴 M:🟢 — PipesHub is an open-source fully extensible AI context layer that unifies your business data for explainable enterprise search and agentic workflow automation. by pipeshub-ai *(3.4k ⭐)* — discovered Aug 18
 - 📝 ⭐ **[defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** 🤖 R:🟡 M:🟢 — Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize by anthropics *(7.3k ⭐)* — discovered Aug 17
 - 🧠 ⭐ **[zero](https://github.com/Gitlawb/zero)** 🧠 R:🔴 M:🟢 — The coding agent that answers to you, your model, your machine, your rules. by Gitlawb *(1.5k ⭐)* — discovered Aug 16
 - 📚 🔶 **[ai-data-extraction](https://github.com/0xSero/ai-data-extraction)** 🔧 R:🔴 M:🟠 — extract all your personal data history from cursor, codex, claude-code, windsurf, and trae by 0xSero *(1.1k ⭐)* — discovered Aug 16
 - 🧠 🔷 **[munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** 🤖🧠 R:🔴 M:🟢 — local multi-agent harness by chaitanyagiri *(1.2k ⭐)* — discovered Aug 16
-- 🧠 ⭐ **[ai-memory](https://github.com/akitaonrails/ai-memory)** 🤖🧠 R:🔴 M:🟢 — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors by akitaonrails *(1.5k ⭐)* — discovered Aug 16
 
 ---
 
@@ -144,6 +144,7 @@
 - 🧠 ⭐ **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** 🤖🧠 R:🔴 M:🟢 — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. by NVIDIA-NeMo *(1.1k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(8.7k ⭐)*
 - 📚 ⭐ **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)**  R:🟢 M:🟢 — Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts by rudrankriyam *(4.8k ⭐)*
+- 🧠 ⭐ **[ai-memory](https://github.com/akitaonrails/ai-memory)** 🤖🧠 R:🔴 M:🟢 — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors by akitaonrails *(1.5k ⭐)*
 - 📚 🔷 **[addyosmani/agent-skills](https://github.com/addyosmani/agent-skills)**  R:🟢 M:🟢 — Production-grade engineering skills for AI coding agents. by addyosmani *(61.8k ⭐)*
 - ⌨️ ⭐ **[OmniRoute](https://github.com/diegosouzapw/OmniRoute)**  R:🔴 M:🟢 — OmniRoute is an AI gateway for multi-provider LLMs: an OpenAI-compatible endpoint with smart routing, load balancing, retries, and fallbacks. Add policies, rate limits, caching, and observability for reliable, cost-aware inference. by diegosouzapw *(6.4k ⭐)*
 - 🔌 ⭐ **[TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** 🤖 R:🔴 M:🟢 — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. by TencentCloud *(5.9k ⭐)*
@@ -943,7 +944,7 @@
 - 📄 🔷 **[google-labs-code/design.md](https://github.com/google-labs-code/design.md)** 🤖 R:🟢 M:🟢 — A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system. by google-labs-code *(15.9k ⭐)*
 - 📚 🔷 **[zed](https://github.com/zed-industries/zed)**  R:🟢 M:🟢 — Code at the speed of thought – Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter. by zed-industries *(85.4k ⭐)*
 - 🔌 🔷 **[research-writing-skill](https://github.com/Norman-bury/research-writing-skill)**  R:🟡 M:🟢 — 科研写作助手 (Research Writing Assistant) by Norman-bury *(2.4k ⭐)*
-- 📄 🔷 **[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)** 🤖🧠 R:🟡 M:🟢 — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. by Jeffallan *(10k ⭐)*
+- 📄 🔷 **[Jeffallan/claude-skills](https://github.com/Jeffallan/claude-skills)** 🤖🧠 R:🟡 M:🟠 — 66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer. by Jeffallan *(10k ⭐)*
 - 📚 🔷 **[gpt-researcher](https://github.com/assafelovic/gpt-researcher)**  R:🟡 M:🟢 — An autonomous agent that conducts deep research on any data using any LLM providers. by assafelovic *(27.8k ⭐)*
 - 📄 🔷 **[TheCraigHewitt/seomachine](https://github.com/TheCraigHewitt/seomachine)** 🤖 R:🔴 M:🟠 — A specialized Claude Code workspace for creating long-form, SEO-optimized blog content for any business. This system helps you research, write, analyze, and optimize content that ranks well and serves your target audience. by TheCraigHewitt *(7.1k ⭐)*
 - 🔌 🔷 **[agent-native](https://github.com/BuilderIO/agent-native)** 🤖🧠📟 R:🔴 M:🟢 — A framework for building agent-native applications. by BuilderIO *(677 ⭐)*
@@ -1018,7 +1019,7 @@
 - 📚 🔷 **[GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)**  R:🟢 M:✅ — Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company. by GreenSheep01201 *(1.2k ⭐)*
 - 🔌 🔷 **[interface-design](https://github.com/Dammyjay93/interface-design)** 🤖 R:🟢 M:🟢 — Design engineering for Claude Code. Craft, memory, and enforcement for consistent UI. by Dammyjay93 *(5.1k ⭐)*
 - 🔌 🔷 **[COG-second-brain](https://github.com/huytieu/COG-second-brain)**  R:🔴 M:🟠 — The Easiest Second Brain Setup That Actually Self-Evolves using Claude code - Obsidian - Github by huytieu *(541 ⭐)*
-- 📚 🔷 **[glommer/codemogger](https://github.com/glommer/codemogger)**  R:🟢 M:🟢 — Codemogger is a code indexing library and MCP server for AI coding agents by glommer *(322 ⭐)*
+- 📚 🔷 **[glommer/codemogger](https://github.com/glommer/codemogger)**  R:🟢 M:🟠 — Codemogger is a code indexing library and MCP server for AI coding agents by glommer *(322 ⭐)*
 - ⌨️ 🔷 **[agents-radar](https://github.com/duanyytop/agents-radar)**  R:🟢 M:🟢 — Daily AI ecosystem digest from 10 sources (GitHub, ArXiv, HN, HuggingFace, Product Hunt, Dev.to, Lobste.rs). Bilingual ZH/EN reports via GitHub Actions. by duanyytop *(838 ⭐)*
 - 📄 🔷 **[Master-skill](https://github.com/xr843/Master-skill)** 🤖 R:🟡 M:🟢 — Buddhist Master-skill powered by FoJin — 三大传统（汉传/藏传/南传）祖师大德 AI 教学角色生成器，CBETA / BDRC / SuttaCentral 引证 by xr843 *(286 ⭐)*
 - 📄 🔶 **[SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent)** 🤖🧠 R:🟡 M:🟢 — A personal knowledge base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts knowledge, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed. by SamurAIGPT *(3k ⭐)*
@@ -1259,7 +1260,7 @@
 - 📄 🔷 **[ClawKeeper](https://github.com/SafeAI-Lab-X/ClawKeeper)** 🤖🧠 R:🔴 M:🟢 — ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers (aka The Norton for OpenClaw) by SafeAI-Lab-X *(1k ⭐)*
 - 📚 🔷 **[sandboxed.sh](https://github.com/Th0rgal/sandboxed.sh)**  R:⚫ M:🟢 — Self-hosted orchestrator for AI autonomous agents. Run Claude Code & Open Code in isolated linux workspaces. Manage your skills, configs and encrypted secrets with a git repo. by Th0rgal *(453 ⭐)*
 - 📄 🔷 **[runkids/skillshare](https://github.com/runkids/skillshare)** 🤖🧠 R:🔴 M:🟢 — 📚 Sync skills across all AI CLI tools with one command and simplify team sharing. Supporting Codex, Claude Code, OpenClaw & more by runkids *(2.2k ⭐)*
-- 📚 🔷 **[eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)**  R:🟢 M:🟢 — Sandbox your local AI agents so they can read/write only what they need by eugene1g *(1.9k ⭐)*
+- 📚 🔷 **[eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)**  R:🟢 M:🟠 — Sandbox your local AI agents so they can read/write only what they need by eugene1g *(1.9k ⭐)*
 - 📚 🔷 **[abhi1693/openclaw-mission-control](https://github.com/abhi1693/openclaw-mission-control)**  R:🟢 M:🟠 — AI Agent Orchestration Dashboard - Manage AI agents, assign tasks, and coordinate multi-agent collaboration via OpenClaw Gateway. by abhi1693 *(4k ⭐)*
 - 📝 🔷 **[cursor-byok](https://github.com/leookun/cursor-byok)** 🤖 R:🟡 M:🟢 — Infinite BYOK in Cursor  https://github.com/leookun/cursor-byok/releases by leookun *(1.5k ⭐)*
 - 🔗 🔷 **[claude-code-webui](https://github.com/sugyan/claude-code-webui)** 🤖🔧 R:🟢 M:🟢 — Web-based interface for Claude CLI with streaming chat responses by sugyan *(1.1k ⭐)*
