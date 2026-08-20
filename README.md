@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1217-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1218-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-236-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1217 skills** across 10 skill types · **236** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.9M ⭐. Platforms: 🤖 claude code: 1088 | 🧠 codex: 380 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1218 skills** across 10 skill types · **236** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 13.9M ⭐. Platforms: 🤖 claude code: 1089 | 🧠 codex: 381 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[vendo](https://github.com/runvendo/vendo)** 🤖🧠 R:🟡 M:🟢 — Embedded agents your customers use to automate work, build views, and connect their tools. by runvendo *(488 ⭐)* — discovered Aug 20
 - 🔌 ⭐ **[pipecat](https://github.com/pipecat-ai/pipecat)** 🤖🧠 R:🔴 M:🟢 — Open Source framework for voice agents, multimodal apps, and realtime AI. Maintained by Daily and the community. by pipecat-ai *(14.3k ⭐)* — discovered Aug 20
 - 🔄 🔷 **[maka](https://github.com/apache/maka)** 🤖 R:🔴 M:🟢 — Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log. by apache *(1.8k ⭐)* — discovered Aug 20
 - 🧠 🔷 **[magnitude](https://github.com/magnitudedev/magnitude)** 🤖🧠 R:🟡 M:🟢 — Open source agent with local models built in. Fully private and offline. Works out of the box on any hardware. by magnitudedev *(1.4k ⭐)* — discovered Aug 20
 - 🧠 ⭐ **[AI-Infra-Guard](https://github.com/Tencent/AI-Infra-Guard)** 🤖🧠 R:🔴 M:🟢 — A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation. by Tencent *(4.8k ⭐)* — discovered Aug 20
-- 🔌 ⭐ **[ongrid](https://github.com/ongridio/ongrid)** 🤖🧠 R:🟡 M:🟢 — An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. by ongridio *(737 ⭐)* — discovered Aug 19
 
 ---
 
@@ -1205,6 +1205,7 @@
 - 🔌 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🟡 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(10.1k ⭐)*
 - 🧠 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** 🧠 R:🔴 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.2k ⭐)*
 - 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)*
+- 🔌 ⭐ **[ongrid](https://github.com/ongridio/ongrid)** 🤖🧠 R:🟡 M:🟢 — An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. by ongridio *(737 ⭐)*
 - 📄 🔷 **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** 🤖 R:🔴 M:🟢 — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code. by shuvonsec *(3.4k ⭐)*
 - 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** 🤖🧠 R:🟡 M:🟢 — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(433 ⭐)*
 - 🔄 ⭐ **[HALO](https://github.com/context-labs/HALO)** 🤖 R:🔴 M:🟢 — Hierarchal Agent Loop Optimizer by context-labs *(940 ⭐)*
