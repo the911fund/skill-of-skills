@@ -564,7 +564,7 @@
 - 📄 🔷 **[waldzell-mcp](https://github.com/waldzellai/waldzell-mcp)** 🤖 R:🔴 M:🟠 — Waldzell AI's monorepo of MCP servers. Use in Claude Desktop, Cline, Roo Code, and more! by waldzellai *(203 ⭐)*
 - 🔄 🔷 **[obsidian-claude-code](https://github.com/Roasbeef/obsidian-claude-code)** 🤖 R:🔴 M:🟠 — A native Obsidian plugin that embeds Claude as an AI assistant directly within your vault. by Roasbeef *(207 ⭐)*
 - 📄 🔷 **[webgpu-claude-skill](https://github.com/dgreenheck/webgpu-claude-skill)** 🤖 R:🟢 M:🟠 — A Claude skill for developing WebGPU applications with Three.js by dgreenheck *(1k ⭐)*
-- 📚 🔶 **[reader](https://github.com/jina-ai/reader)**  R:🟢 M:🟢 — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ by jina-ai *(11.3k ⭐)*
+- 📚 🔶 **[reader](https://github.com/jina-ai/reader)**  R:🟢 M:🟠 — Convert any URL to an LLM-friendly input with a simple prefix https://r.jina.ai/ by jina-ai *(11.3k ⭐)*
 - 🔄 🔷 **[mcptools](https://github.com/f/mcptools)** 🔧 R:🔴 M:🟠 — A command-line interface for interacting with MCP (Model Context Protocol) servers using both stdio and HTTP transport. by f *(1.6k ⭐)*
 - 📚 🔶 **[ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap)**  R:🟢 M:🟠 — No description by ChinaSiro *(9.4k ⭐)*
 - 📄 🔶 **[regipy](https://github.com/mkorman90/regipy)** 🤖 R:🟢 M:🟢 — Regipy is an os independent python library for parsing offline registry hives by mkorman90 *(276 ⭐)*
