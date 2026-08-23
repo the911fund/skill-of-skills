@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1228-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1230-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-238-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1228 skills** across 10 skill types · **238** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14M ⭐. Platforms: 🤖 claude code: 1097 | 🧠 codex: 389 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
+**1230 skills** across 10 skill types · **238** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14M ⭐. Platforms: 🤖 claude code: 1099 | 🧠 codex: 390 | 🔧 generic: 92 | 🖱️ cursor: 83 | 📟 cline: 8 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔗 🔷 **[openhuman](https://github.com/tinyhumansai/openhuman)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. by tinyhumansai *(36.5k ⭐)* — discovered Aug 23
+- 🔌 🔷 **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** 🤖 R:🔴 M:🟢 — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 by freestylefly *(12.4k ⭐)* — discovered Aug 23
 - 🧠 🔷 **[tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** 🧠 R:🔴 M:🟢 — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目 by shy3130 *(3.5k ⭐)* — discovered Aug 23
 - 🔌 🔷 **[claude-plugins-community](https://github.com/anthropics/claude-plugins-community)** 🤖 R:🟡 M:🟢 — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. by anthropics *(570 ⭐)* — discovered Aug 22
 - 🧠 🔷 **[tickflow-stock-panel](https://github.com/shy3130/tickflow-stock-panel)** 🧠 R:🔴 M:🟢 — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目 by shy3130 *(3.5k ⭐)* — discovered Aug 22
-- 🧠 ⭐ **[club-3090](https://github.com/noonghunna/club-3090)** 🤖🧠 R:🔴 M:🟢 — Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards. by noonghunna *(2k ⭐)* — discovered Aug 22
-- 🔌 🔷 **[voyager](https://github.com/Nagi-ovo/voyager)** 🤖🧠 R:🟡 M:🟢 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 by Nagi-ovo *(19.8k ⭐)* — discovered Aug 22
 
 ---
 
@@ -1146,7 +1146,7 @@
 - 📚 🔶 **[BehiSecc/awesome-claude-skills](https://github.com/BehiSecc/awesome-claude-skills)**  R:🟢 M:🟢 — A curated list of Claude Skills. by BehiSecc *(9.5k ⭐)*
 - 📄 🔶 **[programing-best-practices](https://github.com/dereknguyen269/programing-best-practices)** 🤖 R:🟢 M:🟠 — Awesome Programming Best Practices for Beginners by dereknguyen269 *(661 ⭐)*
 - 📚 🔶 **[chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)**  R:🟢 M:🟠 — 🔥 A collection of the newest Claude Code open source by chauncygu *(2.6k ⭐)*
-- 📚 🔶 **[ChYing](https://github.com/yhy0/ChYing)**  R:🔴 M:🟢 — 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like application. by yhy0 *(705 ⭐)*
+- 📚 🔶 **[ChYing](https://github.com/yhy0/ChYing)**  R:🔴 M:🟠 — 承影，愿你在光影之间，找到属于自己的锋芒。开源的类 BurpSuite 应用 ChYing — may you find your own edge between light and shadow. An open-source, BurpSuite-like application. by yhy0 *(705 ⭐)*
 - 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)**  R:🟢 M:🟢 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.2k ⭐)*
 - 📚 🔶 **[fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills)**  R:🟢 M:🟠 — Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com by fleurytian *(294 ⭐)*
 - 📚 🔶 **[new-silvermoon/awesome-android-agent-skills](https://github.com/new-silvermoon/awesome-android-agent-skills)**  R:🟢 M:🟠 — A collection of standardized Agent Skills to teach GitHub Copilot, Claude, Gemini and Cursor about modern Android development (Kotlin, Jetpack Compose, etc.). by new-silvermoon *(854 ⭐)*
@@ -1240,6 +1240,7 @@
 - 🔌 ⭐ **[agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit)** 🤖🧠 R:🔴 M:🟢 — AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10. by microsoft *(4.6k ⭐)*
 - 🔌 ⭐ **[anolisa](https://github.com/alibaba/anolisa)** 🤖🧠 R:🔴 M:🟢 — ANOLISA (Agentic Nexus Operating Layer & Interface System Architecture) | Agentic OS with runtime, security, observability, and Tokenless response compression for lower token usage and cost. by alibaba *(376 ⭐)*
 - 📄 ⭐ **[agentscope-ai/HiClaw](https://github.com/agentscope-ai/HiClaw)** 🤖🧠 R:🟡 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(4.9k ⭐)*
+- 🧠 ⭐ **[club-3090](https://github.com/noonghunna/club-3090)** 🤖🧠 R:🔴 M:🟢 — Community recipes for serving LLMs on RTX 3090/4090/5090 CUDA gpus. Multi-engine (vLLM, llama.cpp, ik_llama) and model-agnostic. Currently shipping Qwen3.6-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1× and 2× cards. by noonghunna *(2k ⭐)*
 - 📄 ⭐ **[aaddrick/claude-desktop-debian](https://github.com/aaddrick/claude-desktop-debian)** 🤖🧠 R:🔴 M:🟢 — Claude Desktop for Linux by aaddrick *(5k ⭐)*
 - 🧠 ⭐ **[daytona](https://github.com/daytonaio/daytona)** 🤖🧠 R:🔴 M:🟢 — Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code by daytonaio *(72.4k ⭐)*
 - 🔗 🔷 **[compozy](https://github.com/compozy/compozy)** 🤖🧠 R:🟡 M:🟢 — An operating system for AI agents. Plug in the agent CLIs you already use (Claude Code, Codex, Gemini CLI, Cursor) and they become a team: they split the work, hand tasks to each other, run automated on jobs and loops, and share one project memory. You steer everything from the browser. by compozy *(2.5k ⭐)*
@@ -1310,6 +1311,7 @@
 - 🔄 ⭐ **[ouroboros](https://github.com/razzant/ouroboros)** 🤖 R:🔴 M:🟢 — Ouroboros — self-creating AI agent. Born Feb 16, 2026. by razzant *(904 ⭐)*
 - 🔄 🔷 **[ToolJet](https://github.com/ToolJet/ToolJet)** 🔧 R:🟡 M:🟢 — ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀 by ToolJet *(38.8k ⭐)*
 - 🧠 🔷 **[octo-web](https://github.com/Mininglamp-OSS/octo-web)** 🤖🧠 R:🔴 M:🟢 — Web & desktop (Electron) client for the OCTO open workplace — one React + TypeScript codebase shipping browser and PC surfaces, with first-class AI agent UX. by Mininglamp-OSS *(582 ⭐)*
+- 🔌 🔷 **[voyager](https://github.com/Nagi-ovo/voyager)** 🤖🧠 R:🟡 M:🟢 — Enhancement suite for Gemini, AI Studio, Claude & ChatGPT — plus a prompt manager for any web UI, DeepSeek Harness included. / 面向 Gemini、AI Studio、Claude 与 ChatGPT 的增强套件；提示词管理器可用于任意 Web UI，含 DeepSeek Harness。 by Nagi-ovo *(19.8k ⭐)*
 - 🧠 🔷 **[hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)** 🤖🧠 R:🔴 M:🟢 — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics by EKKOLearnAI *(8.5k ⭐)*
 - 🧠 🔷 **[Yuxi](https://github.com/xerrors/Yuxi)** 🤖🧠 R:🟡 M:🟢 — 结合知识库、知识图谱管理的 多租户 Agent Harness 平台。 An agent harness that integrates a LightRAG knowledge base and knowledge graphs. Build with LangChain + Vue + FastAPI, support DeepAgents、MinerU PDF、Neo4j 、MCP. by xerrors *(6.1k ⭐)*
 - 📄 🔷 **[openinterpreter/openinterpreter](https://github.com/openinterpreter/openinterpreter)** 🤖🧠 R:⚫ M:🟢 — A lightweight coding agent for open models like Deepseek, Kimi, and Qwen by openinterpreter *(64k ⭐)*
