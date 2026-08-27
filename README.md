@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1252-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1253-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-244-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1252 skills** across 10 skill types · **244** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14.4M ⭐. Platforms: 🤖 claude code: 1118 | 🧠 codex: 405 | 🔧 generic: 92 | 🖱️ cursor: 86 | 📟 cline: 9 | 🏄 windsurf: 6
+**1253 skills** across 10 skill types · **244** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14.4M ⭐. Platforms: 🤖 claude code: 1119 | 🧠 codex: 405 | 🔧 generic: 92 | 🖱️ cursor: 86 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** 🤖 R:🔴 M:🟢 — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 by WenyuChiou *(6.4k ⭐)* — discovered Aug 27
 - 🧠 🔷 **[open-slide](https://github.com/1weiho/open-slide)** 🤖🧠 R:🟡 M:🟢 — A slide framework built for agents. by 1weiho *(7.2k ⭐)* — discovered Aug 27
 - 🧠 🔷 **[tutti](https://github.com/tutti-os/tutti)** 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.5k ⭐)* — discovered Aug 27
 - 🔄 🔷 **[BrowserSkill](https://github.com/Tencent/BrowserSkill)** 🤖 R:🟡 M:🟢 — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. by Tencent *(1.4k ⭐)* — discovered Aug 27
 - 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(1.9k ⭐)* — discovered Aug 27
-- 🔄 🔷 **[argent](https://github.com/software-mansion/argent)** 🤖 R:🔴 M:🟢 — An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion. by software-mansion *(2.2k ⭐)* — discovered Aug 26
 
 ---
 
@@ -667,6 +667,7 @@
 - 🔗 🔷 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🤖🔧 R:🟢 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(43.8k ⭐)*
 - 🧠 ⭐ **[pentest-ai](https://github.com/0xSteph/pentest-ai)** 🧠 R:🔴 M:🟢 — Offensive-security MCP server with 205 wrapped tools, 17 specialist agents, and 60 SPA-aware probes for OWASP Top 10. CLI + MCP, BYO LLM. No API key needed on MCP path. by 0xSteph *(1.2k ⭐)*
 - 🧠 🔷 **[agent-device](https://github.com/callstack/agent-device)** 🤖🧠 R:🔴 M:🟢 — CLI to control iOS and Android devices for AI agents by callstack *(3.4k ⭐)*
+- 🔄 🔷 **[argent](https://github.com/software-mansion/argent)** 🤖 R:🔴 M:🟢 — An agentic toolkit to control, debug, and profile iOS and Android apps. Made by Software Mansion. by software-mansion *(2.2k ⭐)*
 - ⌨️ 🔷 **[page-agent](https://github.com/alibaba/page-agent)**  R:🟡 M:🟢 — JavaScript in-page GUI agent. Control web interfaces with natural language. by alibaba *(18.6k ⭐)*
 - 🧠 ⭐ **[mcp-playwright](https://github.com/executeautomation/mcp-playwright)** 🧠 R:🟡 M:🟠 — Playwright Model Context Protocol Server - Tool to automate Browsers and APIs in Claude Desktop, Cline, Cursor IDE and More 🔌 by executeautomation *(5.6k ⭐)*
 - 📚 🔷 **[CodeBoarding](https://github.com/CodeBoarding/CodeBoarding)**  R:🟡 M:🟢 — Interactive architecture diagrams for codebases by CodeBoarding *(2.3k ⭐)*
