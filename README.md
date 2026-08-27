@@ -439,7 +439,7 @@
 - 📚 🔷 **[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)**  R:🟢 M:🟢 — Fast, flexible LLM inference by EricLBuehler *(7.3k ⭐)*
 - 📄 🔷 **[vllm-project/semantic-router](https://github.com/vllm-project/semantic-router)** 🤖🧠 R:🟡 M:🟢 — System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge by vllm-project *(4.4k ⭐)*
 - 📄 🔷 **[google/langextract](https://github.com/google/langextract)** 🤖 R:🟢 M:🟠 — A Python library for extracting structured information from unstructured text using LLMs with precise source grounding and interactive visualization. by google *(36.9k ⭐)*
-- 📄 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** 🤖🧠 R:🟡 M:🟢 — Google Flights MCP, CLI and Python Library by punitarani *(2.9k ⭐)*
+- 📄 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** 🤖🧠 R:🟡 M:🟠 — Google Flights MCP, CLI and Python Library by punitarani *(2.9k ⭐)*
 - 📄 🔷 **[zereight/gitlab-mcp](https://github.com/zereight/gitlab-mcp)** 🤖 R:🟡 M:🟢 — First gitlab mcp for you, building together by zereight *(1.7k ⭐)*
 - 📄 🔶 **[google/skills](https://github.com/google/skills)** 🤖 R:🟡 M:🟢 — Agent Skills for Google products and technologies by google *(13.8k ⭐)*
 - 📚 🔷 **[psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done)**  R:🟢 M:🟢 — The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). by psi-oss *(835 ⭐)*
