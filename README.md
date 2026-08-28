@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1253-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1254-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-244-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1253 skills** across 10 skill types · **244** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14.4M ⭐. Platforms: 🤖 claude code: 1119 | 🧠 codex: 405 | 🔧 generic: 92 | 🖱️ cursor: 86 | 📟 cline: 9 | 🏄 windsurf: 6
+**1254 skills** across 10 skill types · **244** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 14.4M ⭐. Platforms: 🤖 claude code: 1120 | 🧠 codex: 406 | 🔧 generic: 92 | 🖱️ cursor: 86 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[experiential](https://github.com/experientiallabs/experiential)** 🤖🧠 R:🟡 M:🟢 — An open source model gateway that provides one control plane across closed, open-source, local, and custom models. by experientiallabs *(457 ⭐)* — discovered Aug 28
 - 🔄 🔷 **[awesome-agentic-ai-zh](https://github.com/WenyuChiou/awesome-agentic-ai-zh)** 🤖 R:🔴 M:🟢 — A trilingual (繁中 / English / 简中) learning roadmap for agentic AI: from LLM basics to multi-agent systems, with 240+ curated resources and hands-on examples. 中文 AI agent 學習地圖。 by WenyuChiou *(6.4k ⭐)* — discovered Aug 27
 - 🧠 🔷 **[open-slide](https://github.com/1weiho/open-slide)** 🤖🧠 R:🟡 M:🟢 — A slide framework built for agents. by 1weiho *(7.2k ⭐)* — discovered Aug 27
 - 🧠 🔷 **[tutti](https://github.com/tutti-os/tutti)** 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.5k ⭐)* — discovered Aug 27
 - 🔄 🔷 **[BrowserSkill](https://github.com/Tencent/BrowserSkill)** 🤖 R:🟡 M:🟢 — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. by Tencent *(1.4k ⭐)* — discovered Aug 27
-- 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(1.9k ⭐)* — discovered Aug 27
 
 ---
 
@@ -348,6 +348,7 @@
 - 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:🟢 — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. by ansible *(69k ⭐)*
 - 📄 🔷 **[Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)** 🤖🧠 R:🟡 M:🟢 — Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. by Agent-Field *(2.2k ⭐)*
 - 📚 🔷 **[mostlygeek/llama-swap](https://github.com/mostlygeek/llama-swap)**  R:🟢 M:🟢 — Reliable model swapping for any local OpenAI/Anthropic compatible server - llama.cpp, vllm, etc by mostlygeek *(4.6k ⭐)*
+- 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(1.9k ⭐)*
 - 📄 🔷 **[cadence-workflow/cadence](https://github.com/cadence-workflow/cadence)** 🤖🖱️🧠 R:🟡 M:🟢 — Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. by cadence-workflow *(9.3k ⭐)*
 - 📝 🔷 **[easy-agent](https://github.com/ConardLi/easy-agent)** 🔧 R:🔴 M:🟢 — Fully recreating Claude Code from scratch, so anyone can learn how it works. by ConardLi *(876 ⭐)*
 - 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** 🔧 R:🔴 M:🟢 — AirLLM 70B inference with single 4GB GPU by lyogavin *(20.9k ⭐)*
