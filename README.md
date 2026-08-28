@@ -508,7 +508,7 @@
 - 📄 🔷 **[lahfir/agent-desktop](https://github.com/lahfir/agent-desktop)** 🤖 R:🔴 M:🟢 — Native desktop automation CLI for AI agents. Control any application through OS accessibility trees with structured JSON output and deterministic element refs. by lahfir *(851 ⭐)*
 - 📄 🔷 **[Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)** 🤖 R:🟢 M:🟢 — Agent plugins/extensions for CLIs and IDEs by Shopify *(390 ⭐)*
 - 📄 🔷 **[punitarani/fli](https://github.com/punitarani/fli)** 🤖🧠 R:🟡 M:🟠 — Google Flights MCP, CLI and Python Library by punitarani *(2.9k ⭐)*
-- 📄 🔷 **[lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)** 🤖🧠 R:🔴 M:🟢 — 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary by lorryjovens-hub *(1.6k ⭐)*
+- 📄 🔷 **[lorryjovens-hub/claude-code-rust](https://github.com/lorryjovens-hub/claude-code-rust)** 🤖🧠 R:🔴 M:🟠 — 🚀 Rust 全量重构的 Claude Code - 性能提升 2.5x，体积减少 97% | High-performance Rust implementation of Claude Code with 2.5x faster startup and 97% smaller binary by lorryjovens-hub *(1.6k ⭐)*
 - 🔌 🔷 **[kotlin-agent-skills](https://github.com/Kotlin/kotlin-agent-skills)**  R:🟢 M:🟢 — A collection of AI agent skills useful for projects using Kotlin language by Kotlin *(863 ⭐)*
 - 📄 🔷 **[haiku.rag](https://github.com/ggozad/haiku.rag)** 🤖 R:🟡 M:🟢 — Opinionated agentic RAG powered by LanceDB, Pydantic AI, and Docling by ggozad *(538 ⭐)*
 - 📄 🔷 **[binance-skills-hub](https://github.com/binance/binance-skills-hub)** 🤖 R:🟡 M:🟢 — Binance Skills Hub is an open skills marketplace that gives AI agents native access to crypto by binance *(902 ⭐)*
