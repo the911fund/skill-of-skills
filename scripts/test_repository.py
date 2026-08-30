@@ -29,7 +29,10 @@ def main() -> int:
         json.loads(fixture.read_text())
         print(f"fixture ok: {fixture.relative_to(ROOT)}")
 
-    require_contains("sources.yml", ["official-n8n-skills", "n8n-io/skills", "using-n8n-skills"])
+    require_contains(
+        "sources.yml",
+        ["official-n8n-skills", "n8n-io/skills", "using-n8n-skills", "xquik-tweetclaw"],
+    )
     require_contains("docs/scoring.md", ["relevance_score", "task-fit beats stars", "best_for_query"])
     require_contains("docs/api.md", ["POST /api/v1/route", "recommended_skills", "scripts/route_skills.py"])
     require_contains(".github/workflows/sync-official.yml", ["Validate source registry", "N8N_SYNC_WEBHOOK"])
@@ -60,6 +63,29 @@ def main() -> int:
     if top["score_breakdown"]["relevance_score"] <= 0.75:
         raise AssertionError(f"top route has weak relevance: {top}")
     print("route ok: official n8n task-fit beats stars-heavy generic repo")
+
+    social_route = subprocess.run(
+        [
+            sys.executable,
+            "scripts/route_skills.py",
+            "scrape tweets, export followers, and monitor X replies with approval-gated posting",
+            "--platform",
+            "openclaw",
+            "--max-results",
+            "3",
+        ],
+        cwd=ROOT,
+        check=True,
+        text=True,
+        capture_output=True,
+    )
+    social_routed = json.loads(social_route.stdout)
+    social_top = social_routed["recommended_skills"][0]
+    if social_top["source_id"] != "xquik-tweetclaw":
+        raise AssertionError(f"expected TweetClaw for X/Twitter OpenClaw task, got {social_top}")
+    if social_top["score_breakdown"]["relevance_score"] <= 0.70:
+        raise AssertionError(f"TweetClaw route has weak relevance: {social_top}")
+    print("route ok: TweetClaw matches X/Twitter OpenClaw automation tasks")
 
     print("all repository smoke tests passed")
     return 0
