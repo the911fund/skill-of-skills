@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1282-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1284-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-252-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1282 skills** across 10 skill types · **252** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.5M ⭐. Platforms: 🤖 claude code: 1144 | 🧠 codex: 423 | 🔧 generic: 95 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
+**1284 skills** across 10 skill types · **252** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.5M ⭐. Platforms: 🤖 claude code: 1146 | 🧠 codex: 424 | 🔧 generic: 95 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 🔷 **[pullfrog](https://github.com/pullfrog/pullfrog)** 🤖 R:🔴 M:🟢 — Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions by pullfrog *(1.1k ⭐)* — discovered Aug 31
+- 🧠 🔷 **[Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** 🤖🧠 R:🔴 M:🟢 — Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录、回测。Vibe-Research 把数据和功能配齐，由你自己的 Agent 驱动投资研究。基于开源的 Codex Harness 打造。 by simonlin1212 *(2.3k ⭐)* — discovered Aug 31
 - 🔗 🔷 **[cve-mcp-server](https://github.com/mukul975/cve-mcp-server)** 🔧 R:🔴 M:🟢 — Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more. by mukul975 *(1.3k ⭐)* — discovered Aug 31
 - 🧠 ⭐ **[siyuan](https://github.com/siyuan-note/siyuan)** 🧠 R:🔴 M:🟢 — An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 by siyuan-note *(46.1k ⭐)* — discovered Aug 31
 - 🧠 🔷 **[tsparticles](https://github.com/tsparticles/tsparticles)** 🤖🖱️🧠 R:🔴 M:🟢 — tsParticles - Easily create highly customizable JavaScript particles effects, confetti explosions and fireworks animations and use them as animated backgrounds for your website. Ready to use components available for React.js, Vue.js (2.x and 3.x), Angular, Svelte, jQuery, Preact, Inferno, Solid, Riot and Web Components. by tsparticles *(9k ⭐)* — discovered Aug 31
-- 🧠 🔷 **[yaak](https://github.com/mountain-loop/yaak)** 🤖🧠 R:🔴 M:🟢 — The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 by mountain-loop *(19.1k ⭐)* — discovered Aug 31
-- 🔄 🔷 **[liferay-portal](https://github.com/liferay/liferay-portal)** 🤖 R:🟡 M:🟢 — No description by liferay *(2.3k ⭐)* — discovered Aug 31
 
 ---
 
@@ -231,6 +231,7 @@
 - 📚 🔷 **[NVIDIA/OpenShell](https://github.com/NVIDIA/OpenShell)**  R:🟢 M:🟢 — OpenShell is the safe, private runtime for autonomous AI agents. by NVIDIA *(7.1k ⭐)*
 - 📚 🔷 **[onyx](https://github.com/onyx-dot-app/onyx)**  R:🟡 M:🟢 — Open Source AI Platform - AI Chat with advanced features that works with every LLM by onyx-dot-app *(30.4k ⭐)*
 - 📚 ⭐ **[pg_textsearch](https://github.com/timescale/pg_textsearch)**  R:🟡 M:🟢 — PostgreSQL extension for BM25 relevance-ranked full-text search. Postgres OSS licensed. by timescale *(3.8k ⭐)*
+- 🧠 🔷 **[yaak](https://github.com/mountain-loop/yaak)** 🤖🧠 R:🔴 M:🟢 — The most intuitive desktop API client. Organize and execute REST, GraphQL, WebSockets, Server Sent Events, and gRPC 🦬 by mountain-loop *(19.1k ⭐)*
 - 🧠 ⭐ **[mcpvault](https://github.com/bitbonsai/mcpvault)** 🤖🧠 R:🔴 M:🟢 — A lightweight Model Context Protocol (MCP) server for safe Obsidian vault access by bitbonsai *(1.4k ⭐)*
 - 🔌 🔷 **[text-to-cad](https://github.com/earthtojake/text-to-cad)** 🤖🧠 R:🟡 M:🟢 — A collection of agent skills for CAD, robotics and hardware design by earthtojake *(8.8k ⭐)*
 - 🔄 ⭐ **[coding-tools-mcp](https://github.com/xyTom/coding-tools-mcp)** 🔧 R:🔴 M:🟢 — Give any AI agent the ability to code by xyTom *(519 ⭐)*
@@ -944,6 +945,7 @@
 - 🔗 🔷 **[nitrostack](https://github.com/nitrocloudofficial/nitrostack)** 🤖🖱️🧠 R:🔴 M:🟢 — The full-stack TypeScript framework to build, test, and deploy production-ready MCP servers and AI-native apps. by nitrocloudofficial *(2.5k ⭐)*
 - 📚 🔷 **[wesm/agentsview](https://github.com/wesm/agentsview)**  R:🟢 M:🟢 — Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! by wesm *(2.8k ⭐)*
 - 📚 ⭐ **[always-further/nono](https://github.com/always-further/nono)**  R:🟢 M:🟢 — Capability-based agent runtime with fine-grained policies . Brokering access directly within the agent's operating context, with zero setup and zero latency by always-further *(2.7k ⭐)*
+- 🔄 🔷 **[liferay-portal](https://github.com/liferay/liferay-portal)** 🤖 R:🟡 M:🟢 — No description by liferay *(2.3k ⭐)*
 - 🔌 🔷 **[claude-code-templates](https://github.com/davila7/claude-code-templates)** 🤖 R:🟢 M:🟢 — CLI tool for configuring and monitoring Claude Code by davila7 *(28.1k ⭐)*
 - 📚 🔷 **[AutoGPT](https://github.com/Significant-Gravitas/AutoGPT)**  R:🟢 M:🟢 — AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters. by Significant-Gravitas *(185k ⭐)*
 - 📄 🔷 **[Kami](https://github.com/tw93/Kami)** 🤖 R:🟢 M:🟢 — 👩‍🚒 Good content deserves good paper. by tw93 *(8.8k ⭐)*
