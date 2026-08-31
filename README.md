@@ -134,9 +134,9 @@
 - 📄 ⭐ **[raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)** 🤖 R:🟡 M:🟢 — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider. by raullenchai *(2.9k ⭐)*
 - 🔌 ⭐ **[Agent-Skills-for-Context-Engineering](https://github.com/muratcankoylan/Agent-Skills-for-Context-Engineering)** 🤖🧠 R:🔴 M:🟢 — A comprehensive collection of Agent Skills for context engineering, multi-agent architectures, and production agent systems. Use when building, optimizing, or debugging agent systems that require effective context management. by muratcankoylan *(17.1k ⭐)*
 - 🧠 ⭐ **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** 🤖🧠 R:🔴 M:🟢 — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. by NVIDIA-NeMo *(1.1k ⭐)*
-- 📄 🔷 **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** 🤖🧠 R:⚫ M:🟢 — ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more by can1357 *(13k ⭐)*
-- 🔗 ⭐ **[nanoclaw](https://github.com/qwibitai/nanoclaw)**  R:🔴 M:🟢 — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK by qwibitai *(29.9k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(8.7k ⭐)*
+- 🔗 ⭐ **[nanoclaw](https://github.com/qwibitai/nanoclaw)**  R:🔴 M:🟢 — A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs directly on Anthropic's Agents SDK by qwibitai *(29.9k ⭐)*
+- 📄 🔷 **[can1357/oh-my-pi](https://github.com/can1357/oh-my-pi)** 🤖🧠 R:⚫ M:🟢 — ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more by can1357 *(13k ⭐)*
 - 🧠 ⭐ **[ai-memory](https://github.com/akitaonrails/ai-memory)** 🤖🧠 R:🔴 M:🟢 — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors by akitaonrails *(1.5k ⭐)*
 - 📚 ⭐ **[rudrankriyam/App-Store-Connect-CLI](https://github.com/rudrankriyam/App-Store-Connect-CLI)**  R:🟢 M:🟢 — Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts by rudrankriyam *(4.8k ⭐)*
 - 📚 🔷 **[badlogic/pi-mono](https://github.com/badlogic/pi-mono)**  R:🟢 M:🟢 — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI by badlogic *(63.5k ⭐)*
@@ -165,10 +165,10 @@
 - 📄 🔷 **[browser-use/browser-harness](https://github.com/browser-use/browser-harness)** 🤖 R:🔴 M:🟢 — Browser Harness | Self-healing harness that enables LLMs to complete any task. by browser-use *(15k ⭐)*
 - 🔗 🔷 **[mastra](https://github.com/mastra-ai/mastra)** 🤖🖱️🧠 R:🟡 M:🟢 — Mastra is the modern TypeScript framework for AI-powered applications and agents. by mastra-ai *(27.5k ⭐)*
 - 🔌 🔷 **[mem0](https://github.com/mem0ai/mem0)**  R:🟡 M:🟢 — Universal memory layer for AI Agents by mem0ai *(58.8k ⭐)*
-- 📄 🔷 **[trycua/cua](https://github.com/trycua/cua)** 🤖🧠 R:🔴 M:🟢 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). by trycua *(18.4k ⭐)*
 - 🔌 ⭐ **[Claude-ast-index-search](https://github.com/defendend/Claude-ast-index-search)** 🤖🖱️ R:🟢 M:🟢 — Cli позволяет индексировать файлы и сильно ускорить поиск Claude/Cursor by defendend *(444 ⭐)*
-- 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)**  R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(99.3k ⭐)*
+- 📄 🔷 **[trycua/cua](https://github.com/trycua/cua)** 🤖🧠 R:🔴 M:🟢 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). by trycua *(18.4k ⭐)*
 - 🧠 ⭐ **[ragflow](https://github.com/infiniflow/ragflow)** 🤖🧠 R:🔴 M:🟢 — RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs by infiniflow *(83k ⭐)*
+- 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)**  R:🟢 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(99.3k ⭐)*
 - 🧠 ⭐ **[zero](https://github.com/Gitlawb/zero)** 🧠 R:🔴 M:🟢 — The coding agent that answers to you, your model, your machine, your rules. by Gitlawb *(1.5k ⭐)*
 - 🔄 ⭐ **[agent-framework-go](https://github.com/microsoft/agent-framework-go)** 🤖 R:🔴 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Go. by microsoft *(202 ⭐)*
 - 🧠 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** 🤖🧠 R:🟡 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(188.1k ⭐)*
@@ -192,11 +192,11 @@
 - 📄 ⭐ **[elsa-core](https://github.com/elsa-workflows/elsa-core)** 🤖🧠 R:🔴 M:🟢 — The Workflow Engine for .NET by elsa-workflows *(7.8k ⭐)*
 - 🧠 ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🔴 M:🟠 — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(934 ⭐)*
 - 📄 ⭐ **[elizaOS/eliza](https://github.com/elizaOS/eliza)** 🤖🖱️🧠 R:🔴 M:🟢 — Open source agentic operating system by elizaOS *(18.6k ⭐)*
-- 📄 🔷 **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(50.7k ⭐)*
 - 🧠 🔷 **[opencode-mem](https://github.com/tickernelz/opencode-mem)** 🧠 R:🔴 M:🟢 — OpenCode plugin that gives coding agents persistent memory using local vector database by tickernelz *(1.5k ⭐)*
-- 📄 🔷 **[earendil-works/pi](https://github.com/earendil-works/pi)** 🤖🧠 R:🟡 M:🟢 — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI by earendil-works *(63.5k ⭐)*
 - 🔌 ⭐ **[modern-web-guidance-src](https://github.com/GoogleChrome/modern-web-guidance-src)** 🤖🧠 R:🔴 M:🟢 — No description by GoogleChrome *(773 ⭐)*
+- 📄 🔷 **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(50.7k ⭐)*
 - 🔄 🔷 **[dspy](https://github.com/stanfordnlp/dspy)** 🔧 R:🟡 M:🟢 — DSPy: The framework for programming—not prompting—language models by stanfordnlp *(36k ⭐)*
+- 📄 🔷 **[earendil-works/pi](https://github.com/earendil-works/pi)** 🤖🧠 R:🟡 M:🟢 — AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI by earendil-works *(63.5k ⭐)*
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)**  R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(35k ⭐)*
 - 🔌 🔷 **[md2wechat-skill](https://github.com/geekjourneyx/md2wechat-skill)** 🤖🧠 R:🔴 M:🟢 — Markdown to WeChat CLI | 一键排版发布到微信公众号：支持 40+ 排版样式和专业主题 、AI 配图 、批量发布 、多账号管理 by geekjourneyx *(3.5k ⭐)*
 - 🔄 🔷 **[SkyRL](https://github.com/NovaSky-AI/SkyRL)** 🤖 R:🟡 M:🟢 — SkyRL: A Modular Full-stack RL Library for LLMs by NovaSky-AI *(2.1k ⭐)*
@@ -260,8 +260,8 @@
 - 📄 ⭐ **[web-search-mcp](https://github.com/mrkrsl/web-search-mcp)** 🔧 R:🔴 M:🔴 — A simple, locally hosted Web Search MCP server for use with Local LLMs by mrkrsl *(957 ⭐)*
 - 📄 🔷 **[activeloopai/hivemind](https://github.com/activeloopai/hivemind)** 🤖 R:🔴 M:🟢 — One brain for all your agents by activeloopai *(1.3k ⭐)*
 - 📚 🔷 **[plastic-labs/honcho](https://github.com/plastic-labs/honcho)**  R:🟢 M:🟢 —  Memory library for building stateful agents by plastic-labs *(5.2k ⭐)*
-- 📄 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(35.2k ⭐)*
 - 🔌 🔷 **[ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp)** 🤖 R:🔴 M:🟢 — AI-powered reverse engineering assistant that bridges IDA Pro with language models through MCP. by mrexodia *(10.8k ⭐)*
+- 📄 🔷 **[CopilotKit/CopilotKit](https://github.com/CopilotKit/CopilotKit)** 🤖🖱️🧠 R:🟡 M:🟢 — The Frontend Stack for Agents & Generative UI. React, Angular, Mobile, Slack, and more.  Makers of the AG-UI Protocol by CopilotKit *(35.2k ⭐)*
 - 📄 🔷 **[unity-mcp](https://github.com/CoplayDev/unity-mcp)** 🤖 R:🟡 M:🟢 — Unity MCP acts as a bridge between AI assistants and your Unity Editor. Give your LLM tools to manage assets, control scenes, edit scripts, and automate tasks within Unity. by CoplayDev *(10.8k ⭐)*
 - 🔄 🔷 **[adhd](https://github.com/UditAkhourii/adhd)** 🤖 R:🔴 M:🟢 — ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude & Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work. by UditAkhourii *(2.5k ⭐)*
 - 📚 🔷 **[OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB)**  R:🟢 M:🟢 — Financial data platform for analysts, quants and AI agents. by OpenBB-finance *(69.3k ⭐)*
@@ -297,8 +297,8 @@
 - ⌨️ ⭐ **[mcpm.sh](https://github.com/pathintegral-institute/mcpm.sh)**  R:🟡 M:🟢 — CLI MCP package manager & registry for all platforms and all clients. Search & configure MCP servers. Advanced Router & Profile features. by pathintegral-institute *(969 ⭐)*
 - 🔗 🔷 **[hashbrown](https://github.com/liveloveapp/hashbrown)** 🤖🖱️🧠 R:🔴 M:🟢 — Hashbrown is a framework for building agents that run the browser. Built for Angular and React. by liveloveapp *(716 ⭐)*
 - ⌨️ 🔷 **[fastmcp](https://github.com/jlowin/fastmcp)** 🤖 R:🟢 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients by jlowin *(25.7k ⭐)*
-- 📚 🔷 **[mudler/LocalAI](https://github.com/mudler/LocalAI)**  R:🟢 M:🟢 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(46.9k ⭐)*
 - 🧠 🔷 **[opa](https://github.com/open-policy-agent/opa)** 🤖🧠 R:🟡 M:🟢 — Open Policy Agent (OPA) is an open source, general-purpose policy engine. by open-policy-agent *(12.1k ⭐)*
+- 📚 🔷 **[mudler/LocalAI](https://github.com/mudler/LocalAI)**  R:🟢 M:🟢 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(46.9k ⭐)*
 - 🔌 🔷 **[SkillOpt](https://github.com/microsoft/SkillOpt)** 🤖 R:🟡 M:🟢 — SkillOpt is a text-space optimizer that trains reusable natural-language skills for frozen LLM agents through trajectory-driven edits, validation-gated updates, and deployable best_skill.md artifacts. by microsoft *(11.6k ⭐)*
 - 📄 🔷 **[Kong/insomnia](https://github.com/Kong/insomnia)** 🤖🧠 R:🟡 M:🟢 — The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage. by Kong *(38.5k ⭐)*
 - 📄 🔷 **[jundot/omlx](https://github.com/jundot/omlx)** 🔧 R:🟢 M:🟢 — LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar by jundot *(16.8k ⭐)*
@@ -310,8 +310,8 @@
 - 📚 🔷 **[appwrite/appwrite](https://github.com/appwrite/appwrite)**  R:🟢 M:🟢 — Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more by appwrite *(56.3k ⭐)*
 - 🔄 🔷 **[flint-chart](https://github.com/microsoft/flint-chart)** 🤖 R:🟡 M:🟢 — 🪄 Flint is a visualization language that lets AI agents reliably create expressive, good-looking charts from simple, human-editable chart specs. by microsoft *(1.4k ⭐)*
 - 🔄 🔷 **[dapr](https://github.com/dapr/dapr)** 🔧 R:🟡 M:🟢 — Dapr is a portable runtime for building distributed applications across cloud and edge, combining event-driven architecture with workflow orchestration. by dapr *(25.8k ⭐)*
-- 📄 🔷 **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** 🤖 R:🟡 M:🟠 — A curated list of practical Codex skills for automating workflows across the Codex CLI and API. by ComposioHQ *(13.8k ⭐)*
 - 📚 🔷 **[composio](https://github.com/ComposioHQ/composio)**  R:🟢 M:🟢 — Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action. by ComposioHQ *(28.8k ⭐)*
+- 📄 🔷 **[ComposioHQ/awesome-codex-skills](https://github.com/ComposioHQ/awesome-codex-skills)** 🤖 R:🟡 M:🟠 — A curated list of practical Codex skills for automating workflows across the Codex CLI and API. by ComposioHQ *(13.8k ⭐)*
 - 📚 🔷 **[junhoyeo/tokscale](https://github.com/junhoyeo/tokscale)**  R:🟢 M:🟢 — 🛰️ A CLI tool for tracking token usage from OpenCode, Claude Code, 🦞OpenClaw (Clawdbot/Moltbot), Pi, Codex, Gemini, Cursor, AmpCode, Factory Droid, Kimi, and more! • 🏅Global Leaderboard + 2D/3D Contributions Graph by junhoyeo *(3.8k ⭐)*
 - 🔗 🔷 **[bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)** 🤖🧠 R:🔴 M:🟢 — MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool by vasylenko *(205 ⭐)*
 - 📚 🔷 **[greyhaven-ai/autocontext](https://github.com/greyhaven-ai/autocontext)**  R:🟢 M:🟢 — a recursive self-improving harness designed to help your agents (and future iterations of those agents) succeed on any task by greyhaven-ai *(1.2k ⭐)*
@@ -322,11 +322,11 @@
 - 🔌 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(266 ⭐)*
 - ⌨️ 🔷 **[ccs](https://github.com/kaitranntt/ccs)**  R:🔴 M:🟢 — Switch between Claude accounts, Gemini, Copilot, OpenRouter (300+ models) via CLIProxyAPI OAuth proxy. Visual dashboard, remote proxy support, WebSearch fallback. Zero-config to production-ready. by kaitranntt *(2.5k ⭐)*
 - 🧠 🔷 **[agent-systems-handbook](https://github.com/Prompthon-IO/agent-systems-handbook)** 🤖🧠 R:🟡 M:🟢 — A practical AI agents handbook covering agent systems, agentic workflows, LangGraph, MCP/A2A, context engineering, agent memory, evaluation, observability, and multi-agent architecture. Current trend focus: Gemini Interactions API and managed agents, emerging agent runtimes, and production AI workflow patterns. by Prompthon-IO *(326 ⭐)*
-- 📚 🔷 **[E2B](https://github.com/e2b-dev/E2B)**  R:🟢 M:🟢 — Open-source, secure environment with real-world tools for enterprise-grade agents. by e2b-dev *(12.6k ⭐)*
 - ⌨️ ⭐ **[Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)** 🤖 R:🟢 M:🟠 — Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. by parcadei *(3.8k ⭐)*
+- 📚 🔷 **[E2B](https://github.com/e2b-dev/E2B)**  R:🟢 M:🟢 — Open-source, secure environment with real-world tools for enterprise-grade agents. by e2b-dev *(12.6k ⭐)*
 - 📄 🔷 **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** 🤖🖱️🧠 R:🟡 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients. by PrefectHQ *(25.7k ⭐)*
-- 📄 🔷 **[browserbase/stagehand](https://github.com/browserbase/stagehand)** 🤖🖱️ R:🟡 M:🟢 — The SDK For Browser Agents by browserbase *(23.1k ⭐)*
 - 📄 🔷 **[cloudflare/agents](https://github.com/cloudflare/agents)** 🧠 R:🟡 M:🟢 — Build and deploy AI Agents on Cloudflare  by cloudflare *(5.1k ⭐)*
+- 📄 🔷 **[browserbase/stagehand](https://github.com/browserbase/stagehand)** 🤖🖱️ R:🟡 M:🟢 — The SDK For Browser Agents by browserbase *(23.1k ⭐)*
 - 📄 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(9.7k ⭐)*
 - 🧠 🔷 **[rclone](https://github.com/rclone/rclone)** 🤖🧠 R:🟡 M:🟢 — "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files by rclone *(58.5k ⭐)*
 - 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)**  R:🟡 M:🟢 — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(289 ⭐)*
@@ -342,8 +342,8 @@
 - 📚 🔷 **[npcpy](https://github.com/NPC-Worldwide/npcpy)**  R:🟡 M:🟢 — The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. by NPC-Worldwide *(1.4k ⭐)*
 - 📚 🔶 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)**  R:🟢 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(39.2k ⭐)*
 - 📚 🔷 **[autogen](https://github.com/microsoft/autogen)**  R:🟢 M:🟠 — A programming framework for agentic AI by microsoft *(59k ⭐)*
-- 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:🟢 — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. by ansible *(69k ⭐)*
 - 📄 🔷 **[Agent-Field/agentfield](https://github.com/Agent-Field/agentfield)** 🤖🧠 R:🟡 M:🟢 — Build, run and scale AI agents like API and microservices - observable,auditable and identity-aware from day one. by Agent-Field *(2.2k ⭐)*
+- 📄 🔷 **[ansible/ansible](https://github.com/ansible/ansible)** 🤖🧠 R:🟡 M:🟢 — Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com. by ansible *(69k ⭐)*
 - 🔌 🔷 **[go-modern-guidelines](https://github.com/JetBrains/go-modern-guidelines)** 🤖 R:🟡 M:🟢 — Help AI coding agents write modern Go by JetBrains *(1.9k ⭐)*
 - 📝 🔷 **[easy-agent](https://github.com/ConardLi/easy-agent)** 🔧 R:🔴 M:🟢 — Fully recreating Claude Code from scratch, so anyone can learn how it works. by ConardLi *(876 ⭐)*
 - 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** 🔧 R:🔴 M:🟢 — AirLLM 70B inference with single 4GB GPU by lyogavin *(20.9k ⭐)*
@@ -351,7 +351,6 @@
 - 📄 🔷 **[cadence-workflow/cadence](https://github.com/cadence-workflow/cadence)** 🤖🖱️🧠 R:🟡 M:🟢 — Cadence is a distributed, scalable, durable, and highly available orchestration engine to execute asynchronous long-running business logic in a scalable and resilient way. by cadence-workflow *(9.3k ⭐)*
 - 🔌 🔷 **[dotnet-claude-kit](https://github.com/codewithmukesh/dotnet-claude-kit)**  R:🟡 M:🟢 — Make Claude Code a .NET 10 Expert by codewithmukesh *(458 ⭐)*
 - ⌨️ 🔷 **[civitai](https://github.com/civitai/civitai)**  R:⚫ M:🟢 — A repository of models, textual inversions, and more by civitai *(7.1k ⭐)*
-- 📝 🔷 **[agentskills](https://github.com/agentskills/agentskills)** 🤖 R:🟡 M:🟢 — Specification and documentation for Agent Skills by agentskills *(21.4k ⭐)*
 - 🧠 🔷 **[Foundry](https://github.com/promptise-com/Foundry)** 🧠 R:🔴 M:🟢 — The foundation layer for agentic intelligence. by promptise-com *(863 ⭐)*
 - 🧠 🔷 **[deepcode-cli](https://github.com/lessweb/deepcode-cli)** 🤖🧠 R:🔴 M:🟢 — Deep Code 是专为 deepseek-v4 模型优化的终端 AI 编码助手，支持深度思考、推理强度控制以及 Agent Skills。 by lessweb *(1.7k ⭐)*
 - 📄 🔷 **[nibiru](https://github.com/NibiruChain/nibiru)** 🤖 R:🟢 M:🟢 — The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more. by NibiruChain *(207 ⭐)*
@@ -359,8 +358,8 @@
 - 📄 🔷 **[trpc-group/trpc-agent-go](https://github.com/trpc-group/trpc-agent-go)** 🤖🧠 R:🟡 M:🟢 — A Go framework for building production agent systems with graph workflows, tools, memory, A2A, AG-UI, MCP, evaluation, and observability. by trpc-group *(1.4k ⭐)*
 - 📚 🔷 **[kagent](https://github.com/kagent-dev/kagent)**  R:🟡 M:🟢 — Cloud Native Agentic AI | Discord: https://bit.ly/kagentdiscord by kagent-dev *(3k ⭐)*
 - 📄 🔷 **[triggerdotdev/trigger.dev](https://github.com/triggerdotdev/trigger.dev)** 🤖🖱️🧠 R:🟡 M:🟢 — Trigger.dev – build and deploy fully‑managed AI agents and workflows by triggerdotdev *(15.4k ⭐)*
-- 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)**  R:🟢 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.1k ⭐)*
 - 📚 🔷 **[TraderAlice/OpenAlice](https://github.com/TraderAlice/OpenAlice)**  R:🟢 M:🟢 — Your one-person Wall Street. An AI trading agent covering equities, crypto, commodities, forex, and macro — from research through position entry, ongoing management, to exit. by TraderAlice *(5.3k ⭐)*
+- 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)**  R:🟢 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(16.1k ⭐)*
 - 📄 🔷 **[acpx](https://github.com/openclaw/acpx)** 🤖🧠 R:🟡 M:🟢 — Headless CLI client for stateful Agent Client Protocol (ACP) sessions by openclaw *(2.9k ⭐)*
 - 📄 🔷 **[open-pencil](https://github.com/open-pencil/open-pencil)** 🧠 R:🟡 M:🟢 — AI-native design editor. Open-source Figma alternative. by open-pencil *(5.6k ⭐)*
 - 🔌 ⭐ **[claude-stt](https://github.com/jarrodwatts/claude-stt)** 🤖 R:🟢 M:🟠 — Speech-to-text input for Claude Code with live streaming dictation by jarrodwatts *(363 ⭐)*
@@ -370,8 +369,8 @@
 - 🧠 🔷 **[experiential](https://github.com/experientiallabs/experiential)** 🤖🧠 R:🟡 M:🟢 — An open source model gateway that provides one control plane across closed, open-source, local, and custom models. by experientiallabs *(457 ⭐)*
 - ⌨️ 🔷 **[mcphub](https://github.com/samanhappy/mcphub)**  R:🟡 M:🟢 — A unified hub for centrally managing and dynamically orchestrating multiple MCP servers/APIs into separate endpoints with flexible routing strategies by samanhappy *(2.2k ⭐)*
 - ⌨️ 🔷 **[claude-context](https://github.com/zilliztech/claude-context)**  R:🟢 M:🟢 — Code search MCP for Claude Code. Make entire codebase the context for any coding agent. by zilliztech *(11.9k ⭐)*
-- 📄 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** 🤖🧠 R:🔴 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(10.4k ⭐)*
 - 🔄 ⭐ **[stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)** 🤖 R:🔴 M:🟠 — The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. by vibheksoni *(1.5k ⭐)*
+- 📄 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** 🤖🧠 R:🔴 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(10.4k ⭐)*
 - 📄 🔷 **[MoonshotAI/kimi-cli](https://github.com/MoonshotAI/kimi-cli)** 🤖🧠 R:🔴 M:🟢 — Kimi Code CLI is your next CLI agent. by MoonshotAI *(9k ⭐)*
 - 📚 🔷 **[looplj/axonhub](https://github.com/looplj/axonhub)**  R:🟢 M:🟢 — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. by looplj *(4.3k ⭐)*
 - 🧠 🔷 **[corsair](https://github.com/corsairdev/corsair)** 🤖🧠 R:🟡 M:🟢 — Your Agent's Integration Layer by corsairdev *(2.8k ⭐)*
@@ -423,12 +422,12 @@
 - 📄 🔷 **[EtienneLescot/n8n-as-code](https://github.com/EtienneLescot/n8n-as-code)** 🤖 R:🟡 M:🟢 — Give your AI agent n8n superpowers. 537 nodes with full schemas, 7,700+ templates, Git-like sync, and TypeScript workflows. by EtienneLescot *(1.4k ⭐)*
 - 📄 🔷 **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** 🔧 R:🟡 M:🟢 — A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows by antoinezambelli *(2.1k ⭐)*
 - 📄 🔷 **[NewsBlur](https://github.com/samuelclay/NewsBlur)** 🤖🧠 R:🔴 M:🟢 — NewsBlur is a personal news reader that brings people together to talk about the world. A new sound of an old instrument. by samuelclay *(7.5k ⭐)*
-- 📚 🔷 **[xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)**  R:🟢 M:🟢 — MCP for xiaohongshu.com by xpzouying *(14.2k ⭐)*
 - 🔌 🔷 **[tidy3d](https://github.com/flexcompute/tidy3d)**  R:🟡 M:🟠 — fast, large scale photonic simulation platform by flexcompute *(348 ⭐)*
+- 📚 🔷 **[xpzouying/xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp)**  R:🟢 M:🟢 — MCP for xiaohongshu.com by xpzouying *(14.2k ⭐)*
 - 📄 🔷 **[vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni)** 🤖 R:🟡 M:🟢 — A framework for efficient model inference with omni-modality models by vllm-project *(5.2k ⭐)*
 - 🔌 🔷 **[n-skills](https://github.com/numman-ali/n-skills)**  R:🟡 M:🟠 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(997 ⭐)*
-- 📚 🔷 **[air](https://github.com/air-verse/air)**  R:🟢 M:🟠 — ☁️ Live reload for Go apps by air-verse *(23.7k ⭐)*
 - 🔗 🔷 **[BioClaw](https://github.com/Runchuan-BU/BioClaw)**  R:🔴 M:🟠 — AI-Powered Bioinformatics Research Assistant. Built on OpenClaw. by Runchuan-BU *(388 ⭐)*
+- 📚 🔷 **[air](https://github.com/air-verse/air)**  R:🟢 M:🟠 — ☁️ Live reload for Go apps by air-verse *(23.7k ⭐)*
 - 📚 🔷 **[jadx-ai-mcp](https://github.com/zinja-coder/jadx-ai-mcp)** 🔧 R:🟡 M:🟠 — Plugin for JADX to integrate MCP server by zinja-coder *(2.4k ⭐)*
 - ⌨️ 🔷 **[webperf-snippets](https://github.com/nucliweb/webperf-snippets)**  R:🟡 M:🟢 — ⚡️ 💾  Web Performance Snippets by nucliweb *(1.4k ⭐)*
 - 📄 🔷 **[plugins-for-claude-natives](https://github.com/team-attention/plugins-for-claude-natives)** 🤖🧠 R:🔴 M:🟠 — Claude Code plugins for power users by team-attention *(804 ⭐)*
@@ -437,6 +436,7 @@
 - 📄 🔷 **[MemoriLabs/Memori](https://github.com/MemoriLabs/Memori)** 🔧 R:🟢 M:🟢 — Memori is agent-native memory infrastructure. A LLM-agnostic layer that turns agent execution and conversation into structured, persistent state for production systems. by MemoriLabs *(15.3k ⭐)*
 - 🧠 🔷 **[whisplay-ai-chatbot](https://github.com/PiSugar/whisplay-ai-chatbot)** 🧠 R:🔴 M:🟢 — Pocket-sized AI chatbot built using a RPI Zero 2w / 5 by PiSugar *(501 ⭐)*
 - 📄 🔷 **[agent-toolkit-for-aws](https://github.com/aws/agent-toolkit-for-aws)** 🤖 R:🟢 M:🟢 — Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS by aws *(895 ⭐)*
+- 📝 🔷 **[agentskills](https://github.com/agentskills/agentskills)** 🤖 R:🟡 M:🟢 — Specification and documentation for Agent Skills by agentskills *(21.4k ⭐)*
 - 📄 🔷 **[kicad-happy](https://github.com/aklofas/kicad-happy)** 🤖🖱️ R:🟡 M:🟢 — AI coding agent skills for KiCad electronics design. Works with Claude Code and OpenAI Codex. Analyze schematics, review PCB layouts, EMC pre-compliance, SPICE simulation, download datasheets, source components, and prep boards for fabrication. by aklofas *(563 ⭐)*
 - 📚 🔶 **[starship/starship](https://github.com/starship/starship)**  R:🟢 M:🟢 — ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! by starship *(58.3k ⭐)*
 - 📚 🔷 **[EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs)**  R:🟢 M:🟢 — Fast, flexible LLM inference by EricLBuehler *(7.3k ⭐)*
@@ -485,8 +485,8 @@
 - 📚 🔷 **[AmoyLab/Unla](https://github.com/AmoyLab/Unla)**  R:🟢 M:🟢 — 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications. by AmoyLab *(2.1k ⭐)*
 - 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(977 ⭐)*
 - 📄 🔷 **[trice](https://github.com/rokath/trice)** 🧠 R:🟢 M:🟢 — 🟢 Super-fast, tiny C/C++ tracing with printf look-and-feel, even in interrupts ⚡, plus real-time PC logging 💻 by rokath *(961 ⭐)*
-- 📄 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** 🤖🖱️ R:🟢 M:🟢 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(16k ⭐)*
 - 📄 🔷 **[codex-proxy](https://github.com/icebear0828/codex-proxy)** 🤖 R:🔴 M:🟢 — OpenAI-compatible proxy for ChatGPT Codex Responses API by icebear0828 *(1.4k ⭐)*
+- 📄 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** 🤖🖱️ R:🟢 M:🟢 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(16k ⭐)*
 - 📚 🔷 **[Misago](https://github.com/rafalp/Misago)**  R:🟢 M:🟢 — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.7k ⭐)*
 - 🔌 🔷 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** 🤖 R:🟢 M:🟠 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(682 ⭐)*
 - 🧠 🔶 **[axi](https://github.com/kunchenguid/axi)** 🤖🧠 R:🔴 M:🟢 — Design principles for agent ergonomics. Higher accuracy with lower token cost than both MCP and regular CLI. by kunchenguid *(1.4k ⭐)*
@@ -964,8 +964,8 @@
 - 🔗 🔷 **[cc-wf-studio](https://github.com/breaking-brake/cc-wf-studio)**  R:🟡 M:🟢 — CC Workflow Studio by breaking-brake *(5.1k ⭐)*
 - 🔄 🔷 **[cangjie-skill](https://github.com/kangarooking/cangjie-skill)** 🤖 R:🟡 M:🟢 — 把书、长视频、播客等高价值内容蒸馏成可执行的 Agent Skills by kangarooking *(2.8k ⭐)*
 - 🔌 🔷 **[webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)** 🤖 R:🔴 M:🟢 — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 by lingfengQAQ *(5.6k ⭐)*
-- 📄 🔷 **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** 🤖🖱️🧠 R:🔴 M:🟠 — Agentic AI Infrastructure for magnifying HUMAN capabilities. by danielmiessler *(16k ⭐)*
 - 📄 🔷 **[FareedKhan-dev/train-llm-from-scratch](https://github.com/FareedKhan-dev/train-llm-from-scratch)** 🔧 R:🟢 M:🟢 — A straightforward method for training your LLM, from downloading data to generating text. by FareedKhan-dev *(6.6k ⭐)*
+- 📄 🔷 **[danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure)** 🤖🖱️🧠 R:🔴 M:🟠 — Agentic AI Infrastructure for magnifying HUMAN capabilities. by danielmiessler *(16k ⭐)*
 - 📄 🔷 **[THU-MAIC/OpenMAIC](https://github.com/THU-MAIC/OpenMAIC)** 🤖 R:🟡 M:🟢 — Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click by THU-MAIC *(18.7k ⭐)*
 - 📄 🔷 **[t3code](https://github.com/pingdotgg/t3code)** 🤖🧠 R:🟡 M:🟢 — No description by pingdotgg *(12.7k ⭐)*
 - 📚 🔷 **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)**  R:🟢 M:🟢 — 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等） by jnMetaCode *(15.1k ⭐)*
@@ -982,8 +982,8 @@
 - 📚 🔷 **[xintaofei/codeg](https://github.com/xintaofei/codeg)**  R:🟢 M:🟢 — Collaborative multi-agent AI coding workspace: aggregate sessions from Claude Code, Codex, Gemini CLI, etc. Desktop app, self-hosted server, or Docker. by xintaofei *(1.7k ⭐)*
 - 📄 🔷 **[tech-leads-club/agent-skills](https://github.com/tech-leads-club/agent-skills)** 🤖🧠 R:🟡 M:🟢 — The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence. by tech-leads-club *(4.6k ⭐)*
 - 📚 🔷 **[op7418/CodePilot](https://github.com/op7418/CodePilot)**  R:🟢 M:🟢 — A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js. by op7418 *(6k ⭐)*
-- 📄 🔷 **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** 🤖🧠 R:🟢 M:🟠 — 12 Lessons to Get Started Building AI Agents by microsoft *(67.4k ⭐)*
 - 🔄 🔷 **[slime](https://github.com/THUDM/slime)** 🤖 R:🔴 M:🟢 — slime is an LLM post-training framework for RL Scaling. by THUDM *(6.5k ⭐)*
+- 📄 🔷 **[microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners)** 🤖🧠 R:🟢 M:🟠 — 12 Lessons to Get Started Building AI Agents by microsoft *(67.4k ⭐)*
 - 📚 🔷 **[rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents)**  R:🟡 M:🟠 — A collection of specialized AI skills, agents, rules and hooks for modern Rails AI driven-development. by ThibautBaissac *(596 ⭐)*
 - 📄 🔷 **[Pensieve](https://github.com/kingkongshot/Pensieve)**  R:🟡 M:🟠 — tore your decisions and principles. Claude reads them to make better choices. by kingkongshot *(2.5k ⭐)*
 - 📚 🔷 **[rocketride-org/rocketride-server](https://github.com/rocketride-org/rocketride-server)**  R:🟢 M:🟢 — High-performance AI pipeline engine with a C++ core and 50+ Python-extensible nodes. Build, debug, and scale LLM workflows with 13+ model providers, 8+ vector databases, and agent orchestration, all from your IDE. Includes VS Code extension, TypeScript/Python SDKs, and Docker deployment. by rocketride-org *(3.9k ⭐)*
@@ -1461,5 +1461,5 @@ MIT License - see [LICENSE](LICENSE)
 ---
 
 <p align="center">
-  <sub>Auto-generated 2026-08-30 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
+  <sub>Auto-generated 2026-08-31 by <a href="https://github.com/the911fund/skill-of-skills">Skill of Skills</a></sub>
 </p>
