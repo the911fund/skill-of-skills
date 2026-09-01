@@ -1326,7 +1326,7 @@
 - 📚 🔷 **[coasts](https://github.com/coast-guard/coasts)**  R:🟡 M:🟠 — Localhost service isolation and orchestration for git worktrees. by coast-guard *(403 ⭐)*
 - ⌨️ 🔷 **[toolhive](https://github.com/stacklok/toolhive)** 🤖 R:🟢 M:🟢 — ToolHive makes deploying MCP servers easy, secure and fun by stacklok *(1.9k ⭐)*
 - 📚 🔷 **[eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse)**  R:🟢 M:🟠 — Sandbox your local AI agents so they can read/write only what they need by eugene1g *(1.9k ⭐)*
-- 📄 🔷 **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** 🤖🧠 R:⚫ M:🟢 — 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. by Xiangyue-Zhang *(1.3k ⭐)*
+- 📄 🔷 **[auto-deep-researcher-24x7](https://github.com/Xiangyue-Zhang/auto-deep-researcher-24x7)** 🤖🧠 R:⚫ M:🟠 — 🔥 An autonomous AI agent that runs your deep learning experiments 24/7 while you sleep. Zero-cost monitoring, Leader-Worker architecture, constant-size memory. by Xiangyue-Zhang *(1.3k ⭐)*
 - 📄 🔶 **[abtop](https://github.com/graykode/abtop)** 🤖🧠 R:🟡 M:🟢 — Like htop, but for AI coding agents. Monitor Claude    Code & Codex CLI sessions, tokens, context window,    rate limits, and ports in real-time. by graykode *(2.9k ⭐)*
 - 📄 🔷 **[vllm-project/aibrix](https://github.com/vllm-project/aibrix)** 🔧 R:🟡 M:🟢 — Cost-efficient and pluggable Infrastructure components for GenAI inference by vllm-project *(4.9k ⭐)*
 - ⌨️ 🔷 **[zerobox](https://github.com/afshinm/zerobox)**  R:🟡 M:🟠 — Lightweight, cross-platform process sandboxing powered by OpenAI Codex's runtime. Sandbox any command with file, network, and credential controls. by afshinm *(650 ⭐)*
