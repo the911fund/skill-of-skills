@@ -205,7 +205,7 @@
 - 📚 🔷 **[langchain-ai/deepagents](https://github.com/langchain-ai/deepagents)**  R:🟢 M:🟢 — The batteries-included agent harness. by langchain-ai *(24.8k ⭐)*
 - 📚 🔷 **[larksuite/cli](https://github.com/larksuite/cli)**  R:🟢 M:🟢 — The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills. by larksuite *(14.3k ⭐)*
 - 📄 🔷 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** 🤖🧠 R:🔴 M:🟢 — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) by Alishahryar1 *(35.1k ⭐)*
-- 🔄 ⭐ **[OpenHarness](https://github.com/HKUDS/OpenHarness)** 🤖 R:🔴 M:🟢 — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" by HKUDS *(14.8k ⭐)*
+- 🔄 ⭐ **[OpenHarness](https://github.com/HKUDS/OpenHarness)** 🤖 R:🔴 M:🟠 — "OpenHarness: Open Agent Harness with a Built-in Personal Agent--Ohmo!" by HKUDS *(14.8k ⭐)*
 - 🔌 🔷 **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** 🤖 R:🔴 M:🟢 — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 by freestylefly *(12.4k ⭐)*
 - 📄 ⭐ **[browserbase/skills](https://github.com/browserbase/skills)** 🤖 R:🟡 M:🟢 — Browserbase's official collection of agent skills to access the web. by browserbase *(3.6k ⭐)*
 - 📚 🔷 **[llama.cpp](https://github.com/ggml-org/llama.cpp)**  R:🟢 M:🟢 — LLM inference in C/C++ by ggml-org *(117k ⭐)*
@@ -721,7 +721,7 @@
 - 🔌 ⭐ **[minutes](https://github.com/silverstein/minutes)**  R:🔴 M:🟢 — Every meeting, every idea, every voice note — searchable by your AI. Open-source, privacy-first conversation memory layer. by silverstein *(1.3k ⭐)*
 - ⌨️ ⭐ **[mcp-grafana](https://github.com/grafana/mcp-grafana)** 🤖 R:🟢 M:🟢 — MCP server for Grafana by grafana *(3.2k ⭐)*
 - 🔌 🔷 **[worldmonitor](https://github.com/koala73/worldmonitor)** 🤖🧠 R:🔴 M:🟢 — Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface by koala73 *(85.1k ⭐)*
-- 🔌 ⭐ **[agents-observe](https://github.com/simple10/agents-observe)**  R:🔴 M:🟢 — Real-time observability of claude code sessions & multi-agents. by simple10 *(594 ⭐)*
+- 🔌 ⭐ **[agents-observe](https://github.com/simple10/agents-observe)**  R:🔴 M:🟠 — Real-time observability of claude code sessions & multi-agents. by simple10 *(594 ⭐)*
 - 🖱️ ⭐ **[SurfSense](https://github.com/MODSetter/SurfSense)** 🤖🖱️🧠 R:🔴 M:🟢 — Open-source NotebookLM alternative. Research the open web with live data(Reddit, YT, IG, TikTok, Google Search, Maps etc) through one platform, API or MCP server. Join our Discord: https://discord.gg/ejRNvftDp9 by MODSetter *(15.4k ⭐)*
 - 🔌 🔷 **[whodb](https://github.com/clidey/whodb)** 🤖🧠 R:🔴 M:🟢 — Where data access meets operational intelligence by clidey *(4.9k ⭐)*
 - 📚 🔷 **[TauricResearch/TradingAgents](https://github.com/TauricResearch/TradingAgents)**  R:🟢 M:🟢 — TradingAgents: Multi-Agents LLM Financial Trading Framework by TauricResearch *(86.9k ⭐)*
