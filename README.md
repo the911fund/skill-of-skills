@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1285-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1287-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-252-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-254-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1285 skills** across 10 skill types · **252** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1146 | 🧠 codex: 424 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
+**1287 skills** across 10 skill types · **254** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1148 | 🧠 codex: 424 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔄 ⭐ **[aura](https://github.com/mezmo/aura)** 🤖 R:🔴 M:🟢 — AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure. by mezmo *(264 ⭐)* — discovered Sep 2
+- 🔄 ⭐ **[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** 🤖 R:🔴 M:🟢 — autonomous red teaming platform; multi-agent offensive-security meta-harness by elder-plinius *(5.9k ⭐)* — discovered Sep 2
 - 🔄 🔶 **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** 🔧 R:🔴 M:🟢 — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero by PDFMathTranslate *(36.6k ⭐)* — discovered Sep 2
 - 🔄 🔷 **[pullfrog](https://github.com/pullfrog/pullfrog)** 🤖 R:🔴 M:🟢 — Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions by pullfrog *(1.1k ⭐)* — discovered Aug 31
 - 🧠 🔷 **[Vibe-Research](https://github.com/simonlin1212/Vibe-Research)** 🤖🧠 R:🔴 M:🟢 — Vibe-Research: Your Personal Trading Research Agent · A股/美股/港股 的个人投研 Agent：每日复盘、资讯雷达、个股数据、板块中心、我的持仓、研究记录、回测。Vibe-Research 把数据和功能配齐，由你自己的 Agent 驱动投资研究。基于开源的 Codex Harness 打造。 by simonlin1212 *(2.3k ⭐)* — discovered Aug 31
-- 🔗 🔷 **[cve-mcp-server](https://github.com/mukul975/cve-mcp-server)** 🔧 R:🔴 M:🟢 — Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more. by mukul975 *(1.3k ⭐)* — discovered Aug 31
-- 🧠 ⭐ **[siyuan](https://github.com/siyuan-note/siyuan)** 🧠 R:🔴 M:🟢 — An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 by siyuan-note *(46.1k ⭐)* — discovered Aug 31
 
 ---
 
@@ -742,6 +742,7 @@
 - 🔗 🔷 **[AI-Engineering-Coach](https://github.com/microsoft/AI-Engineering-Coach)** 🤖🧠 R:🔴 M:🟢 — better agentic engineering by microsoft *(3.4k ⭐)*
 - 📚 ⭐ **[ai-observer](https://github.com/tobilg/ai-observer)**  R:🟢 M:🟢 — Unified local observability for AI coding assistants by tobilg *(239 ⭐)*
 - 🔄 ⭐ **[datagouv-mcp](https://github.com/datagouv/datagouv-mcp)** 🔧 R:🔴 M:🟢 — Official data.gouv.fr Model Context Protocol (MCP) server that allows AI chatbots to search, explore, and analyze datasets from the French national Open Data platform, directly through conversation. by datagouv *(1.6k ⭐)*
+- 🔗 🔷 **[cve-mcp-server](https://github.com/mukul975/cve-mcp-server)** 🔧 R:🔴 M:🟢 — Production-grade MCP server giving Claude 27 security intelligence tools across 21 APIs — CVE lookup, EPSS scoring, CISA KEV, MITRE ATT&CK, Shodan, VirusTotal, and more. by mukul975 *(1.3k ⭐)*
 - 📄 🔷 **[comet-ml/opik](https://github.com/comet-ml/opik)** 🤖🧠 R:🔴 M:🟢 — Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and production-ready dashboards. by comet-ml *(19.7k ⭐)*
 - 📄 🔷 **[LLMQuant/quant-mind](https://github.com/LLMQuant/quant-mind)** 🤖🧠 R:🟢 M:🟠 — QuantMind is an intelligent knowledge extraction and retrieval framework for quantitative finance. by LLMQuant *(1.4k ⭐)*
 - 🖱️ 🔷 **[signoz](https://github.com/SigNoz/signoz)** 🤖🖱️🧠 R:🟡 M:🟢 — SigNoz is an open-source, OpenTelemetry-native observability platform for your team and their AI agents. Get logs, metrics, and traces in one tool with features like APM, distributed tracing, log management, infra monitoring, etc. Combined with SigNoz MCP and a native AI teammate (in SigNoz Cloud) it helps you build more resilient apps. by SigNoz *(30.6k ⭐)*
@@ -1346,6 +1347,7 @@
 - 🧠 ⭐ **[craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss)** 🤖🧠 R:🔴 M:🟢 — No description by craft-ai-agents *(6.4k ⭐)*
 - 🧠 ⭐ **[iPolloWork](https://github.com/Devin-AXIS/iPolloWork)** 🤖🧠 R:🟡 M:🟢 — Enterprise-grade, local-first Agent Workbench for people and agent teams. A unified multi-engine workspace for Codex Harness, DeepSeek Harness, and OpenCode, with unified plugins and Skills, multi-agent projects and tasks, and editable code, documents, presentations, design, and video. by Devin-AXIS *(4.7k ⭐)*
 - 🔌 ⭐ **[RuView](https://github.com/ruvnet/RuView)** 🤖🧠 R:🔴 M:🟢 — π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video. by ruvnet *(92.1k ⭐)*
+- 🧠 ⭐ **[siyuan](https://github.com/siyuan-note/siyuan)** 🧠 R:🔴 M:🟢 — An open-source, privacy-first, self-hosted knowledge workspace where humans and AI agents work together 开源、隐私优先、自托管的知识工作空间，让人与智能体在此协作 by siyuan-note *(46.1k ⭐)*
 - 🔗 🔷 **[openhuman](https://github.com/tinyhumansai/openhuman)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher. by tinyhumansai *(36.5k ⭐)*
 - 🔌 ⭐ **[QwenPaw](https://github.com/agentscope-ai/QwenPaw)** 🤖🧠 R:🔴 M:🟢 — Your Personal AI Assistant; easy to install, deploy on your own machine or on the cloud; supports multiple chat apps with easily extensible capabilities. by agentscope-ai *(23.3k ⭐)*
 - 🔌 🔷 **[claude-plugins-community](https://github.com/anthropics/claude-plugins-community)** 🤖 R:🟡 M:🟢 — Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission. by anthropics *(570 ⭐)*
