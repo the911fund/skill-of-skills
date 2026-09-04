@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1288-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1291-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-254-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1288 skills** across 10 skill types · **254** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1148 | 🧠 codex: 425 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
+**1291 skills** across 10 skill types · **254** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1151 | 🧠 codex: 427 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[hey-cli](https://github.com/basecamp/hey-cli)** 🤖🧠 R:🟡 M:🟢 — HEY CLI and Agent Skills by basecamp *(318 ⭐)* — discovered Sep 4
+- 🔌 🔶 **[skills](https://github.com/humanlayer/skills)** 🤖 R:🟡 M:🟢 — No description by humanlayer *(2k ⭐)* — discovered Sep 4
+- 🧠 🔷 **[miles](https://github.com/radixark/miles)** 🤖🧠 R:🟡 M:🟢 — Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. by radixark *(2.5k ⭐)* — discovered Sep 4
 - 🧠 🔷 **[khoj](https://github.com/khoj-ai/khoj)** 🧠 R:🟡 M:🟢 — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. by khoj-ai *(37k ⭐)* — discovered Sep 3
 - 🔄 ⭐ **[aura](https://github.com/mezmo/aura)** 🤖 R:🔴 M:🟢 — AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure. by mezmo *(264 ⭐)* — discovered Sep 2
-- 🔄 ⭐ **[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** 🤖 R:🔴 M:🟢 — autonomous red teaming platform; multi-agent offensive-security meta-harness by elder-plinius *(5.9k ⭐)* — discovered Sep 2
-- 🔄 🔶 **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** 🔧 R:🔴 M:🟢 — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero by PDFMathTranslate *(36.6k ⭐)* — discovered Sep 2
-- 🔄 🔷 **[pullfrog](https://github.com/pullfrog/pullfrog)** 🤖 R:🔴 M:🟢 — Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions by pullfrog *(1.1k ⭐)* — discovered Aug 31
 
 ---
 
@@ -639,7 +639,7 @@
 - 📚 🔶 **[agent-skills-discovery-rfc](https://github.com/cloudflare/agent-skills-discovery-rfc)** 🔧 R:🔴 M:🟠 — A mechanism for discovering Agent Skills using the .well-known URI path prefix as specified in RFC 8615 for discovering Agent Skills. by cloudflare *(317 ⭐)*
 - 🧠 🔶 **[coding-tool](https://github.com/CooperJiang/coding-tool)** 🧠 R:🔴 M:🟠 — claudecode|codex|gemini  cli增强工具。 by CooperJiang *(415 ⭐)*
 - 🔌 🔶 **[full-stack-skills](https://github.com/partme-ai/full-stack-skills)** 🤖 R:🟢 M:🟢 — 这是一个免费的全栈开发所需的技能市场，提供各种实用的 AI 技能集合，支持多种平台。 by partme-ai *(514 ⭐)*
-- 📝 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🔴 M:🟠 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(3.7k ⭐)*
+- 📝 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🔴 M:🔴 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(3.7k ⭐)*
 - 📚 🔶 **[twostraws/SwiftUI-Agent-Skill](https://github.com/twostraws/SwiftUI-Agent-Skill)**  R:🟢 M:🟠 — SwiftUI agent skill for Claude Code, Codex, and other AI tools. by twostraws *(4.1k ⭐)*
 - 📚 🔶 **[kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server)**  R:🟢 M:🔴 — Example of an MCP server with custom tools that can be called directly from cursor by kleneway *(336 ⭐)*
 - 📚 🔶 **[web-performance](https://github.com/w3c/web-performance)**  R:🟢 M:🟠 — W3C Web Performance Working Group repo by w3c *(433 ⭐)*
@@ -804,7 +804,7 @@
 - 🧠 ⭐ **[paperclip](https://github.com/paperclipai/paperclip)** 🤖🧠 R:🔴 M:🟢 — The open-source app everyone uses to manage agents at work by paperclipai *(75.4k ⭐)*
 - 📚 🔷 **[Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach)**  R:🟢 M:🟢 — Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees. by Panniantong *(32.7k ⭐)*
 - 📄 🔷 **[santifer/career-ops](https://github.com/santifer/career-ops)** 🤖🧠 R:🟡 M:🟢 — AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing. by santifer *(54.3k ⭐)*
-- 📄 🔷 **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** 🤖🧠 R:🟢 M:🟢 — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. by phuryn *(19.2k ⭐)*
+- 📄 🔷 **[phuryn/pm-skills](https://github.com/phuryn/pm-skills)** 🤖🧠 R:🟢 M:🟠 — PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth. by phuryn *(19.2k ⭐)*
 - 🧠 ⭐ **[centaur](https://github.com/paradigmxyz/centaur)** 🤖🧠 R:🔴 M:🟢 — Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. by paradigmxyz *(1.1k ⭐)*
 - ⌨️ ⭐ **[ai-job-search](https://github.com/MadsLorentzen/ai-job-search)** 🤖 R:🔴 M:🟢 — AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews. by MadsLorentzen *(8.4k ⭐)*
 - 🔌 ⭐ **[visual-explainer](https://github.com/nicobailon/visual-explainer)**  R:🟢 M:🟠 — Agent skill that generates rich HTML pages or slide decks for diagrams, diff reviews, plan audits, data tables, and project recaps by nicobailon *(8.8k ⭐)*
@@ -1219,7 +1219,7 @@
 - 🔄 🔷 **[codex-action](https://github.com/openai/codex-action)** 🔧 R:🔴 M:🟢 — No description by openai *(1.1k ⭐)*
 - 📚 ⭐ **[bytedance/deer-flow](https://github.com/bytedance/deer-flow)**  R:🟢 M:🟢 — An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours. by bytedance *(71.4k ⭐)*
 - 📚 🔷 **[abhigyanpatwari/GitNexus](https://github.com/abhigyanpatwari/GitNexus)**  R:🟢 M:🟢 — GitNexus: The Zero-Server Code Intelligence Engine -       GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a GitHub repo or ZIP file, and get an interactive knowledge graph wit a built in Graph RAG Agent. Perfect for code exploration by abhigyanpatwari *(42.4k ⭐)*
-- 📚 ⭐ **[open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)**  R:🟢 M:🟢 — A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files. by open-gitagent *(547 ⭐)*
+- 📚 ⭐ **[open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)**  R:🟢 M:🟠 — A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files. by open-gitagent *(547 ⭐)*
 - 🖱️ ⭐ **[superplane](https://github.com/superplanehq/superplane)** 🤖🖱️🧠 R:🟡 M:🟢 — The open source control plane for agentic engineering. by superplanehq *(4k ⭐)*
 - 🧠 ⭐ **[code](https://github.com/just-every/code)** 🤖🧠 R:🔴 M:🟢 — Every Code - push frontier AI to it limits. A fork of the Codex CLI with validation, automation, browser integration, multi-agents, theming, and much more. Orchestrate agents from OpenAI, Claude, Gemini or any provider. by just-every *(3.8k ⭐)*
 - 🔗 🔷 **[superset](https://github.com/superset-sh/superset)**  R:⚫ M:🟢 — Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine by superset-sh *(11.9k ⭐)*
@@ -1237,6 +1237,7 @@
 - 🔌 🔷 **[babysitter](https://github.com/a5c-ai/babysitter)**  R:🔴 M:🟢 — Babysitter enforces obedience to agentic workforces and enables them to manage extremely complex tasks and workflows through deterministic, hallucination-free self-orchestration by a5c-ai *(1.4k ⭐)*
 - 📄 ⭐ **[codev](https://github.com/cluesmith/codev)** 🤖🧠 R:🔴 M:🟢 — Codev helps humans and agents co-develop both the context and the code of the project.  by cluesmith *(277 ⭐)*
 - 🧠 🔷 **[gnhf](https://github.com/kunchenguid/gnhf)** 🤖🧠 R:🔴 M:🟢 — Before I go to bed, I tell my agents: good night, have fun by kunchenguid *(2.6k ⭐)*
+- 🔄 🔷 **[pullfrog](https://github.com/pullfrog/pullfrog)** 🤖 R:🔴 M:🟢 — Open-source model-agnostic BYOK GitHub bot that runs in GitHub Actions by pullfrog *(1.1k ⭐)*
 - 📄 🔷 **[gsd-2](https://github.com/gsd-build/gsd-2)** 🤖 R:🔴 M:🟠 — A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture by gsd-build *(7.7k ⭐)*
 - 📚 🔷 **[agent](https://github.com/buildkite/agent)**  R:🟡 M:🟢 — The Buildkite Agent is an open-source toolkit written in Go for securely running build jobs on any device or network by buildkite *(999 ⭐)*
 - ⌨️ 🔷 **[optio](https://github.com/jonwiggins/optio)**  R:⚫ M:🟢 — Workflow orchestration for AI coding agents, from task to merged PR. by jonwiggins *(980 ⭐)*
@@ -1253,6 +1254,7 @@
 ## 📋 Runbooks
 
 - 📝 ⭐ **[defending-code-reference-harness](https://github.com/anthropics/defending-code-reference-harness)** 🤖 R:🟡 M:🟢 — Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize by anthropics *(7.3k ⭐)*
+- 🔄 ⭐ **[T3MP3ST](https://github.com/elder-plinius/T3MP3ST)** 🤖 R:🔴 M:🟢 — autonomous red teaming platform; multi-agent offensive-security meta-harness by elder-plinius *(5.9k ⭐)*
 - 🧠 ⭐ **[AiSOC](https://github.com/beenuar/AiSOC)** 🧠 R:🔴 M:🟢 — Open-source AI-powered Security Operations Center — alert fusion, purple-team drills, agent-assisted triage, MITRE ATT&CK investigation. MIT-licensed, self-hostable. by beenuar *(2.2k ⭐)*
 - 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)*
 - 🔌 ⭐ **[ongrid](https://github.com/ongridio/ongrid)** 🤖🧠 R:🟡 M:🟢 — An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. by ongridio *(737 ⭐)*
@@ -1377,6 +1379,7 @@
 - 🧠 🔷 **[hermes-studio](https://github.com/EKKOLearnAI/hermes-studio)** 🤖🧠 R:🔴 M:🟢 — Web dashboard for Hermes Agent — multi-platform AI chat, session management, scheduled jobs, usage analytics by EKKOLearnAI *(8.5k ⭐)*
 - 🔗 🔷 **[ai-agent-book](https://github.com/bojieli/ai-agent-book)** 🤖 R:🔴 M:🟢 — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 by bojieli *(5.4k ⭐)*
 - 🔗 🔷 **[oksskolten](https://github.com/babarot/oksskolten)** 🤖 R:🔴 M:🟢 — 🏔️ The AI-native RSS reader by babarot *(475 ⭐)*
+- 🔄 🔶 **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** 🔧 R:🔴 M:🟢 — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero by PDFMathTranslate *(36.6k ⭐)*
 - 🧠 🔷 **[traycer](https://github.com/traycerai/traycer)** 🤖🧠 R:🟡 M:🟢 — Traycer: Nerve Center for Agentic Coding by traycerai *(409 ⭐)*
 - 🔗 🔷 **[lightdash](https://github.com/lightdash/lightdash)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic BI. Analytics at the speed of code ⚡️ by lightdash *(5.9k ⭐)*
 - 🧠 🔷 **[get-it](https://github.com/beltromatti/get-it)** 🤖🧠 R:🔴 M:🟢 — Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. by beltromatti *(900 ⭐)*
