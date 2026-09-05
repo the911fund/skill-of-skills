@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1291-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1294-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
-[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-254-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
+[![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-255-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1291 skills** across 10 skill types · **254** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1151 | 🧠 codex: 427 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
+**1294 skills** across 10 skill types · **255** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.6M ⭐. Platforms: 🤖 claude code: 1153 | 🧠 codex: 429 | 🔧 generic: 96 | 🖱️ cursor: 89 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[rook](https://github.com/rook/rook)** 🧠 R:🟡 M:🟢 — Storage Orchestration for Kubernetes by rook *(13.6k ⭐)* — discovered Sep 5
+- 🔄 🔷 **[Libraries.dev](https://github.com/Jakubantalik/Libraries.dev)** 🤖 R:🟡 M:🟢 — High-crafted UI libraries for AI agents: Border beam, Orbs, Metal, Gooey, Image by Jakubantalik *(2.9k ⭐)* — discovered Sep 5
+- 🔌 ⭐ **[lazycodex](https://github.com/code-yeongyu/lazycodex)** 🤖🧠 R:🔴 M:🟢 — The one and only agent harness for complex codebases. Project memory, planning, execution, and verified completion inside Codex. by code-yeongyu *(3.4k ⭐)* — discovered Sep 5
 - 🔌 🔷 **[hey-cli](https://github.com/basecamp/hey-cli)** 🤖🧠 R:🟡 M:🟢 — HEY CLI and Agent Skills by basecamp *(318 ⭐)* — discovered Sep 4
 - 🔌 🔶 **[skills](https://github.com/humanlayer/skills)** 🤖 R:🟡 M:🟢 — No description by humanlayer *(2k ⭐)* — discovered Sep 4
-- 🧠 🔷 **[miles](https://github.com/radixark/miles)** 🤖🧠 R:🟡 M:🟢 — Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. by radixark *(2.5k ⭐)* — discovered Sep 4
-- 🧠 🔷 **[khoj](https://github.com/khoj-ai/khoj)** 🧠 R:🟡 M:🟢 — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. by khoj-ai *(37k ⭐)* — discovered Sep 3
-- 🔄 ⭐ **[aura](https://github.com/mezmo/aura)** 🤖 R:🔴 M:🟢 — AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure. by mezmo *(264 ⭐)* — discovered Sep 2
 
 ---
 
@@ -202,6 +202,7 @@
 - 📚 🔷 **[larksuite/cli](https://github.com/larksuite/cli)**  R:🟢 M:🟢 — The official Lark/Feishu CLI tool, maintained by the larksuite team — built for humans and AI Agents. Covers core business domains including Messenger, Docs, Base, Sheets, Calendar, Mail, Tasks, Meetings, and more, with 200+ commands and 20+ AI Agent Skills. by larksuite *(14.3k ⭐)*
 - 📄 🔷 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** 🤖🧠 R:🔴 M:🟢 — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) by Alishahryar1 *(35.1k ⭐)*
 - 🔌 🔷 **[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)** 🤖 R:🔴 M:🟢 — Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，470+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中 by freestylefly *(12.4k ⭐)*
+- 🧠 🔷 **[miles](https://github.com/radixark/miles)** 🤖🧠 R:🟡 M:🟢 — Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime. by radixark *(2.5k ⭐)*
 - 📄 ⭐ **[browserbase/skills](https://github.com/browserbase/skills)** 🤖 R:🟡 M:🟢 — Browserbase's official collection of agent skills to access the web. by browserbase *(3.6k ⭐)*
 - 🔌 🔷 **[vendo](https://github.com/runvendo/vendo)** 🤖🧠 R:🟡 M:🟢 — Embedded agents your customers use to automate work, build views, and connect their tools. by runvendo *(488 ⭐)*
 - 🔌 🔷 **[claude-video-vision](https://github.com/jordanrendric/claude-video-vision)** 🤖 R:🔴 M:🟢 — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis by jordanrendric *(1.1k ⭐)*
@@ -1259,6 +1260,7 @@
 - 🧠 ⭐ **[Decepticon](https://github.com/PurpleAILAB/Decepticon)** 🤖🧠 R:🔴 M:🟢 — Autonomous Hacking Agent for Red Team by PurpleAILAB *(4.8k ⭐)*
 - 🔌 ⭐ **[ongrid](https://github.com/ongridio/ongrid)** 🤖🧠 R:🟡 M:🟢 — An ops AI Agent that understands your infrastructure, finds the root cause, and fixes it — right from Slack, Telegram, Lark or DingTalk. by ongridio *(737 ⭐)*
 - 🔌 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🟡 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(10.1k ⭐)*
+- 🔄 ⭐ **[aura](https://github.com/mezmo/aura)** 🤖 R:🔴 M:🟢 — AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure. by mezmo *(264 ⭐)*
 - 📄 🔷 **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** 🤖 R:🔴 M:🟢 — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code. by shuvonsec *(3.4k ⭐)*
 - 📚 🔷 **[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)**  R:🟢 M:🟢 — Giving Kubernetes Superpowers to everyone by k8sgpt-ai *(7.9k ⭐)*
 - 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** 🤖🧠 R:🟡 M:🟢 — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(433 ⭐)*
@@ -1380,6 +1382,7 @@
 - 🔗 🔷 **[ai-agent-book](https://github.com/bojieli/ai-agent-book)** 🤖 R:🔴 M:🟢 — 《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码 by bojieli *(5.4k ⭐)*
 - 🔗 🔷 **[oksskolten](https://github.com/babarot/oksskolten)** 🤖 R:🔴 M:🟢 — 🏔️ The AI-native RSS reader by babarot *(475 ⭐)*
 - 🔄 🔶 **[PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate)** 🔧 R:🔴 M:🟢 — [EMNLP 2025 Demo] PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero by PDFMathTranslate *(36.6k ⭐)*
+- 🧠 🔷 **[khoj](https://github.com/khoj-ai/khoj)** 🧠 R:🟡 M:🟢 — Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - free. by khoj-ai *(37k ⭐)*
 - 🧠 🔷 **[traycer](https://github.com/traycerai/traycer)** 🤖🧠 R:🟡 M:🟢 — Traycer: Nerve Center for Agentic Coding by traycerai *(409 ⭐)*
 - 🔗 🔷 **[lightdash](https://github.com/lightdash/lightdash)** 🤖🖱️🧠 R:🟡 M:🟢 — Agentic BI. Analytics at the speed of code ⚡️ by lightdash *(5.9k ⭐)*
 - 🧠 🔷 **[get-it](https://github.com/beltromatti/get-it)** 🤖🧠 R:🔴 M:🟢 — Read it. See it. Get it. Built at GDG AI Hack Milan 2026 for "Learn Different" track. by beltromatti *(900 ⭐)*
