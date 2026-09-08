@@ -1021,7 +1021,7 @@
 - 📄 🔷 **[anytype-ts](https://github.com/anyproto/anytype-ts)** 🤖🧠 R:🔴 M:🟢 — Official Anytype client for MacOS, Linux, and Windows by anyproto *(8.2k ⭐)*
 - 🔌 🔷 **[webnovel-writer](https://github.com/lingfengQAQ/webnovel-writer)** 🤖 R:🔴 M:🟢 — 基于 Claude Code 的长篇网文辅助创作系统，解决 AI 写作中的「遗忘」和「幻觉」问题，支持 200 万字量级 连载创作。 by lingfengQAQ *(5.6k ⭐)*
 - 📄 🔷 **[claude-bootstrap](https://github.com/alinaqi/claude-bootstrap)** 🤖 R:🔴 M:🟢 — What started as an opinionated Claude Code setup kit is now an autonomous AI engineering command center by alinaqi *(693 ⭐)*
-- 📄 🔷 **[claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)** 🤖 R:🔴 M:🟢 — AI-native video production toolkit for Claude Code by digitalsamba *(1.5k ⭐)*
+- 📄 🔷 **[claude-code-video-toolkit](https://github.com/digitalsamba/claude-code-video-toolkit)** 🤖 R:🔴 M:🟠 — AI-native video production toolkit for Claude Code by digitalsamba *(1.5k ⭐)*
 - 📄 ⭐ **[agentic-flow](https://github.com/ruvnet/agentic-flow)** 🤖🧠 R:⚫ M:🟠 — Easily switch between alternative low-cost AI models in Claude Code/Agent SDK. For those comfortable using Claude agents and commands, it lets you take what you've created and deploy fully hosted agents for real business purposes. Use Claude Code to get the agent working, then deploy it in your favorite cloud. by ruvnet *(749 ⭐)*
 - 📚 ⭐ **[sangrokjung/claude-forge](https://github.com/sangrokjung/claude-forge)**  R:🟢 M:🟠 — Supercharge Claude Code with 11 AI agents, 36 commands & 15 skills — the claude-code plugin framework inspired by oh-my-zsh. 6-layer security hooks included. 5-min install. by sangrokjung *(749 ⭐)*
 - 🔌 🔷 **[claude-workflow-v2](https://github.com/CloudAI-X/claude-workflow-v2)**  R:🔴 M:🟢 — Universal Claude Code workflow plugin with agents, skills, hooks, and commands by CloudAI-X *(1.4k ⭐)*
@@ -1241,7 +1241,7 @@
 - 📄 🔷 **[coleam00/Archon](https://github.com/coleam00/Archon)** 🤖 R:🔴 M:🟢 — The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable. by coleam00 *(22.4k ⭐)*
 - 🧠 🔷 **[lfg](https://github.com/BennyKok/lfg)** 🤖🧠 R:🔴 M:🟢 — lfg — run and manage your AI coding agents (Claude Code / Codex / OpenCode) on your own VPS by BennyKok *(356 ⭐)*
 - 📄 🔷 **[ColeMurray/background-agents](https://github.com/ColeMurray/background-agents)** 🤖🧠 R:⚫ M:🟢 — An open-source background agents coding system by ColeMurray *(2k ⭐)*
-- 📚 🔷 **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)**  R:🟢 M:🟢 — 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 by fengshao1227 *(5.6k ⭐)*
+- 📚 🔷 **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)**  R:🟢 M:🟠 — 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 by fengshao1227 *(5.6k ⭐)*
 - ⌨️ 🔷 **[ralphex](https://github.com/umputun/ralphex)** 🤖 R:🟡 M:🟢 — Extended Ralph loop for autonomous AI-driven plan execution by umputun *(1.3k ⭐)*
 - 🧠 🔷 **[agent-orchestrator](https://github.com/AgentWrapper/agent-orchestrator)** 🤖🧠 R:🔴 M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by AgentWrapper *(7.7k ⭐)*
 - 🔗 🔷 **[manaflow](https://github.com/manaflow-ai/manaflow)** 🤖🖱️🧠 R:🟡 M:🟢 — Open source Claude Code web/Codex Cloud/Devin/Ramp Inspect alternative by manaflow-ai *(1.1k ⭐)*
