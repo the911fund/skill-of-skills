@@ -2,12 +2,12 @@
 
 > The **quality-ranked** directory for AI coding skills — scored across Claude Code, Cursor, Codex, Windsurf, Cline & more. Ranked by structural quality, reputation, and proven adoption — **not raw popularity**.
 
-[![Skills](https://img.shields.io/badge/skills-1307-2563eb)](https://skills.911fund.io)
+[![Skills](https://img.shields.io/badge/skills-1308-2563eb)](https://skills.911fund.io)
 [![Skill Types](https://img.shields.io/badge/skill_types-10-16a34a)](https://skills.911fund.io/categories)
 [![Curated tier](https://img.shields.io/badge/curated%20%E2%AD%90-261-8b5cf6)](https://skills.911fund.io/tools?sort=quality)
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 
-**1307 skills** across 10 skill types · **261** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.7M ⭐. Platforms: 🤖 claude code: 1165 | 🧠 codex: 437 | 🔧 generic: 96 | 🖱️ cursor: 90 | 📟 cline: 9 | 🏄 windsurf: 6
+**1308 skills** across 10 skill types · **261** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 15.7M ⭐. Platforms: 🤖 claude code: 1166 | 🧠 codex: 438 | 🔧 generic: 96 | 🖱️ cursor: 90 | 📟 cline: 9 | 🏄 windsurf: 6
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -69,11 +69,11 @@
 
 ## 🆕 Latest
 
+- 🔌 🔷 **[notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** 🤖🧠 R:🔴 M:🟢 — Open-source SEO, GEO, and marketing skills for AI agents. by nowork-studio *(3.7k ⭐)* — discovered Sep 8
 - 🔄 🔷 **[agentdock](https://github.com/uvwt/agentdock)** 🤖 R:🔴 M:🟢 — Secure MCP runtime for AI agents to operate local machines, servers, and containers with multi-device orchestration. by uvwt *(667 ⭐)* — discovered Sep 7
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** 🤖 R:🟡 M:🟢 — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(56.5k ⭐)* — discovered Sep 7
 - 🖱️ ⭐ **[agent-inspect](https://github.com/rajudandigam/agent-inspect)** 🤖🖱️🧠 R:🔴 M:🟢 — Local evidence debugger and trajectory-test toolkit for TypeScript AI agents: inspect causal runs, catch wrong tool paths in CI, and share safe offline evidence. by rajudandigam *(506 ⭐)* — discovered Sep 7
 - 🧠 ⭐ **[nono](https://github.com/nolabs-ai/nono)** 🤖🧠 R:🔴 M:🟢 — secure multiplexed execution paths for agents - zero trust, zero setup, zero latency. by nolabs-ai *(4k ⭐)* — discovered Sep 7
-- 🔄 🔷 **[Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** 🤖 R:🔴 M:🟢 — 8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · ~10,000 lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements. by elementalsouls *(2.6k ⭐)* — discovered Sep 7
 
 ---
 
@@ -469,7 +469,7 @@
 - 🔄 🔷 **[a-evolve](https://github.com/A-EVO-Lab/a-evolve)** 🤖 R:🟡 M:🟢 — The official repository of "Position: Agentic Evolution is the Path to Evolving LLMs". by A-EVO-Lab *(679 ⭐)*
 - 📄 🔷 **[superdoc](https://github.com/superdoc-dev/superdoc)** 🤖🧠 R:🟡 M:🟢 — 🦋️ SuperDoc - modern docx editing by superdoc-dev *(742 ⭐)*
 - 📄 🔷 **[free-coding-models](https://github.com/vava-nessa/free-coding-models)** 🤖🧠 R:🟡 M:🟢 — Find, benchmark and install in CLI 170+ FREE coding LLM models across 15+ providers in real time by vava-nessa *(2k ⭐)*
-- 📄 🔷 **[matlab/matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server)** 🔧 R:🟡 M:🟢 — Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code. by matlab *(1k ⭐)*
+- 📄 🔷 **[matlab/matlab-mcp-core-server](https://github.com/matlab/matlab-mcp-core-server)** 🔧 R:🟡 M:🟠 — Run MATLAB® using AI applications with the official MATLAB MCP Server from MathWorks®. This MCP server for MATLAB supports a wide range of coding agents like Claude Code® and Visual Studio® Code. by matlab *(1k ⭐)*
 - 🧠 🔷 **[mcp-go](https://github.com/mark3labs/mcp-go)** 🧠 R:🔴 M:🟢 — A Go implementation of the Model Context Protocol (MCP), enabling seamless integration between LLM applications and external data sources and tools. by mark3labs *(8.9k ⭐)*
 - 📚 🔶 **[Windows-MCP](https://github.com/CursorTouch/Windows-MCP)**  R:⚫ M:🟢 — MCP Server for Computer Use in Windows by CursorTouch *(6.1k ⭐)*
 - 📚 🔷 **[AI-Scientist-v2](https://github.com/SakanaAI/AI-Scientist-v2)**  R:⚫ M:🟠 — The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search by SakanaAI *(6.6k ⭐)*
@@ -484,7 +484,7 @@
 - 📚 🔷 **[golutra/golutra](https://github.com/golutra/golutra)**  R:🟢 M:🟢 — Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orchestration, long-running workflows, and AI productivity workspace. by golutra *(3.7k ⭐)*
 - 📚 🔷 **[chandra](https://github.com/datalab-to/chandra)**  R:🟢 M:🟠 — OCR model that handles complex tables, forms, handwriting with full layout. by datalab-to *(11.2k ⭐)*
 - 📄 🔷 **[apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)** 🤖🧠 R:🟡 M:🟢 — Apollo MCP Server by apollographql *(290 ⭐)*
-- 📄 🔷 **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** 🤖 R:🔴 M:🟢 — Claude Code skill to support Android app's reverse engineering by SimoneAvogadro *(6.1k ⭐)*
+- 📄 🔷 **[SimoneAvogadro/android-reverse-engineering-skill](https://github.com/SimoneAvogadro/android-reverse-engineering-skill)** 🤖 R:🔴 M:🟠 — Claude Code skill to support Android app's reverse engineering by SimoneAvogadro *(6.1k ⭐)*
 - 🔌 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** 🤖 R:🟢 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(977 ⭐)*
 - 📄 🔷 **[trice](https://github.com/rokath/trice)** 🧠 R:🟢 M:🟢 — 🟢 Super-fast, tiny C/C++ tracing with printf look-and-feel, even in interrupts ⚡, plus real-time PC logging 💻 by rokath *(961 ⭐)*
 - 🔌 🔷 **[tidy3d](https://github.com/flexcompute/tidy3d)**  R:🟡 M:🟠 — fast, large scale photonic simulation platform by flexcompute *(348 ⭐)*
@@ -542,7 +542,7 @@
 - 🧠 🔶 **[12-factor-agents](https://github.com/humanlayer/12-factor-agents)** 🤖🧠 R:🟡 M:🟠 — What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers? by humanlayer *(23.6k ⭐)*
 - 📄 🔷 **[tombi-toml/tombi](https://github.com/tombi-toml/tombi)** 🤖🧠 R:🟡 M:🟢 — TOML Formatter / Linter / Language Server by tombi-toml *(979 ⭐)*
 - 📄 🔷 **[Claude-code-ChatInWindows](https://github.com/LKbaba/Claude-code-ChatInWindows)** 🤖 R:🟡 M:🟢 — Full-featured GUI for Claude Code CLI in VS Code — Windows (no WSL) & macOS. Third-party API, MCP plugins, Skills, Hooks, real-time token tracking. Actively maintained. by LKbaba *(217 ⭐)*
-- 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟢 — A guide on how to use the Figma MCP server by figma *(1.6k ⭐)*
+- 🔌 🔶 **[mcp-server-guide](https://github.com/figma/mcp-server-guide)** 🤖 R:🟢 M:🟠 — A guide on how to use the Figma MCP server by figma *(1.6k ⭐)*
 - 📚 🔷 **[Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway)**  R:🟢 M:🟢 — Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools by Compresr-ai *(615 ⭐)*
 - 📄 🔷 **[pg-mcp-server](https://github.com/stuzero/pg-mcp-server)** 🔧 R:🟡 M:🟠 — No description by stuzero *(541 ⭐)*
 - 📄 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** 🔧 R:🟡 M:🟠 — 🔍 Source code leak? Production code? 13 chapters breaking down Claude Code's production-grade architecture layer by layer — the most visual + agent simulator + source code analysis by waiterxiaoyy *(275 ⭐)*
@@ -1274,6 +1274,7 @@
 - 🔌 ⭐ **[reverse-skill](https://github.com/zhaoxuya520/reverse-skill)** 🤖🧠 R:🟡 M:🟢 — Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base  Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端 by zhaoxuya520 *(10.1k ⭐)*
 - 🔄 ⭐ **[aura](https://github.com/mezmo/aura)** 🤖 R:🔴 M:🟢 — AURA is a production-tested SRE agent platform you can deploy in minutes.  AURA handles the guardrails, APIs, state management, streaming, and failure handling required to put AI to work safely on production infrastructure. by mezmo *(264 ⭐)*
 - 📄 🔷 **[claude-bug-bounty](https://github.com/shuvonsec/claude-bug-bounty)** 🤖 R:🔴 M:🟢 — AI-powered bug bounty hunting from your terminal - recon, 20 vuln classes,   autonomous hunting, and report generation. All inside Claude Code. by shuvonsec *(3.4k ⭐)*
+- 🔄 🔷 **[Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** 🤖 R:🔴 M:🟢 — 8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · ~10,000 lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements. by elementalsouls *(2.6k ⭐)*
 - 📚 🔷 **[k8sgpt](https://github.com/k8sgpt-ai/k8sgpt)**  R:🟢 M:🟢 — Giving Kubernetes Superpowers to everyone by k8sgpt-ai *(7.9k ⭐)*
 - 🔌 🔷 **[FableCodex](https://github.com/baskduf/FableCodex)** 🤖🧠 R:🟡 M:🟢 — 🗿 FableCodex is a Codex-style coding agent workflow that plans like Fable. by baskduf *(433 ⭐)*
 - 📄 🔷 **[Tracer-Cloud/opensre](https://github.com/Tracer-Cloud/opensre)** 🤖🖱️🧠 R:🟡 M:🟢 — Build your own AI SRE agents. The open source toolkit for the AI era. by Tracer-Cloud *(7.1k ⭐)*
