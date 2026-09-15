@@ -23,6 +23,8 @@ Each validated record should include:
 - validation errors/warnings
 - validation timestamp
 - repository commit SHA used for validation
+- evidence/provenance markers when present (`stale_if`, source refs, source
+  hashes, resume checks, renderer/skill version, omitted-private-context flags)
 
 ## Fail closed
 
@@ -58,6 +60,27 @@ Risk should include exact reasons. Examples:
 - browser/computer-use automation
 - broad filesystem writes
 - lack of explicit human approval gates
+- durable handoff/memory artifacts that are loaded automatically but have no
+  freshness check, source reference, or invalidation rule
+
+## Handoff and generated-context validation
+
+When a skill writes a handoff, summary, cached context file, fused ruleset, or
+tool catalog for a future agent to load, validate the artifact as a boundary, not
+as ordinary documentation.
+
+Prefer records that prove:
+
+- what source state was summarized or transformed
+- which repo/worktree/branch/commit or trace ids were used
+- which command, skill, or renderer produced the artifact
+- which claims were verified against the current workspace versus asserted from
+  conversation memory
+- what private context was intentionally omitted without exposing it
+- when the artifact becomes stale or must be regenerated
+
+If a generated artifact can steer future tool use but has no freshness or source
+evidence, downgrade it or mark it for review even when the prose is polished.
 
 ## n8n workflow validation
 
