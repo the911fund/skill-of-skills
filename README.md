@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **380+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-09-26 12:25 UTC; the badges above are live)*
+*(counts as of 2026-09-26 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ 🔷 **[langchat](https://github.com/LangChat/langchat)** 🤖 R:🟡 M:🟢 — LangChat 是由 LangChat Team 开发的开源 AI Agent 应用平台，支持多模型、Agent、知识库 RAG、Skills、MCP 与智能问数。 by LangChat *(1.3k ⭐)* — discovered Sep 26
 - 🔌 🔷 **[web-quality-skills](https://github.com/addyosmani/web-quality-skills)** 🤖🧠 R:🟡 M:🟢 — Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. by addyosmani *(2.8k ⭐)* — discovered Sep 26
 - 📚 🔷 **[UnrealBridge](https://github.com/TornLux/UnrealBridge)** 🤖 R:🟡 M:🟢 — Typed control surface for Unreal Engine that lets AI agents introspect assets, author Blueprints/AnimBPs,   and edit levels — with reactive events and undoable writes. by TornLux *(303 ⭐)* — discovered Sep 26
 - 🧠 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** 🤖🧠 R:🟡 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.4k ⭐)* — discovered Sep 25
 - 🔌 ⭐ **[openrig](https://github.com/mvschwarz/openrig)** 🤖 R:🟡 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(456 ⭐)* — discovered Sep 25
-- 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(510 ⭐)* — discovered Sep 25
 
 ---
 
@@ -672,7 +672,7 @@
 - 🔗 🔶 **[unreal-mcp](https://github.com/chongdashu/unreal-mcp)** 🖱️🏄📟 R:🔴 M:🔴 — Enable AI assistant clients like Cursor, Windsurf and Claude Desktop to control Unreal Engine through natural language using the Model Context Protocol (MCP). by chongdashu *(2.1k ⭐)*
 - 🔄 🔷 **[desktop](https://github.com/agentify-sh/desktop)** 🔧 R:⚫ M:✅ — Agentify Desktop lets Codex/Claude/OpenCode  control your logged-in ChatGPT, Claude, AiStudio, Gemini, Grok, Perplexity web sessions via MCP, parallel hidden/visible tabs, file upload + image download by agentify-sh *(565 ⭐)*
 - ⌨️ 🔷 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** 🤖 R:🔴 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(340 ⭐)*
-- 📚 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** 🤖 R:🟡 M:🟢 — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
+- 📚 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** 🤖 R:🟡 M:✅ — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
 - 📄 🔷 **[agentipy](https://github.com/niceberginc/agentipy)** 🔧 R:🟡 M:🟠 — The #Python framework for connecting AI agents to any onchain app on  @solana-labs  🤖🐍 by niceberginc *(248 ⭐)*
 - 📄 🔷 **[JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)** 🤖 R:⚫ M:🟠 — Claude Code complete source restoration from npm package — all native modules, no features cut by JrCx7scC *(376 ⭐)*
 - 📄 🔷 **[fintool](https://github.com/second-state/fintool)** 🤖 R:🟡 M:✅ — A suite of Rust CLI tools for agentic trading and market intelligence. Each exchange has its own dedicated binary — hyperliquid, binance, coinbase, okx, polymarket — plus a shared fintool for exchange-agnostic market intelligence (quotes, news, SEC filings). Supports crypto, stocks, commodities, and prediction markets.  by second-state *(316 ⭐)*
@@ -1116,8 +1116,8 @@
 - 📄 🔷 **[quiknode-labs/qn-guide-examples](https://github.com/quiknode-labs/qn-guide-examples)** 🤖 R:🟡 M:🟢 — A collection of example applications from QuickNode's Technical Guides by quiknode-labs *(272 ⭐)*
 - 🖱️ 🔷 **[CADAM](https://github.com/Adam-CAD/CADAM)** 🖱️ R:🟢 M:🟢 — CADAM is the open source text-to-CAD web application by Adam-CAD *(5.2k ⭐)*
 - 📚 🔶 **[VoltAgent/awesome-claude-code-subagents](https://github.com/VoltAgent/awesome-claude-code-subagents)** 🤖 R:🟡 M:🟢 — A collection of 100+ specialized Claude Code subagents covering a wide range of development use cases by VoltAgent *(25.3k ⭐)*
-- 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
 - 📚 🔷 **[agentrove](https://github.com/Mng-dev-ai/agentrove)** 🔧 R:🔴 M:🟢 — Your own Claude Code UI, sandbox, in-browser VS Code, terminal, multi-provider support (Anthropic, OpenAI, GitHub Copilot, OpenRouter), custom skills, and MCP servers. by Mng-dev-ai *(329 ⭐)*
+- 📄 🔷 **[sdk-generator](https://github.com/appwrite/sdk-generator)** 🤖🧠 R:🟡 M:🟢 — Generating SDKs for multiple programming languages and platforms ⚙️ by appwrite *(329 ⭐)*
 - 🔌 🔷 **[infinite-canvas](https://github.com/tigerowo/infinite-canvas)** 🤖🧠 R:🟡 M:🟢 — 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 OpenAI 接口及多种 API 服务 by tigerowo *(1k ⭐)*
 - 📄 🔷 **[divine-mobile](https://github.com/divinevideo/divine-mobile)** 🤖🧠 R:🟡 M:🟢 — No description by divinevideo *(265 ⭐)*
 - 📚 🔷 **[penso/arbor](https://github.com/penso/arbor)** 🤖🧠 R:🟡 M:🟢 — Run agentic coding workflows in a fully native desktop app for Git worktrees, terminals, and diffs. by penso *(829 ⭐)*
@@ -1479,6 +1479,7 @@
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(3.4k ⭐)*
 - 📝 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** 🔧 R:🟡 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.3k ⭐)*
 - 🔌 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.7k ⭐)*
+- 🔄 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🟡 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(510 ⭐)*
 - 🧠 ⭐ **[OpenCreator](https://github.com/krillinai/OpenCreator)** 🤖🧠 R:🟡 M:🟢 — Formerly KrillinAI. Open-source AI workspace for creators, powered by Codex. Create videos, images, voice, avatars, translations, and edits with Agents in one place. by krillinai *(12.4k ⭐)*
 - 🧠 ⭐ **[munder-difflin](https://github.com/chaitanyagiri/munder-difflin)** 🤖🧠 R:🟡 M:🟢 — local multi-agent harness by chaitanyagiri *(8k ⭐)*
 - 🧠 ⭐ **[omnigent](https://github.com/omnigent-ai/omnigent)** 🤖🧠 R:🔴 M:🟢 — Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and collaborate in real time from any device. by omnigent-ai *(10.2k ⭐)*
