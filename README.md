@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-09 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-09 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -70,11 +70,11 @@
 
 ## 🆕 Latest
 
+- 🧠 🔷 **[CodeAF](https://github.com/Agent-Field/CodeAF)** 🤖🧠 R:🟡 M:🟢 — Open-Source Software factory for Open Models by Agent-Field *(360 ⭐)* — discovered Oct 9
+- 🧠 🔷 **[cindy](https://github.com/makecindy/cindy)** 🤖🧠 R:🟡 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(3k ⭐)* — discovered Oct 9
 - 🧠 ⭐ **[open-dots](https://github.com/Anil-matcha/open-dots)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(5.6k ⭐)* — discovered Oct 9
 - 🔌 🔶 **[tufte-vdqi-plugin](https://github.com/gnurio/tufte-vdqi-plugin)** 🤖 R:🟡 M:🟢 — Give your AI agents the skill of visualizing data the way Edward Tufte intended. by gnurio *(309 ⭐)* — discovered Oct 8
 - 🧠 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** 🤖🧠 R:🟡 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14k ⭐)* — discovered Oct 8
-- 🔌 ⭐ **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** 🤖 R:🟡 M:🟢 — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template by Vincentwei1021 *(10.9k ⭐)* — discovered Oct 8
-- 🧠 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** 🤖🧠 R:🟡 M:✅ — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(935 ⭐)* — discovered Oct 8
 
 ---
 
@@ -868,6 +868,7 @@
 - 📚 🔷 **[mathiaschu/meta-ads-analyzer](https://github.com/mathiaschu/meta-ads-analyzer)** 🤖 R:🟡 M:🟠 — Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis. by mathiaschu *(440 ⭐)*
 - ⌨️ 🔶 **[LobsterBoard](https://github.com/Curbob/LobsterBoard)** 🔧 R:🟢 M:✅ — OpenClaw Dashboard Builder - Create custom dashboards by Curbob *(977 ⭐)*
 - 🔗 🔷 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** 🤖🔧 R:🟡 M:🟠 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(221 ⭐)*
+- 🧠 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** 🤖🧠 R:🟡 M:✅ — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(935 ⭐)*
 - 📝 🔶 **[deep-research-mcp](https://github.com/teelaitila/deep-research-mcp)** 🔧 R:🟡 M:🟠 — No description by teelaitila *(323 ⭐)*
 
 ## 🔄 Business Process & Team Automation
@@ -1001,6 +1002,7 @@
 - 📚 ⭐ **[garrytan/gstack](https://github.com/garrytan/gstack)** 🤖🧠 R:🟡 M:🟢 — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA by garrytan *(135.7k ⭐)*
 - 📚 ⭐ **[JCodesMore/ai-website-cloner-template](https://github.com/JCodesMore/ai-website-cloner-template)** 🤖🧠 R:🟡 M:🟢 — Clone any website with one command using AI coding agents by JCodesMore *(36.3k ⭐)*
 - 📚 ⭐ **[code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent)** 🤖🖱️🧠 R:🟡 M:🟢 — omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode by code-yeongyu *(69.9k ⭐)*
+- 🔌 ⭐ **[video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft)** 🤖 R:🟡 M:🟢 — AI video skill for Claude Code & Codex — cinematic product videos with Remotion: 152 shot recipe cards, 209 motion previews, a production-ready template by Vincentwei1021 *(10.9k ⭐)*
 - 📄 🔷 **[t3code](https://github.com/pingdotgg/t3code)** 🤖🧠 R:🟡 M:🟢 — No description by pingdotgg *(26.4k ⭐)*
 - 📚 ⭐ **[msitarzewski/agency-agents](https://github.com/msitarzewski/agency-agents)** 🔧 R:🟢 M:🟢 — A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables. by msitarzewski *(158.4k ⭐)*
 - 🔗 ⭐ **[loki-mode](https://github.com/asklokesh/loki-mode)** 🤖🧠 R:⚫ M:🟢 — Multi-agent provider agnostic Autonomous system & framework that WORKS..! by asklokesh *(1.1k ⭐)*
