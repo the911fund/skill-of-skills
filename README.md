@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-10 00:25 UTC; the badges above are live)*
+*(counts as of 2026-10-10 03:00 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -635,7 +635,7 @@
 - 🔄 🔶 **[spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server)** 🔧 R:🟡 M:🟢 — Lightweight MCP server for Spotify by marcelmarais *(475 ⭐)*
 - 🔌 🔷 **[claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** 🤖 R:🟡 M:🟠 — Claude Code skill to supercharge and manage all Home Assistant workflows by komal-SkyNET *(966 ⭐)*
 - 📄 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** 🔧 R:🟡 M:🟢 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
-- 🔌 🔷 **[opentikz](https://github.com/opentikz/opentikz)** 🤖 R:🟡 M:🟢 — TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill by opentikz *(267 ⭐)*
+- 🔌 🔷 **[opentikz](https://github.com/opentikz/opentikz)** 🤖 R:🟡 M:✅ — TikZ for paper diagrams, without hand-writing TikZ — copyable icons, editable templates, and a Claude Code skill by opentikz *(267 ⭐)*
 - 📚 🔷 **[Compresr-ai/Context-Gateway](https://github.com/Compresr-ai/Context-Gateway)** 🔧 R:🟡 M:🟢 — Context Gateway is an agentic proxy that enhances any AI agent workflow with instant history compaction and context optimization tools by Compresr-ai *(645 ⭐)*
 - 🧠 🔷 **[whisplay-ai-chatbot](https://github.com/PiSugar/whisplay-ai-chatbot)** 🧠 R:🟡 M:🟢 — Pocket-sized AI chatbot built using a RPI Zero 2w / 5 by PiSugar *(525 ⭐)*
 - 🔗 🔷 **[bear-notes-mcp](https://github.com/vasylenko/bear-notes-mcp)** 🤖🧠 R:🟢 M:✅ — MCP Server for Bear note taking app available as Claude Desktop extension or standalone server for any other AI tool by vasylenko *(205 ⭐)*
