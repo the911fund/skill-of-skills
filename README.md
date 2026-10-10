@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-10 09:25 UTC; the badges above are live)*
+*(counts as of 2026-10-10 12:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -1322,7 +1322,7 @@
 - 📚 🔷 **[Code-and-Sorts/awesome-copilot-agents](https://github.com/Code-and-Sorts/awesome-copilot-agents)** 🤖 R:🟢 M:🟠 — ✨ A curated list of awesome GitHub instructions, prompt, skills, MCPs and agent markdown files for enhancing your GitHub Copilot AI experience. by Code-and-Sorts *(580 ⭐)*
 - 📚 🔶 **[chauncygu/collection-claude-code-source-code](https://github.com/chauncygu/collection-claude-code-source-code)** 🔧 R:🟢 M:✅ — 🔥 A collection of the newest Claude Code open source by chauncygu *(2.8k ⭐)*
 - 📚 🔶 **[wong2/awesome-mcp-servers](https://github.com/wong2/awesome-mcp-servers)** 🔧 R:🟢 M:🟢 — A curated list of Model Context Protocol (MCP) servers by wong2 *(4.3k ⭐)*
-- 📚 🔶 **[AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)** 🤖🧠 R:🟡 M:🟢 — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  by AlexAnys *(4.4k ⭐)*
+- 📚 🔶 **[AlexAnys/awesome-openclaw-usecases-zh](https://github.com/AlexAnys/awesome-openclaw-usecases-zh)** 🤖🧠 R:🟡 M:✅ — 🇨🇳 OpenClaw中文用例大全 | 50个真实场景 | 国内特色 + 海外案例的国内适配 | 自动化办公·内容创作·运维·AI助理·知识管理 | 新手友好  by AlexAnys *(4.4k ⭐)*
 - 📚 🔶 **[fleurytian/awesome-claude-skills](https://github.com/fleurytian/awesome-claude-skills)** 🤖 R:🟢 M:✅ — Claude Skills developed for brain-workers. Dev by Fleury, an Ex-McKinsey and now AI product manager. 小红书/RedNote@如宝｜AI&Anlalytics. Email me @fleurytian@gmail.com by fleurytian *(320 ⭐)*
 - 📚 🔶 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** 🔧 R:🟢 M:🟠 — Tutorials, Guides and Agent Skills Directories by heilcheng *(6.3k ⭐)*
 - 📚 🔶 **[punkpeye/awesome-mcp-devtools](https://github.com/punkpeye/awesome-mcp-devtools)** 🔧 R:🟢 M:🟢 — A curated list of developer tools, SDKs, libraries, and testing utilities for Model Context Protocol (MCP) server development. by punkpeye *(486 ⭐)*
