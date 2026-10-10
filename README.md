@@ -8,7 +8,7 @@
 
 **1,400+ skills** across 10 skill types · **420+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 18,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-10 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-10 15:25 UTC; the badges above are live)*
 
 🌐 **[Browse the Directory](https://skills.911fund.io)** · 📖 **[Guides](https://skills.911fund.io/guides)** · 🧭 **[Collections](https://skills.911fund.io/collections)** · 📊 **[Analytics](https://skills.911fund.io/analytics)**
 
@@ -1081,7 +1081,7 @@
 - 📄 🔷 **[anytype-ts](https://github.com/anyproto/anytype-ts)** 🤖🧠 R:🟡 M:🟢 — Official Anytype client for MacOS, Linux, and Windows by anyproto *(8.9k ⭐)*
 - 🔌 🔷 **[spec-superflow](https://github.com/MageByte-Zero/spec-superflow)** 🤖🧠 R:🟡 M:🟢 — 源码级融合 OpenSpec 规划引擎 + Superpowers 执行纪律的 AI 编程工作流插件。17 平台支持，9 skills，Spec-first，契约驱动。 by MageByte-Zero *(845 ⭐)*
 - 📄 🔷 **[chinese-novelist-skill](https://github.com/PenglongHuang/chinese-novelist-skill)** 🤖 R:🟢 M:🟢 — 🎭 AI 写小说：从零生成 10-50 章完整中文小说，三层问答 · 创作记忆 · 悬念钩子 · 自动校验，长篇网文连载皆宜｜开源免费，适配主流 coding agent｜AI novel writing skill by PenglongHuang *(3.3k ⭐)*
-- 🔌 🔷 **[garden-skills](https://github.com/ConardLi/garden-skills)** 🤖 R:🟢 M:🟢 — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. by ConardLi *(12.8k ⭐)*
+- 🔌 🔷 **[garden-skills](https://github.com/ConardLi/garden-skills)** 🤖 R:🟢 M:✅ — ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more. by ConardLi *(12.8k ⭐)*
 - 🔌 ⭐ **[myclaude](https://github.com/stellarlinkco/myclaude)** 🤖🧠 R:🔴 M:✅ — Multi-agent orchestration workflow (Claude Code  Codex Gemini OpenCode) by stellarlinkco *(2.8k ⭐)*
 - 📄 ⭐ **[oracle-devrel/oracle-ai-developer-hub](https://github.com/oracle-devrel/oracle-ai-developer-hub)** 🤖🧠 R:🟡 M:🟢 — Technical resources for AI developers to build applications, agents, and systems using Oracle AI Database and OCI services by oracle-devrel *(4.4k ⭐)*
 - 🖱️ 🔷 **[CADAM](https://github.com/Adam-CAD/CADAM)** 🖱️ R:🟢 M:🟢 — CADAM is the open source text-to-CAD web application by Adam-CAD *(5.2k ⭐)*
