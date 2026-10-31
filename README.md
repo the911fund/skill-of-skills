@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-10-31 12:25 UTC; the badges above are live)*
+*(counts as of 2026-10-31 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📚 ⭐ **[NornicDB](https://github.com/orneryd/NornicDB)** 🤖🧠 R:🟡 M:🟢 — Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server. by orneryd *(921 ⭐)* — discovered Oct 31
+- 📦 ⭐ **[agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** 🤖 R:🟡 M:🟢 — Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. by 0x0funky *(4.7k ⭐)* — discovered Oct 31
+- 📚 ⭐ **[Orkas](https://github.com/Orkas-AI/Orkas)** 🤖 R:🟡 M:🟢 — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. by Orkas-AI *(5.9k ⭐)* — discovered Oct 31
 - 🔗 🔷 **[aktools](https://github.com/akfamily/aktools)** 🤖 R:🟡 M:🟢 — HTTP API and MCP server for AKShare: fetch financial data from any programming language or AI assistant (Claude, Cursor) by akfamily *(1.5k ⭐)* — discovered Oct 31
-- 🔗 🔷 **[anymd](https://github.com/SylphxAI/anymd)** 🤖🧠 R:🟡 M:🟢 — Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that runs on your machine. No API key. by SylphxAI *(1.1k ⭐)* — discovered Oct 31
 - 🔗 ⭐ **[OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)** 🔧 R:🟡 M:🟢 — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech. by OpenOSINT *(1.8k ⭐)* — discovered Oct 31
-- ⌨️ ⭐ **[seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)** 🤖🧠 R:🟡 M:🟢 — A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more. by seo-skills *(656 ⭐)* — discovered Oct 31
+- 🔗 🔷 **[anymd](https://github.com/SylphxAI/anymd)** 🤖🧠 R:🟡 M:🟢 — Any file → clean Markdown for AI agents: PDF, Word, PowerPoint, Excel, EPUB, HTML and web pages, images (OCR), audio and video (metadata, subtitles, transcripts). A fast Rust MCP server and CLI that runs on your machine. No API key. by SylphxAI *(1.1k ⭐)* — discovered Oct 31
 
 ---
 
@@ -478,6 +478,7 @@
 - ⌨️ 🔷 **[link-cli](https://github.com/stripe/link-cli)** 🤖 R:⚫ M:🟢 — Let your agents spend on your behalf. Your payment credentials are never exposed. You approve every purchase. by stripe *(884 ⭐)*
 - 📚 🔷 **[Switchyard](https://github.com/NVIDIA-NeMo/Switchyard)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization. by NVIDIA-NeMo *(3.5k ⭐)*
 - 📚 🔷 **[opa](https://github.com/open-policy-agent/opa)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Open Policy Agent (OPA) is an open source, general-purpose policy engine. by open-policy-agent *(12.4k ⭐)*
+- 📚 ⭐ **[NornicDB](https://github.com/orneryd/NornicDB)** 🤖🧠 R:🟡 M:🟢 — Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server. by orneryd *(921 ⭐)*
 - 📚 🔷 **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** ✓ Loads clean 🔧 R:🟡 M:🟢 — A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows by antoinezambelli *(2.3k ⭐)*
 - ⌨️ 🔷 **[repobrain](https://github.com/study8677/repobrain)** ▶ Runs 🤖🖱️🧠🏄📟 R:🟡 M:🟢 — 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more. by study8677 *(1.4k ⭐)*
 - 📚 🔶 **[agentskills](https://github.com/agentskills/agentskills)** ▶ Runs 🤖 R:🟡 M:🟢 — Specification and documentation for Agent Skills by agentskills *(26.8k ⭐)*
@@ -867,6 +868,7 @@
 - 📚 🔷 **[PriceAI](https://github.com/dimthink/PriceAI)** ✓ Loads clean 🤖 R:🟡 M:🟢 — AI 订阅卡网渠道比价工具：聚合100+卡网渠道包含 ChatGPT、Claude、Gemini、Grok 等多渠道报价，展示有货最低价、库存状态和原站购买链接。 by dimthink *(4.8k ⭐)*
 - 📚 🔷 **[kenn-io/agentsview](https://github.com/kenn-io/agentsview)** 🤖🧠 R:🟡 M:🟢 — Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage! by kenn-io *(6.3k ⭐)*
 - ⌨️ ⭐ **[TokenTracker](https://github.com/xiufengsun/TokenTracker)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Track token usage across 22 AI coding tools (Claude Code, Codex, Cursor, Gemini, Roo Code, Zed Agent, Goose, and more) — local-first, zero-config, with a beautiful dashboard, native macOS menu bar app, and 4 desktop widgets. by xiufengsun *(2.2k ⭐)*
+- ⌨️ ⭐ **[seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)** 🤖🧠 R:🟡 M:🟢 — A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more. by seo-skills *(656 ⭐)*
 - ⌨️ 🔷 **[user-scanner](https://github.com/kaifcodec/user-scanner)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — 🕵️‍♂️ (2-in-1) Email & Username OSINT suite featuring native MCP support for deep data extraction just from a single Email/Username. Analyzes 465+ actively maintained scan vectors (175+ email / 290+ username) for security research, investigations, and digital footprinting. by kaifcodec *(5.5k ⭐)*
 - 📚 🔷 **[open-science](https://github.com/aipoch/open-science)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance. by aipoch *(5.4k ⭐)*
 - 🔗 ⭐ **[justrach/codedb](https://github.com/justrach/codedb)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Zig code intelligence server and MCP toolset for AI agents. Fast tree, outline, symbol, search, read, edit, deps, snapshot, and remote GitHub repo queries. by justrach *(1.4k ⭐)*
