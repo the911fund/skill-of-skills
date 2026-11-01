@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-01 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-01 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[netbird](https://github.com/netbirdio/netbird)** 🤖🧠 R:🟡 M:🟢 — NetBird securely connects people, machines and AI agents across any network with one identity-based Zero Trust platform. Powered by peer-to-peer WireGuard® by netbirdio *(30.5k ⭐)* — discovered Nov 1
+- 📦 ⭐ **[skills](https://github.com/scenario-labs/skills)** 🤖🧠 R:🟡 M:🟢 — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. by scenario-labs *(1.4k ⭐)* — discovered Nov 1
+- 📚 🔷 **[ai-engineering-hub](https://github.com/patchy631/ai-engineering-hub)** 🤖🧠 R:🟡 M:🟢 — In-depth tutorials on LLMs, RAGs and real-world AI agent applications. by patchy631 *(39.8k ⭐)* — discovered Nov 1
 - 📦 ⭐ **[agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. by 0x0funky *(4.8k ⭐)* — discovered Oct 31
 - 📚 ⭐ **[Orkas](https://github.com/Orkas-AI/Orkas)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. by Orkas-AI *(6.5k ⭐)* — discovered Oct 31
-- 🔗 🔷 **[mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript)** ▶ Runs 🔧 R:🟡 M:🟢 — MCP server retrieving transcripts of YouTube videos by jkawamoto *(494 ⭐)* — discovered Oct 31
-- 📚 ⭐ **[NornicDB](https://github.com/orneryd/NornicDB)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server. by orneryd *(921 ⭐)* — discovered Oct 31
-- 🔗 ⭐ **[OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)** ▶ Runs 🔧 R:🟡 M:🟢 — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech. by OpenOSINT *(1.8k ⭐)* — discovered Oct 31
 
 ---
 
@@ -471,7 +471,7 @@
 - 🔗 🔷 **[notion-mcp-server](https://github.com/makenotion/notion-mcp-server)** ▶ Runs 🤖 R:🟢 M:🟢 — Official Notion MCP Server by makenotion *(4.7k ⭐)*
 - 📚 🔷 **[suneditor](https://github.com/JiHong88/suneditor)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A lightweight and powerful WYSIWYG editor in vanilla JavaScript. No dependencies. by JiHong88 *(2k ⭐)*
 - 📄 ⭐ **[notebooklm-skill](https://github.com/PleasePrompto/notebooklm-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Use this skill to enable Claude Code to communicate directly with your Google NotebookLM notebooks. Query your uploaded documents and get source-grounded, citation-backed answers from Gemini. Features browser automation, library management, persistent authentication, and answers exclusively from your own knowledge base. by PleasePrompto *(7.8k ⭐)*
-- 🔗 🔷 **[hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** ▶ Runs 🔧 R:⚫ M:🟢 — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. by 0x4m4 *(13.2k ⭐)*
+- 🔗 🔷 **[hexstrike-ai](https://github.com/0x4m4/hexstrike-ai)** ▶ Runs 🔧 R:⚫ M:🟠 — HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, GPT, Copilot, etc.) autonomously run 150+ cybersecurity tools for automated pentesting, vulnerability discovery, bug bounty automation, and security research. Seamlessly bridge LLMs with real-world offensive security capabilities. by 0x4m4 *(13.2k ⭐)*
 - 📦 🔷 **[Axiom](https://github.com/CharlesWiltgen/Axiom)** ▶ Runs 🤖 R:🟡 M:🟢 — Battle-tested Claude Code skills for modern xOS (iOS, iPadOS, watchOS, tvOS) development by CharlesWiltgen *(1.2k ⭐)*
 - 📄 🔷 **[nano-banana-pro-prompts-recommend-skill](https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — AI skill for OpenClaw & Claude Code — recommend from 10000+ Nano Banana Pro (Gemini) image prompts. Smart search by use case, content remix, sample images. by YouMind-OpenLab *(1.9k ⭐)*
 - ⌨️ 🔷 **[spotatui](https://github.com/LargeModGames/spotatui)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A fast, standalone terminal music player in Rust: native Spotify streaming plus local, Subsonic, radio, Qobuz and Youtube sources by LargeModGames *(1.8k ⭐)*
@@ -484,6 +484,7 @@
 - 📚 🔶 **[agentskills](https://github.com/agentskills/agentskills)** ▶ Runs 🤖 R:🟡 M:🟢 — Specification and documentation for Agent Skills by agentskills *(26.8k ⭐)*
 - 📚 🔷 **[npcpy](https://github.com/NPC-Worldwide/npcpy)** 🤖🧠 R:🟡 M:🟢 — The python library for research and development in NLP, multimodal LLMs, Agents, ML, Knowledge Graphs, and more. by NPC-Worldwide *(1.5k ⭐)*
 - 📚 🔷 **[dimensionalOS/dimos](https://github.com/dimensionalOS/dimos)** ▶ Runs 🧠 R:🔴 M:🟢 — Dimensional is the agentic operating system for physical space. Vibecode humanoids, quadrupeds, drones, and other hardware platforms in natural language and build multi-agent systems that work seamlessly with physical input (cameras, lidar, actuators). by dimensionalOS *(4.7k ⭐)*
+- 📚 ⭐ **[NornicDB](https://github.com/orneryd/NornicDB)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server. by orneryd *(921 ⭐)*
 - 📚 🔷 **[antoinezambelli/forge](https://github.com/antoinezambelli/forge)** ✓ Loads clean 🔧 R:🟡 M:🟢 — A Python framework for self-hosted LLM tool-calling and multi-step agentic workflows by antoinezambelli *(2.3k ⭐)*
 - ⌨️ 🔷 **[repobrain](https://github.com/study8677/repobrain)** ▶ Runs 🤖🖱️🧠🏄📟 R:🟡 M:🟢 — 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more. by study8677 *(1.4k ⭐)*
 - 📚 ⭐ **[nibiru](https://github.com/NibiruChain/nibiru)** ✓ Loads clean 🤖 R:🟢 M:🟢 — The breakthrough smart contract platform ushering in the next era of money. Nibiru powers an ecosystem of dApps including perps, RWAs, and more. by NibiruChain *(206 ⭐)*
@@ -661,6 +662,7 @@
 - 📚 🔷 **[paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro)** 🔧 R:🟢 M:🟢 — The Trusted Membership Platform That Grows with You: Restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more. Fully open source. 100% GPL. by strangerstudios *(533 ⭐)*
 - ⌨️ 🔷 **[air](https://github.com/air-verse/air)** 🧠 R:🟢 M:🟢 — ☁️ Live reload for Go apps by air-verse *(24.1k ⭐)*
 - 📚 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** ✓ Loads clean 🤖 R:🟢 M:🟢 — SOFAArk is a light-weight，java based classloader isolation framework. by sofastack *(1.6k ⭐)*
+- 🔗 🔷 **[mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript)** ▶ Runs 🔧 R:🟡 M:🟢 — MCP server retrieving transcripts of YouTube videos by jkawamoto *(494 ⭐)*
 - 📚 🔷 **[pabpereza](https://github.com/pabpereza/pabpereza)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Website, courses, documentation, blog and youtube video tracker. by pabpereza *(488 ⭐)*
 - ⌨️ 🔷 **[bridle](https://github.com/neiii/bridle)** 🔧 R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(441 ⭐)*
 - 📚 🔶 **[jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)** ✓ Loads clean 🧠 R:🟡 M:✅ — 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. by jwadow *(2.3k ⭐)*
@@ -851,6 +853,7 @@
 - 📚 🔷 **[langfuse/langfuse](https://github.com/langfuse/langfuse)** 🤖🧠 R:🔴 M:🟢 — 🪢 Open source AI engineering platform: LLM evals, observability, metrics, prompt management, playground, datasets. Integrates with OpenTelemetry, LangChain, OpenAI SDK, LiteLLM, and more. 🍊YC W23  by langfuse *(36.8k ⭐)*
 - 📚 🔷 **[tick-stock-panel](https://github.com/shy3130/tick-stock-panel)** 🧠 R:🟡 M:🟢 — TSP自托管、零运维的 A 股「选股 + 监控 + 回测」量化工作台 | 基于 TickFlow 数据源  | LLM能力驱使策略定制+个股分析+复盘 | 自由接入第三方数据源与个性化扩展数据 | 个人开源 ,非TickFlow官方项目 by shy3130 *(6.7k ⭐)*
 - 📚 ⭐ **[paperless-gpt](https://github.com/icereed/paperless-gpt)** 🤖🧠 R:🟡 M:🟢 — Use LLMs and LLM Vision (OCR) to handle paperless-ngx - Document Digitalization powered by AI by icereed *(2.8k ⭐)*
+- 🔗 ⭐ **[OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)** ▶ Runs 🔧 R:🟡 M:🟢 — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech. by OpenOSINT *(1.8k ⭐)*
 - ⌨️ ⭐ **[pup](https://github.com/DataDog/pup)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. by DataDog *(1k ⭐)*
 - ⌨️ ⭐ **[seo-audit-skill](https://github.com/seo-skills/seo-audit-skill)** 🤖🧠 R:🟡 M:🟢 — A comprehensive SEO audit command-line tool with 332 audit rules across 20 categories. Analyze any website for SEO best practices, Core Web Vitals, security headers, structured data, accessibility, and more. by seo-skills *(658 ⭐)*
 - 📦 ⭐ **[UZI-Skill](https://github.com/wbh604/UZI-Skill)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 冰冷的钱就这样流进我温暖的口袋-游资（UZI）Skills — 让我们欢迎，股海贼王！66位投资大佬帮你看盘 · 22维数据 × 180条量化规则 × 17种机构分析方法 · A股/港股/美股 by wbh604 *(7.5k ⭐)*
