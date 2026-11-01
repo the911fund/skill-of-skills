@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-01 00:25 UTC; the badges above are live)*
+*(counts as of 2026-11-01 03:00 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1641,7 +1641,6 @@
 - 📚 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.9k ⭐)*
 - ⌨️ ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(242 ⭐)*
 - 📦 ⭐ **[agentii-investment-intelligence](https://github.com/agentii-ai/agentii-investment-intelligence)** 🤖 R:🟡 M:🟢 — Claude-type skills for institutional equity research — 25 AI agent skills with SEC   filings, XBRL financials, earnings calendars, DCF/comps/LBO models, and PPT   generation. Powered by agentii.ai data plane. Works with Claude Code, OpenCode,   Codex, OpenClaw, Goose. by agentii-ai *(210 ⭐)*
-- 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.3k ⭐)*
 - 📚 ⭐ **[agor](https://github.com/preset-io/agor)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Multiplayer AI: Bring your team and agents together by preset-io *(1.5k ⭐)*
 - 📚 🔷 **[PilotDeck](https://github.com/OpenBMB/PilotDeck)** 🤖 R:🟡 M:🟢 — Task-oriented AI Agent productivity platform by OpenBMB *(4.9k ⭐)*
 - ⌨️ ⭐ **[copperhead](https://github.com/copperheadhq/copperhead)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Hardware as fast as software. by copperheadhq *(670 ⭐)*
@@ -1669,16 +1668,16 @@
 - 🧩 🔷 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.2k ⭐)*
 - 🔗 🔷 **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. by cobusgreyling *(11.7k ⭐)*
 - 🔗 🔷 **[mcp](https://github.com/awslabs/mcp)** 🤖🧠 R:🟢 M:🟢 — Open source MCP Servers for AWS by awslabs *(9.9k ⭐)*
+- 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.3k ⭐)*
 - ⌨️ 🔷 **[deja-vu](https://github.com/vshulcz/deja-vu)** ▶ Runs 🤖 R:⚫ M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.3k ⭐)*
 - 📚 🔷 **[whiteboard](https://github.com/devdotfast/whiteboard)** 🤖🧠 R:🔴 M:🟢 — open-source IDE for thoughtful software design by devdotfast *(3.4k ⭐)*
 - 🔌 ⭐ **[claude-elixir-phoenix](https://github.com/oliver-kriska/claude-elixir-phoenix)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Claude Code plugin for Elixir/Phoenix/LiveView — 26 specialist agents, Iron Laws enforcement, and Tidewave MCP integration. Plan features with parallel research agents, execute with automatic verification, review with 4-agent parallel audits, and capture learnings as reusable knowledge. by oliver-kriska *(572 ⭐)*
 - 📦 ⭐ **[newsjack](https://github.com/elvisun/newsjack)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The open-source skills that turn your agent into a full PR team. by elvisun *(1.7k ⭐)*
 - 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(656 ⭐)*
 - 📚 🔷 **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.8k ⭐)*
-- 📚 🔷 **[uniterm](https://github.com/ys-ll/uniterm)** 🔧 R:🔴 M:🟢 — A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. by ys-ll *(984 ⭐)*
+- 📚 🔷 **[uniterm](https://github.com/ys-ll/uniterm)** 🔧 R:🔴 M:🟢 — A lightweight all-in-one terminal with 30+ protocols — SSH, RDP, SFTP, databases, Kubernetes and more. With a built-in autonomous AI Agent that plans and runs multi-turn shell commands. by ys-ll *(989 ⭐)*
 - 📚 ⭐ **[pydantic-deepagents](https://github.com/vstorm-co/pydantic-deepagents)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Open-source, self-hosted Claude Code - a terminal AI assistant and the Python framework behind it. Tool-calling, sandboxed execution, multi-agent teams, skills, checkpoints, unlimited context - on Pydantic AI, any model. by vstorm-co *(1.1k ⭐)*
 - 📚 🔷 **[cft0808/edict](https://github.com/cft0808/edict)** ✓ Loads clean 🔧 R:🔴 M:🟢 — 🏛️ 三省六部制 · OpenClaw Multi-Agent Orchestration System — 9 specialized AI agents with real-time dashboard, model config, and full audit trails by cft0808 *(17k ⭐)*
-- 📚 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(882 ⭐)*
 - 📚 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🔴 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(5.5k ⭐)*
 - 📦 🔷 **[ASPIRE](https://github.com/NVlabs/ASPIRE)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — ASPIRE: Agentic /Skills Discovery for Robotics by NVlabs *(914 ⭐)*
 - 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23.1k ⭐)*
@@ -1687,6 +1686,7 @@
 - 📚 🔷 **[MetaGPT](https://github.com/FoundationAgents/MetaGPT)** ✓ Loads clean 🤖 R:🔴 M:✅ — 🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming by FoundationAgents *(71.1k ⭐)*
 - 📦 🔷 **[brooks-lint](https://github.com/hyhmrright/brooks-lint)** 🤖🧠 R:🟡 M:🟢 — Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation. by hyhmrright *(1.6k ⭐)*
 - 🔗 🔷 **[hf-mcp-server](https://github.com/huggingface/hf-mcp-server)** 🤖🧠 R:🟡 M:🟢 — Hugging Face MCP Server by huggingface *(311 ⭐)*
+- 📚 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(882 ⭐)*
 - 📚 🔷 **[LongMemory](https://github.com/CaviraOSS/LongMemory)** 🤖 R:🟡 M:🟢 — Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. by CaviraOSS *(4.6k ⭐)*
 - 📚 ⭐ **[node-banana](https://github.com/shrimbly/node-banana)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Free and open node based generative workflows. by shrimbly *(1.7k ⭐)*
 - 📚 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
