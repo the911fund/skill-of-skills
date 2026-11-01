@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-01 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-01 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -78,9 +78,9 @@
 
 - 📦 ⭐ **[agent-sprite-forge](https://github.com/0x0funky/agent-sprite-forge)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent Skill for generating 2D sprite sheets and map, transparent PNG frames, and animated GIFs from prompts. by 0x0funky *(4.8k ⭐)* — discovered Oct 31
 - 📚 ⭐ **[Orkas](https://github.com/Orkas-AI/Orkas)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS & Windows; built-in models or your own keys. by Orkas-AI *(6.5k ⭐)* — discovered Oct 31
-- 🔗 🔷 **[aktools](https://github.com/akfamily/aktools)** ▶ Runs 🤖 R:🟡 M:🟢 — HTTP API and MCP server for AKShare: fetch financial data from any programming language or AI assistant (Claude, Cursor) by akfamily *(1.5k ⭐)* — discovered Oct 31
-- 🔗 ⭐ **[OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)** ▶ Runs 🔧 R:🟡 M:🟢 — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech. by OpenOSINT *(1.8k ⭐)* — discovered Oct 31
+- 🔗 🔷 **[mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript)** ▶ Runs 🔧 R:🟡 M:🟢 — MCP server retrieving transcripts of YouTube videos by jkawamoto *(494 ⭐)* — discovered Oct 31
 - 📚 ⭐ **[NornicDB](https://github.com/orneryd/NornicDB)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Nornicdb is a distributed low-latency, Graph+Vector, Temporal MVCC with all sub-ms HNSW search, graph traversal, and writes. Using Neo4j Bolt/Cypher and qdrant's gRPC means you can switch with no changes while adding intelligent features like schemas, managed embeddings, reranking+llm, GPU accel, Auto-TLP, Policy-based Memory Decay, and MCP server. by orneryd *(921 ⭐)* — discovered Oct 31
+- 🔗 ⭐ **[OpenOSINT](https://github.com/OpenOSINT/OpenOSINT)** ▶ Runs 🔧 R:🟡 M:🟢 — Open-source engine for passive OSINT checks: 21 tools as CLI, MCP server and web UI. Hosted Monitor & Diligence at app.openosint.tech. by OpenOSINT *(1.8k ⭐)* — discovered Oct 31
 
 ---
 
@@ -661,7 +661,6 @@
 - 📚 🔷 **[paid-memberships-pro](https://github.com/strangerstudios/paid-memberships-pro)** 🔧 R:🟢 M:🟢 — The Trusted Membership Platform That Grows with You: Restrict access to content and charge recurring subscriptions using Stripe, PayPal, and more. Fully open source. 100% GPL. by strangerstudios *(533 ⭐)*
 - ⌨️ 🔷 **[air](https://github.com/air-verse/air)** 🧠 R:🟢 M:🟢 — ☁️ Live reload for Go apps by air-verse *(24.1k ⭐)*
 - 📚 🔶 **[sofa-ark](https://github.com/sofastack/sofa-ark)** ✓ Loads clean 🤖 R:🟢 M:🟢 — SOFAArk is a light-weight，java based classloader isolation framework. by sofastack *(1.6k ⭐)*
-- 🔗 🔷 **[mcp-youtube-transcript](https://github.com/jkawamoto/mcp-youtube-transcript)** ▶ Runs 🔧 R:🟡 M:🟢 — MCP server retrieving transcripts of YouTube videos by jkawamoto *(494 ⭐)*
 - 📚 🔷 **[pabpereza](https://github.com/pabpereza/pabpereza)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Website, courses, documentation, blog and youtube video tracker. by pabpereza *(488 ⭐)*
 - ⌨️ 🔷 **[bridle](https://github.com/neiii/bridle)** 🔧 R:🟡 M:🟢 — TUI / CLI config manager for agentic harnesses (Amp, Claude Code, Opencode, Goose, Copilot CLI, Crush, Droid) by neiii *(441 ⭐)*
 - 📚 🔶 **[jwadow/kiro-gateway](https://github.com/jwadow/kiro-gateway)** ✓ Loads clean 🧠 R:🟡 M:✅ — 👻 Proxy API gateway for Kiro IDE & CLI (Amazon Q Developer / AWS CodeWhisperer). Use free Claude models with any client. by jwadow *(2.3k ⭐)*
@@ -919,6 +918,7 @@
 - 📚 🔷 **[OpenContext](https://github.com/0xranx/OpenContext)** ▶ Runs 🤖🧠 R:🟡 M:✅ — A personal context store for AI agents and assistants—reuse your existing coding agent CLI (Codex/Claude/OpenCode) with built‑in Skills/tools and a desktop GUI to capture, search, and reuse project knowledge across agents and repos. by 0xranx *(1.3k ⭐)*
 - 🔗 🔷 **[nature-academic-search](https://github.com/wp-a/nature-academic-search)** 🤖 R:🟢 M:🟢 — Academic Paper Search：中文科研用户的 Codex / Claude Code / DeepSeek Harness Skill + MCP；跨 CrossRef、PubMed、arXiv、OpenAlex、Europe PMC 检索去重，支持 MeSH、引用核验、引文图谱、试验检索与审计导出。 by wp-a *(362 ⭐)*
 - 📚 🔷 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** ✓ Loads clean 🤖🔧 R:🔴 M:🟠 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.6k ⭐)*
+- 🔗 🔷 **[aktools](https://github.com/akfamily/aktools)** ▶ Runs 🤖 R:🟡 M:🟢 — HTTP API and MCP server for AKShare: fetch financial data from any programming language or AI assistant (Claude, Cursor) by akfamily *(1.5k ⭐)*
 - 📦 🔷 **[data-analytics-skills](https://github.com/nimrodfisher/data-analytics-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A comprehensive list of Claude & Codex skills for a wide range of data analytics tasks by nimrodfisher *(512 ⭐)*
 - 📚 🔷 **[rejourney](https://github.com/rejourneyco/rejourney)** ✓ Loads clean 🤖🖱️ R:🟢 M:🟢 — Rejourney is a open source, self-hostable/hosted observability tool for web and mobile apps. Focus on lightweight and performance. by rejourneyco *(284 ⭐)*
 - 🔌 🔷 **[insane-research](https://github.com/fivetaku/insane-research)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Multi-agent deep research for Claude Code — 7-phase pipeline with source triangulation and quality ratings by fivetaku *(282 ⭐)*
