@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 20,900,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-02 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-02 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ 🔷 **[kero](https://github.com/egoist/kero)** 🤖🧠 R:🟡 M:🟢 — A cross-platform native terminal app optimized for agents by egoist *(1.4k ⭐)* — discovered Nov 2
+- 📚 ⭐ **[doop](https://github.com/kgoedecke/doop)** 🤖 R:🟡 M:🟢 — The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in. by kgoedecke *(1.5k ⭐)* — discovered Nov 2
 - 🔗 🔷 **[mcp-local-rag](https://github.com/shinpr/mcp-local-rag)** 🤖 R:🟡 M:🟢 — Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup. by shinpr *(427 ⭐)* — discovered Nov 2
 - 🔗 🔷 **[gram](https://github.com/speakeasy-api/gram)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI control plane for every agent in your enterprise, built around an enterprise-grade MCP gateway. Give each team one governed path to its MCP servers, provisioned by role from the IdP you already run, with security policy enforced on every action. by speakeasy-api *(275 ⭐)* — discovered Nov 2
 - 📚 ⭐ **[forest](https://github.com/mikamikasuki/forest)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — FOREST is a research agent for long-horizon science, where evidence gets lost, errors compound, and goals drift. It explores ideas, reads literature, forms hypotheses, runs real experiments, analyzes results, revises paths, and builds a full paper—all in an editable graph you can inspect, branch, redirect, with claims and figures linked to evidence by mikamikasuki *(356 ⭐)* — discovered Nov 2
-- 📚 ⭐ **[Octopus-SI-OS](https://github.com/miuuyy/Octopus-SI-OS)** ✓ Loads clean 🧠 R:🟡 M:🟢 — A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence. by miuuyy *(628 ⭐)* — discovered Nov 2
-- 📄 🔷 **[gilfoyle](https://github.com/axiomhq/gilfoyle)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An SRE agent that does what you can't. Queries your observability stack. Finds root causes. Doesn't panic. Doesn't guess. Doesn't care about your feelings. You're welcome. by axiomhq *(220 ⭐)* — discovered Nov 2
 
 ---
 
@@ -1493,6 +1493,7 @@
 - 📦 🔷 **[Claude-OSINT](https://github.com/elementalsouls/Claude-OSINT)** ✓ Loads clean 🤖 R:🔴 M:🟢 — 8 Claude skills · 100+ recon capabilities · 80 secret-regex patterns · 80+ dorks · 9 read-only credential validators · 27 attack-path templates · ~10,000 lines of structured tradecraft. Drop-in SKILL.md files that turn Claude into a god-mode external recon operator for authorized red-team and bug-bounty engagements. by elementalsouls *(2.9k ⭐)*
 - 📦 🔷 **[common-skills](https://github.com/warpdotdev/common-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Shared agent skills for spec-driven development, pull request workflows, code review, CI diagnosis, merge conflict resolution, research delegation, decision-making critique, and skill authoring and maintenance across repositories. by warpdotdev *(644 ⭐)*
 - ⌨️ 🔷 **[HALO](https://github.com/context-labs/HALO)** ▶ Runs 🤖 R:🟡 M:🟢 — Hierarchal Agent Loop Optimizer by context-labs *(1.2k ⭐)*
+- 📄 🔷 **[gilfoyle](https://github.com/axiomhq/gilfoyle)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An SRE agent that does what you can't. Queries your observability stack. Finds root causes. Doesn't panic. Doesn't guess. Doesn't care about your feelings. You're welcome. by axiomhq *(220 ⭐)*
 - 📚 🔷 **[hermes-hudui](https://github.com/joeynyc/hermes-hudui)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Web UI consciousness monitor for Hermes — the AI agent with persistent memory by joeynyc *(1.9k ⭐)*
 - 📦 🔷 **[Xcode-Build-Optimization-Agent-Skill](https://github.com/AvdLee/Xcode-Build-Optimization-Agent-Skill)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An Agent Skill helping you to optimize Xcode incremental and clean builds by running benchmarks and optimizing build settings. by AvdLee *(1.3k ⭐)*
 - 📚 🔷 **[hexo-ai/sia](https://github.com/hexo-ai/sia)** ▶ Runs 🔧 R:🔴 M:🟢 — SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task. by hexo-ai *(2.2k ⭐)*
@@ -1702,6 +1703,7 @@
 - 📚 🔷 **[slashdocs](https://github.com/razorpay/slashdocs)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Give your agents the power to publish reviewable HTML documents. Self-hosted server + CLI + remote MCP; agents push, humans review with comments and versions. by razorpay *(404 ⭐)*
 - 📦 🔷 **[skills-for-architects](https://github.com/AlpacaLabsLLC/skills-for-architects)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Claude Code skills for architecture, real estate, and workplace strategy. Type /skill-name and go. by AlpacaLabsLLC *(400 ⭐)*
 - 📚 🔷 **[LongMemory](https://github.com/CaviraOSS/LongMemory)** 🤖 R:🟡 M:🟢 — Local persistent memory store for LLM applications including claude desktop, github copilot, codex, antigravity, etc. by CaviraOSS *(4.6k ⭐)*
+- 📚 ⭐ **[Octopus-SI-OS](https://github.com/miuuyy/Octopus-SI-OS)** ✓ Loads clean 🧠 R:🟡 M:🟢 — A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence. by miuuyy *(628 ⭐)*
 - 🔗 ⭐ **[agent-call](https://github.com/XiyaoWang0519/agent-call)** 🖱️🧠 R:🟡 M:🟢 — Open-source MCP server for safe, stateful AI-agent phone calls with OpenAI Realtime and Twilio. by XiyaoWang0519 *(271 ⭐)*
 - 📦 🔷 **[brooks-lint](https://github.com/hyhmrright/brooks-lint)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Portable AI code quality reviews for Codex, Cursor, Copilot and other coding agents: six Agent Skills for architecture, technical debt, tests and remediation. by hyhmrright *(1.6k ⭐)*
 - 📚 🔷 **[mindfs](https://github.com/a9gent/mindfs)** 🔧 R:🔴 M:🟢 — Access your personal AI agents and workstation data anywhere, anytime through MindFS. by a9gent *(1.9k ⭐)*
