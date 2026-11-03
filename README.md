@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-03 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-03 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.4k ⭐)* — discovered Nov 3
+- 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52k ⭐)* — discovered Nov 3
 - 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)* — discovered Nov 3
 - ⌨️ 🔶 **[copilot-cli](https://github.com/github/copilot-cli)** 🔧 R:🟡 M:🟢 — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. by github *(11.3k ⭐)* — discovered Nov 3
 - 📚 🔷 **[sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🟡 M:🟢 — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() by mattpocock *(8.8k ⭐)* — discovered Nov 3
-- 📦 🔶 **[open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp by Ryze-AI-Adgent *(8.7k ⭐)* — discovered Nov 3
-- 📚 🔷 **[anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration by Mouseww *(3.8k ⭐)* — discovered Nov 3
 
 ---
 
@@ -916,6 +916,7 @@
 - 🔗 🔷 **[mcp-gsc](https://github.com/AminForou/mcp-gsc)** 🤖 R:🟢 M:🟢 — Google Search Console Insights with Claude AI for SEOs by AminForou *(2.1k ⭐)*
 - 🔗 🔶 **[google-analytics-mcp](https://github.com/googleanalytics/google-analytics-mcp)** ▶ Runs 🔧 R:🟢 M:🟢 — MCP server providing tools to retrieve Google Analytics account and property information, run core reports, run funnel reports, and run realtime reports using the Google Analytics Admin API and Data API. by googleanalytics *(3.6k ⭐)*
 - 📚 🔷 **[rezolus](https://github.com/iopsystems/rezolus)** ▶ Runs 🤖 R:🟡 M:🟢 — High-resolution, low-overhead systems and service telemetry by iopsystems *(279 ⭐)*
+- 📚 🔷 **[anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration by Mouseww *(3.8k ⭐)*
 - 📄 🔷 **[Build-CLI](https://github.com/microsoft/Build-CLI)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Experience Microsoft Build, directly from your terminal, with GitHub Copilot CLI and the Microsoft Build CLI. by microsoft *(294 ⭐)*
 - 📚 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)** ▶ Runs 🧠 R:🔴 M:✅ — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
 - 🔗 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(320 ⭐)*
@@ -934,6 +935,7 @@
 - 🔗 🔷 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** 🤖🔧 R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(220 ⭐)*
 - 📄 🔷 **[mathiaschu/meta-ads-analyzer](https://github.com/mathiaschu/meta-ads-analyzer)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Meta Ads Analyzer skill + MCP server for Claude Code. Breakdown Effect, Learning Phase, and expert-level campaign diagnosis. by mathiaschu *(466 ⭐)*
 - ⌨️ 🔶 **[gpt-crawler](https://github.com/BuilderIO/gpt-crawler)** 🔧 R:🟡 M:🔴 — Crawl a site to generate knowledge files to create your own custom GPT from a URL by BuilderIO *(22.4k ⭐)*
+- 📦 🔶 **[open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp by Ryze-AI-Adgent *(8.7k ⭐)*
 - 🔗 🔷 **[AcademicAgent](https://github.com/Jennyee1/AcademicAgent)** ▶ Runs 🤖 R:🟡 M:🟠 — ScholarMind - 面向大模型Agent领域的多模态学术 Agent | Multimodal Academic Research Agent with Knowledge Graph & Learning Path Planning by Jennyee1 *(340 ⭐)*
 - 🔗 🔷 **[doctor](https://github.com/sisig-ai/doctor)** 🖱️ R:🟡 M:🔴 — Doctor is a tool for discovering, crawl, and indexing web sites to be exposed as an MCP server for LLM agents. by sisig-ai *(460 ⭐)*
 - 🔗 🔶 **[universal-db-mcp](https://github.com/Anarkh-Lee/universal-db-mcp)** ▶ Runs 🤖🧠 R:🟡 M:✅ — 通用数据库 MCP 连接器：支持 MySQL、PostgreSQL、Oracle、MongoDB 等 17 种数据库，支持 Claude Desktop、Cursor、Windsurf、VS Code、ChatGPT 等 50+ 平台，用自然语言查询和分析数据 by Anarkh-Lee *(941 ⭐)*
