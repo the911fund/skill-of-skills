@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-03 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-03 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔷 **[TREK](https://github.com/liketrek/TREK)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The most complete open-source travel planner: real-time collaboration, bookings, budgets, packing lists, journals, offline PWA, SSO and an AI-ready MCP server, with planet-wide place search and routing built in. by liketrek *(15.3k ⭐)* — discovered Nov 3
+- 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)* — discovered Nov 3
+- ⌨️ 🔶 **[copilot-cli](https://github.com/github/copilot-cli)** 🔧 R:🟡 M:🟢 — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. by github *(11.3k ⭐)* — discovered Nov 3
+- 📚 🔷 **[sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🟡 M:🟢 — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() by mattpocock *(8.8k ⭐)* — discovered Nov 3
 - 📦 🔶 **[open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp by Ryze-AI-Adgent *(8.7k ⭐)* — discovered Nov 3
-- 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟡 M:🟠 — A professional Claude AI skill for deep reading analysis by ginobefun *(356 ⭐)* — discovered Nov 3
 - 📚 🔷 **[anything-analyzer](https://github.com/Mouseww/anything-analyzer)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 全能协议分析工具：浏览器抓包 + MITM 代理 + 指纹伪装 + AI 分析 + MCP Server 无缝对接 AI Agent/IDE   |  All-in-one protocol analysis toolkit — built-in browser capture, MITM proxy, JS hooks, fingerprint spoofing, AI analysis & MCP server for agent integration by Mouseww *(3.8k ⭐)* — discovered Nov 3
-- ⌨️ 🔷 **[kero](https://github.com/egoist/kero)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A cross-platform native terminal app optimized for agents by egoist *(1.4k ⭐)* — discovered Nov 2
 
 ---
 
@@ -767,6 +767,7 @@
 - 🔗 🔶 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** 🤖🔧 R:🟡 M:✅ — F2C MCP Server by f2c-ai *(410 ⭐)*
 - ⌨️ 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟠 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.3k ⭐)*
 - 🔗 🔶 **[mcp-code-graph](https://github.com/diffbot/mcp-code-graph)** ▶ Runs 🤖 R:🟡 M:✅ — MCP Server for code graph analysis and visualization by CodeGPT by diffbot *(401 ⭐)*
+- 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟡 M:🟠 — A professional Claude AI skill for deep reading analysis by ginobefun *(356 ⭐)*
 - 📚 🔶 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** 🤖🔧 R:🟢 M:✅ — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
 - ⌨️ 🔶 **[qwen3_tts_rs](https://github.com/second-state/qwen3_tts_rs)** ✓ Loads clean 🤖 R:🔴 M:✅ — A Rust implementation of the Qwen3 Text-to-Speech (TTS) model inference. by second-state *(237 ⭐)*
 - ⌨️ 🔶 **[cc-cli](https://github.com/cjh-store/cc-cli)** ▶ Runs 🔧 R:🟡 M:✅ — claude code工具集合 by cjh-store *(321 ⭐)*
@@ -1665,6 +1666,7 @@
 - 📚 ⭐ **[PanWatch](https://github.com/TNT-Likely/PanWatch)** ✓ Loads clean 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(2.3k ⭐)*
 - 🔌 🔷 **[oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode)** ▶ Runs 🤖 R:⚫ M:🟢 — Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient). 31+ skills, 32 specialized agents, zero learning curve. by Yeachan-Heo *(40.5k ⭐)*
 - 📚 ⭐ **[agor](https://github.com/preset-io/agor)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Multiplayer AI: Bring your team and agents together by preset-io *(1.5k ⭐)*
+- ⌨️ 🔷 **[kero](https://github.com/egoist/kero)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A cross-platform native terminal app optimized for agents by egoist *(1.4k ⭐)*
 - 📚 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.6k ⭐)*
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.6k ⭐)*
 - 📚 🔷 **[VoltAgent/voltagent](https://github.com/VoltAgent/voltagent)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — AI Agent Engineering Platform built on an Open Source TypeScript AI Agent Framework by VoltAgent *(10.9k ⭐)*
@@ -1682,7 +1684,7 @@
 - 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.3k ⭐)*
 - 📚 🔷 **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.8k ⭐)*
 - 📚 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(517 ⭐)*
-- 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟢 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(689 ⭐)*
+- 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟠 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(689 ⭐)*
 - 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23.1k ⭐)*
 - ⌨️ ⭐ **[mcptoon](https://github.com/activeing123/mcptoon)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 tokens (-99.2%, measured), schemas stay out of context. One config for Claude Code, Codex, Cursor, every agent. 341KB, pure Python. | 零依赖 CLI：管所有 MCP 工具与技能，工具发现省 99.2% token。 by activeing123 *(418 ⭐)*
 - 🔗 🔷 **[loop-engineering](https://github.com/cobusgreyling/loop-engineering)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Practical patterns, starters & CLI tools for loop engineering with AI coding agents. Design systems that prompt and orchestrate agents (inspired by Addy Osmani and Boris Cherny). Includes loop-audit, loop-init, loop-cost. by cobusgreyling *(11.7k ⭐)*
