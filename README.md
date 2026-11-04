@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-04 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-04 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)* — discovered Nov 4
+- 📚 🔷 **[MCPJungle](https://github.com/mcpjungle/MCPJungle)** 🤖🧠 R:🟡 M:🟢 — One place to manage & connect to all your MCP servers by mcpjungle *(1.6k ⭐)* — discovered Nov 4
 - 📄 🔷 **[apple-design-skill](https://github.com/dickwu/apple-design-skill)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. by dickwu *(2.7k ⭐)* — discovered Nov 4
+- 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)* — discovered Nov 4
 - 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.5k ⭐)* — discovered Nov 3
 - 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52.1k ⭐)* — discovered Nov 3
-- 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)* — discovered Nov 3
 
 ---
 
@@ -756,7 +756,7 @@
 - ⌨️ 🔶 **[agent_hub](https://github.com/Bitget-AI/agent_hub)** ▶ Runs 🔧 R:🟡 M:🟠 — Official Bitget Agent Hub — open-source AI toolkit connecting Claude, Cursor, Codex & ChatGPT to Bitget crypto trading (89 UTA v3 ops) and market analysis. Central installer for CLI, MCP, SDK, skills & signals. by Bitget-AI *(234 ⭐)*
 - 📚 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(486 ⭐)*
 - 📄 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ✓ Loads clean 🤖 R:🔴 M:✅ — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
-- 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟡 M:✅ — A professional Claude AI skill for deep reading analysis by ginobefun *(357 ⭐)*
+- 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟡 M:🔴 — A professional Claude AI skill for deep reading analysis by ginobefun *(357 ⭐)*
 - 📚 🔶 **[alfanous](https://github.com/Alfanous-team/alfanous)** ▶ Runs 🔧 R:🟢 M:✅ — Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... by Alfanous-team *(286 ⭐)*
 - 📚 🔶 **[run-llama/agentfs-claude](https://github.com/run-llama/agentfs-claude)** 🧠 R:🟡 M:🟠 — Run Claude Code/Codex within AgentFS, orchestrated by LlamaIndex Workflows by run-llama *(323 ⭐)*
 - 📚 🔶 **[AIGuide](https://github.com/Snailclimb/AIGuide)** ✓ Loads clean 🤖 R:🟢 M:🟠 — AI 应用开发、AI 编程实战与面试指南，涵盖 LLM、Agent、RAG、MCP、Claude Code、Codex 等核心技术与工程实践。 by Snailclimb *(719 ⭐)*
@@ -1347,6 +1347,7 @@
 - 📦 🔶 **[skills](https://github.com/jakubkrehel/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A collection of agent skills that help you build a great interface. by jakubkrehel *(10.6k ⭐)*
 - ⌨️ 🔷 **[claude-code-best/claude-code](https://github.com/claude-code-best/claude-code)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — 原汁原昧 Claude Code 可运行,可构建, 可调试版; 生产级工程化, 企业级可靠性; 安全无毒, 内存泄露修复 by claude-code-best *(23.2k ⭐)*
 - ⌨️ 🔷 **[jcode](https://github.com/1jehuang/jcode)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — A resource-efficient, open source AI coding agent with a native TUI, built in Rust. by 1jehuang *(21.4k ⭐)*
+- 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)*
 - 🔄 🔷 **[claude-code-security-review](https://github.com/anthropics/claude-code-security-review)** 🤖 R:🟡 M:🟠 — An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities. by anthropics *(6.7k ⭐)*
 - ⌨️ ⭐ **[shippie](https://github.com/mattzcarey/shippie)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — extendable code review and QA agent 🚢 by mattzcarey *(2.5k ⭐)*
 - ⌨️ 🔷 **[react-doctor](https://github.com/millionco/react-doctor)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Let coding agents diagnose and fix your React code by millionco *(15.1k ⭐)*
