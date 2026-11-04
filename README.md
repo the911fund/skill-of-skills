@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-04 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-04 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -754,7 +754,7 @@
 - 🔗 🔶 **[o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp)** 🤖 R:🔴 M:✅ — MCP server for OpenAI o3 web search by yoshiko-pg *(286 ⭐)*
 - 📚 🔶 **[agent.exe](https://github.com/corbt/agent.exe)** 🔧 R:⚫ M:🔴 — Electron app that gives Claude 3.5 Sonnet direct computer control via Anthropic's computer use APIs to execute tasks like browsing, clicking, typing, and taking screenshots on your local machine. by corbt *(3.5k ⭐)*
 - ⌨️ 🔶 **[agent_hub](https://github.com/Bitget-AI/agent_hub)** ▶ Runs 🔧 R:🟡 M:🟠 — Official Bitget Agent Hub — open-source AI toolkit connecting Claude, Cursor, Codex & ChatGPT to Bitget crypto trading (89 UTA v3 ops) and market analysis. Central installer for CLI, MCP, SDK, skills & signals. by Bitget-AI *(234 ⭐)*
-- 📚 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A package for using GTD with org-mode  by Trevoke *(486 ⭐)*
+- 📚 🔶 **[org-gtd.el](https://github.com/Trevoke/org-gtd.el)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — A package for using GTD with org-mode  by Trevoke *(486 ⭐)*
 - 📄 🔶 **[pasky/chrome-cdp-skill](https://github.com/pasky/chrome-cdp-skill)** ✓ Loads clean 🤖 R:🔴 M:✅ — Give your AI agent access to your live Chrome session — works out of the box, connects to tabs you already have open by pasky *(3.3k ⭐)*
 - 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟡 M:🔴 — A professional Claude AI skill for deep reading analysis by ginobefun *(357 ⭐)*
 - 📚 🔶 **[alfanous](https://github.com/Alfanous-team/alfanous)** ▶ Runs 🔧 R:🟢 M:✅ — Alfanous is an Arabic search engine API provides the simple and advanced search in Quran , more features and many interfaces... by Alfanous-team *(286 ⭐)*
@@ -1275,7 +1275,7 @@
 - 📦 🔷 **[Claude-Code-Multi-Agent](https://github.com/Prorise-cool/Claude-Code-Multi-Agent)** 🤖🧠 R:⚫ M:🟢 — Claude-Code-Multi-Agent驱动的新一代AI编程助手生态系统，基于Claude Code构建的智能代理协调工作空间，实现从需求到交付的全流程自动化开发 by Prorise-cool *(305 ⭐)*
 - ⌨️ 🔷 **[tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)** 🤖 R:⚫ M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic. by tanbiralam *(2.4k ⭐)*
 - 📄 🔷 **[harness](https://github.com/xwtro0tk1t-cloud/harness)** ✓ Loads clean 🤖 R:🔴 M:🟠 — Harness is an AI Agent development guardrail Meta-Skill that establishes four layers of defense for any project in one command: knowledge management, architecture constraints, feedback loops, and entropy management. by xwtro0tk1t-cloud *(265 ⭐)*
-- 📄 🔷 **[auteur](https://github.com/agiwhitelist/auteur)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The Claude Code skill that directs a website like a film. Commit-sheet, generated assets, build, and an executable anti-slop linter that gates every ship. by agiwhitelist *(1k ⭐)*
+- 📄 🔷 **[auteur](https://github.com/agiwhitelist/auteur)** ✓ Loads clean 🤖 R:🟡 M:✅ — The Claude Code skill that directs a website like a film. Commit-sheet, generated assets, build, and an executable anti-slop linter that gates every ship. by agiwhitelist *(1k ⭐)*
 - 📦 🔷 **[zhu1090093659/spec_driven_develop](https://github.com/zhu1090093659/spec_driven_develop)** ✓ Loads clean 🤖🧠 R:🟡 M:✅ — Spec-driven development workflow for AI coding agents: architecture-first planning, task decomposition, GitHub Issue/PR tracking, Deep Discuss, and adaptive control for Claude Code, Codex, Cursor, and other Markdown-capable agents. by zhu1090093659 *(993 ⭐)*
 - 📦 🔷 **[code-abyss](https://github.com/telagod/code-abyss)** ▶ Runs 🤖🧠 R:🔴 M:✅ — Give your AI coding agent a personality. Composable persona + style + skills for Claude Code, Codex, Gemini CLI & OpenClaw. Ships Tech Persona Card v1.0 spec. by telagod *(244 ⭐)*
 - 📚 🔷 **[GreenSheep01201/claw-empire](https://github.com/GreenSheep01201/claw-empire)** 🤖🧠 R:🔴 M:✅ — Command Your AI Agent Empire from the CEO Desk — A local-first AI agent office simulator that orchestrates CLI, OAuth, and API-connected agents (Claude Code, Codex CLI, Gemini CLI, OpenCode, and more) as a virtual autonomous company. by GreenSheep01201 *(1.4k ⭐)*
