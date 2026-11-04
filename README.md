@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-04 04:30 UTC; the badges above are live)*
+*(counts as of 2026-11-04 06:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -48,7 +48,7 @@
 
 - 🔥 📚 ⭐ **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A lightweight, powerful framework for multi-agent workflows by openai *(30.5k ⭐)*
 - 🔥 ⌨️ ⭐ **[sandbox-runtime](https://github.com/anthropics/sandbox-runtime)** ▶ Runs 🔧 R:🟡 M:🟢 — A lightweight sandboxing tool for enforcing filesystem and network restrictions on arbitrary processes at the OS level, without requiring a container. by anthropics *(7.0k ⭐)*
-- 🔥 ⌨️ ⭐ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** 🧠 R:🟡 M:🟢 — The agent that grows with you by NousResearch *(260.3k ⭐)*
+- 🔥 ⌨️ ⭐ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** ▶ Runs 🧠 R:🟡 M:🟢 — The agent that grows with you by NousResearch *(260.3k ⭐)*
 - 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(296.6k ⭐)*
 - 🔥 📦 ⭐ **[garrytan/gstack](https://github.com/garrytan/gstack)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA by garrytan *(138.9k ⭐)*
 - 🔥 ⌨️ ⭐ **[graphify](https://github.com/Graphify-Labs/graphify)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. by Graphify-Labs *(141.9k ⭐)*
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.5k ⭐)* — discovered Nov 3
-- 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52.1k ⭐)* — discovered Nov 3
-- 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)* — discovered Nov 3
-- ⌨️ 🔶 **[copilot-cli](https://github.com/github/copilot-cli)** 🔧 R:🟡 M:🟢 — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. by github *(11.3k ⭐)* — discovered Nov 3
-- 📚 🔷 **[sandcastle](https://github.com/mattpocock/sandcastle)** 🤖🧠 R:🟡 M:🟢 — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() by mattpocock *(8.8k ⭐)* — discovered Nov 3
+- 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)* — discovered Nov 4
+- 📄 🔷 **[apple-design-skill](https://github.com/dickwu/apple-design-skill)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. by dickwu *(2.7k ⭐)* — discovered Nov 4
+- 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.5k ⭐)* — discovered Nov 3
+- 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52.1k ⭐)* — discovered Nov 3
+- 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.2k ⭐)* — discovered Nov 3
 
 ---
 
@@ -88,7 +88,7 @@
 
 - 📦 🔷 **[Claude Plugins Official](https://github.com/anthropics/claude-plugins-official)** 🤖 R:🟢 M:🟢 — Official, Anthropic-managed directory of high quality Claude Code Plugins. by anthropics *(46k ⭐)*
 - 📄 🔷 **[claude-cookbooks](https://github.com/anthropics/claude-cookbooks)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A collection of notebooks/recipes showcasing some fun and effective ways of using Claude. by anthropics *(54.2k ⭐)*
-- ⌨️ ⭐ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** 🧠 R:🟡 M:🟢 — The agent that grows with you by NousResearch *(260.3k ⭐)*
+- ⌨️ ⭐ **[hermes-agent](https://github.com/NousResearch/hermes-agent)** ▶ Runs 🧠 R:🟡 M:🟢 — The agent that grows with you by NousResearch *(260.3k ⭐)*
 - 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(296.6k ⭐)*
 - 📦 🔷 **[openai/skills](https://github.com/openai/skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Skills Catalog for Codex by openai *(28.5k ⭐)*
 - ⌨️ ⭐ **[graphify](https://github.com/Graphify-Labs/graphify)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. by Graphify-Labs *(141.9k ⭐)*
@@ -1323,7 +1323,7 @@
 
 - 📄 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(101.7k ⭐)*
 - ⌨️ ⭐ **[NVIDIA/SkillSpector](https://github.com/NVIDIA/SkillSpector)** ▶ Runs 🤖 R:🟢 M:🟢 — Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks. by NVIDIA *(24.2k ⭐)*
-- ⌨️ ⭐ **[codex-security](https://github.com/openai/codex-security)** ▶ Runs 🤖 R:🟡 M:🟢 — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security by openai *(11.3k ⭐)*
+- ⌨️ ⭐ **[codex-security](https://github.com/openai/codex-security)** 🤖 R:🟡 M:🟢 — OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security by openai *(11.3k ⭐)*
 - 🔗 ⭐ **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** 🤖🧠 R:🟡 M:🟢 — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. by tirth8205 *(32.6k ⭐)*
 - 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(183.8k ⭐)*
 - 📄 ⭐ **[compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Official Claude Code compound engineering plugin by EveryInc *(25.9k ⭐)*
@@ -1635,6 +1635,7 @@
 - ⌨️ 🔷 **[openrig](https://github.com/mvschwarz/openrig)** ▶ Runs 🤖 R:🔴 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(8.6k ⭐)*
 - 📚 ⭐ **[Octopus-SI-OS](https://github.com/miuuyy/Octopus-SI-OS)** ✓ Loads clean 🧠 R:⚫ M:🟢 — A self-evolving agentic OS. A new architecture for agent execution, built on operating-system principles, with the harness as a path toward superintelligence. by miuuyy *(678 ⭐)*
 - 📚 ⭐ **[pi-gui](https://github.com/minghinmatthewlam/pi-gui)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Electron GUI app for the pi coding agent runtime by minghinmatthewlam *(1.4k ⭐)*
+- 📚 🔷 **[sandcastle](https://github.com/mattpocock/sandcastle)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() by mattpocock *(8.8k ⭐)*
 - 📚 🔷 **[agent-orchestrator](https://github.com/OrchestratorInc/agent-orchestrator)** ✓ Loads clean 🤖🧠 R:⚫ M:🟢 — Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews. by OrchestratorInc *(14.1k ⭐)*
 - 🔌 🔷 **[ds-harness-remote](https://github.com/liguobao/ds-harness-remote)** ▶ Runs 🧠 R:🔴 M:🟢 — 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.) by liguobao *(1.6k ⭐)*
 - 📚 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟢 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.5k ⭐)*
@@ -1726,6 +1727,7 @@
 - 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟠 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(691 ⭐)*
 - 📚 🔷 **[siclaw](https://github.com/scitix/siclaw)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration by scitix *(238 ⭐)*
 - ⌨️ 🔷 **[codexmate](https://github.com/SakuraByteCore/codexmate)** 🤖 R:🟡 M:🟢 — One dashboard for all your local AI coding agents. Switch providers, manage sessions, and orchestrate tasks across Codex, Claude Code, Gemini CLI, CodeBuddy Code, Pi, OpenCode, KiloCode, and OpenClaw. Zero cloud, local-first control plane. by SakuraByteCore *(355 ⭐)*
+- ⌨️ 🔶 **[copilot-cli](https://github.com/github/copilot-cli)** ✓ Loads clean 🔧 R:🟡 M:🟢 — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. by github *(11.3k ⭐)*
 - 🔗 🔷 **[pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)** 🤖🧠 R:⚫ M:✅ — The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. by BeehiveInnovations *(11.8k ⭐)*
 - 📦 🔷 **[pentest-agents](https://github.com/H-mmer/pentest-agents)** 🤖🖱️🧠 R:⚫ M:🟠 — Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder. by H-mmer *(1.1k ⭐)*
 - 🔗 🔷 **[gram](https://github.com/speakeasy-api/gram)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI control plane for every agent in your enterprise, built around an enterprise-grade MCP gateway. Give each team one governed path to its MCP servers, provisioned by role from the IdP you already run, with security policy enforced on every action. by speakeasy-api *(276 ⭐)*
