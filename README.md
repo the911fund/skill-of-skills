@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-05 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-05 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[switch](https://github.com/sandbox-quantum/switch)** 🤖🧠 R:🟡 M:🟢 — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model. by sandbox-quantum *(3.9k ⭐)* — discovered Nov 5
+- 🔗 ⭐ **[figma-console-mcp](https://github.com/southleft/figma-console-mcp)** 🤖 R:🟡 M:🟢 — Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. by southleft *(3.1k ⭐)* — discovered Nov 5
 - 📚 🔷 **[MCPJungle](https://github.com/mcpjungle/MCPJungle)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — One place to manage & connect to all your MCP servers by mcpjungle *(1.6k ⭐)* — discovered Nov 4
 - 📄 🔷 **[apple-design-skill](https://github.com/dickwu/apple-design-skill)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. by dickwu *(2.8k ⭐)* — discovered Nov 4
 - 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)* — discovered Nov 4
-- 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.5k ⭐)* — discovered Nov 3
-- 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52.3k ⭐)* — discovered Nov 3
 
 ---
 
@@ -94,6 +94,7 @@
 - ⌨️ ⭐ **[graphify](https://github.com/Graphify-Labs/graphify)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. by Graphify-Labs *(142.5k ⭐)*
 - 📦 🔷 **[openai/skills](https://github.com/openai/skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Skills Catalog for Codex by openai *(28.5k ⭐)*
 - ⌨️ ⭐ **[colbymchenry/codegraph](https://github.com/colbymchenry/codegraph)** ▶ Runs 🤖 R:🟡 M:🟢 — Pre-indexed code knowledge graph for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, and Hermes Agent — fewer tokens, fewer tool calls, 100% local by colbymchenry *(76.6k ⭐)*
+- 🔗 ⭐ **[ffmpeg-skill](https://github.com/kajisho5/ffmpeg-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys. by kajisho5 *(4.5k ⭐)*
 - 📚 🔷 **[modelcontextprotocol/ext-apps](https://github.com/modelcontextprotocol/ext-apps)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Official repo for spec & SDK of MCP Apps protocol - standard for UIs embedded AI chatbots, served by MCP servers by modelcontextprotocol *(3k ⭐)*
 - 📄 ⭐ **[video-use](https://github.com/browser-use/video-use)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Edit videos with coding agents by browser-use *(30.6k ⭐)*
 - 📚 ⭐ **[openai/openai-agents-js](https://github.com/openai/openai-agents-js)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A lightweight, powerful framework for multi-agent workflows and voice agents by openai *(4k ⭐)*
@@ -1606,6 +1607,7 @@
 - 📚 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(5.9k ⭐)*
 - 📚 ⭐ **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. by microsoft *(14.5k ⭐)*
 - 📚 🔷 **[auto-ontology](https://github.com/NVIDIA/auto-ontology)** 🤖🖱️🧠 R:🟡 M:🟢 — Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows. by NVIDIA *(5.4k ⭐)*
+- 📦 🔷 **[nature-skills](https://github.com/Yuan1z0825/nature-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 符合nature论文学术表达和科研绘图的Skill by Yuan1z0825 *(52.3k ⭐)*
 - 📚 ⭐ **[agenticSeek](https://github.com/Fosowl/agenticSeek)** ✓ Loads clean 🔧 R:🔴 M:🟢 — Fully Local Manus AI. No APIs, No $200 monthly bills. Enjoy an autonomous agent that thinks, browses the web, and code for the sole cost of electricity. by Fosowl *(27.6k ⭐)*
 - ⌨️ 🔷 **[xerj](https://github.com/xerj-org/xerj)** 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(19.1k ⭐)*
 - 📦 ⭐ **[pstack-claude](https://github.com/michael-denyer/pstack-claude)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Claude Code, Codex, Pi, OpenCode, Gemini, and Prime Agent versions of Poteto's pstack. Rigorous agent workflows with Cursor primitives translated for other harnesses. by michael-denyer *(4k ⭐)*
