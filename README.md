@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-05 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-05 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 ⭐ **[rivet](https://github.com/rivet-dev/rivet)** 🤖 R:🟡 M:🟢 — The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. by rivet-dev *(6.6k ⭐)* — discovered Nov 5
 - 📚 🔷 **[switch](https://github.com/sandbox-quantum/switch)** 🤖🧠 R:🟡 M:🟢 — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model. by sandbox-quantum *(3.9k ⭐)* — discovered Nov 5
 - 🔗 ⭐ **[figma-console-mcp](https://github.com/southleft/figma-console-mcp)** 🤖 R:🟡 M:🟢 — Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. by southleft *(3.1k ⭐)* — discovered Nov 5
 - 📚 🔷 **[MCPJungle](https://github.com/mcpjungle/MCPJungle)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — One place to manage & connect to all your MCP servers by mcpjungle *(1.6k ⭐)* — discovered Nov 4
 - 📄 🔷 **[apple-design-skill](https://github.com/dickwu/apple-design-skill)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Cross-platform UI/UX design reviewer based on Apple HIG. Works with Flutter, Tauri, Electron, React Native. Compatible with Claude Code, Cursor, Codex. by dickwu *(2.8k ⭐)* — discovered Nov 4
-- 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)* — discovered Nov 4
 
 ---
 
@@ -1710,6 +1710,7 @@
 - 📚 🔷 **[embabel-agent](https://github.com/embabel/embabel-agent)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/ by embabel *(4.5k ⭐)*
 - ⌨️ ⭐ **[aiblueprint](https://github.com/Melvynx/aiblueprint)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AIBlueprint CLI for setting up Claude Code configurations by Melvynx *(263 ⭐)*
 - 📚 ⭐ **[agentsys](https://github.com/agent-sh/agentsys)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — AI writes code. This automates everything else · 24 plugins · 49 agents · 44 skills · for Claude Code, OpenCode, Codex, Cursor, Kiro. by agent-sh *(1k ⭐)*
+- 🔗 🔷 **[mcp](https://github.com/BrowserMCP/mcp)** ▶ Runs 🧠 R:🟡 M:🟢 — Browser MCP is a Model Context Provider (MCP) server that allows AI applications to control your browser by BrowserMCP *(7.3k ⭐)*
 - 📚 🔷 **[cyrus](https://github.com/cyrusagents/cyrus)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The Claude Code background agent for Linear, Slack, Github, GitLab etc. you deploy anywhere. Supports Codex, Cursor, Gemini, and Opencode harnesses too. by cyrusagents *(883 ⭐)*
 - 🔌 🔷 **[skills-for-copilot-studio](https://github.com/microsoft/skills-for-copilot-studio)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A skill for AI-coding tools to build and edit Microsoft Copilot Studio agents as YAML — with schema validation, templates, and AI-powered skills. Suited for Claude Code, GitHub Copilot CLI, and more. by microsoft *(487 ⭐)*
 - 📚 ⭐ **[jarvis](https://github.com/adewaskar/jarvis)** ✓ Loads clean 🤖 R:🟡 M:🟠 — J.A.R.V.I.S for automating your daily tasks using Claude Code by adewaskar *(700 ⭐)*
