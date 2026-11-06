@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-06 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-06 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[mimir](https://github.com/grafana/mimir)** 🤖🖱️🧠 R:🟡 M:🟢 — Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. by grafana *(5.3k ⭐)* — discovered Nov 6
 - 📦 ⭐ **[claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops)** 🤖🖱️🧠 R:🟡 M:🟢 — Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode. by Lifecycle-Innovations-Limited *(548 ⭐)* — discovered Nov 6
 - 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(205 ⭐)* — discovered Nov 6
 - 📚 ⭐ **[rivet](https://github.com/rivet-dev/rivet)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. by rivet-dev *(6.7k ⭐)* — discovered Nov 5
 - 📚 🔷 **[switch](https://github.com/sandbox-quantum/switch)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model. by sandbox-quantum *(4k ⭐)* — discovered Nov 5
-- 🔗 ⭐ **[figma-console-mcp](https://github.com/southleft/figma-console-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. by southleft *(3.1k ⭐)* — discovered Nov 5
 
 ---
 
@@ -200,6 +200,7 @@
 - 📚 🔶 **[VibeVoice](https://github.com/microsoft/VibeVoice)** 🔧 R:🟢 M:🟢 — Open-Source Frontier Voice AI by microsoft *(56.1k ⭐)*
 - 📚 🔷 **[airllm](https://github.com/lyogavin/airllm)** ✓ Loads clean 🔧 R:🟡 M:🟢 — AirLLM 70B inference with single 4GB GPU by lyogavin *(41.8k ⭐)*
 - 📚 🔷 **[genoffice](https://github.com/genspark-ai/genoffice)** ▶ Runs 🤖 R:🟡 M:🟢 — Free, open-source AI Office suite: Docs, Sheets, Slides, PDF, Markdown and HTML editors with a built-in AI agent, plus a `genoffice` CLI and agent skill so Claude Code, Codex and Cursor can create and edit real .docx/.xlsx/.pptx files locally. Bring your own key. macOS, Windows & Linux. by genspark-ai *(11.8k ⭐)*
+- 🔗 ⭐ **[figma-console-mcp](https://github.com/southleft/figma-console-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — Your design system as an API. Connect AI to Figma for extraction, creation, and debugging. by southleft *(3.1k ⭐)*
 - 🔗 ⭐ **[devspace](https://github.com/Waishnav/devspace)** 🤖🧠 R:🔴 M:🟢 — Turn ChatGPT into Codex! OR Turn Claude Web into Claude Code! by Waishnav *(5.4k ⭐)*
 - 📚 ⭐ **[mudler/LocalAI](https://github.com/mudler/LocalAI)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(50.2k ⭐)*
 - 📚 🔷 **[crawl4ai](https://github.com/unclecode/crawl4ai)** 🤖 R:🟡 M:🟢 — 🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler & Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN by unclecode *(87k ⭐)*
@@ -1038,7 +1039,7 @@
 - ⌨️ 🔷 **[Claude-Code-Remote](https://github.com/JessyTsui/Claude-Code-Remote)** ✓ Loads clean 🔧 R:🔴 M:🟠 — Control Claude Code remotely via email、discord、telegram. Start tasks locally, receive notifications when Claude completes them, and send new commands by simply replying to emails. by JessyTsui *(1.3k ⭐)*
 - 🔌 🔷 **[agenticnotetaking/arscontexta](https://github.com/agenticnotetaking/arscontexta)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — Claude Code plugin that generates individualized knowledge systems from conversation. You describe how you think and work, have a conversation and get a complete second brain as markdown files you own. by agenticnotetaking *(3.5k ⭐)*
 - ⌨️ 🔷 **[codbash](https://github.com/vakovalskii/codbash)** ▶ Runs 🤖 R:🟡 M:🟢 — Termius-style browser dashboard for Claude Code & Codex sessions. View, search, resume, tag, and manage all your AI coding sessions. by vakovalskii *(269 ⭐)*
-- 📚 🔷 **[collaborator-ai/collab-public](https://github.com/collabs-inc/collab-public)** 🤖 R:🟡 M:🟢 — Collaborator is a place to create with agents. by collabs-inc *(3.1k ⭐)*
+- 📚 🔷 **[collaborator-ai/collab-public](https://github.com/collabs-inc/collab-public)** 🤖 R:🟡 M:✅ — Collaborator is a place to create with agents. by collabs-inc *(3.1k ⭐)*
 - ⌨️ 🔷 **[MassGen](https://github.com/massgen/MassGen)** 🤖🧠 R:🔴 M:✅ — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(1.1k ⭐)*
 - 🔌 🔷 **[codex-orchestrator](https://github.com/kingbootoshi/codex-orchestrator)** ✓ Loads clean 🤖🧠 R:🔴 M:🟠 — Delegate tasks to OpenAI Codex agents via tmux sessions. Designed for Claude Code orchestration. by kingbootoshi *(360 ⭐)*
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** ✓ Loads clean 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(57.2k ⭐)*
