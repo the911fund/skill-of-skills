@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-07 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-07 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📄 ⭐ **[google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free, open-source Google Maps scraper for lead generation (Python, no API key, no Docker). Exports name, phone, email, website, rating and Instagram/Facebook/LinkedIn/TikTok/YouTube/X links to CSV. 100 places with emails in 44 s; --grid beats Google's 120 cap. MX email check, ad-pixel detection. Skill for Claude Code, Codex and Cursor. by Mahanaicoach *(2.2k ⭐)* — discovered Nov 7
+- ⌨️ 🔷 **[gemini-api-cli](https://github.com/google-gemini/gemini-api-cli)** 🔧 R:🟡 M:🟢 — An (experimental) CLI for the Gemini API by google-gemini *(463 ⭐)* — discovered Nov 7
+- 📦 ⭐ **[AutoRAG](https://github.com/Marker-Inc-Korea/AutoRAG)** 🤖🖱️🧠 R:🟡 M:🟢 — Your Personal Librarian Agent. Ask anything on your computer, organize files, remember important info and files. by Marker-Inc-Korea *(5.4k ⭐)* — discovered Nov 7
 - 🔗 🔶 **[google-ads-meta-ads-mcp](https://github.com/irinabuht12-oss/google-ads-meta-ads-mcp)** 🤖 R:🟡 M:🟢 — Google Ads MCP server + Meta Ads MCP (Facebook Ads MCP) + Google Analytics MCP (GA4) + Search Console in one hosted remote MCP for Claude, ChatGPT, Cursor & n8n: OAuth login, no API keys, approval-gated writes, 7-day free trial. By Ryze AI. by irinabuht12-oss *(7k ⭐)* — discovered Nov 7
+- 📄 ⭐ **[google-maps-scraper-kit](https://github.com/Mahanaicoach/google-maps-scraper-kit)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free, open-source Google Maps scraper for lead generation (Python, no API key, no Docker). Exports name, phone, email, website, rating and Instagram/Facebook/LinkedIn/TikTok/YouTube/X links to CSV. 100 places with emails in 44 s; --grid beats Google's 120 cap. MX email check, ad-pixel detection. Skill for Claude Code, Codex and Cursor. by Mahanaicoach *(2.2k ⭐)* — discovered Nov 7
 - 📚 🔷 **[mimir](https://github.com/grafana/mimir)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. by grafana *(5.3k ⭐)* — discovered Nov 6
-- 📦 ⭐ **[claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops)** 🤖🖱️🧠 R:🟡 M:🟢 — Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode. by Lifecycle-Innovations-Limited *(548 ⭐)* — discovered Nov 6
-- 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(231 ⭐)* — discovered Nov 6
 
 ---
 
@@ -1274,7 +1274,7 @@
 - 📚 🔶 **[tvytlx/ai-agent-deep-dive](https://github.com/tvytlx/ai-agent-deep-dive)** 🔧 R:🟢 M:🟢 — AI Agent 源码深度研究报告 by tvytlx *(5.8k ⭐)*
 - 📄 🔶 **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** 🤖 R:🟢 M:🟠 — A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. by zarazhangrui *(5.8k ⭐)*
 - 📚 🔷 **[my-neovim-pluginlist](https://github.com/yutkat/my-neovim-pluginlist)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — My personal list of Neovim plugins by yutkat *(832 ⭐)*
-- ⌨️ 🔷 **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes. by deerwork-ai *(556 ⭐)*
+- ⌨️ 🔷 **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** ▶ Runs 🤖🧠 R:🟡 M:✅ — An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes. by deerwork-ai *(556 ⭐)*
 - 📚 🔶 **[SpringBlade](https://github.com/chillzhuang/SpringBlade)** ✓ Loads clean 🤖 R:🟡 M:🟢 — SpringBlade 是一个由商业级项目升级优化而来的SpringCloud分布式微服务架构、SpringBoot单体式微服务架构并存的综合型项目，采用Java17 API重构了业务代码，完全遵循阿里巴巴编码规范。采用Spring Boot 3.5 、Spring Cloud 2025 、Mybatis 等核心技术，同时提供基于React和Vue的两个前端框架用于快速搭建企业级的SaaS多租户微服务平台。 by chillzhuang *(7k ⭐)*
 - 📄 🔷 **[Pensieve](https://github.com/kingkongshot/Pensieve)** ✓ Loads clean 🤖 R:🟡 M:🟠 — tore your decisions and principles. Claude reads them to make better choices. by kingkongshot *(2.5k ⭐)*
 - 📦 🔷 **[rails_ai_agents](https://github.com/ThibautBaissac/rails_ai_agents)** ▶ Runs 🤖🧠 R:🟡 M:🟠 — A collection of specialized AI skills, agents, rules and hooks for modern Rails AI driven-development. by ThibautBaissac *(672 ⭐)*
@@ -1684,6 +1684,7 @@
 - 📚 🔷 **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.9k ⭐)*
 - ⌨️ ⭐ **[Albatross](https://github.com/morganlinton/Albatross)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open source, terminal-first AI coding agent with fully transparent multi-model routing. Local (Ollama, LM Studio, MLX, llama.cpp) or cloud, your keys, one TUI. No black box. by morganlinton *(243 ⭐)*
 - 📚 🔷 **[itsaplan](https://github.com/croffasia/itsaplan)** 🤖🧠 R:🔴 M:🟢 — ⭐️⭐️⭐️ Open-source, self-hosted alternative to Linear and Plane. Project management and issue tracking where teams and AI agents work side by side to plan and ship products. by croffasia *(2.2k ⭐)*
+- 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(231 ⭐)*
 - 📚 🔷 **[FounderOS-DEMO](https://github.com/Bennettxai/FounderOS)** ▶ Runs 🤖 R:🟡 M:🟢 — An open-source, single-operator business command center: run a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a knowledge graph) from one live dashboard. by Bennettxai *(1.4k ⭐)*
 - ⌨️ 🔷 **[deja-vu](https://github.com/vshulcz/deja-vu)** ▶ Runs 🤖 R:⚫ M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.4k ⭐)*
 - 📚 🔷 **[pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)** ▶ Runs 🧠 R:🔴 M:🟢 — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. by abcwyc *(903 ⭐)*
@@ -1712,6 +1713,7 @@
 - 📚 🔷 **[llm-d-router](https://github.com/llm-d/llm-d-router)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — llm-d Router: The intelligent entry point for inference requests by llm-d *(460 ⭐)*
 - 📦 🔷 **[ASPIRE](https://github.com/NVlabs/ASPIRE)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — ASPIRE: Agentic /Skills Discovery for Robotics by NVlabs *(961 ⭐)*
 - 📚 🔷 **[MaxKB](https://github.com/1Panel-dev/MaxKB)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — 🔥 MaxKB is an open-source platform for building enterprise-grade agents.  强大易用的开源企业级智能体平台。 by 1Panel-dev *(23.1k ⭐)*
+- 📦 ⭐ **[claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops)** 🤖🖱️🧠 R:🟡 M:🟢 — Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode. by Lifecycle-Innovations-Limited *(548 ⭐)*
 - 📚 🔷 **[operator-oss](https://github.com/iishyfishyy/operator-oss)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — Run many Claude Code (or Codex) sessions in parallel — across every project — from one screen. Local-first, git-worktree-isolated tasks, no API key. by iishyfishyy *(210 ⭐)*
 - ⌨️ ⭐ **[mcptoon](https://github.com/activeing123/mcptoon)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — One zero-dependency CLI for every MCP server and agent skill. Token optimization, tool discovery and context compression: 71,929 -> 581 tokens (-99.2%, measured), schemas stay out of context. One config for Claude Code, Codex, Cursor, every agent. 341KB, pure Python. | 零依赖 CLI：管所有 MCP 工具与技能，工具发现省 99.2% token。 by activeing123 *(422 ⭐)*
 - ⌨️ ⭐ **[aiblueprint](https://github.com/Melvynx/aiblueprint)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AIBlueprint CLI for setting up Claude Code configurations by Melvynx *(263 ⭐)*
