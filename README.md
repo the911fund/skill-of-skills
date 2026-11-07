@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **460+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-07 00:25 UTC; the badges above are live)*
+*(counts as of 2026-11-07 03:01 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -78,8 +78,8 @@
 
 - 📚 🔷 **[mimir](https://github.com/grafana/mimir)** 🤖🖱️🧠 R:🟡 M:🟢 — Grafana Mimir provides horizontally scalable, highly available, multi-tenant, long-term storage for Prometheus. by grafana *(5.3k ⭐)* — discovered Nov 6
 - 📦 ⭐ **[claude-ops](https://github.com/Lifecycle-Innovations-Limited/claude-ops)** 🤖🖱️🧠 R:🟡 M:🟢 — Business operating system for Claude Code — 57 skills, 21 agents, smart daemon. Unified inbox (WhatsApp/Email/Slack/Telegram), autonomous PR merge, full-AWS monitoring, revenue (Stripe+RevenueCat), e-commerce (Shopify), marketing (Klaviyo/Meta/GA4), voice (Bland/ElevenLabs), APM (Datadog/NewRelic/OTEL), YOLO mode. by Lifecycle-Innovations-Limited *(548 ⭐)* — discovered Nov 6
-- 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(205 ⭐)* — discovered Nov 6
-- 📚 ⭐ **[rivet](https://github.com/rivet-dev/rivet)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. by rivet-dev *(6.7k ⭐)* — discovered Nov 5
+- 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(205 ⭐)* — discovered Nov 6
+- 📚 ⭐ **[rivet](https://github.com/rivet-dev/rivet)** ✓ Loads clean 🤖 R:🟢 M:🟢 — The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. by rivet-dev *(6.7k ⭐)* — discovered Nov 5
 - 📚 🔷 **[switch](https://github.com/sandbox-quantum/switch)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Open-source AI teammates in Slack, Teams, Discord, Telegram and Mattermost. Self-host it, with any agent harness and any model. by sandbox-quantum *(4k ⭐)* — discovered Nov 5
 
 ---
@@ -1600,7 +1600,7 @@
 
 - 📚 ⭐ **[openai/openai-agents-python](https://github.com/openai/openai-agents-python)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A lightweight, powerful framework for multi-agent workflows by openai *(30.5k ⭐)*
 - 📦 ⭐ **[skills](https://github.com/scenario-labs/skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Get production-ready images, video, audio, and 3D from any AI agent: skills that pick the right model, price before spending, and keep characters and brands consistent through the Scenario MCP, plus expert teams that drive Blender, Maya, ZBrush, Unreal, and Unity. by scenario-labs *(3.1k ⭐)*
-- 📚 ⭐ **[harvey](https://github.com/ethanplusai/harvey)** 🤖 R:🔴 M:🟢 — Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. by ethanplusai *(4.5k ⭐)*
+- 📚 ⭐ **[harvey](https://github.com/ethanplusai/sellbird)** 🤖 R:🔴 M:🟢 — Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. by ethanplusai *(4.6k ⭐)*
 - ⌨️ ⭐ **[gastown](https://github.com/gastownhall/gastown)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — Gas Town - multi-agent workspace manager by gastownhall *(18.7k ⭐)*
 - 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(434.8k ⭐)*
 - 📚 ⭐ **[redamon](https://github.com/samugit83/redamon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — An AI-powered agentic red team framework that automates offensive security operations, from reconnaissance to exploitation to post-exploitation, with zero human intervention. by samugit83 *(3.3k ⭐)*
