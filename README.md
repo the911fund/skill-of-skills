@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-08 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-08 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 🔗 🔷 **[domain-check](https://github.com/saidutt46/domain-check)** ▶ Runs 🔧 R:🟡 M:🟢 — Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents. by saidutt46 *(308 ⭐)* — discovered Nov 8
+- 📚 🔷 **[Agentero](https://github.com/poco-ai/Agentero)** 🤖🧠 R:🟡 M:🟢 — Unified research workspace for humans & agents — PDF Q&A with citations, Vault, writing. 为人与 Agent 协作的科研工作台；补齐 Zotero 时代的人机上下文断点。 by poco-ai *(2k ⭐)* — discovered Nov 8
+- 📚 ⭐ **[CompanyOS](https://github.com/kortix-ai/CompanyOS)** 🤖🧠 R:🟡 M:🟢 — Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours. by kortix-ai *(20.6k ⭐)* — discovered Nov 8
 - 📦 🔷 **[claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 80K reach / 448 likes / 500 comments on first post. Includes Day 2 flop postmortem. by Hao0321 *(750 ⭐)* — discovered Nov 8
-- 🔗 ⭐ **[Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp)** 🔧 R:🟡 M:🟢 — Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key. by INSANE0777 *(507 ⭐)* — discovered Nov 8
 - 🔗 🔷 **[master-fetch](https://github.com/dondai1234/master-fetch)** 🔧 R:🟡 M:🟠 — MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys. by dondai1234 *(899 ⭐)* — discovered Nov 8
-- ⌨️ 🔷 **[gemini-api-cli](https://github.com/google-gemini/gemini-api-cli)** ✓ Loads clean 🔧 R:🟡 M:🟢 — An (experimental) CLI for the Gemini API by google-gemini *(472 ⭐)* — discovered Nov 7
+- 🔗 ⭐ **[Awwwards-mcp](https://github.com/INSANE0777/Awwwards-mcp)** 🔧 R:🟡 M:🟢 — Free, open-source MCP server that gives AI coding agents (Claude Code, Codex, Cursor, OpenCode, ZCode…) design inspiration from award-winning websites — search with real screenshots, pull design DNA, capture and record live sites. A Mobbin alternative. No API key. by INSANE0777 *(507 ⭐)* — discovered Nov 8
 
 ---
 
@@ -318,6 +318,7 @@
 - 📚 🔷 **[WrenAI](https://github.com/Canner/WrenAI)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more. by Canner *(18.1k ⭐)*
 - 📚 🔷 **[apify/crawlee](https://github.com/apify/crawlee)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and other files from websites. Works with Puppeteer, Playwright, Cheerio, JSDOM, and raw HTTP. Both headful and headless mode. With proxy rotation. by apify *(26.4k ⭐)*
 - 📦 ⭐ **[skills](https://github.com/microsoft/skills)** 🤖🧠 R:🟡 M:🟢 — Skills, MCP servers, Custom Agents, Agents.md for SDKs to ground Coding Agents by microsoft *(3.2k ⭐)*
+- ⌨️ 🔷 **[gemini-api-cli](https://github.com/google-gemini/gemini-api-cli)** ✓ Loads clean 🔧 R:🟡 M:🟢 — An (experimental) CLI for the Gemini API by google-gemini *(472 ⭐)*
 - 📦 🔷 **[agent-skills](https://github.com/supabase/agent-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Agent Skills to help developers using AI agents with Supabase by supabase *(3k ⭐)*
 - 📦 ⭐ **[dotnet-skills](https://github.com/Aaronontheweb/dotnet-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Claude Code skills and sub-agents for .NET Developers by Aaronontheweb *(1.3k ⭐)*
 - 🔗 ⭐ **[hashicorp/terraform-mcp-server](https://github.com/hashicorp/terraform-mcp-server)** 🧠 R:🟡 M:🟢 — The Terraform MCP Server provides seamless integration with Terraform ecosystem, enabling advanced automation and interaction capabilities for Infrastructure as Code (IaC) development. by hashicorp *(1.6k ⭐)*
@@ -586,6 +587,7 @@
 - 📚 🔷 **[vllm-project/vllm-ascend](https://github.com/vllm-project/vllm-ascend)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Community maintained hardware plugin for vLLM on Ascend by vllm-project *(3.1k ⭐)*
 - 🔄 🔷 **[Continuous-Claude-v3](https://github.com/parcadei/Continuous-Claude-v3)** 🤖 R:⚫ M:🟠 — Context management for Claude Code. Hooks maintain state via ledgers and handoffs. MCP execution without context pollution. Agent orchestration with isolated context windows. by parcadei *(3.9k ⭐)*
 - 📚 🔷 **[nativewind](https://github.com/nativewind/nativewind)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The utility-first workflow you love from Tailwind CSS in your React Native applications. by nativewind *(8.1k ⭐)*
+- 🔗 🔷 **[domain-check](https://github.com/saidutt46/domain-check)** ▶ Runs 🔧 R:🟡 M:🟢 — Fast, universal domain availability checker - 1,200+ TLDs, pattern generation, RDAP with WHOIS fallback. CLI + Rust library + MCP server for AI agents. by saidutt46 *(308 ⭐)*
 - ⌨️ 🔷 **[OpenKB](https://github.com/VectifyAI/OpenKB)** ▶ Runs 🤖 R:🟢 M:✅ — OpenKB: Open LLM Knowledge Base by VectifyAI *(4.9k ⭐)*
 - ⌨️ 🔷 **[bashunit](https://github.com/TypedDevs/bashunit)** ▶ Runs 🤖 R:🟡 M:🟢 — A simple yet powerfull testing library for bash scripts. by TypedDevs *(439 ⭐)*
 - 🔗 🔷 **[mcp-local-rag](https://github.com/shinpr/mcp-local-rag)** ▶ Runs 🤖 R:🟢 M:🟢 — Local-first RAG server for developers. Semantic + keyword search for code and technical docs. Works with MCP or CLI. Fully private, zero setup. by shinpr *(428 ⭐)*
@@ -706,7 +708,7 @@
 - ⌨️ 🔷 **[psi-oss/get-physics-done](https://github.com/psi-oss/get-physics-done)** ▶ Runs 🔧 R:🔴 M:✅ — The first open-source agentic AI physicist, by Physical Superintelligence PBC (PSI). by psi-oss *(973 ⭐)*
 - 🔗 🔷 **[atlas-mcp-server](https://github.com/cyanheads/atlas-mcp-server)** 🤖📟 R:🟡 M:🔴 — A Model Context Protocol (MCP) server for ATLAS, a Neo4j-powered task management system for LLM Agents - implementing a three-tier architecture (Projects, Tasks, Knowledge) to manage complex workflows. Now with Deep Research. by cyanheads *(480 ⭐)*
 - 📚 🔷 **[xiaoY233/Chat2API](https://github.com/xiaoY233/Chat2API)** ✓ Loads clean 🔧 R:🟡 M:✅ — Chat2API enables zero-cost access to leading AI models by leveraging official web UIs. It supports providers such as DeepSeek, GLM, Kimi, MiniMax, Qwen, and Z.ai, and seamlessly integrates with tools like openlcaw, Cline, and Roo-Code. by xiaoY233 *(1.7k ⭐)*
-- 📚 🔷 **[machine-learning-library](https://github.com/ATOM00blue/machine-learning-library)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Custom APRL machine-learning algorithm + a curated ML knowledge base of 923 papers, lectures, and explainers. NumPy classifier/regressor, tests, benchmarks, provenance, Obsidian, and agent-ready Markdown. by ATOM00blue *(261 ⭐)*
+- 📚 🔷 **[machine-learning-library](https://github.com/ATOM00blue/machine-learning-library)** ✓ Loads clean 🤖🧠 R:🟢 M:🟠 — Custom APRL machine-learning algorithm + a curated ML knowledge base of 923 papers, lectures, and explainers. NumPy classifier/regressor, tests, benchmarks, provenance, Obsidian, and agent-ready Markdown. by ATOM00blue *(261 ⭐)*
 - 📚 🔶 **[next-skills](https://github.com/vercel-labs/next-skills)** 🤖🧠 R:🟢 M:🟢 — This repository previously hosted Next.js agent skills for AI coding workflows. The skills have been moved to the Next.js repository and are now installed via `npx skills add vercel/next.js`, including workflow skills like next-cache-components-optimizer and next-cache-components-adoption. Reference knowledge formerly delivered as skills is now automatically provided through bundled docs and auto-generated AGENTS.md/CLAUDE.md files in Next.js 16.3+. by vercel-labs *(989 ⭐)*
 - 📚 🔷 **[waiterxiaoyy/Deep-Dive-Claude-Code](https://github.com/waiterxiaoyy/Deep-Dive-Claude-Code)** ✓ Loads clean 🔧 R:🟡 M:🟠 — 🔍 Source code leak? Production code? 13 chapters breaking down Claude Code's production-grade architecture layer by layer — the most visual + agent simulator + source code analysis by waiterxiaoyy *(294 ⭐)*
 - 🔗 🔷 **[pg-mcp-server](https://github.com/stuzero/pg-mcp-server)** 🔧 R:🟡 M:🔴 — A Model Context Protocol server for PostgreSQL that enables AI agents to connect to databases, discover schemas, execute read-only queries, analyze execution plans with pg_explain, and access extension context for PostGIS and pgvector through tools like connect, disconnect, pg_query, and schema exploration resources. by stuzero *(541 ⭐)*
