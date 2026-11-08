@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-08 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-08 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1361,13 +1361,13 @@
 - 🔄 ⭐ **[claude-code-my-workflow](https://github.com/pedrohcgs/claude-code-my-workflow)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A ready-to-fork Claude Code template for academics using LaTeX/Beamer + R. Multi-agent review, quality gates, adversarial QA, and replication protocols. by pedrohcgs *(1.7k ⭐)*
 - 📚 🔷 **[deepteam](https://github.com/confident-ai/deepteam)** ▶ Runs 🧠 R:🔴 M:🟢 — DeepTeam is a framework to red team LLMs and AI agents. by confident-ai *(3.1k ⭐)*
 - ⌨️ ⭐ **[shippie](https://github.com/mattzcarey/shippie)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — extendable code review and QA agent 🚢 by mattzcarey *(2.5k ⭐)*
-- 📦 ⭐ **[pua](https://github.com/tanweai/pua)** 🤖 R:🔴 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(19.8k ⭐)*
 - 📦 ⭐ **[accessibility-agents](https://github.com/Community-Access/accessibility-agents)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Accessibility review agents for Claude Code, GitHub Copilot, and Claude Desktop. Eleven specialists that enforce WCAG 2.2 AA compliance so AI coding tools stop generating inaccessible code. by Community-Access *(438 ⭐)*
 - 📚 🔷 **[heilcheng/awesome-agent-skills](https://github.com/heilcheng/awesome-agent-skills)** 🔧 R:🟢 M:🟢 — Tutorials, Guides and Agent Skills Directories by heilcheng *(6.4k ⭐)*
 - 📚 ⭐ **[mergisi/awesome-openclaw-agents](https://github.com/mergisi/awesome-openclaw-agents)** ✓ Loads clean 🤖 R:🟢 M:🟢 — 162 production-ready AI agent templates for OpenClaw. SOUL.md configs across 19 categories. Submit yours! by mergisi *(4.1k ⭐)*
 - 📄 🔷 **[SimpleEnglish](https://github.com/AminBlg/SimpleEnglish)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Agent skill: make LLMs write docs in ASD-STE100 Simplified Technical by AminBlg *(4.3k ⭐)*
 - 📚 🔷 **[quemsah/awesome-claude-plugins](https://github.com/quemsah/awesome-claude-plugins)** 🤖 R:🟡 M:🟢 — Automated collection of Claude Code plugin adoption metrics across GitHub repositories using n8n workflows by quemsah *(1.6k ⭐)*
 - 📦 🔷 **[Waza](https://github.com/tw93/Waza)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 🥷 Engineering habits you already know, turned into skills Claude can run. by tw93 *(7.5k ⭐)*
+- 📦 ⭐ **[pua](https://github.com/tanweai/pua)** 🤖 R:🔴 M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(19.8k ⭐)*
 - 📄 ⭐ **[vbsec](https://github.com/tanviet12/vbsec)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A Claude Code skill that performs in-depth security scans and detects 20+ of the most common security vulnerabilities in your source code. by tanviet12 *(323 ⭐)*
 - 🔌 🔷 **[claude-code-harness](https://github.com/Chachamaru127/claude-code-harness)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Claude Code専用の開発ハーネス - 自律的なPlan→Work→Reviewサイクルで高品質な開発を実現 by Chachamaru127 *(3.2k ⭐)*
 - 🔌 🔷 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(1.9k ⭐)*
