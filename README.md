@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-09 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-09 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📚 🔷 **[cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source. by nirholas *(333 ⭐)* — discovered Nov 9
+- ⌨️ ⭐ **[code-notify](https://github.com/mylee04/code-notify)** 🤖 R:🟡 M:🟢 — Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script. by mylee04 *(291 ⭐)* — discovered Nov 9
+- 📚 ⭐ **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** 🤖🧠 R:🟡 M:🟢 — Secure, Fast, and Extensible Sandbox runtime for AI agents. by opensandbox-group *(16.8k ⭐)* — discovered Nov 9
 - 🔗 🔷 **[facebook-ads-library-mcp](https://github.com/RamsesAguirre777/facebook-ads-library-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — Free, self-hosted MCP server that scrapes the public Facebook Ad Library (no API token) for competitive ad research — advertiser, copy, landing pages, CTAs, any country. by RamsesAguirre777 *(287 ⭐)* — discovered Nov 9
+- 📚 🔷 **[cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source. by nirholas *(333 ⭐)* — discovered Nov 9
 - 📚 ⭐ **[dorabot](https://github.com/suitedaces/dorabot)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — macOS app for 24/7 AI agents in an IDE with memory, scheduled tasks, browser use + access to Whatsapp, Telegram, Slack. by suitedaces *(247 ⭐)* — discovered Nov 9
-- 📚 🔷 **[outreachr](https://github.com/lalalune/outreachr)** ▶ Runs 🧠 R:🟡 M:🟢 — Local-first, open-source investor fundraising CRM for founders by lalalune *(290 ⭐)* — discovered Nov 9
-- 🔗 🔷 **[chiasmus](https://github.com/yogthos/chiasmus)** 🧠 R:🟡 M:🟢 — Chiasmus is an MCP server that gives language models access to formal verification by yogthos *(218 ⭐)* — discovered Nov 9
 
 ---
 
@@ -1020,6 +1020,7 @@
 - 📄 🔶 **[qiaomu-anything-to-notebooklm](https://github.com/joeseesun/qiaomu-anything-to-notebooklm)** 🤖 R:🔴 M:🟢 — Claude Skill: Multi-source content processor for NotebookLM. Supports WeChat articles, web pages, YouTube, PDF, Markdown, search queries → Podcast/PPT/MindMap/Quiz etc. by joeseesun *(6.5k ⭐)*
 - 📦 🔷 **[ai-business-skills](https://github.com/minhnv0807/ai-business-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — 138 bilingual AI marketing skills (69 VN + 69 Global) for Claude Code, OpenCode, Codex, VS Code. Four role SOP packs — content, design, performance, leader ops — plus strategy, personal brand, AI avatar, dropshipping, design master, knowledge library. 4 regions (US/EU/SEA/LATAM) + Vietnam 2025-2026. Companion: opa-kit. by minhnv0807 *(644 ⭐)*
 - 📚 🔷 **[homerail](https://github.com/xiaotianfotos/homerail)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Voice-first local agent orchestration runtime for auditable DAG workflows. by xiaotianfotos *(1k ⭐)*
+- 📚 🔷 **[outreachr](https://github.com/lalalune/outreachr)** ▶ Runs 🧠 R:🟡 M:🟢 — Local-first, open-source investor fundraising CRM for founders by lalalune *(290 ⭐)*
 - 📄 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** ✓ Loads clean 🤖 R:🔴 M:🟠 — Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. by op7418 *(2.9k ⭐)*
 - 📦 🔷 **[getspecstory](https://github.com/specstoryai/getspecstory)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Install our local first extensions for your favorite AI IDE or Terminal Agent. Process your histories into reusable skills with Lore. Sync your conversations to the cloud. File issues and requests. by specstoryai *(1.4k ⭐)*
 - 📚 🔷 **[Kun](https://github.com/KunAgent/Kun)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.4k ⭐)*
@@ -1755,6 +1756,7 @@
 - 🧩 🔶 **[nanobrowser](https://github.com/nanobrowser/nanobrowser)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-Source Chrome extension for AI-powered web automation. Run multi-agent workflows using your own LLM API key. Alternative to OpenAI Operator. by nanobrowser *(14.3k ⭐)*
 - 📦 🔷 **[pentest-agents](https://github.com/H-mmer/pentest-agents)** 🤖🖱️🧠 R:⚫ M:🟠 — Bug bounty agent framework for Claude Code, Codex, Gemini, Cursor, Windsurf, Copilot, and OpenClaw — 48 agents, 26 commands, 19 CLI tools, 2 MCP servers, autonomous hunt loops, exploit chain builder. by H-mmer *(1.1k ⭐)*
 - 📚 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:⚫ M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(254 ⭐)*
+- 🔗 🔷 **[chiasmus](https://github.com/yogthos/chiasmus)** 🧠 R:🟡 M:🟢 — Chiasmus is an MCP server that gives language models access to formal verification by yogthos *(218 ⭐)*
 - 📚 🔷 **[runjam](https://github.com/peintune/runjam)** ✓ Loads clean 🤖 R:🟡 M:🟢 — One desktop for all your AI coding Agent — Claude Code, Codex CLI & Gemini CLI. Auto-detect, one-click install, unified chat, file explorer, terminal & editor. Local-first. Built with Tauri + Rust + Vue 3. by peintune *(220 ⭐)*
 - 📚 🔷 **[aeon](https://github.com/aeonfun/aeon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever. by aeonfun *(789 ⭐)*
 - ⌨️ 🔷 **[lazyskills](https://github.com/alvinunreal/lazyskills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — mission control for agent skills by alvinunreal *(336 ⭐)*
