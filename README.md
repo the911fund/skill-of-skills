@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-10 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-10 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -142,16 +142,16 @@
 - 📚 ⭐ **[nanobot](https://github.com/HKUDS/nanobot)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Lightweight, open-source AI agent for your tools, chats, and workflows. by HKUDS *(50k ⭐)*
 - 📚 🔷 **[Alishahryar1/free-claude-code](https://github.com/Alishahryar1/free-claude-code)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Use claude-code for free in the terminal, VSCode extension or discord like OpenClaw (voice supported) by Alishahryar1 *(67.7k ⭐)*
 - ⌨️ ⭐ **[cli-printing-press](https://github.com/mvanhorn/cli-printing-press)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Every API has a secret identity. This finds it, absorbs every feature from every competing tool, then builds the GOAT CLI — designed for AI agents first, with SQLite sync, offline search, and compound insight commands. by mvanhorn *(4.9k ⭐)*
-- 📚 ⭐ **[BerriAI/litellm](https://github.com/BerriAI/litellm)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(63k ⭐)*
+- 📚 ⭐ **[BerriAI/litellm](https://github.com/BerriAI/litellm)** 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(63k ⭐)*
 - 🔗 ⭐ **[comfyui-mcp](https://github.com/artokun/comfyui-mcp)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The local-first, agent-native control plane for ComfyUI — MCP server + Claude Code plugin. 108 tools, 29 AI skills (Flux · WAN · LT2.3 · Qwen · Ideogram4 · Krea2). Author & run workflows, edit your live graph in natural language, manage models & custom nodes. Local, LAN, VPS, or Comfy Cloud. by artokun *(905 ⭐)*
 - 📄 ⭐ **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** 🤖🧠 R:🟢 M:🟢 — #1 Persistent memory for AI coding agents based on real-world benchmarks by rohitg00 *(30.2k ⭐)*
 - 📚 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** ▶ Runs 🧠 R:🟡 M:🟢 — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ by AstrBotDevs *(46.5k ⭐)*
 - ⌨️ ⭐ **[raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX)** ▶ Runs 🤖 R:🟡 M:🟢 — The fastest local AI engine for Apple Silicon. 4.2x faster than Ollama, 0.08s cached TTFT, 100% tool calling. 17 tool parsers, prompt cache, reasoning separation, cloud routing. Drop-in OpenAI replacement. Works with Claude Code, Cursor, Aider. by raullenchai *(4.1k ⭐)*
 - 📚 🔷 **[QuantumNous/new-api](https://github.com/QuantumNous/new-api)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for personal and enterprise model management. 🍥 by QuantumNous *(51.7k ⭐)*
 - ⌨️ 🔷 **[worktrunk](https://github.com/max-sixty/worktrunk)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows by max-sixty *(12.3k ⭐)*
-- ⌨️ ⭐ **[Hmbown/DeepSeek-TUI](https://github.com/codewhale-hq/Codewhale)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — DeepSeek + MiMo coding agent in terminal by codewhale-hq *(41.2k ⭐)*
+- ⌨️ ⭐ **[Hmbown/DeepSeek-TUI](https://github.com/codewhale-hq/Codewhale)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — DeepSeek + MiMo coding agent in terminal by codewhale-hq *(41.2k ⭐)*
 - 🔗 🔷 **[mcp-for-blender](https://github.com/ahujasid/mcp-for-blender)** 🔧 R:🟡 M:🟢 — Community plugin to control Blender 3D with any LLM of your choice by ahujasid *(33.8k ⭐)*
-- 📚 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — The agent engineering platform. by langchain-ai *(149.3k ⭐)*
+- 📚 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** 🤖🧠 R:🟢 M:🟢 — The agent engineering platform. by langchain-ai *(149.3k ⭐)*
 - 📚 ⭐ **[TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** ▶ Runs 🤖 R:🟡 M:🟢 — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. by TencentCloud *(30.7k ⭐)*
 - 📦 🔷 **[Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop  by Leonxlnx *(112.6k ⭐)*
 - 📚 🔷 **[ego-lite](https://github.com/citrolabs/ego-lite)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — The best browser for both you and your AI agents work in parallel. by citrolabs *(22.3k ⭐)*
