@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-10 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-10 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 🔷 **[run-ai](https://github.com/dsx-ai-factory/run-ai)** 🤖🧠 R:🟡 M:🟢 — Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment. by dsx-ai-factory *(730 ⭐)* — discovered Nov 10
 - 📚 🔷 **[ai-maestro](https://github.com/23blocks-OS/ai-maestro)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI Agent Orchestrator with Skills System - Give AI Agents superpowers: memory search, code graph queries, agent-to-agent messaging. Manage Claude Code, Codex, Grok Build or any AI Agent from one dashboard. Move Agents between computers and locations by 23blocks-OS *(847 ⭐)* — discovered Nov 10
 - 📦 🔷 **[awesome-reverse-engineered](https://github.com/alexgaoth/awesome-reverse-engineered)** ▶ Runs 🤖 R:🟡 M:🟢 — Don't reverse engineer it twice. 17,000+ open-source tools built by reverse engineering closed apps, APIs, devices, protocols, file formats, games and AI tools. Search site + agent skill + MCP server, refreshed nightly. by alexgaoth *(1.3k ⭐)* — discovered Nov 10
 - ⌨️ ⭐ **[code-notify](https://github.com/mylee04/code-notify)** ▶ Runs 🤖 R:🟡 M:🟢 — Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script. by mylee04 *(291 ⭐)* — discovered Nov 9
 - 📚 ⭐ **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Secure, Fast, and Extensible Sandbox runtime for AI agents. by opensandbox-group *(17k ⭐)* — discovered Nov 9
-- 🔗 🔷 **[facebook-ads-library-mcp](https://github.com/RamsesAguirre777/facebook-ads-library-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — Free, self-hosted MCP server that scrapes the public Facebook Ad Library (no API token) for competitive ad research — advertiser, copy, landing pages, CTAs, any country. by RamsesAguirre777 *(288 ⭐)* — discovered Nov 9
 
 ---
 
@@ -936,6 +936,7 @@
 - 📚 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)** ▶ Runs 🧠 R:🔴 M:✅ — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
 - 🔗 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(321 ⭐)*
 - 🔗 🔷 **[world-intel-mcp](https://github.com/marc-shade/world-intel-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys. by marc-shade *(1.1k ⭐)*
+- 🔗 🔷 **[facebook-ads-library-mcp](https://github.com/RamsesAguirre777/facebook-ads-library-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — Free, self-hosted MCP server that scrapes the public Facebook Ad Library (no API token) for competitive ad research — advertiser, copy, landing pages, CTAs, any country. by RamsesAguirre777 *(288 ⭐)*
 - 📚 🔷 **[rejourney](https://github.com/rejourneyco/rejourney)** ✓ Loads clean 🤖🖱️ R:🟢 M:🟢 — Rejourney is a open source, self-hostable/hosted observability tool for web and mobile apps. Focus on lightweight and performance. by rejourneyco *(284 ⭐)*
 - 📚 🔷 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** ✓ Loads clean 🤖🔧 R:🔴 M:🟠 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.6k ⭐)*
 - 🔗 🔷 **[axion-planetary-mcp](https://github.com/Dhenenjay/axion-planetary-mcp)** 🤖🔧 R:🟡 M:🟢 — World's first Virtual Satellite that you can connect with MCP by Dhenenjay *(220 ⭐)*
