@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **470+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-11 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-11 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📚 ⭐ **[ledgerforge](https://github.com/devaccuracy/ledgerforge)** 🔧 R:🟡 M:🟢 — The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0. by devaccuracy *(217 ⭐)* — discovered Nov 11
+- 🔄 ⭐ **[LoopForge](https://github.com/Tencent/LoopForge)** 🤖🖱️🧠 R:🟡 M:🟢 — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. by Tencent *(290 ⭐)* — discovered Nov 11
+- 🔗 🔷 **[google-ads-mcp](https://github.com/googleads/google-ads-mcp)** 🔧 R:🟡 M:🟢 — An MCP server providing tools to query, create, and manage Google Ads account resources including campaigns, assets, and labels through the Google Ads API, with a propose-and-confirm safety workflow for all write operations and configurable tool namespaces. by googleads *(1.1k ⭐)* — discovered Nov 11
 - 📦 🔷 **[sandbase-skills](https://github.com/sandbaseai/sandbase-skills)** 🤖 R:🟡 M:🟢 — 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness. by sandbaseai *(210 ⭐)* — discovered Nov 11
 - 📦 🔷 **[Seo-Promt-Master](https://github.com/umutxyp/Seo-Promt-Master)** 🤖🖱️🧠 R:🟡 M:🟢 — Open-source SEO & GEO audit: a zero-dependency CLI (npx), an agent skill for Claude Code, Cursor, Codex, Gemini & Copilot, 47 SEO prompts and a cited Google/Bing/AI-search knowledge base. Checks robots.txt, sitemaps, canonicals, hreflang, structured data, Core Web Vitals and AI crawlers — then fixes them. by umutxyp *(578 ⭐)* — discovered Nov 11
-- 📦 ⭐ **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code. by growthenginenowoslawski *(809 ⭐)* — discovered Nov 11
-- 📦 🔶 **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** 🤖 R:🟡 M:🟢 — Keep your coding agent up to date with the latest web best practices by GoogleChrome *(3.4k ⭐)* — discovered Nov 11
-- 📚 🔷 **[run-ai](https://github.com/dsx-ai-factory/run-ai)** 🤖🧠 R:🟡 M:🟢 — Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment. by dsx-ai-factory *(742 ⭐)* — discovered Nov 10
 
 ---
 
@@ -288,6 +288,7 @@
 - 🔗 ⭐ **[stealth-browser-mcp](https://github.com/vibheksoni/stealth-browser-mcp)** ▶ Runs 🤖 R:🔴 M:🟢 — The only browser automation that bypasses anti-bot systems. AI writes network hooks, clones UIs pixel-perfect via simple chat. by vibheksoni *(3.4k ⭐)*
 - 📦 ⭐ **[GodotPrompter](https://github.com/jame581/GodotPrompter)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Agentic skills framework for Godot 4.x. Domain-specific skills for AI coding agents (Claude Code, Copilot, Antigravity, Cursor) by jame581 *(950 ⭐)*
 - 📚 🔷 **[cocoindex-io/cocoindex](https://github.com/cocoindex-io/cocoindex)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Incremental engine for long horizon agents 🌟 Star if you like it! by cocoindex-io *(11.9k ⭐)*
+- 📦 🔶 **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** 🤖 R:🟡 M:🟢 — Keep your coding agent up to date with the latest web best practices by GoogleChrome *(3.4k ⭐)*
 - 📚 🔷 **[agents](https://github.com/livekit/agents)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — A framework for building realtime voice AI agents 🤖🎙️📹 by livekit *(15.2k ⭐)*
 - 📦 🔷 **[skills](https://github.com/higgsfield-ai/skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Provides AI agent skills for image, video, 3D, and audio generation across 30+ models, plus Marketing Studio for branded content creation and Virality Predictor video scoring. Includes skills for Soul Character training, product photoshoots, complete visual brand systems via Brandkit, marketplace cards, full-stack website building, video explainers, and YouTube thumbnails. by higgsfield-ai *(1.9k ⭐)*
 - 📚 🔷 **[ag-ui](https://github.com/ag-ui-protocol/ag-ui)** 🤖🖱️🧠 R:🟡 M:🟢 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. by ag-ui-protocol *(17.1k ⭐)*
@@ -1026,6 +1027,7 @@
 - 📄 ⭐ **[op7418/Claude-to-IM-skill](https://github.com/op7418/Claude-to-IM-skill)** ✓ Loads clean 🤖 R:🔴 M:🟠 — Bridge Claude Code / Codex to IM platforms — chat with AI coding agents from Telegram, Discord, or Feishu/Lark. by op7418 *(2.9k ⭐)*
 - 📚 🔷 **[tutti](https://github.com/tutti-os/tutti)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.9k ⭐)*
 - 📚 🔷 **[Kun](https://github.com/KunAgent/Kun)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.4k ⭐)*
+- 📦 ⭐ **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code. by growthenginenowoslawski *(809 ⭐)*
 - 📚 ⭐ **[boop-agent](https://github.com/raroque/boop-agent)** ✓ Loads clean 🤖🧠 R:🔴 M:🟠 — iMessage personal agent: choose Claude Agent SDK (Claude Code) or Codex app-server runtime (Codex/ChatGPT), with memory, sub-agents, automations, integrations. by raroque *(1.4k ⭐)*
 - 🔄 🔷 **[prd-taskmaster](https://github.com/anombyte93/prd-taskmaster)** 🤖🧠 R:🔴 M:🟢 — Zero-config goal-to-tasks engine for Claude Code (the Atlas engine). Graded PRD validation, dependency-ordered task graph, evidence-gated execution. by anombyte93 *(610 ⭐)*
 - ⌨️ 🔷 **[devenjarvis/lathe](https://github.com/devenjarvis/lathe)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Generate hands-on, multi-part technical tutorials on demand, with LLM skills tuned to make content approachable. Then you work through them yourself, by hand ✋ by devenjarvis *(1.7k ⭐)*
@@ -1546,6 +1548,7 @@
 - 📚 🔷 **[casdoor](https://github.com/casdoor/casdoor)** ✓ Loads clean 🤖 R:🟡 M:🟢 — An open-source Agent-first Identity and Access Management (IAM) /LLM MCP & agent gateway and auth server with web UI supporting OpenClaw, MCP, OAuth, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Google Workspace, Azure AD by casdoor *(14.8k ⭐)*
 - ⌨️ 🔷 **[orchard](https://github.com/openai/orchard)** 🔧 R:🟡 M:🟢 — Orchestrator for running Tart Virtual Machines on a cluster of Apple Silicon devices by openai *(605 ⭐)*
 - 📚 🔷 **[radar](https://github.com/skyhook-io/radar)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The missing open-source Kubernetes UI with a built-in MCP server for AI agents. See what's broken, why, and what changed. Issues, Topology, event timeline, Helm, GitOps, live service traffic, and cluster audits - all in one Go binary. by skyhook-io *(4.1k ⭐)*
+- 📚 🔷 **[run-ai](https://github.com/dsx-ai-factory/run-ai)** 🤖🧠 R:🟡 M:🟢 — Run:ai is the AI workload orchestration platform for Kubernetes. This monorepo contains the control plane services, in-cluster Kubernetes operator/controllers, shared libraries and clients, the installer, and the local dev environment. by dsx-ai-factory *(742 ⭐)*
 - ⌨️ 🔷 **[skypilot](https://github.com/skypilot-org/skypilot)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — The AI Compute Platform for frontier teams. SkyPilot turns fragmented AI compute into one AI supercomputer, so frontier AI teams build custom intelligence faster. by skypilot-org *(10.8k ⭐)*
 - 📚 🔷 **[bytebase](https://github.com/bytebase/bytebase)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Database governance built for humans and agents — controlling changes and access across every major database. by bytebase *(14.7k ⭐)*
 - 📦 ⭐ **[agentops](https://github.com/boshu2/agentops)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — The missing DevOps layer for coding agents. Flow, feedback, and memory that compounds between sessions. by boshu2 *(454 ⭐)*
