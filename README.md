@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-12 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-12 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -63,9 +63,9 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(453.1k ⭐)*
 - 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(322.1k ⭐)*
 - 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(279.1k ⭐)*
+- 🔥 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(453.1k ⭐)*
 - 🔥 📦 ⭐ **[superpowers](https://github.com/obra/superpowers)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(316.4k ⭐)*
 - 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(301.5k ⭐)*
 - 🔥 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(189.2k ⭐)*
@@ -726,7 +726,7 @@
 - 📚 🔷 **[drona23/claude-token-efficient](https://github.com/drona23/claude-token-efficient)** 🤖🧠 R:🟢 M:🟠 — One CLAUDE.md file. Keeps Claude responses terse. Reduces output verbosity on heavy workflows. Drop-in, no code changes. by drona23 *(6.2k ⭐)*
 - 📚 🔷 **[tuui](https://github.com/AI-QL/tuui)** 🧠 R:🟡 M:✅ — A desktop MCP client designed as a tool unitary utility integration, accelerating AI adoption through the Model Context Protocol (MCP) and enabling cross-vendor LLM API orchestration. by AI-QL *(1.2k ⭐)*
 - ⌨️ 🔷 **[figma-use](https://github.com/dannote/figma-use)** 🤖 R:🟡 M:✅ — Control Figma from the command line. Full read/write access for AI agents — create shapes, text, components, set styles, export images. 100+ commands. by dannote *(615 ⭐)*
-- 📚 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
+- 📚 🔷 **[instantlyeasy/claude-code-sdk-ts](https://github.com/instantlyeasy/claude-code-sdk-ts)** ✓ Loads clean 🔧 R:🟡 M:🟠 — Fluent, chainable TypeScript SDK: configure models, enable tools, stream events, then fetch text, JSON, run details or token stats in one call via .asText() or .allowTools('Read', 'Write'). Multi-level logging plus live onMessage/onToolUse callbacks give deep, CLI-compatible observability. by instantlyeasy *(207 ⭐)*
 - 📄 🔷 **[claude-skill-homeassistant](https://github.com/komal-SkyNET/claude-skill-homeassistant)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Claude Code skill to supercharge and manage all Home Assistant workflows by komal-SkyNET *(982 ⭐)*
 - 📚 🔷 **[claude-code-mastery](https://github.com/TheDecipherist/claude-code-mastery)** ✓ Loads clean 🤖 R:🟡 M:🟠 — The complete guide to Claude Code: CLAUDE.md, hooks, skills, MCP servers, and commands by TheDecipherist *(559 ⭐)*
 - ⌨️ 🔷 **[better-clawd](https://github.com/x1xhlol/better-clawd)** ✓ Loads clean 🔧 R:🔴 M:🟠 — Claude Code, but better: better performance, OpenAI/OpenRouter support, no telemetry, no lock-in. by x1xhlol *(437 ⭐)*
