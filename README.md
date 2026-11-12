@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,600,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-12 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-12 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- ⌨️ ⭐ **[SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** 🤖🧠 R:🟡 M:🟢 — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. by NVIDIA *(769 ⭐)* — discovered Nov 12
+- 📦 🔷 **[claude-skills](https://github.com/oaustegard/claude-skills)** 🤖🧠 R:🟡 M:🟢 — My collection of Claude skills by oaustegard *(355 ⭐)* — discovered Nov 12
+- 📚 🔷 **[dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)** 🤖 R:🟡 M:🟢 — 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. by shanliuling *(1.4k ⭐)* — discovered Nov 12
 - 📚 ⭐ **[ledgerforge](https://github.com/devaccuracy/ledgerforge)** 🔧 R:🟡 M:🟢 — The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0. by devaccuracy *(220 ⭐)* — discovered Nov 11
 - 🔄 ⭐ **[LoopForge](https://github.com/Tencent/LoopForge)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. by Tencent *(342 ⭐)* — discovered Nov 11
-- 🔗 🔷 **[google-ads-mcp](https://github.com/googleads/google-ads-mcp)** 🔧 R:🟡 M:🟢 — An MCP server providing tools to query, create, and manage Google Ads account resources including campaigns, assets, and labels through the Google Ads API, with a propose-and-confirm safety workflow for all write operations and configurable tool namespaces. by googleads *(1.2k ⭐)* — discovered Nov 11
-- 📦 🔷 **[sandbase-skills](https://github.com/sandbaseai/sandbase-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness. by sandbaseai *(210 ⭐)* — discovered Nov 11
-- 📦 ⭐ **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code. by growthenginenowoslawski *(814 ⭐)* — discovered Nov 11
 
 ---
 
@@ -426,6 +426,7 @@
 - ⌨️ 🔷 **[repobrain](https://github.com/study8677/repobrain)** ▶ Runs 🤖🖱️🧠🏄📟 R:🟡 M:🟢 — 🧠 RepoBrain (formerly Antigravity) — Give your repo a brain. ChatGPT for your codebase: works in Claude Code, Cursor, Codex, Windsurf & more. by study8677 *(1.4k ⭐)*
 - 📚 🔶 **[ai-guide](https://github.com/liyupi/ai-guide)** ✓ Loads clean 🤖🖱️ R:🟢 M:🟢 — 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享大模型选择指南（DeepSeek / GPT / Gemini / Claude）、最新 AI 资讯、Prompt 提示词大全、AI 知识百科（RAG / MCP / A2A）、AI 编程技巧、AI 工具用法（Cursor / Claude Code / TRAE / Lovable / Agent Skills）、AI 开发框架教程（Spring AI / LangChain）、AI 产品变现指南，帮你快速掌握 AI 技术，走在时代前沿。本项目为开源文档版本，已升级为鱼皮 AI 导航网站 by liyupi *(22k ⭐)*
 - 📚 🔷 **[nomad](https://github.com/hashicorp/nomad)** ✓ Loads clean 🔧 R:🟢 M:🟢 — Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and scale and has native Consul and Vault integrations. by hashicorp *(17.1k ⭐)*
+- 🔗 🔷 **[google-ads-mcp](https://github.com/googleads/google-ads-mcp)** 🔧 R:🟡 M:🟢 — An MCP server providing tools to query, create, and manage Google Ads account resources including campaigns, assets, and labels through the Google Ads API, with a propose-and-confirm safety workflow for all write operations and configurable tool namespaces. by googleads *(1.2k ⭐)*
 - 📦 🔷 **[ComposioHQ/awesome-codex-skills](https://github.com/composio-community/awesome-codex-skills)** ✓ Loads clean 🤖 R:🟢 M:🟠 — A curated list of practical Codex skills for automating workflows across the Codex CLI and API. by composio-community *(17.3k ⭐)*
 - ⌨️ ⭐ **[gcx](https://github.com/grafana/gcx)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — A CLI for managing Grafana and Grafana Cloud resources. Optimized for agentic usage. by grafana *(823 ⭐)*
 - 📦 🔷 **[notfair-plugin](https://github.com/nowork-studio/notfair-plugin)** 🤖🧠 R:🟡 M:🟢 — Open-source SEO, GEO, and marketing skills for AI agents. by nowork-studio *(4.1k ⭐)*
@@ -1010,6 +1011,7 @@
 - ⌨️ 🔷 **[agtx](https://github.com/fynnfluegge/agtx)** 🤖🧠 R:🔴 M:🟢 — 🏄🏼‍♂️ The blackboard for coding agents - multi-agent session-toolbox for claude code, cursor, codex, gemini by fynnfluegge *(1.7k ⭐)*
 - 📚 ⭐ **[phodal/routa](https://github.com/phodal/routa)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Workspace-first multi-agent coordination platform for AI development, with shared Specs, Kanban orchestration, and MCP/ACP/   A2A support across web and desktop. by phodal *(1.8k ⭐)*
 - ⌨️ ⭐ **[code-notify](https://github.com/mylee04/code-notify)** ▶ Runs 🤖 R:🟡 M:🟢 — Cross-platform desktop notifications for Claude Code, Codex, and Gemini CLI. Install via Homebrew, npm, or script. by mylee04 *(291 ⭐)*
+- 📦 ⭐ **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code. by growthenginenowoslawski *(814 ⭐)*
 - 📦 🔶 **[instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT. by Jakeschincariol *(6.1k ⭐)*
 - 📦 🔶 **[youtube-agent-skill](https://github.com/Jakeschincariol/youtube-agent-skill)** 🤖 R:🟢 M:🟢 — Eleven Claude skills that run a YouTube channel: scripts off 21 hook formulas with a scored hook, title and thumbnail linted as one pairing, an edit decision list from your transcript, a retention reader that finds where viewers actually leave, a Shorts cutter, and a virality engine. Free, MIT. by Jakeschincariol *(5.6k ⭐)*
 - 🔗 ⭐ **[eyaltoledano/claude-task-master](https://github.com/eyaltoledano/claude-task-master)** ▶ Runs 🤖🖱️🧠🏄 R:🔴 M:✅ — An AI-powered task-management system you can drop into Cursor, Lovable, Windsurf, Roo, and others. by eyaltoledano *(28.3k ⭐)*
@@ -1765,6 +1767,7 @@
 - 🔗 🔷 **[gram](https://github.com/speakeasy-api/gram)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI control plane for every agent in your enterprise, built around an enterprise-grade MCP gateway. Give each team one governed path to its MCP servers, provisioned by role from the IdP you already run, with security policy enforced on every action. by speakeasy-api *(277 ⭐)*
 - 📚 🔷 **[siclaw](https://github.com/scitix/siclaw)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration by scitix *(239 ⭐)*
 - ⌨️ 🔶 **[copilot-cli](https://github.com/github/copilot-cli)** ✓ Loads clean 🔧 R:🔴 M:🟢 — GitHub Copilot CLI brings the power of Copilot coding agent directly to your terminal. by github *(11.4k ⭐)*
+- 📦 🔷 **[sandbase-skills](https://github.com/sandbaseai/sandbase-skills)** ▶ Runs 🤖 R:🟡 M:🟢 — 88 installable open-source Agent Skills for research, social intelligence, marketing, and business workflows—compatible with Codex, Claude Code, Cursor, Gemini CLI, and DeepSeek Harness. by sandbaseai *(210 ⭐)*
 - 🔗 🔷 **[chiasmus](https://github.com/yogthos/chiasmus)** 🧠 R:🟡 M:🟢 — Chiasmus is an MCP server that gives language models access to formal verification by yogthos *(218 ⭐)*
 - 📚 🔷 **[aeon](https://github.com/aeonfun/aeon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever. by aeonfun *(791 ⭐)*
 - ⌨️ 🔷 **[lazyskills](https://github.com/alvinunreal/lazyskills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — mission control for agent skills by alvinunreal *(339 ⭐)*
