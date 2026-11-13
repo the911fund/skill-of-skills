@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-13 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-13 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 📦 ⭐ **[elephant-goldfish-model](https://github.com/google/elephant-goldfish-model)** 🤖🧠 R:🟡 M:🟢 — Open-source plugin for designing and reviewing software with agents by google *(18.5k ⭐)* — discovered Nov 13
 - ⌨️ 🔷 **[claude-swap](https://github.com/realiti4/claude-swap)** 🧠 R:🟡 M:🟢 — Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions by realiti4 *(4.7k ⭐)* — discovered Nov 13
 - 📦 🔷 **[avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** 🤖 R:🟡 M:🟢 — Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md by avenoxai *(440 ⭐)* — discovered Nov 13
 - ⌨️ ⭐ **[opencodex](https://github.com/lidge-jun/opencodex)** 🤖🧠 R:🟡 M:🟢 — Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code by lidge-jun *(18.5k ⭐)* — discovered Nov 13
 - 📚 🔷 **[a2ui](https://github.com/a2ui-project/a2ui)** 🤖🧠 R:🟡 M:🟢 — Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. by a2ui-project *(17.3k ⭐)* — discovered Nov 13
-- 📦 ⭐ **[claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** 🤖 R:🟡 M:🟢 — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. by tradermonty *(3.9k ⭐)* — discovered Nov 13
 
 ---
 
@@ -1019,6 +1019,7 @@
 - 📦 ⭐ **[coldoutboundskills](https://github.com/growthenginenowoslawski/coldoutboundskills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Open-source Claude Code skills for cold email and outbound sales. Grade campaigns, export Prospeo searches, scrape Google Maps — all from Claude Code. by growthenginenowoslawski *(816 ⭐)*
 - 🔌 ⭐ **[ClaudeNightsWatch](https://github.com/aniketkarne/ClaudeNightsWatch)** ▶ Runs 🤖 R:⚫ M:🟢 — Autonomous task execution system for Claude CLI that monitors your usage windows and executes predefined tasks automatically by aniketkarne *(369 ⭐)*
 - 📚 🔷 **[homerail](https://github.com/xiaotianfotos/homerail)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Voice-first local agent orchestration runtime for auditable DAG workflows. by xiaotianfotos *(1k ⭐)*
+- 📦 ⭐ **[claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** 🤖 R:🟡 M:🟢 — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. by tradermonty *(3.9k ⭐)*
 - 📦 🔷 **[romainsimon/paperasse](https://github.com/romainsimon/paperasse)** ✓ Loads clean 🤖 R:🟢 M:🟢 — 🇫🇷  Skills pour agents IA spécialisés dans la bureaucratie française : Comptable, Notaire, ... by romainsimon *(2.6k ⭐)*
 - 📦 🔶 **[instagram-agent-skill](https://github.com/Jakeschincariol/instagram-agent-skill)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Thirteen Claude skills that run an Instagram account: Reels off 26 scored hook formulas, a viral research skill, a caption linter, and a humanizer. Free, MIT. by Jakeschincariol *(6.2k ⭐)*
 - 📄 🔷 **[council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council by 0xNyk *(4.8k ⭐)*
