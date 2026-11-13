@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-13 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-13 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -63,9 +63,9 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(302.1k ⭐)*
 - 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(323.1k ⭐)*
 - 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(279.9k ⭐)*
+- 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(302.1k ⭐)*
 - 🔥 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(455.6k ⭐)*
 - 🔥 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(189.8k ⭐)*
 - 🔥 📦 ⭐ **[superpowers](https://github.com/obra/superpowers)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(316.8k ⭐)*
@@ -1306,7 +1306,7 @@
 - 📄 🔷 **[md2html](https://github.com/haidang1810/md2html)** ✓ Loads clean 🤖 R:🟢 M:✅ — Your AI writes docs — md2html turns them into pages people actually read. A portable skill for Claude Code / Codex / Antigravity that converts long-form Markdown (plans, specs, system designs, RFCs, runbooks, postmortems, brainstorms) into self-contained HTML with Mermaid, timelines, callouts, TOC. Multi-language. by haidang1810 *(421 ⭐)*
 - ⌨️ 🔷 **[tanbiralam/claude-code](https://github.com/tanbiralam/claude-code)** 🤖 R:⚫ M:🟠 — Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands. All original source code is the property of Anthropic. by tanbiralam *(2.4k ⭐)*
 - ⌨️ 🔷 **[deer-workflow](https://github.com/deerwork-ai/deer-workflow)** ▶ Runs 🤖🧠 R:🟡 M:✅ — An open-source graph engineering runtime that keeps orchestration in TypeScript and delegates semantic work to replaceable Agent runtimes. by deerwork-ai *(557 ⭐)*
-- 📚 🔷 **[react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — 🤖 AI-Ready React Native + TypeScript Boilerplate OpenAI · Anthropic · Gemini built in. New Architecture, streaming chat, typed themes, path aliases & more — production-ready from day one. by kuraydev *(449 ⭐)*
+- 📚 🔷 **[react-native-typescript-boilerplate](https://github.com/kuraydev/react-native-typescript-boilerplate)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:✅ — 🤖 AI-Ready React Native + TypeScript Boilerplate OpenAI · Anthropic · Gemini built in. New Architecture, streaming chat, typed themes, path aliases & more — production-ready from day one. by kuraydev *(449 ⭐)*
 - 📚 🔷 **[amphi-etl](https://github.com/amphi-ai/amphi-etl)** ✓ Loads clean 🤖 R:🟡 M:🟢 — visual data prep powered by python by amphi-ai *(1.4k ⭐)*
 - 📄 🔶 **[zarazhangrui/codebase-to-course](https://github.com/zarazhangrui/codebase-to-course)** 🤖 R:🟢 M:🟠 — A Claude Code skill that turns any codebase into a beautiful, interactive single-page HTML course for non-technical vibe coders. by zarazhangrui *(5.8k ⭐)*
 - 🔗 🔷 **[spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp)** 🤖 R:🟢 M:🟠 — A Model Context Protocol (MCP) server that provides structured spec-driven development workflow tools for AI-assisted software development, featuring a real-time web dashboard and VSCode extension for monitoring and managing your project's progress directly in your development environment. by Pimzino *(4.3k ⭐)*
