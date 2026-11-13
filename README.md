@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,700,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-13 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-13 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- ⌨️ ⭐ **[SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. by NVIDIA *(904 ⭐)* — discovered Nov 12
-- 📦 🔷 **[claude-skills](https://github.com/oaustegard/claude-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — My collection of Claude skills by oaustegard *(375 ⭐)* — discovered Nov 12
-- 📚 🔷 **[dsh-image-gen](https://github.com/shanliuling/dsh-image-gen)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 可在对话内生成、编辑、对比图像；内置 500 + 提示词、图库、多模型工作流，支持 ComfyUI。AI image studio for DeepSeek Harness — generate, edit & compare images in chat, with 500+ prompts, gallery, multi-model workflows and ComfyUI. by shanliuling *(1.4k ⭐)* — discovered Nov 12
-- 📚 ⭐ **[ledgerforge](https://github.com/devaccuracy/ledgerforge)** 🔧 R:🟡 M:🟢 — The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0. by devaccuracy *(223 ⭐)* — discovered Nov 11
-- 🔄 ⭐ **[LoopForge](https://github.com/Tencent/LoopForge)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. by Tencent *(591 ⭐)* — discovered Nov 11
+- ⌨️ 🔷 **[claude-swap](https://github.com/realiti4/claude-swap)** 🧠 R:🟡 M:🟢 — Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions by realiti4 *(4.7k ⭐)* — discovered Nov 13
+- 📦 🔷 **[avenoxbeyin](https://github.com/avenoxai/avenoxbeyin)** 🤖 R:🟡 M:🟢 — Your AI second brain in one command — open-source Obsidian + Claude Code system with persistent cross-session memory. avenox.lol/beyin.md by avenoxai *(440 ⭐)* — discovered Nov 13
+- ⌨️ ⭐ **[opencodex](https://github.com/lidge-jun/opencodex)** 🤖🧠 R:🟡 M:🟢 — Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code by lidge-jun *(18.5k ⭐)* — discovered Nov 13
+- 📚 🔷 **[a2ui](https://github.com/a2ui-project/a2ui)** 🤖🧠 R:🟡 M:🟢 — Open-source generative UI framework: agents stream layout data, and apps render it with native components in React, Angular, Lit, Flutter, SwiftUI and Jetpack Compose. by a2ui-project *(17.3k ⭐)* — discovered Nov 13
+- 📦 ⭐ **[claude-trading-skills](https://github.com/tradermonty/claude-trading-skills)** 🤖 R:🟡 M:🟢 — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development. by tradermonty *(3.9k ⭐)* — discovered Nov 13
 
 ---
 
@@ -365,6 +365,7 @@
 - 📦 ⭐ **[awesome-ChatGPT-repositories](https://github.com/taishi-i/awesome-ChatGPT-repositories)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A curated list of open source GitHub repositories related to ChatGPT, the OpenAI API, and Codex. Searchable via Claude Code  and Codex skills. by taishi-i *(3.4k ⭐)*
 - 🔗 🔷 **[XcodeBuildMCP](https://github.com/getsentry/MobileBuildMCP)** 🤖🖱️🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and CLI that provides tools for agent use when working on iOS and macOS projects. by getsentry *(6.6k ⭐)*
 - 🔗 🔷 **[Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP)** 🤖 R:🟢 M:🟢 — MCP server to provide Figma layout information to AI coding agents like Cursor by GLips *(16.2k ⭐)*
+- 📚 ⭐ **[ledgerforge](https://github.com/devaccuracy/ledgerforge)** 🔧 R:🟡 M:🟢 — The ledger for AI-native money movement. An open-source double-entry ledger for wallets, payouts, marketplaces and billing, with exact integer money, a verifiable audit chain, server-enforced spending limits and approvals for AI agents, and an MCP server. Apache 2.0. by devaccuracy *(223 ⭐)*
 - 📦 🔷 **[claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)** 🤖🧠 R:🟢 M:🟢 — ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co by Klotzkette *(1.8k ⭐)*
 - 📦 🔷 **[k-skill](https://github.com/NomaDamas/k-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 by NomaDamas *(8.4k ⭐)*
 - ⌨️ 🔷 **[rynfar/meridian](https://github.com/rynfar/meridian)** ▶ Runs 🤖 R:🟡 M:🟢 — Use your Claude Max subscription with OpenCode, Pi, Droid, Aider, Crush, Cline. Proxy that bridges Anthropic's official SDK to enable Claude Max in third-party tools. by rynfar *(2.2k ⭐)*
@@ -793,6 +794,7 @@
 - 📄 ⭐ **[backnotprop/plannotator](https://github.com/backnotprop/plannotator)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Annotate and review coding agent plans and code diffs visually, share with your team, send feedback to agents with one click. by backnotprop *(10.2k ⭐)*
 - 🔌 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(29.2k ⭐)*
 - 🔗 🔷 **[chrome-devtools-mcp](https://github.com/ChromeDevTools/chrome-devtools-mcp)** 🤖🔧 R:🟡 M:🟢 — Chrome DevTools for coding agents by ChromeDevTools *(55.2k ⭐)*
+- ⌨️ ⭐ **[SkillEvaluator](https://github.com/NVIDIA/SkillEvaluator)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior. by NVIDIA *(904 ⭐)*
 - ⌨️ ⭐ **[agent-device](https://github.com/callstack/agent-device)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — CLI to control iOS and Android devices for AI agents by callstack *(5.4k ⭐)*
 - ⌨️ 🔷 **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. by promptfoo *(27.1k ⭐)*
 - 📚 🔷 **[vscode](https://github.com/microsoft/vscode)** 🤖🧠 R:🟡 M:🟢 — Visual Studio Code by microsoft *(195.3k ⭐)*
@@ -1634,6 +1636,7 @@
 - 📚 ⭐ **[jarvis](https://github.com/isair/jarvis)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Private local AI assistant for your desktop. Voice and text chat, personal memory, dictation and MCP tools. Runs offline with Ollama or OpenAI-compatible servers on macOS, Windows and Linux. by isair *(2.2k ⭐)*
 - 📚 ⭐ **[crm](https://github.com/trycompai/crm)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Comp AI CRM is an open source, CRM designed for AI agents. Agentic-first CRM. by trycompai *(12k ⭐)*
 - ⌨️ ⭐ **[xerj](https://github.com/xerj-org/xerj)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep and sed. One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. Elasticsearch compatible, so existing clients just work. by xerj-org *(19k ⭐)*
+- 🔄 ⭐ **[LoopForge](https://github.com/Tencent/LoopForge)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Self-hosted workflows for coding-agent delivery. Orchestrate CodeBuddy, Codex and Claude Code with scripts and human approval gates. Includes Local workflows for coding assistants. by Tencent *(591 ⭐)*
 - 🔌 ⭐ **[treg](https://github.com/superdesigndev/treg)** 🤖🧠 R:🟡 M:🟢 — OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn by superdesigndev *(7.9k ⭐)*
 - 📚 🔷 **[cindy](https://github.com/makecindy/cindy)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。 by makecindy *(10k ⭐)*
 - 📚 ⭐ **[OpenSandbox](https://github.com/opensandbox-group/OpenSandbox)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Secure, Fast, and Extensible Sandbox runtime for AI agents. by opensandbox-group *(17.3k ⭐)*
@@ -1689,6 +1692,7 @@
 - 📚 🔷 **[OpenBMB/ChatDev](https://github.com/OpenBMB/ChatDev)** 🤖 R:🔴 M:🟢 — ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration by OpenBMB *(34.7k ⭐)*
 - 📚 ⭐ **[desktop-cc-gui](https://github.com/zhukunpenglinyutong/desktop-cc-gui)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Multi-engine AI coding desktop client (Tauri). Claude Code, Codex, Gemini, OpenCode, DeepSeek Harness and more in one GUI. by zhukunpenglinyutong *(4.6k ⭐)*
 - ⌨️ 🔷 **[AutoSwarm](https://github.com/HKUDS/AutoSwarm)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — AutoSwarm: All Your Agents, Working as One (Codex · Claude Code · DeepSeek Harness · Muse · Grok · WorkBuddy· nanobot · and more) by HKUDS *(2.5k ⭐)*
+- 📦 🔷 **[claude-skills](https://github.com/oaustegard/claude-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — My collection of Claude skills by oaustegard *(375 ⭐)*
 - ⌨️ 🔷 **[deja-vu](https://github.com/vshulcz/deja-vu)** ▶ Runs 🤖 R:⚫ M:🟢 — One memory shared by Claude Code, Codex, Cursor, Copilot CLI, OpenClaw and 28 more coding agents, built from the session history already on disk. A fix found in one agent comes back in any of them, including months of sessions from before you installed it. No LLM, no embeddings, one local Go binary. by vshulcz *(1.5k ⭐)*
 - 📚 ⭐ **[otari](https://github.com/mozilla-ai/otari)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. by mozilla-ai *(926 ⭐)*
 - 📚 🔷 **[starnet](https://github.com/androoAGI/starnet)** 🔧 R:🔴 M:🟢 — A living pixel-art station where real AI agents do real work. Local-first desktop agent harness - bring your own key, watch your crew actually run. by androoAGI *(1.8k ⭐)*
