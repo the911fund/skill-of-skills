@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-15 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-15 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1183,7 +1183,7 @@
 - 📄 ⭐ **[ai-devkit](https://github.com/codeaholicguy/ai-devkit)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Make AI coding agents follow a repeatable engineering workflow with planning, memory, verification, skills, and review. One config. All agents. Same workflow. by codeaholicguy *(1.7k ⭐)*
 - 📚 🔷 **[nocobase](https://github.com/nocobase/nocobase)** 🤖🧠 R:🟡 M:🟢 — NocoBase is an open-source AI + no-code platform for building business systems fast. Instead of generating everything from scratch, AI works on top of production-proven infrastructure and a WYSIWYG no-code interface, so you get both speed and reliability. by nocobase *(24.9k ⭐)*
 - 📦 🔷 **[claude-code-plugins-plus-skills](https://github.com/jeremylongshore/tons-of-skills-marketplace)** 🤖 R:🔴 M:🟢 — 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0 by jeremylongshore *(2.9k ⭐)*
-- 📦 🔷 **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. by google-labs-code *(8.9k ⭐)*
+- 📦 🔷 **[google-labs-code/stitch-skills](https://github.com/google-labs-code/stitch-skills)** ✓ Loads clean 🤖 R:🟢 M:✅ — A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor. by google-labs-code *(8.9k ⭐)*
 - 📚 🔷 **[md](https://github.com/doocs/md)** 🤖🖱️🧠 R:🟡 M:🟢 — ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性 by doocs *(13.5k ⭐)*
 - 📝 🔷 **[jnMetaCode/agency-agents-zh](https://github.com/jnMetaCode/agency-agents-zh)** ✓ Loads clean 🔧 R:🟢 M:🟢 — 🎭 211 个即插即用的 AI 专家角色 — 支持 Hermes Agent/Claude Code/Cursor/Copilot 等 16 种工具，覆盖工程/设计/营销/金融等 18 个部门。含 46 个中国市场原创智能体（小红书/抖音/微信/飞书/钉钉等） by jnMetaCode *(22.1k ⭐)*
 - 📚 🔷 **[google/adk-samples](https://github.com/google/adk-recipes)** ▶ Runs 🤖 R:🟢 M:🟢 — A collection of sample agents built with Agent Development Kit (ADK)  by google *(10.6k ⭐)*
