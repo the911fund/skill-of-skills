@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 21,800,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-15 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-15 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -151,14 +151,14 @@
 - 📚 🔷 **[langchain-ai/langchain](https://github.com/langchain-ai/langchain)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — The agent engineering platform. by langchain-ai *(149.5k ⭐)*
 - 📚 🔷 **[AstrBotDevs/AstrBot](https://github.com/AstrBotDevs/AstrBot)** ▶ Runs 🧠 R:🔴 M:🟢 — AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨ by AstrBotDevs *(46.9k ⭐)*
 - 🔌 🔷 **[openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc)** ✓ Loads clean 🤖 R:🔴 M:✅ — Use Codex from Claude Code to review code or delegate tasks. by openai *(35.1k ⭐)*
-- 📚 ⭐ **[BerriAI/litellm](https://github.com/BerriAI/litellm)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(63.3k ⭐)*
+- 📚 ⭐ **[BerriAI/litellm](https://github.com/BerriAI/litellm)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Python SDK, Proxy Server (AI Gateway) to call 100+ LLM APIs in OpenAI (or native) format, with cost tracking, guardrails, loadbalancing and logging. [Bedrock, Azure, OpenAI, VertexAI, Cohere, Anthropic, Sagemaker, HuggingFace, VLLM, NVIDIA NIM] by BerriAI *(63.3k ⭐)*
 - 🔗 ⭐ **[homeassistant-ai/ha-mcp](https://github.com/homeassistant-ai/ha-mcp)** 🤖🧠 R:🔴 M:🟢 — The Unofficial and Awesome Home Assistant MCP Server by homeassistant-ai *(7.8k ⭐)*
 - 📚 🔷 **[ag-ui](https://github.com/ag-ui-protocol/ag-ui)** 🤖🖱️🧠 R:🟡 M:🟢 — AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications. by ag-ui-protocol *(17.4k ⭐)*
 - 📚 🔷 **[CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen model through API by router-for-me *(58.6k ⭐)*
 - 📚 ⭐ **[learn-claude-code](https://github.com/shareAI-lab/learn-claude-code)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Bash is all You need - Write a nano Claude Code 0 - 1 by shareAI-lab *(80.4k ⭐)*
 - 📚 🔷 **[langflow](https://github.com/langflow-ai/langflow)** 🤖🖱️🧠 R:🟡 M:🟢 — Langflow is a powerful tool for building and deploying AI-powered agents and workflows. by langflow-ai *(156.6k ⭐)*
 - 📄 ⭐ **[rohitg00/agentmemory](https://github.com/rohitg00/agentmemory)** 🤖🧠 R:🟢 M:🟢 — #1 Persistent memory for AI coding agents based on real-world benchmarks by rohitg00 *(30.4k ⭐)*
-- 📚 🔷 **[trycua/cua](https://github.com/trycua/cua)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). by trycua *(32.4k ⭐)*
+- 📚 🔷 **[trycua/cua](https://github.com/trycua/cua)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows). by trycua *(32.4k ⭐)*
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(45k ⭐)*
 - 📚 🔷 **[browser-use](https://github.com/browser-use/browser-use)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — 🌐 Make websites accessible for AI agents. Automate tasks online with ease. by browser-use *(121k ⭐)*
 - ⌨️ ⭐ **[vercel-labs/portless](https://github.com/vercel-labs/portless)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Replace port numbers with stable, named local URLs. For humans and agents. by vercel-labs *(12.9k ⭐)*
@@ -180,7 +180,7 @@
 - 🔗 ⭐ **[serena](https://github.com/oraios/serena)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A powerful MCP toolkit for coding, providing semantic retrieval and editing capabilities  - the IDE for your agent by oraios *(31.4k ⭐)*
 - ⌨️ ⭐ **[llmfit](https://github.com/AlexsJones/llmfit)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Hundreds of models & providers. One command to find what runs on your hardware. by AlexsJones *(39k ⭐)*
 - 🔗 🔷 **[upstash/context7](https://github.com/upstash/context7)** ▶ Runs 🤖🖱️ R:🟢 M:🟢 — Context7 Platform -- Up-to-date code documentation for LLMs and AI code editors by upstash *(64.8k ⭐)*
-- 📚 ⭐ **[topoteretes/cognee](https://github.com/topoteretes/cognee)** 🤖🧠 R:🟡 M:🟢 — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. by topoteretes *(33.3k ⭐)*
+- 📚 ⭐ **[topoteretes/cognee](https://github.com/topoteretes/cognee)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. by topoteretes *(33.3k ⭐)*
 - 📚 🔷 **[volcengine/OpenViking](https://github.com/volcengine/OpenViking)** 🤖 R:🟡 M:🟢 — OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving. by volcengine *(42.2k ⭐)*
 - 📚 🔷 **[PrefectHQ/fastmcp](https://github.com/PrefectHQ/fastmcp)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — 🚀 The fast, Pythonic way to build MCP servers and clients. by PrefectHQ *(28.5k ⭐)*
 - ⌨️ 🔷 **[tunnel-client](https://github.com/openai/tunnel-client)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Customer-run client for Secure MCP Tunnel: connect private or localhost MCP servers to ChatGPT, Codex, the Responses API, and AgentKit without exposing them to the public internet. by openai *(638 ⭐)*
@@ -798,7 +798,7 @@
 - 🔌 ⭐ **[claude-hud](https://github.com/jarrodwatts/claude-hud)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress by jarrodwatts *(29.2k ⭐)*
 - 🔗 ⭐ **[artemis](https://github.com/google/artemis)** ▶ Runs 🔧 R:🟡 M:🟢 — ARTEMIS turns natural-language instructions into reliable Android automation. It automates end-to-end workflows, captures logs, and integrates seamlessly with AI coding assistants such as Antigravity, Codex, and Claude Code.  It also achieves 99%+ success rate on AndroidWorld Benchmark. by google *(17.4k ⭐)*
 - ⌨️ ⭐ **[agent-device](https://github.com/callstack/agent-device)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — CLI to control iOS and Android devices for AI agents by callstack *(5.4k ⭐)*
-- 📚 🔷 **[vscode](https://github.com/microsoft/vscode)** 🤖🧠 R:🟡 M:🟢 — Visual Studio Code by microsoft *(195.4k ⭐)*
+- 📚 🔷 **[vscode](https://github.com/microsoft/vscode)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Visual Studio Code by microsoft *(195.4k ⭐)*
 - ⌨️ 🔷 **[promptfoo/promptfoo](https://github.com/promptfoo/promptfoo)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Test your prompts, agents, and RAGs. Red teaming/pentesting/vulnerability scanning for AI. Compare performance of GPT, Claude, Gemini, DeepSeek, and more. Simple declarative configs with command line and CI/CD integration.  Used by OpenAI and Anthropic. by promptfoo *(27.2k ⭐)*
 - ⌨️ 🔷 **[BrowserSkill](https://github.com/Tencent/BrowserSkill)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Let AI agents use your real, logged-in browser without interrupting your work. CLI + extension for browser automation across any shell-capable AI agent. by Tencent *(10.4k ⭐)*
 - ⌨️ 🔷 **[harbor](https://github.com/harbor-framework/harbor)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Framework for evaluating and improving agents by harbor-framework *(7.1k ⭐)*
