@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-16 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-16 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 🔗 ⭐ **[codex-acp](https://github.com/agentclientprotocol/codex-acp)** 🤖🧠 R:🟡 M:🟢 — ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. by agentclientprotocol *(578 ⭐)* — discovered Nov 16
+- 📚 ⭐ **[pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows)** 🤖🧠 R:🟡 M:🟢 — Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standing opt-in, and deep research. by QuintinShaw *(597 ⭐)* — discovered Nov 16
+- 🔗 🔷 **[dsh-baton](https://github.com/JialaoLiu/dsh-baton)** 🔧 R:🟡 M:🟢 — Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back. by JialaoLiu *(234 ⭐)* — discovered Nov 16
 - ⌨️ 🔷 **[aicommits](https://github.com/Nutlope/aicommits)** ▶ Runs 🧠 R:🟡 M:🟢 — A CLI that writes your git commit messages for you with AI by Nutlope *(9.1k ⭐)* — discovered Nov 16
 - 🔗 🔷 **[mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)** 🤖🧠 R:🟡 M:🟢 — MCP server for interacting with Neon Management API and databases by neondatabase *(665 ⭐)* — discovered Nov 16
-- 🔗 🔷 **[brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)** 🔧 R:🟡 M:🟢 — An MCP server that provides web search, local business search, image search, video search, news search, and AI summarization through the Brave Search API, supporting STDIO and HTTP transports. by brave *(1.6k ⭐)* — discovered Nov 16
-- 📦 🔷 **[Chisle](https://github.com/JayPokale/Chisle)** ▶ Runs 🤖🖱️🧠📟 R:🟡 M:🟢 — Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it loses. by JayPokale *(1.1k ⭐)* — discovered Nov 16
-- 📚 🔷 **[claude-code-base-action](https://github.com/anthropics/claude-code-base-action)** ✓ Loads clean 🤖 R:🟡 M:🟢 — This repo is a mirror of the contents of base-action in https://github.com/anthropics/claude-code-action. by anthropics *(1.1k ⭐)* — discovered Nov 16
 
 ---
 
@@ -377,6 +377,7 @@
 - 🔗 🔷 **[freecad-mcp](https://github.com/neka-nat/freecad-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — FreeCAD MCP(Model Context Protocol) server by neka-nat *(3.4k ⭐)*
 - 📦 🔷 **[k-skill](https://github.com/NomaDamas/k-skill)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — 한국인을 위한 스킬 모음집 - 에이전트를 한국인으로 by NomaDamas *(8.4k ⭐)*
 - 🔌 ⭐ **[claude-video-vision](https://github.com/jordanrendric/claude-video-vision)** 🤖 R:🟡 M:🟢 — Give Claude the ability to watch and understand videos — Claude Code plugin with frame extraction and multimodal audio analysis by jordanrendric *(1.5k ⭐)*
+- 📦 🔷 **[Chisle](https://github.com/JayPokale/Chisle)** ▶ Runs 🤖🖱️🧠📟 R:🟡 M:🟢 — Cut your AI coding agent's token bill on three axes: terse prose, YAGNI-first code, and tool-output compression. Claude Code, Pi, Cursor, Codex, Gemini + 4 more. Zero deps, published benchmarks including the runs it loses. by JayPokale *(1.1k ⭐)*
 - 📚 ⭐ **[matt1398/claude-devtools](https://github.com/matt1398/claude-devtools)** ✓ Loads clean 🤖 R:🟡 M:🟢 — The missing DevTools for Claude Code — inspect session logs, tool calls, token usage, subagents, and context window in a visual UI. Free, open source. by matt1398 *(4k ⭐)*
 - 📦 🔷 **[claude-fuer-deutsches-recht](https://github.com/Klotzkette/claude-fuer-deutsches-recht)** 🤖🧠 R:🟢 M:🟢 — ⚠️ Experimentelle Skill-Sammlung für deutsches Recht (Arbeits-, Gesellschafts-, Insolvenz-, Datenschutz-, Prozessrecht u.a.) – inzwischen verbessert und im Alltag getestet, aber weiterhin Experiment. Bitte selber ausprobieren, Issues/PRs willkommen! Keine Rechtsberatung. Mandatsgeheimnis (§§ 203/204 StGB, § 43e BRAO), DSGVO, US-Transfer, KI-VO & Co by Klotzkette *(1.8k ⭐)*
 - 📚 🔷 **[looplj/axonhub](https://github.com/looplj/axonhub)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — ⚡️ Open-source AI Gateway — Use any SDK to call 100+ LLMs. Built-in failover, load balancing, cost control & end-to-end tracing. by looplj *(5.5k ⭐)*
@@ -596,6 +597,7 @@
 - ⌨️ 🔷 **[bashunit](https://github.com/TypedDevs/bashunit)** ▶ Runs 🤖 R:🟡 M:🟢 — A simple yet powerfull testing library for bash scripts. by TypedDevs *(441 ⭐)*
 - 📚 🔶 **[aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)** ✓ Loads clean 🤖 R:🟡 M:🟢 — GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.  by aldinokemal *(5.1k ⭐)*
 - 📦 🔷 **[apple-skills](https://github.com/Prisma-Labs-Dev/apple-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more by Prisma-Labs-Dev *(361 ⭐)*
+- 🔗 🔷 **[brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)** 🔧 R:🟡 M:🟢 — An MCP server that provides web search, local business search, image search, video search, news search, and AI summarization through the Brave Search API, supporting STDIO and HTTP transports. by brave *(1.6k ⭐)*
 - 📄 🔷 **[eze-is/web-access](https://github.com/eze-is/web-access)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 给 Claude Code 装上完整联网能力的 skill：三层通道调度 + 浏览器 CDP + 并行分治 by eze-is *(9.4k ⭐)*
 - 📄 🔷 **[bazi-skill](https://github.com/jinchenma94/bazi-skill)** ✓ Loads clean 🤖 R:🟢 M:🟠 — 四柱八字命理分析 by jinchenma94 *(4k ⭐)*
 - 📚 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)** ✓ Loads clean 🖱️ R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(862 ⭐)*
@@ -1467,6 +1469,7 @@
 - 📚 ⭐ **[open-gitagent/gitagent](https://github.com/open-gitagent/gitagent)** ▶ Runs 🤖 R:🔴 M:🟢 — A universal git-native AI agent framework. Your agent lives inside a git repo — identity, rules, memory, tools, and skills are all version-controlled files. by open-gitagent *(754 ⭐)*
 - ⌨️ 🔷 **[kunchenguid/no-mistakes](https://github.com/kunchenguid/no-mistakes)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — git push no-mistakes by kunchenguid *(9.2k ⭐)*
 - 📚 ⭐ **[ColeMurray/background-agents](https://github.com/open-inspect/background-agents)** ✓ Loads clean 🤖🧠 R:⚫ M:🟢 — An open-source background agents coding system by open-inspect *(3.5k ⭐)*
+- 📚 🔷 **[claude-code-base-action](https://github.com/anthropics/claude-code-base-action)** ✓ Loads clean 🤖 R:🟡 M:🟢 — This repo is a mirror of the contents of base-action in https://github.com/anthropics/claude-code-action. by anthropics *(1.1k ⭐)*
 - ⌨️ ⭐ **[serverless](https://github.com/serverless/serverless)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services. by serverless *(46.9k ⭐)*
 - 🔄 ⭐ **[fengshao1227/ccg-workflow](https://github.com/fengshao1227/ccg-workflow)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — 多模型协作工作流引擎 — /ccg:go 一个命令，AI 自动分析意图、选择策略、编排 Codex + Gemini + Claude 协作执行 by fengshao1227 *(6k ⭐)*
 - ⌨️ 🔷 **[cli-agent-orchestrator](https://github.com/awslabs/cli-agent-orchestrator)** 🤖 R:⚫ M:🟢 — Multi-agent orchestration for AI coding CLIs — Claude Code, Kiro, Codex, and more, coordinated in isolated tmux sessions by awslabs *(1.6k ⭐)*
