@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-16 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-16 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 🔗 🔷 **[coral](https://github.com/withcoral/coral)** 🤖🧠 R:🟡 M:🟢 — Execution rails for agents. Equip your AI to work with sensitive enterprise systems. Give agents precise permissions and custom tools that work faster with fewer tokens. by withcoral *(5k ⭐)* — discovered Nov 16
+- 📚 ⭐ **[agenticos](https://github.com/vstorm-co/agenticos)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI. by vstorm-co *(354 ⭐)* — discovered Nov 16
+- 📚 ⭐ **[pentestcode](https://github.com/s0ld13rr/pentestcode)** 🤖🧠 R:🟡 M:🟢 — PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations. by s0ld13rr *(1.1k ⭐)* — discovered Nov 16
 - 🔗 ⭐ **[codex-acp](https://github.com/agentclientprotocol/codex-acp)** 🤖🧠 R:🟡 M:🟢 — ACP server implementation that exposes Codex CLI functionality for smoother client and IDE integration. by agentclientprotocol *(578 ⭐)* — discovered Nov 16
 - 📚 ⭐ **[pi-dynamic-workflows](https://github.com/QuintinShaw/pi-dynamic-workflows)** 🤖🧠 R:🟡 M:🟢 — Claude Code–style dynamic workflows for Pi: code-mode subagents with real model routing, journaled resume, git-worktree isolation, cost accounting, an interactive /workflows TUI, an /ultracode standing opt-in, and deep research. by QuintinShaw *(597 ⭐)* — discovered Nov 16
-- 🔗 🔷 **[dsh-baton](https://github.com/JialaoLiu/dsh-baton)** 🔧 R:🟡 M:🟢 — Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back. by JialaoLiu *(234 ⭐)* — discovered Nov 16
-- ⌨️ 🔷 **[aicommits](https://github.com/Nutlope/aicommits)** ▶ Runs 🧠 R:🟡 M:🟢 — A CLI that writes your git commit messages for you with AI by Nutlope *(9.1k ⭐)* — discovered Nov 16
-- 🔗 🔷 **[mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)** 🤖🧠 R:🟡 M:🟢 — MCP server for interacting with Neon Management API and databases by neondatabase *(665 ⭐)* — discovered Nov 16
 
 ---
 
@@ -595,6 +595,7 @@
 - ⌨️ 🔷 **[OpenKB](https://github.com/VectifyAI/OpenKB)** ▶ Runs 🤖 R:🟢 M:✅ — OpenKB: Open LLM Knowledge Base by VectifyAI *(5k ⭐)*
 - ⌨️ ⭐ **[termly-cli](https://github.com/termly-dev/termly-cli)** ▶ Runs 🤖 R:🔴 M:✅ — Mobile companion for Claude Code, Gemini CLI & OpenCode. Encrypted, remote by termly-dev *(320 ⭐)*
 - ⌨️ 🔷 **[bashunit](https://github.com/TypedDevs/bashunit)** ▶ Runs 🤖 R:🟡 M:🟢 — A simple yet powerfull testing library for bash scripts. by TypedDevs *(441 ⭐)*
+- 🔗 🔷 **[mcp-server-neon](https://github.com/neondatabase/mcp-server-neon)** 🤖🧠 R:🟡 M:🟢 — MCP server for interacting with Neon Management API and databases by neondatabase *(665 ⭐)*
 - 📚 🔶 **[aldinokemal/go-whatsapp-web-multidevice](https://github.com/aldinokemal/go-whatsapp-web-multidevice)** ✓ Loads clean 🤖 R:🟡 M:🟢 — GOWA - WhatsApp REST API with support for UI, Multi Account, Webhooks, and MCP, and Chatwoot. Built with Golang for efficient memory use.  by aldinokemal *(5.1k ⭐)*
 - 📦 🔷 **[apple-skills](https://github.com/Prisma-Labs-Dev/apple-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more by Prisma-Labs-Dev *(361 ⭐)*
 - 🔗 🔷 **[brave-search-mcp-server](https://github.com/brave/brave-search-mcp-server)** 🔧 R:🟡 M:🟢 — An MCP server that provides web search, local business search, image search, video search, news search, and AI summarization through the Brave Search API, supporting STDIO and HTTP transports. by brave *(1.6k ⭐)*
@@ -1019,6 +1020,7 @@
 - 📚 ⭐ **[centaur](https://github.com/paradigmxyz/centaur)** 🤖🧠 R:🔴 M:🟢 — Centaur is frontier, agentic infrastructure that you own. Centaur is like Claude Tag, but open source and on steroids. by paradigmxyz *(1.4k ⭐)*
 - 📚 🔷 **[Kun](https://github.com/KunAgent/Kun)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — Local-first AI agent workspace for coding, writing, design, research, and automation — one runtime for desktop GUI and TUI. by KunAgent *(6.4k ⭐)*
 - 📦 🔷 **[claude-skill-social-post](https://github.com/Hao0321/claude-skill-social-post)** ✓ Loads clean 🤖 R:🔴 M:🟢 — A Claude Code skill by Hao (駱君昊) that learns your Facebook voice and auto-posts to FB / IG / Threads / X with a 14-day content calendar. Mega-viral validated: 80K reach / 448 likes / 500 comments on first post. Includes Day 2 flop postmortem. by Hao0321 *(866 ⭐)*
+- ⌨️ 🔷 **[aicommits](https://github.com/Nutlope/aicommits)** ▶ Runs 🧠 R:🟡 M:🟢 — A CLI that writes your git commit messages for you with AI by Nutlope *(9.1k ⭐)*
 - 📚 🔷 **[tutti](https://github.com/tutti-os/tutti)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.9k ⭐)*
 - 📚 🔷 **[hello-halo](https://github.com/openkursar/hello-halo)** ✓ Loads clean 🤖 R:🔴 M:🟢 — 7×24 Desktop AI Agent for Everyone. Visual AI assistant with remote access, file management, and built-in AI browser. by openkursar *(1.9k ⭐)*
 - 📚 ⭐ **[kandev](https://github.com/kdlbs/kandev)** ✓ Loads clean 🤖🖱️🧠 R:🔴 M:🟢 — AI Kanban & Development Environment. Orchestrate multiple agents, review changes, open PRs. Multi-provider, self-hostable, no telemetry. by kdlbs *(1.1k ⭐)*
@@ -1783,6 +1785,7 @@
 - 📚 🔷 **[aeon](https://github.com/aeonfun/aeon)** ▶ Runs 🤖🧠 R:⚫ M:🟢 — The most autonomous AI agent framework: runs unattended on GitHub Actions, self-healing skills, drives Claude Code, Grok, Codex & more. No approval loops. Configure once, forget forever. by aeonfun *(794 ⭐)*
 - 📚 🔷 **[gg-framework](https://github.com/KenKaiii/gg-framework)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — The coding agent that gets more out of your AI subscription. Fastest and leanest of 20 agents tested, with unlimited local search of real open-source code. by KenKaiii *(303 ⭐)*
 - 🔗 🔷 **[gram](https://github.com/speakeasy-api/gram)** 🤖🖱️🧠 R:🟡 M:🟢 — The AI control plane for every agent in your enterprise, built around an enterprise-grade MCP gateway. Give each team one governed path to its MCP servers, provisioned by role from the IdP you already run, with security policy enforced on every action. by speakeasy-api *(278 ⭐)*
+- 🔗 🔷 **[dsh-baton](https://github.com/JialaoLiu/dsh-baton)** 🔧 R:🟡 M:🟢 — Pass the baton from Claude Code or Codex to a local DeepSeek Harness. An MCP server that hands off tasks and brings the result back. by JialaoLiu *(234 ⭐)*
 - 🔗 🔷 **[pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server)** 🤖🧠 R:⚫ M:✅ — The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter / Azure / Grok / Ollama / Custom Model / All Of The Above] working as one. by BeehiveInnovations *(11.8k ⭐)*
 - 📚 🔷 **[siclaw](https://github.com/scitix/siclaw)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI-powered SRE platform — read-only infrastructure diagnostics with deep investigation, security governance, and team collaboration by scitix *(239 ⭐)*
 - 📚 🔷 **[go_binance_futures](https://github.com/sorry510/go_binance_futures)** 🤖🧠 R:⚫ M:🟢 — AI agent + 币安合约量化 + 模拟交易 + 历史回测 by sorry510 *(257 ⭐)*
