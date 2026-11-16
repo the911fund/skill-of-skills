@@ -9,7 +9,7 @@
 
 **1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-16 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-16 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -175,11 +175,11 @@
 - 📚 🔷 **[langgraph](https://github.com/langchain-ai/langgraph)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — Build resilient language agents as graphs. by langchain-ai *(45k ⭐)*
 - ⌨️ ⭐ **[llmfit](https://github.com/AlexsJones/llmfit)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Hundreds of models & providers. One command to find what runs on your hardware. by AlexsJones *(39k ⭐)*
 - 📚 🔷 **[autogen](https://github.com/microsoft/autogen)** ▶ Runs 🧠 R:🟡 M:🟢 — A programming framework for agentic AI by microsoft *(61.9k ⭐)*
-- 📚 ⭐ **[mudler/LocalAI](https://github.com/mudler/LocalAI)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(50.4k ⭐)*
+- 📚 ⭐ **[mudler/LocalAI](https://github.com/mudler/LocalAI)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required. by mudler *(50.4k ⭐)*
 - 📚 ⭐ **[TencentDB-Agent-Memory](https://github.com/TencentCloud/TencentDB-Agent-Memory)** ▶ Runs 🤖 R:🟡 M:🟢 — TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies. by TencentCloud *(30.9k ⭐)*
 - 📚 ⭐ **[topoteretes/cognee](https://github.com/topoteretes/cognee)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine. by topoteretes *(33.3k ⭐)*
 - 🔗 🔷 **[apify-mcp-server](https://github.com/apify/apify-mcp-server)** 🤖🧠 R:🟡 M:🟢 — The Apify MCP server enables your AI agents to extract data from social media, search engines, maps, e-commerce sites, or any other website using thousands of ready-made scrapers, crawlers, and automation tools available on the Apify Store. by apify *(16.4k ⭐)*
-- 🔌 🔷 **[text-to-cad](https://github.com/earthtojake/text-to-cad)** 🤖🧠 R:🟡 M:🟢 — A collection of agent skills for CAD, robotics and hardware design by earthtojake *(26.4k ⭐)*
+- 🔌 🔷 **[text-to-cad](https://github.com/earthtojake/text-to-cad)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A collection of agent skills for CAD, robotics and hardware design by earthtojake *(26.4k ⭐)*
 - 📦 🔶 **[modern-web-guidance](https://github.com/GoogleChrome/modern-web-guidance)** 🤖 R:🟡 M:🟢 — Keep your coding agent up to date with the latest web best practices by GoogleChrome *(18.1k ⭐)*
 - ⌨️ ⭐ **[Hmbown/DeepSeek-TUI](https://github.com/codewhale-hq/Codewhale)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — DeepSeek + MiMo coding agent in terminal by codewhale-hq *(41.2k ⭐)*
 - 📚 ⭐ **[lago](https://github.com/getlago/lago)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics by getlago *(10.9k ⭐)*
@@ -859,7 +859,7 @@
 ## 📊 Data Fetching & Analysis
 
 - 🔌 ⭐ **[gbrain](https://github.com/garrytan/gbrain)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Garry's Opinionated OpenClaw/Hermes Agent Brain by garrytan *(33.1k ⭐)*
-- 📄 🔷 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(67.8k ⭐)*
+- 📄 🔷 **[last30days-skill](https://github.com/mvanhorn/last30days-skill)** 🤖 R:🟡 M:🟢 — Claude Code skill that researches any topic across Reddit + X from the last 30 days, then writes copy-paste-ready prompts by mvanhorn *(67.8k ⭐)*
 - 📚 🔷 **[666ghj/MiroFish](https://github.com/666ghj/MiroFish)** ✓ Loads clean 🔧 R:🟡 M:🟢 — A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物 by 666ghj *(85.7k ⭐)*
 - ⌨️ ⭐ **[pup](https://github.com/DataDog/pup)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Give your AI agent a Pup — a CLI companion with 200+ commands across 33+ Datadog products. by DataDog *(1k ⭐)*
 - 📚 🔷 **[playwright](https://github.com/microsoft/playwright)** ▶ Runs 🤖 R:🟡 M:🟢 — Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API. by microsoft *(100.3k ⭐)*
