@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,600+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-17 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-17 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 📦 🔶 **[proficiently-claude-skills](https://github.com/proficientlyjobs/proficiently-claude-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Claude Code skills for AI-powered job search, resume tailoring, and cover letter writing by proficientlyjobs *(461 ⭐)* — discovered Nov 17
+- 📚 🔶 **[chatgpt2api](https://github.com/basketikun/chatgpt2api)** 🧠 R:🟡 M:🟢 — ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件 by basketikun *(6.9k ⭐)* — discovered Nov 17
+- 📚 🔷 **[dograh](https://github.com/dograh-hq/dograh)** 🤖🧠 R:🟡 M:🟢 — Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across  Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support. by dograh-hq *(6.2k ⭐)* — discovered Nov 17
+- 📚 🔶 **[m3e-canvas](https://github.com/lnkiai/m3e-canvas)** 🤖🧠 R:🟡 M:🟢 — Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts. by lnkiai *(10.5k ⭐)* — discovered Nov 17
 - 📦 🔶 **[gs-skills](https://github.com/cookjohn/gs-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Google Scholar skills for Claude Code — search, citation tracking, full-text access, and Zotero export via Chrome DevTools MCP by cookjohn *(548 ⭐)* — discovered Nov 17
-- 🔗 🔷 **[coral](https://github.com/withcoral/coral)** 🤖🧠 R:🟡 M:🟢 — Execution rails for agents. Equip your AI to work with sensitive enterprise systems. Give agents precise permissions and custom tools that work faster with fewer tokens. by withcoral *(5k ⭐)* — discovered Nov 16
-- 📚 ⭐ **[agenticos](https://github.com/vstorm-co/agenticos)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI. by vstorm-co *(372 ⭐)* — discovered Nov 16
-- 📚 ⭐ **[pentestcode](https://github.com/s0ld13rr/pentestcode)** 🤖🧠 R:🟡 M:🟢 — PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations. by s0ld13rr *(1.1k ⭐)* — discovered Nov 16
+- 📦 🔶 **[proficiently-claude-skills](https://github.com/proficientlyjobs/proficiently-claude-skills)** ✓ Loads clean 🤖 R:🟡 M:🟠 — Claude Code skills for AI-powered job search, resume tailoring, and cover letter writing by proficientlyjobs *(461 ⭐)* — discovered Nov 17
 
 ---
 
@@ -1674,6 +1674,7 @@
 - 📚 ⭐ **[AgentTeams](https://github.com/agentscope-ai/AgentTeams)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — An open-source Collaborative Multi-Agent OS for transparent, human-in-the-loop task coordination via Matrix rooms. by agentscope-ai *(6k ⭐)*
 - 📚 🔷 **[agno](https://github.com/agno-agi/agno)** 🤖🖱️🧠 R:🟡 M:🟢 — Build, run, and manage agent platforms. by agno-agi *(43.2k ⭐)*
 - 📚 🔷 **[crewAI](https://github.com/crewAIInc/crewAI)** 🧠 R:🟡 M:🟢 — Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks. by crewAIInc *(61k ⭐)*
+- 📚 ⭐ **[agenticos](https://github.com/vstorm-co/agenticos)** 🤖🧠 R:🟡 M:🟢 — Open-source, self-hosted AI agent platform for your company's AI teammates. Build, run and govern agents on your own servers and models: shared chat, RAG, skills, a real browser, 4,700+ MCP servers, budgets, approvals and an audit trail. An alternative to ChatGPT Enterprise and Grok Bot. Apache-2.0, built on Pydantic AI. by vstorm-co *(372 ⭐)*
 - 📚 ⭐ **[ai-native-callcenter](https://github.com/rasonyang/ai-native-callcenter)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Self-hosted, API-first AI call center. Realtime voice bots answer every call, human agents take over without a drop. Full REST + SSE API with OpenAPI spec to embed in your product. FreeSWITCH + OpenAI Realtime / Qwen, one Go binary. by rasonyang *(662 ⭐)*
 - 📚 🔷 **[munder-difflin](https://github.com/HarnessMD/munder-difflin)** ✓ Loads clean 🤖🧠 R:⚫ M:🟢 — local multi-agent harness by HarnessMD *(9.6k ⭐)*
 - 📚 ⭐ **[rivet](https://github.com/rivet-dev/rivet)** ✓ Loads clean 🤖 R:🟢 M:🟢 — The orchestrator for agentic workloads. A fast, high-density and scalable orchestrator for every workload an agent needs. by rivet-dev *(6.9k ⭐)*
@@ -1683,6 +1684,7 @@
 - ⌨️ 🔷 **[claude-swap](https://github.com/realiti4/claude-swap)** ▶ Runs 🧠 R:🟡 M:🟢 — Switch between multiple Claude Code accounts, with automatic rate-limit rotation, usage dashboard, and parallel sessions by realiti4 *(4.8k ⭐)*
 - ⌨️ 🔷 **[openrig](https://github.com/mvschwarz/openrig)** ▶ Runs 🤖 R:🔴 M:🟢 — Multi-agent harness that runs Claude Code and  Codex together as one system by mvschwarz *(8.9k ⭐)*
 - 🔌 🔷 **[ds-harness-remote](https://github.com/liguobao/ds-harness-remote)** ▶ Runs 🧠 R:🔴 M:🟢 — 一个基于 DeepSeek Harness 插件机制构建的多端远程访问方案，通过安全、低延迟、端到端加密的 P2P 优先网络，支持从 PC、Android 和 Web 随时访问并操作远程 Harness 和 CodeX。 (A multi-device remote access solution built on the DeepSeek Harness plugin system, enabling PC, Android, and Web clients to securely access and operate remote Harness and CodeX over a low-latency, end-to-end encrypted, P2P-first network.) by liguobao *(3.1k ⭐)*
+- 🔗 🔷 **[coral](https://github.com/withcoral/coral)** 🤖🧠 R:🟡 M:🟢 — Execution rails for agents. Equip your AI to work with sensitive enterprise systems. Give agents precise permissions and custom tools that work faster with fewer tokens. by withcoral *(5k ⭐)*
 - 📚 🔷 **[open-dots](https://github.com/Anil-matcha/suparagent)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Open-source, self-hosted AI agent workspace and alternative to OpenAI Dots, Meta Muse, Grok Bot, Instinct, Manus Cue, Claude Cowork, and ChatGPT agent. MIT-licensed; includes chat, connectors, approvals, and optional computer use. Early prototype. by Anil-matcha *(7.1k ⭐)*
 - 📚 ⭐ **[simstudioai/sim](https://github.com/simstudioai/sim)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — Build, deploy, and orchestrate AI agents. Sim is the central intelligence layer for your AI workforce. by simstudioai *(30.1k ⭐)*
 - 📚 🔷 **[activepieces](https://github.com/activepieces/activepieces)** ▶ Runs 🤖🖱️🧠 R:🔴 M:🟢 — AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • AI Automation / AI Agent with MCPs • AI Workflows & AI Agents • MCPs for AI Agents by activepieces *(25.6k ⭐)*
@@ -1708,6 +1710,7 @@
 - 📦 ⭐ **[pro-workflow](https://github.com/rohitg00/pro-workflow)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Claude Code learns from your corrections: self-correcting memory that compounds over 50+ sessions. Context engineering, parallel worktrees, agent teams, and 17 battle-tested skills. by rohitg00 *(3k ⭐)*
 - ⌨️ 🔷 **[tuios](https://github.com/Gaurav-Gosain/tuios)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent. by Gaurav-Gosain *(6.5k ⭐)*
 - 📚 ⭐ **[obsidian-mind](https://github.com/breferrari/obsidian-mind)** 🤖🧠 R:🔴 M:🟢 — A self-organizing Obsidian vault that gives AI coding agents persistent memory. by breferrari *(5.5k ⭐)*
+- 📚 ⭐ **[pentestcode](https://github.com/s0ld13rr/pentestcode)** 🤖🧠 R:🟡 M:🟢 — PentestCode - Multi-agent AI penetration testing system with persistent engagement state, strategic coordination, and parallel autonomous operations. by s0ld13rr *(1.1k ⭐)*
 - 🔗 🔷 **[nao](https://github.com/getnao/nao)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — 👾 nao is an open source analytics agent. (1) Create context with nao-core cli, (2) deploy nao chat interface for everyone by getnao *(2k ⭐)*
 - 📚 🔷 **[agentos](https://github.com/rivet-dev/agentos)** 🤖🧠 R:🔴 M:🟢 — A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in. by rivet-dev *(4.9k ⭐)*
 - ⌨️ ⭐ **[copperhead](https://github.com/copperheadhq/copperhead)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Hardware as fast as software. by copperheadhq *(699 ⭐)*
