@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,000,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-17 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-17 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1052,7 +1052,7 @@
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** ✓ Loads clean 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(57.3k ⭐)*
 - ⌨️ ⭐ **[open-ralph-wiggum](https://github.com/Th0rgal/open-ralph-wiggum)** 🤖 R:🔴 M:✅ — Type `ralph "prompt"` to start open code in a ralph loop. Also supports a prompt file & status check. Open Code, Claude Code, Codex, Copilot by Th0rgal *(1.9k ⭐)*
 - ⌨️ 🔷 **[MassGen](https://github.com/massgen/MassGen)** 🤖🧠 R:🔴 M:✅ — 🚀 MassGen is an open-source multi-agent scaling system that runs in your terminal, autonomously orchestrating frontier models and agents to collaborate, reason, and produce high-quality results. | Join us on Discord: discord.massgen.ai by massgen *(1.2k ⭐)*
-- 📦 🔶 **[learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A Claude Code skill for deliberate skill development during AI-assisted coding by DrCatHicks *(2.6k ⭐)*
+- 📦 🔶 **[learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)** ✓ Loads clean 🤖 R:🟡 M:🟠 — A Claude Code skill for deliberate skill development during AI-assisted coding by DrCatHicks *(2.6k ⭐)*
 - 📚 🔷 **[myrlin-workbook](https://github.com/therealarthur/myrlin-workbook)** 🤖 R:🟡 M:🟢 — Workspace manager for Claude Code sessions. Embedded terminals, project discovery, drag-and-drop organization. by therealarthur *(389 ⭐)*
 - 📚 🔷 **[AgentHub](https://github.com/jamesrochabrun/AgentHub)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — Manage all sessions in Claude Code and Codex. Easily create new worktrees, run multiple terminals in parallel, preview edits before accepting them, make inline changes directly from diffs, and more. by jamesrochabrun *(495 ⭐)*
 - 🔌 🔷 **[call-me](https://github.com/ZeframLou/call-me)** 🤖 R:🔴 M:✅ — Minimal plugin that lets Claude Code call you on the phone. by ZeframLou *(2.7k ⭐)*
