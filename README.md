@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-19 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-19 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -652,7 +652,7 @@
 - 📚 🔷 **[Diagnostics](https://github.com/AvdLee/Diagnostics)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Allow users to easily share Diagnostics with your support team to improve the flow of fixing bugs. by AvdLee *(1.3k ⭐)*
 - 🔗 🔷 **[mcp-server-12306](https://github.com/drfccv/mcp-server-12306)** ▶ Runs 🔧 R:🟢 M:🟢 — 12306 MCP Server​​ 是一个基于 ​​Model Context Protocol (MCP)​​ 的高性能火车票查询后端系统。它通过标准化接口提供官方 12306 的实时数据服务，包括余票查询、车站信息、列车经停站、中转换乘方案等核心功能。 by drfccv *(426 ⭐)*
 - ⌨️ 🔷 **[tombi-toml/tombi](https://github.com/tombi-toml/tombi)** 🤖🧠 R:🟡 M:🟢 — TOML Formatter / Linter / Language Server by tombi-toml *(1.2k ⭐)*
-- 🔗 🔷 **[supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)** ▶ Runs 🤖 R:🟡 M:🟢 — Query MCP enables end-to-end management of Supabase via chat interface: read & write query executions, management API support, automatic migration versioning, access to logs and much more. by alexander-zuev *(837 ⭐)*
+- 🔗 🔷 **[supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server)** ▶ Runs 🤖 R:🟡 M:✅ — Query MCP enables end-to-end management of Supabase via chat interface: read & write query executions, management API support, automatic migration versioning, access to logs and much more. by alexander-zuev *(837 ⭐)*
 - ⌨️ 🔶 **[mcp2cli](https://github.com/knowsuchagency/mcp2cli)** ▶ Runs 🤖 R:🟡 M:🟢 — Turn any MCP, OpenAPI, or GraphQL server into a CLI — at runtime, with zero codegen by knowsuchagency *(2.4k ⭐)*
 - 🔗 🔷 **[hass-mcp](https://github.com/voska/hass-mcp)** ▶ Runs 🔧 R:🟡 M:🟢 — Control and query Home Assistant from Claude and other LLMs — a Model Context Protocol (MCP) server. by voska *(353 ⭐)*
 - 📚 🔷 **[regipy](https://github.com/mkorman90/regipy)** ▶ Runs 🤖 R:🟢 M:🟢 — Regipy is an os independent python library for parsing offline registry hives by mkorman90 *(279 ⭐)*
