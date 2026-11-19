@@ -7,9 +7,9 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-19 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-19 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 🔗 ⭐ **[soundbox](https://github.com/HamSanders/soundbox)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Free, open-source, local alternative to ElevenLabs and Suno. AI sound effects, music with lyrics, text-to-speech and voice cloning on your own GPU (Stable Audio, ACE-Step and more). No account, no credits, offline. Windows/macOS app, HTTP API and a 21-tool MCP server for Claude Code and Cursor. by HamSanders *(227 ⭐)* — discovered Nov 19
+- 📚 ⭐ **[edgeever](https://github.com/tianma-if/edgeever)** 🧠 R:🟡 M:🟢 — AI-native note-taking app & Evernote/Obsidian alternative. Instant all-platform sync, rich notes (tables, mind maps, diagrams, posters), web clipper & MCP. 100% free on Cloudflare or Docker. by tianma-if *(3.4k ⭐)* — discovered Nov 19
+- 📚 ⭐ **[app-store-compliance](https://github.com/mjmirza/app-store-compliance)** 🤖🧠 R:🟡 M:🟢 — Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 117 documented rejection patterns and fixes, privacy manifest and Data safety checks, 95 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents. by mjmirza *(1.5k ⭐)* — discovered Nov 19
 - 🔗 ⭐ **[live-coding-music-mcp](https://github.com/williamzujkowski/live-coding-music-mcp)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server that gives Claude direct control over Strudel.cc for AI-assisted music generation and live coding. by williamzujkowski *(249 ⭐)* — discovered Nov 19
+- 🔗 ⭐ **[soundbox](https://github.com/HamSanders/soundbox)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Free, open-source, local alternative to ElevenLabs and Suno. AI sound effects, music with lyrics, text-to-speech and voice cloning on your own GPU (Stable Audio, ACE-Step and more). No account, no credits, offline. Windows/macOS app, HTTP API and a 21-tool MCP server for Claude Code and Cursor. by HamSanders *(227 ⭐)* — discovered Nov 19
 - 🔗 🔶 **[claude-skills-mcp](https://github.com/K-Dense-AI/claude-skills-mcp)** ▶ Runs 🔧 R:🟡 M:✅ — MCP server for searching and retrieving Scientific Agent Skills using vector search by K-Dense-AI *(412 ⭐)* — discovered Nov 18
-- 🔗 ⭐ **[guaardvark](https://github.com/guaardvark/guaardvark)** 🤖🧠 R:🟡 M:🟢 — Self-hosted AI studio on your own GPU: chat with your files (RAG), screen and browser agents, coding swarms, LoRA training, an MCP server for Claude Code and Cursor, and local video, image, music and voice generation. No telemetry. by guaardvark *(330 ⭐)* — discovered Nov 18
-- 📄 🔶 **[ai-media-generator](https://github.com/Hao0321/ai-media-generator)** ✓ Loads clean 🤖 R:🟡 M:✅ — Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms. by Hao0321 *(282 ⭐)* — discovered Nov 18
 
 ---
 
@@ -745,6 +745,7 @@
 - ⌨️ 🔷 **[thellimist/clihub](https://github.com/thellimist/clihub)** ✓ Loads clean 🔧 R:🟡 M:🟠 — Turn any MCP server into CLI by thellimist *(669 ⭐)*
 - 🔗 🔷 **[desktop](https://github.com/agentify-sh/desktop)** ▶ Runs 🔧 R:⚫ M:✅ — Agentify Desktop lets Codex/Claude/OpenCode  control your logged-in ChatGPT, Claude, AiStudio, Gemini, Grok, Perplexity web sessions via MCP, parallel hidden/visible tabs, file upload + image download by agentify-sh *(574 ⭐)*
 - 🔗 🔷 **[mcp-server-code-execution-mode](https://github.com/elusznik/mcp-server-code-execution-mode)** ▶ Runs 🤖 R:🔴 M:🟠 — An MCP server that executes Python code in isolated rootless containers with optional MCP server proxying. Implementation of Anthropic's and Cloudflare's ideas for reducing MCP tool definitions context bloat. by elusznik *(344 ⭐)*
+- 📄 🔶 **[ai-media-generator](https://github.com/Hao0321/ai-media-generator)** ✓ Loads clean 🤖 R:🟡 M:✅ — Zero-skill cinema. Senior-director prompts on autopilot. A Claude Code Skill for high-quality AI image / video / music prompt crafting and browser-based execution across 14+ generative platforms. by Hao0321 *(282 ⭐)*
 - 📚 🔷 **[agentipy](https://github.com/niceberginc/agentipy)** ✓ Loads clean 🔧 R:🟡 M:🔴 — The #Python framework for connecting AI agents to any onchain app on  @solana-labs  🤖🐍 by niceberginc *(247 ⭐)*
 - ⌨️ 🔷 **[JrCx7scC/claude-code-source](https://github.com/JrCx7scC/claude-code-source)** ▶ Runs 🤖 R:⚫ M:🟠 — Claude Code complete source restoration from npm package — all native modules, no features cut by JrCx7scC *(377 ⭐)*
 - 🔗 🔷 **[penpot-mcp](https://github.com/penpot/penpot-mcp)** 🔧 R:🟡 M:🟠 — Penpot's official MCP Server by penpot *(536 ⭐)*
@@ -1715,6 +1716,7 @@
 - 🔗 ⭐ **[toolkit](https://github.com/getsentry/toolkit)** 🤖🖱️🧠 R:🔴 M:🟢 — Agentic tooling for Sentry by getsentry *(970 ⭐)*
 - 📦 🔷 **[claudex-loop](https://github.com/chaseai-yt/claudex-loop)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Claude Code skill: four-phase plan hardening (recon, interrogate, Codex adversarial review, cross-model build & inspection) — two AI models harden your plan before a line of code exists, then swap jobs to build it. Whoever built it never grades it. by chaseai-yt *(3.5k ⭐)*
 - 📚 🔷 **[pi-agent-desktop](https://github.com/abcwyc/pi-agent-desktop)** ▶ Runs 🧠 R:🔴 M:🟢 — Pi — A cross-platform AI coding agent, bringing the Claude Code experience to your desktop. No environment setup, no terminal commands. Download and start coding right away. by abcwyc *(937 ⭐)*
+- 🔗 ⭐ **[guaardvark](https://github.com/guaardvark/guaardvark)** 🤖🧠 R:🟡 M:🟢 — Self-hosted AI studio on your own GPU: chat with your files (RAG), screen and browser agents, coding swarms, LoRA training, an MCP server for Claude Code and Cursor, and local video, image, music and voice generation. No telemetry. by guaardvark *(330 ⭐)*
 - 📚 ⭐ **[otari](https://github.com/mozilla-ai/otari)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Open-source, OpenAI-compatible LLM gateway you run yourself. One endpoint for 40+ providers, with virtual keys, budgets, and usage tracking. by mozilla-ai *(949 ⭐)*
 - ⌨️ ⭐ **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — MiMo Code: Where Models and Agents Co-Evolve by XiaomiMiMo *(13.8k ⭐)*
 - 📚 ⭐ **[PanWatch](https://github.com/TNT-Likely/PanWatch)** ✓ Loads clean 🧠 R:🟡 M:🟢 — 盯盘侠 PanWatch · 自托管 AI 盯盘助手，集成 TradingAgents 多 Agent 投资决策 | A股/港股/美股实时监控、持仓管理、智能分析、全渠道推送 by TNT-Likely *(2.5k ⭐)*
