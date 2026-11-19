@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-19 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-19 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -577,7 +577,7 @@
 - 🔗 🔷 **[ai-tools](https://github.com/sveltejs/ai-tools)** 🤖🧠 R:🟡 M:🟢 — The official svelte MCP for all your agentic needs. by sveltejs *(342 ⭐)*
 - 🔗 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(337 ⭐)*
 - ⌨️ 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The terminal experience for AgentCore! by aws *(336 ⭐)*
-- 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)** ✓ Loads clean 🤖🖱️🧠🏄 R:🟡 M:🟢 — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(299 ⭐)*
+- 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)** ✓ Loads clean 🤖🖱️🧠🏄 R:🟡 M:✅ — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(299 ⭐)*
 - 📄 🔶 **[bazi-skill](https://github.com/jinchenma94/bazi-skill)** ✓ Loads clean 🤖 R:🟢 M:🟠 — 四柱八字命理分析 by jinchenma94 *(4k ⭐)*
 - 🔗 🔷 **[freee-mcp](https://github.com/freee/freee-mcp)** 🤖 R:🟡 M:🟢 — Model Context Protocol (MCP) server for freee API integration by freee *(521 ⭐)*
 - 🔗 🔷 **[apollo-mcp-server](https://github.com/apollographql/apollo-mcp-server)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Apollo MCP Server by apollographql *(320 ⭐)*
