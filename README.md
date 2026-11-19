@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **480+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-19 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-19 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1358,7 +1358,7 @@
 - 📄 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(113k ⭐)*
 - 🔗 ⭐ **[tirth8205/code-review-graph](https://github.com/tirth8205/code-review-graph)** 🤖🧠 R:🟡 M:🟢 — Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows. by tirth8205 *(32.9k ⭐)*
 - 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(194.1k ⭐)*
-- ⌨️ ⭐ **[open-code-review](https://github.com/alibaba/open-code-review)** ▶ Runs 🤖 R:🟡 M:🟢 — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. by alibaba *(54.2k ⭐)*
+- ⌨️ ⭐ **[open-code-review](https://github.com/alibaba/open-code-review)** 🤖 R:🟡 M:🟢 — Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible. by alibaba *(54.2k ⭐)*
 - 📦 ⭐ **[Claude-BugHunter](https://github.com/elementalsouls/Claude-BugHunter)** ▶ Runs 🤖 R:🟡 M:🟢 — A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices. by elementalsouls *(11.5k ⭐)*
 - 📄 ⭐ **[compound-engineering-plugin](https://github.com/EveryInc/compound-engineering-plugin)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Official Claude Code compound engineering plugin by EveryInc *(26.2k ⭐)*
 - 📦 ⭐ **[alirezarezvani/claude-skills](https://github.com/alirezarezvani/claude-skills)** 🤖🧠 R:🟡 M:🟢 — 337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills. by alirezarezvani *(30.1k ⭐)*
