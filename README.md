@@ -7,7 +7,7 @@
 [![Ranking](https://img.shields.io/badge/ranked-quality--first-ff7a45)](https://skills.911fund.io/analytics)
 [![Verified working](https://img.shields.io/endpoint?url=https%3A%2F%2Fskills.911fund.io%2Fapi%2Fv1%2Fbadge%2Fverified-count)](https://skills.911fund.io/tools?verified=any)
 
-**1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
+**1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,100,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
 *(counts as of 2026-11-20 03:15 UTC; the badges above are live)*
 
@@ -1670,7 +1670,6 @@
 - 📚 🔷 **[sandcastle](https://github.com/mattpocock/sandcastle)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Orchestrate sandboxed coding agents in TypeScript with sandcastle.run() by mattpocock *(9.2k ⭐)*
 - 📚 🔷 **[ax](https://github.com/google/ax)** ✓ Loads clean 🔧 R:🟡 M:🟢 — Google's open agentic orchestration runtime by google *(14.8k ⭐)*
 - 📚 ⭐ **[doop](https://github.com/kgoedecke/doop)** 🤖 R:🟡 M:🟢 — The open-source alternative to Paper.design. A multiplayer design canvas where humans and AI agents design together, live. MCP built in. by kgoedecke *(2.1k ⭐)*
-- 📚 ⭐ **[microsoft/agent-framework](https://github.com/microsoft/agent-framework)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A framework for building, orchestrating and deploying AI agents and multi-agent workflows with support for Python and .NET. by microsoft *(14.7k ⭐)*
 - 📚 ⭐ **[harvey](https://github.com/ethanplusai/sellbird)** 🤖 R:🔴 M:🟢 — Autonomous AI sales agent powered by Claude Code or Codex. Finds prospects, writes cold emails, sends campaigns, handles replies, books meetings. No API keys needed — runs on your Claude or Codex subscriptions. by ethanplusai *(6.5k ⭐)*
 - 📚 ⭐ **[CompanyOS](https://github.com/kortix-ai/CompanyOS)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Kortix CompanyOS – the open-source operating system for your company. Multiplayer AI agents, your company as code, sovereign on your infrastructure or ours. by kortix-ai *(20.8k ⭐)*
 - 📚 ⭐ **[awesome-codex-plugins](https://github.com/hashgraph-online/awesome-codex-plugins)** 🤖🧠 R:🟢 M:🟢 — A curated list of awesome OpenAI Codex / ChatGPT plugins, skills, and resources. The #1 Codex Marketplace.  See live plugins at: https://hol.org/plugins/best-codex-plugins by hashgraph-online *(1.6k ⭐)*
