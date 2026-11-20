@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-20 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-20 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -668,7 +668,7 @@
 - 🔗 🔶 **[spotify-mcp-server](https://github.com/marcelmarais/spotify-mcp-server)** ▶ Runs 🔧 R:🟢 M:🟢 — Lightweight MCP server for Spotify by marcelmarais *(513 ⭐)*
 - 🔗 🔷 **[master-fetch](https://github.com/dondai1234/master-fetch)** 🔧 R:🟡 M:✅ — MCP server for web fetching with Cloudflare bypass, Trafilatura extraction, and smart routing. Free, self-hosted, no API keys. by dondai1234 *(907 ⭐)*
 - 📦 🔷 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** 🤖 R:🟡 M:🟠 — All powerful skills of ClaudeKit.cc! by mrgoonie *(2.2k ⭐)*
-- ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** ▶ Runs 🤖 R:🔴 M:🟠 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(440 ⭐)*
+- ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** ▶ Runs 🤖 R:🔴 M:🔴 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(440 ⭐)*
 - 📚 ⭐ **[mofa](https://github.com/mofa-org/mofa)** ✓ Loads clean 🤖🖱️🧠🏄 R:🟡 M:✅ — MoFA - Modular Framework for Agents. Modular, Compositional and Programmable. by mofa-org *(299 ⭐)*
 - 📦 🔷 **[apple-skills](https://github.com/Prisma-Labs-Dev/apple-skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Apple development skills for Claude Code and Codex — latest iOS 26+ APIs, SwiftUI, Liquid Glass, and more by Prisma-Labs-Dev *(361 ⭐)*
 - 📚 🔶 **[HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG)** 🔧 R:🟢 M:🟢 — [NeurIPS'24] HippoRAG is a novel RAG framework inspired by human long-term memory that enables LLMs to continuously integrate knowledge across external documents. RAG + Knowledge Graphs + Personalized PageRank. by OSU-NLP-Group *(4.1k ⭐)*
