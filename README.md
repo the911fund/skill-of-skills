@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-21 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-21 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1215,7 +1215,6 @@
 - 🔌 🔷 **[revfactory/harness](https://github.com/revfactory/harness)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use. by revfactory *(9.4k ⭐)*
 - 📚 🔷 **[langchain-ai/open-swe](https://github.com/langchain-ai/open-swe)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — An Open-Source Asynchronous Coding Agent by langchain-ai *(11.2k ⭐)*
 - 📦 🔷 **[spec-superflow](https://github.com/MageByte-Zero/spec-superflow)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — 源码级融合 OpenSpec 规划引擎 + Superpowers 执行纪律的 AI 编程工作流插件。17 平台支持，9 skills，Spec-first，契约驱动。 by MageByte-Zero *(895 ⭐)*
-- 📚 🔷 **[easy-vibe](https://github.com/datawhalechina/easy-vibe)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Product Prototype, AI & Full-Stack Dev by datawhalechina *(20.5k ⭐)*
 - ⌨️ ⭐ **[antinomyhq/forgecode](https://github.com/tailcallhq/forgecode)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — AI enabled pair programmer for Claude, GPT, O Series, Grok, Deepseek, Gemini and 300+ models by tailcallhq *(7.6k ⭐)*
 - 📦 🔷 **[claude-code-plugins-plus-skills](https://github.com/jeremylongshore/tons-of-skills-marketplace)** 🤖 R:🔴 M:🟢 — 270+ Claude Code plugins with 739 agent skills. Production orchestration patterns, interactive tutorials (11 Jupyter notebooks), and CCPI package manager. 4.13.0 by jeremylongshore *(2.9k ⭐)*
 - 📚 🔷 **[slime](https://github.com/THUDM/slime)** ✓ Loads clean 🤖 R:🔴 M:🟢 — slime is an LLM post-training framework for RL Scaling. by THUDM *(8.8k ⭐)*
@@ -1240,6 +1239,7 @@
 - 📚 🔷 **[infinite-canvas](https://github.com/tigerowo/infinite-canvas)** 🤖🧠 R:🟡 M:🟢 — 开源 AI 创作工作台，集成无限画布、Agent、导演台、全景图、AI 生图、图片编辑、视频生成、画布编排等，兼容 OpenAI 接口及多种 API 服务 by tigerowo *(1.7k ⭐)*
 - ⌨️ 🔷 **[antigravity-skills](https://github.com/guanyang/open-agent-hub)** 🤖 R:🟢 M:🟢 — Empower agents with professional capabilities in specific fields (such as full-stack development, complex logic planning, multimedia processing, etc.) through modular Skills definitions, allowing agents to solve complex problems systematically like human experts. by guanyang *(1k ⭐)*
 - 📚 🔷 **[inkeep/agents](https://github.com/inkeep/agents)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — Create AI Agents in a No-Code Visual Builder or TypeScript SDK with full 2-way sync. For shipping AI assistants and multi-agent AI workflows. by inkeep *(1.5k ⭐)*
+- 📚 🔷 **[easy-vibe](https://github.com/datawhalechina/easy-vibe)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — easy vibe 👋 一起 vibe｜ Learn Vibe Coding From 0 to 1｜ Vibe Coding 零基础｜产品原型、AI 与全栈多平台开发教程｜Product Prototype, AI & Full-Stack Dev by datawhalechina *(20.5k ⭐)*
 - ⌨️ 🔷 **[Better-Fullstack](https://github.com/Marve10s/Better-Fullstack)** 🤖🧠 R:🟡 M:🟢 — Scaffold production-ready full-stack apps in TypeScript, Rust, Python, Go, and Java with a visual builder and CLI. Choose your frontend, backend, database, auth, AI, payments, and DevOps integrations, all wired together. by Marve10s *(825 ⭐)*
 - ⌨️ 🔷 **[xming521/WeClone](https://github.com/xming521/WeClone)** ▶ Runs 🖱️ R:🟡 M:🟢 — 🚀 One-stop solution for creating your AI twin from chat history 💡 Fine-tune LLMs with your chat logs to capture your unique style, then bind to a chatbot to bring your digital self to life.   by xming521 *(18.4k ⭐)*
 - ⌨️ ⭐ **[overstory](https://github.com/jayminwest/overstory)** ▶ Runs 🤖 R:⚫ M:✅ — Multi-agent orchestration for AI coding agents — pluggable runtime adapters for Claude Code, Pi, and more by jayminwest *(1.3k ⭐)*
