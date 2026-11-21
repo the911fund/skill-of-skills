@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,200,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-21 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-21 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -626,7 +626,7 @@
 - 🔗 🔷 **[AmoyLab/Unla](https://github.com/AmoyLab/Unla)** 🤖🖱️🧠 R:🟡 M:🟢 — 🧩 MCP Gateway - A lightweight gateway service that instantly transforms existing MCP Servers and APIs into MCP servers with zero code changes. Features Docker deployment and management UI, requiring no infrastructure modifications. by AmoyLab *(2.3k ⭐)*
 - 📦 🔷 **[nuxt-skills](https://github.com/onmax/nuxt-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Vue, Nuxt, and NuxtHub skills for AI coding assistants. by onmax *(729 ⭐)*
 - 📦 🔷 **[butterbase-skills](https://github.com/butterbase-ai/butterbase-skills)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Plugin for Butterbase.ai by butterbase-ai *(536 ⭐)*
-- 🔗 🔷 **[code-context-engine](https://github.com/elara-labs/code-context-engine)** 🤖 R:🟢 M:🟢 — Save 94% on AI coding tokens. Index your codebase, agents search instead of reading files. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI. Local MCP server, free, open source. by elara-labs *(467 ⭐)*
+- 🔗 🔷 **[code-context-engine](https://github.com/elara-labs/code-context-engine)** 🤖 R:🟢 M:✅ — Save 94% on AI coding tokens. Index your codebase, agents search instead of reading files. Works with Claude Code, Codex, Copilot, Cursor, Gemini CLI. Local MCP server, free, open source. by elara-labs *(467 ⭐)*
 - 🔗 🔷 **[anki-mcp-server](https://github.com/nailuoGG/anki-mcp-server)** ▶ Runs 🤖 R:🟢 M:🟢 — MCP server for Anki via AnkiConnect by nailuoGG *(255 ⭐)*
 - 📚 🔷 **[amp.dev](https://github.com/ampproject/amp.dev)** ✓ Loads clean 🔧 R:🟢 M:🟢 — The AMP Project Website. by ampproject *(603 ⭐)*
 - 📦 🔷 **[dotai](https://github.com/udecode/dotai)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Context manager for all agents by udecode *(1.2k ⭐)*
@@ -1050,7 +1050,7 @@
 - ⌨️ ⭐ **[DenchClaw](https://github.com/DenchHQ/DenchClaw)** ▶ Runs 🤖🖱️ R:⚫ M:✅ — Fully Managed OpenClaw Framework for all knowledge work ever. CRM Automation and Outreach agents. The only local productivity tool you need. by DenchHQ *(1.7k ⭐)*
 - 🔄 🔷 **[n8n-workflows](https://github.com/Zie619/n8n-workflows)** ✓ Loads clean 🤖 R:🟡 M:✅ — all of the workflows of n8n i could find (also from the site itself) by Zie619 *(57.3k ⭐)*
 - 📄 🔷 **[council-of-high-intelligence](https://github.com/0xNyk/council-of-high-intelligence)** ✓ Loads clean 🤖 R:🟡 M:🟢 — 18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council by 0xNyk *(4.9k ⭐)*
-- 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. by Shpigford *(2.1k ⭐)*
+- 📚 🔷 **[Shpigford/chops](https://github.com/Shpigford/chops)** ✓ Loads clean 🤖 R:🟡 M:✅ — Your AI agent skills, finally organized. A macOS app to browse, edit, and manage skills across Claude Code, Cursor, Codex, Windsurf, and Amp. by Shpigford *(2.1k ⭐)*
 - 📚 🔷 **[tutti](https://github.com/tutti-os/tutti)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Where people and agents build in tune. by tutti-os *(3.9k ⭐)*
 - ⌨️ 🔷 **[swarm-forge](https://github.com/unclebob/swarm-forge)** ✓ Loads clean 🔧 R:🔴 M:🟢 — A simple tool for coordinating several AI agents. by unclebob *(4.1k ⭐)*
 - 📚 🔷 **[myrlin-workbook](https://github.com/therealarthur/myrlin-workbook)** 🤖 R:🟡 M:🟢 — Workspace manager for Claude Code sessions. Embedded terminals, project discovery, drag-and-drop organization. by therealarthur *(388 ⭐)*
