@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-22 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-22 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1429,7 +1429,7 @@
 - 📦 🔷 **[chatgptprojects/clear-code](https://github.com/Leanmcp/gateway-skills)** 🤖 R:🟡 M:🟢 — See your claude code logs in clear details in your dashboard by Leanmcp *(2.1k ⭐)*
 - 📝 🔷 **[Claude-Command-Suite](https://github.com/qdhenry/Claude-Command-Suite)** ✓ Loads clean 🤖 R:🟡 M:✅ — Professional slash commands for Claude Code that provide   structured workflows for software development tasks including   code review, feature creation, security auditing, and architectural analysis. by qdhenry *(1.4k ⭐)*
 - 📝 🔶 **[langgptai/awesome-claude-prompts](https://github.com/langgptai/awesome-claude-prompts)** 🔧 R:🟢 M:🟢 — This repo includes Claude prompt curation to use Claude better. by langgptai *(5.6k ⭐)*
-- 📦 🔷 **[web-quality-skills](https://github.com/addyosmani/web-quality-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. by addyosmani *(3.1k ⭐)*
+- 📦 🔷 **[web-quality-skills](https://github.com/addyosmani/web-quality-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — Agent Skills for optimizing web quality based on Lighthouse and Core Web Vitals. by addyosmani *(3.1k ⭐)*
 - 🧩 🔷 **[burp-ai-agent](https://github.com/six2dez/burp-ai-agent)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Burp Suite extension that adds built-in MCP tooling, AI-assisted analysis, privacy controls, passive and active scanning and more by six2dez *(1.6k ⭐)*
 - 📄 🔶 **[academic-humanizer](https://github.com/AIScientists-Dev/academic-humanizer)** ✓ Loads clean 🤖 R:🟢 M:🟠 — Strip AI-writing tells from papers and grant proposals (NSF/NIH), while keeping scholarly voice and tying claims to evidence. A skill for Claude Code, Codex, and MorphMind. by AIScientists-Dev *(5.8k ⭐)*
 - 📄 🔷 **[humanizer-skill](https://github.com/Aboudjem/humanizer-skill)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Free, open-source AI writing humanizer and detector. 55 patterns, 5 voices, a 0-100 AI-tell score, and nothing leaves your machine. by Aboudjem *(325 ⭐)*
