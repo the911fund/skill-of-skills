@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-22 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-22 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -63,10 +63,10 @@
 
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
-- 🔥 📦 ⭐ **[superpowers](https://github.com/obra/superpowers)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(323.8k ⭐)*
 - 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(308.4k ⭐)*
-- 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(329.8k ⭐)*
 - 🔥 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(472.9k ⭐)*
+- 🔥 📦 ⭐ **[superpowers](https://github.com/obra/superpowers)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(323.8k ⭐)*
+- 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(329.8k ⭐)*
 - 🔥 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(196.4k ⭐)*
 - 🔥 📄 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(114.6k ⭐)*
 - 🔥 ⌨️ ⭐ **[graphify](https://github.com/Graphify-Labs/graphify)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph. by Graphify-Labs *(151.7k ⭐)*
