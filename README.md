@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-22 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-22 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1073,7 +1073,7 @@
 - 📦 🔶 **[learning-opportunities](https://github.com/DrCatHicks/learning-opportunities)** ✓ Loads clean 🤖 R:🟡 M:🟠 — A Claude Code skill for deliberate skill development during AI-assisted coding by DrCatHicks *(2.6k ⭐)*
 - 📦 🔷 **[shinkoku](https://github.com/kazukinagata/shinkoku)** ▶ Runs 🤖 R:🟡 M:🟢 — 確定申告自動化 AI エージェントプラグイン — 帳簿管理から e-Tax 入力代行まで by kazukinagata *(373 ⭐)*
 - 🔌 🔷 **[ralph-wiggum-marketer](https://github.com/muratcankoylan/ralph-wiggum-marketer)** ✓ Loads clean 🤖 R:🔴 M:🟠 — A Claude Code Plugin that provides an autonomous AI copywriter. by muratcankoylan *(782 ⭐)*
-- ⌨️ 🔶 **[patchwork](https://github.com/patched-codes/patchwork)** 🔧 R:🔴 M:🟢 — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.6k ⭐)*
+- ⌨️ 🔶 **[patchwork](https://github.com/patched-codes/patchwork)** 🔧 R:🔴 M:✅ — Agentic AI framework for enterprise workflow automation. by patched-codes *(1.6k ⭐)*
 - 📄 🔷 **[Wechat-ggGitHub/wechat-claude-code](https://github.com/Wechat-ggGitHub/wechat-claude-code)** ✓ Loads clean 🤖 R:🔴 M:🟠 — Chat with Claude Code from WeChat - a Claude Code Skill by Wechat-ggGitHub *(695 ⭐)*
 - ⌨️ 🔷 **[jezweb/roo-commander](https://github.com/jezweb/roo-commander)** ▶ Runs 🤖🧠 R:🟡 M:🔴 — Think of it like having a virtual, specialized software development team right inside your editor, orchestrated by the 👑 Roo Commander, powered by Roo Code on VS Code by jezweb *(719 ⭐)*
 - 🔌 🔷 **[obsidian-knowledge-agent](https://github.com/Michael-OvO/obsidian-knowledge-agent)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — Agent-driven pipeline that turns raw material (PDFs, slides, syllabi, papers, URLs) into structured, teaching-quality Obsidian notes: ingest, compile, distribute. by Michael-OvO *(203 ⭐)*
