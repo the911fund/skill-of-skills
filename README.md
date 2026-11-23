@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,300,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-23 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-23 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -64,9 +64,9 @@
 > Quality-gated momentum — what's genuinely gaining traction right now.
 
 - 🔥 📦 ⭐ **[affaan-m/ECC](https://github.com/affaan-m/ECC)** 🤖🖱️🧠 R:🟡 M:🟢 — The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond. by affaan-m *(309.1k ⭐)*
+- 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(285.7k ⭐)*
 - 🔥 🔗 🔷 **[rea](https://github.com/morluto/rea)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — Reverse engineer anything with agents, from app behavior down to native binaries. by morluto *(474.3k ⭐)*
 - 🔥 📦 ⭐ **[mattpocock/skills](https://github.com/mattpocock/skills)** ✓ Loads clean 🤖🧠 R:🟢 M:🟢 — Skills for Real Engineers. Straight from my .claude directory. by mattpocock *(330.6k ⭐)*
-- 🔥 📚 🔷 **[deepseek-harness](https://github.com/deepseek-ai/deepseek-harness)** ▶ Runs 🤖🧠 R:🟢 M:🟢 — DeepSeek Harness: Everything is a Plugin. by deepseek-ai *(285.7k ⭐)*
 - 🔥 📦 🔷 **[ponytail](https://github.com/DietrichGebert/ponytail)** ✓ Loads clean 🤖🖱️🧠📟 R:🟡 M:🟢 — Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote. by DietrichGebert *(197.0k ⭐)*
 - 🔥 📦 ⭐ **[superpowers](https://github.com/obra/superpowers)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An agentic skills framework & software development methodology that works. by obra *(324.3k ⭐)*
 - 🔥 📄 ⭐ **[impeccable](https://github.com/pbakaus/impeccable)** ▶ Runs 🤖🖱️🧠 R:🟡 M:🟢 — The design language that makes your AI harness better at design. by pbakaus *(115.1k ⭐)*
