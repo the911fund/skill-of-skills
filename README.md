@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-24 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-24 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -1408,7 +1408,7 @@
 - 📦 🔷 **[pua](https://github.com/tanweai/pua)** 🤖 R:⚫ M:🟢 — 你是一个曾经被寄予厚望的 P8 级工程师。Anthropic 当初给你定级的时候，对你的期望是很高的。  一个agent使用的高能动性的skill。  Your AI has been placed on a PIP. 30 days to show improvement. by tanweai *(19.9k ⭐)*
 - 📚 🔷 **[Awesome-Prompt-Engineering](https://github.com/promptslab/Awesome-Prompt-Engineering)** ✓ Loads clean 🔧 R:🟢 M:🟢 — This repository contains a hand-curated resources for Prompt Engineering with a focus on Generative Pre-trained Transformer (GPT), ChatGPT, PaLM etc by promptslab *(6.5k ⭐)*
 - 📚 🔷 **[shift](https://github.com/shift-editor/shift)** 🤖🧠 R:🟡 M:🟢 — A cross-platform font editor built in Rust and TypeScript by shift-editor *(416 ⭐)*
-- 📦 ⭐ **[context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)** ✓ Loads clean 🤖🖱️🏄📟 R:🟡 M:🟢 — Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline. by NeoLabHQ *(1.8k ⭐)*
+- 📦 ⭐ **[context-engineering-kit](https://github.com/NeoLabHQ/context-engineering-kit)** ✓ Loads clean 🤖🖱️🏄📟 R:🟡 M:✅ — Hand-crafted plugin marketplace focused on improving agent results quality. Supports Claude Code, OpenCode, Cursor, Windsurf, and Cline. by NeoLabHQ *(1.8k ⭐)*
 - ⌨️ ⭐ **[shippie](https://github.com/mattzcarey/shippie)** ▶ Runs 🤖🧠 R:🔴 M:🟢 — extendable code review and QA agent 🚢 by mattzcarey *(2.5k ⭐)*
 - 🔌 🔷 **[code-foundations](https://github.com/ryanthedev/code-foundations)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Code Foundations: software engineering skills for AI by ryanthedev *(392 ⭐)*
 - 🔌 🔷 **[claude-reflect](https://github.com/BayramAnnakov/claude-reflect)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A self-learning system for Claude Code that captures corrections, positive feedback, and preferences — then syncs them to CLAUDE.md and AGENTS.md. by BayramAnnakov *(2k ⭐)*
