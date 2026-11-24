@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-24 12:25 UTC; the badges above are live)*
+*(counts as of 2026-11-24 15:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -768,7 +768,7 @@
 - 🔗 🔶 **[better-icons](https://github.com/better-auth/better-icons)** ▶ Runs 🤖 R:🟢 M:✅ — Skill and MCP server for searching and retrieving icons by better-auth *(1.5k ⭐)*
 - ⌨️ 🔶 **[claudraband](https://github.com/halfwhey/claudraband)** ▶ Runs 🤖 R:🟡 M:✅ — Claude Code for the Power User by halfwhey *(288 ⭐)*
 - 📦 🔶 **[realkimbarrett/advertising-skills](https://github.com/realkimbarrett/advertising-skills)** 🤖🧠 R:🟢 M:🟠 — Advertising Skills for Open Claw, Claude Code & AI agents. Direct response, paid ads, funnels, and copy systems. by realkimbarrett *(791 ⭐)*
-- 🧩 🔶 **[goose.nvim](https://github.com/azorng/goose.nvim)** 🔧 R:🟡 M:🟢 — seamless neovim integration with goose - work with a powerful AI agent without leaving your editor by azorng *(317 ⭐)*
+- 🧩 🔶 **[goose.nvim](https://github.com/azorng/goose.nvim)** 🔧 R:🟡 M:✅ — seamless neovim integration with goose - work with a powerful AI agent without leaving your editor by azorng *(317 ⭐)*
 - ⌨️ 🔶 **[openvibe](https://github.com/vitalops/openvibe)** ▶ Runs 🔧 R:🔴 M:✅ — Modular Auto-GPT Framework by vitalops *(1.5k ⭐)*
 - 🔗 🔶 **[o3-search-mcp](https://github.com/yoshiko-pg/o3-search-mcp)** 🤖 R:🟡 M:✅ — MCP server for OpenAI o3 web search by yoshiko-pg *(286 ⭐)*
 - 📚 🔶 **[agent.exe](https://github.com/corbt/agent.exe)** 🔧 R:⚫ M:🔴 — Electron app that gives Claude 3.5 Sonnet direct computer control via Anthropic's computer use APIs to execute tasks like browsing, clicking, typing, and taking screenshots on your local machine. by corbt *(3.5k ⭐)*
