@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-24 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-24 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -546,8 +546,8 @@
 - 📚 🔷 **[MCP-Nest](https://github.com/rekog-labs/MCP-Nest)** ✓ Loads clean 🤖 R:🟡 M:🟢 — A NestJS module to effortlessly create Model Context Protocol (MCP) servers for exposing AI tools, resources, and prompts. by rekog-labs *(733 ⭐)*
 - 📚 🔶 **[chatgpt2api](https://github.com/basketikun/chatgpt2api)** 🧠 R:🟡 M:🟢 — ChatGPT 官网接口纯协议逆向实现，Go 语言编写，高并发、低内存、高性能。指纹级请求还原，支持 GPT-Image-2.6 生图/改图、GIF 动图、文本模型与语音合成/转写，兼容 OpenAI 接口协议，在线批量生图，号池管理，支持导入 CPA、sub2api 号池，可接入 Cherry Studio、New API 等软件 by basketikun *(7k ⭐)*
 - ⌨️ 🔷 **[chat-ollama](https://github.com/sugarforever/chat-ollama)** ▶ Runs 🔧 R:🟡 M:🟢 — ChatOllama is an open-source AI chatbot that brings cutting-edge language models to your fingertips while keeping your data private and secure. by sugarforever *(3.5k ⭐)*
-- 📚 🔷 **[a-evolve](https://github.com/A-EVO-Lab/a-evolve)** ✓ Loads clean 🤖 R:🔴 M:🟢 — The official repository of "Position: Agentic Evolution is the Path to Evolving LLMs". by A-EVO-Lab *(864 ⭐)*
 - 📚 🔷 **[speckle-server](https://github.com/specklesystems/speckle-server)** ✓ Loads clean 🖱️ R:🟡 M:🟢 — The Speckle Server, Frontend, 3D Viewer, & other JS utilities. by specklesystems *(864 ⭐)*
+- 📚 🔷 **[a-evolve](https://github.com/A-EVO-Lab/a-evolve)** ✓ Loads clean 🤖 R:🔴 M:🟢 — The official repository of "Position: Agentic Evolution is the Path to Evolving LLMs". by A-EVO-Lab *(864 ⭐)*
 - 📚 🔷 **[cryptocurrency.cv](https://github.com/nirholas/cryptocurrency.cv)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Free crypto news API - real-time aggregator for Bitcoin, Ethereum, DeFi, Solana & altcoins. No API key required. RSS/Atom feeds, JSON REST API, historical archive with market context, embeddable widgets, ChatGPT plugin, Claude MCP server, SDKs (Python, TypeScript, Go, React, PHP). AI/LLM ready. Vibe coding friendly. Open source. by nirholas *(332 ⭐)*
 - 🔌 🔷 **[Shopify-AI-Toolkit](https://github.com/Shopify/Shopify-AI-Toolkit)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Agent plugins/extensions for CLIs and IDEs by Shopify *(652 ⭐)*
 - 🔗 🔷 **[open-webSearch](https://github.com/Aas-ee/open-webSearch)** ▶ Runs 🤖 R:🟡 M:🟢 — Multi-engine MCP server, CLI, and local daemon for agent web search and content retrieval — skill-guided workflows, no API keys. by Aas-ee *(1.9k ⭐)*
