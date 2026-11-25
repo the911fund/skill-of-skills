@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,400,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-25 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-25 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
-- 🔗 🔶 **[word-mcp-live](https://github.com/ykarapazar/word-mcp-live)** 🔧 R:🟡 M:🟢 — The only MCP server that edits Word documents while they're open — 114 tools, live editing, tracked changes, per-action undo by ykarapazar *(282 ⭐)* — discovered Nov 25
+- 📚 🔷 **[nod](https://github.com/n8n-io/nod)** 🤖🧠 R:🟡 M:🟢 — Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n. by n8n-io *(3.5k ⭐)* — discovered Nov 25
 - 📄 🔷 **[pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template)** 🤖 R:🟡 M:🟠 — 设置Markdown导出为docx时的样式，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件，支持Codex、Claude Code等调用skill丨Template for exporting Markdown to docx (Word) using pandoc by Achuan-2 *(1.1k ⭐)* — discovered Nov 25
 - 🔗 🔷 **[MROffice](https://github.com/XinaTian/MROffice)** 🧠 R:🟡 M:🟢 — MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line. by XinaTian *(4.1k ⭐)* — discovered Nov 25
+- 🔗 🔶 **[word-mcp-live](https://github.com/ykarapazar/word-mcp-live)** 🔧 R:🟡 M:🟢 — The only MCP server that edits Word documents while they're open — 114 tools, live editing, tracked changes, per-action undo by ykarapazar *(282 ⭐)* — discovered Nov 25
 - 📄 🔷 **[oil-cover](https://github.com/oil-oil/oil-cover)** 🤖 R:🟡 M:🟢 — Video cover & thumbnail skill for Claude Code & Codex. 帮你用视频画面做小红书和 B 站封面。 by oil-oil *(309 ⭐)* — discovered Nov 24
-- 📦 🔷 **[chubbyskills](https://github.com/chubbyguan/chubbyskills)** 🤖 R:🟡 M:🟢 — 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, feed subscriptions with daily digests, and a KB MCP server. by chubbyguan *(1.3k ⭐)* — discovered Nov 24
 
 ---
 
@@ -784,7 +784,7 @@
 - 🔗 🔶 **[kleneway/awesome-cursor-mpc-server](https://github.com/kleneway/awesome-cursor-mpc-server)** 🔧 R:🟡 M:🔴 — Example of an MCP server with custom tools that can be called directly from cursor by kleneway *(339 ⭐)*
 - ⌨️ 🔶 **[Puzld.ai](https://github.com/MedChaouch/Puzld.ai)** ▶ Runs 🔧 R:🔴 M:✅ — Multi-LLM orchestration framework by MedChaouch *(270 ⭐)*
 - 🔗 🔶 **[f2c-mcp](https://github.com/f2c-ai/f2c-mcp)** 🤖🔧 R:🟡 M:✅ — F2C MCP Server by f2c-ai *(413 ⭐)*
-- 🔗 🔶 **[mcp-code-graph](https://github.com/diffbot/mcp-code-graph)** ▶ Runs 🤖 R:🟡 M:✅ — MCP Server for code graph analysis and visualization by CodeGPT by diffbot *(401 ⭐)*
+- 🔗 🔶 **[mcp-code-graph](https://github.com/diffbot/mcp-code-graph)** ▶ Runs 🤖 R:🟡 M:🔴 — MCP Server for code graph analysis and visualization by CodeGPT by diffbot *(401 ⭐)*
 - 📄 🔶 **[deep-reading-analyst-skill](https://github.com/ginobefun/deep-reading-analyst-skill)** ✓ Loads clean 🤖 R:🟢 M:🔴 — A professional Claude AI skill for deep reading analysis by ginobefun *(357 ⭐)*
 - ⌨️ 🔶 **[aattaran/deepclaude](https://github.com/aattaran/deepclaude)** 🔧 R:🔴 M:🟠 — Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. by aattaran *(2.3k ⭐)*
 - 📚 🔶 **[ng-in-viewport](https://github.com/k3nsei/ng-in-viewport)** 🤖🔧 R:🟢 M:✅ — Allows us to check if an element is within the browsers visual viewport by k3nsei *(227 ⭐)*
@@ -948,6 +948,7 @@
 - 📦 🔶 **[open-seo-mcp-skills](https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills)** ✓ Loads clean 🤖 R:🟡 M:🟢 — Free SEO MCP server + open-source SEO and GEO skills for Claude: keyword research, rank tracking, audits, backlinks, AI visibility on your real GSC/GA4/ads data. claude mcp add ryze --transport http https://connector.get-ryze.ai/mcp by Ryze-AI-Adgent *(10.7k ⭐)*
 - 🔗 🔷 **[search-console-mcp](https://github.com/saurabhsharma2u/search-console-mcp)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — Search & analytics data as infrastructure — MCP server for Google Search Console, Bing Webmaster Tools, Google Adsense and GA4, designed for AI agents and automation. by saurabhsharma2u *(332 ⭐)*
 - 📚 ⭐ **[maestro](https://github.com/its-maestro-baby/maestro)** ▶ Runs 🧠 R:🔴 M:✅ — The Bloomberg Terminal for CLI Agents, its Maestro Baby! by its-maestro-baby *(1.2k ⭐)*
+- 📦 🔷 **[chubbyskills](https://github.com/chubbyguan/chubbyskills)** 🤖 R:🟡 M:🟢 — 把中文全渠道内容（抖音 / B站 / 小红书 / 公众号 / X / 播客）采集进个人知识库的 14 个 AI Skill：图文存图、视频转文字稿、字幕优先免 GPU、RSS/YouTube 订阅调度与每日情报简报，附带知识库 MCP server。｜ Ingest Chinese content into your personal knowledge base — image/video routing, subtitle-first transcription, feed subscriptions with daily digests, and a KB MCP server. by chubbyguan *(1.3k ⭐)*
 - 📚 🔷 **[claude-code-hooks-multi-agent-observability](https://github.com/disler/claude-code-hooks-multi-agent-observability)** ✓ Loads clean 🤖🔧 R:🔴 M:🟠 — Real-time monitoring for Claude Code agents through simple hook event tracking. by disler *(1.6k ⭐)*
 - 🔗 🔷 **[aktools](https://github.com/akfamily/aktools)** ▶ Runs 🤖 R:🟡 M:🟢 — HTTP API and MCP server for AKShare: fetch financial data from any programming language or AI assistant (Claude, Cursor) by akfamily *(1.6k ⭐)*
 - 🔗 🔷 **[world-intel-mcp](https://github.com/marc-shade/world-intel-mcp)** ▶ Runs 🤖 R:🟡 M:🟢 — 160-tool MCP server for real-time global intelligence from free public APIs: markets, liquidity, prediction markets, SEC filings, conflict, military, aircraft-cohort early warning, migration and border flows, cyber, climate, news and more. Dated observation history, 29 research prompts, cited briefs, geofences, SSE dashboard. MIT, no paid API keys. by marc-shade *(1.1k ⭐)*
