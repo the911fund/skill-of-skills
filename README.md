@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-26 18:25 UTC; the badges above are live)*
+*(counts as of 2026-11-26 21:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -76,11 +76,11 @@
 
 ## 🆕 Latest
 
+- 🔗 🔷 **[autoclip](https://github.com/zhouxiaoka/autoclip)** 🤖🧠 R:🟡 M:🟢 — AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。 by zhouxiaoka *(16.8k ⭐)* — discovered Nov 26
 - 📄 🔶 **[word-format-skill](https://github.com/yeap531/word-format-skill)** 🤖 R:🟡 M:🟠 — Claude Code skill: replicate a reference Word (.docx) typography onto new content via HTML bridge — browser render → clipboard → Word paste. Append-mode preserves page setup / styles / theme / headers 100%. macOS only. by yeap531 *(204 ⭐)* — discovered Nov 26
 - 📚 🔷 **[nod](https://github.com/n8n-io/nod)** 🤖🧠 R:🟡 M:🟢 — Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n. by n8n-io *(3.6k ⭐)* — discovered Nov 25
 - 🔗 🔷 **[MROffice](https://github.com/XinaTian/MROffice)** 🧠 R:🟡 M:🟢 — MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line. by XinaTian *(4.9k ⭐)* — discovered Nov 25
 - 📄 🔷 **[pandoc_docx_template](https://github.com/Achuan-2/pandoc_docx_template)** 🤖 R:🟡 M:🟠 — 设置Markdown导出为docx时的样式，可控制导出docx的段落文字、标题编号等样式，适用于obsidian、typora、思源笔记等Markdown笔记软件，支持Codex、Claude Code等调用skill丨Template for exporting Markdown to docx (Word) using pandoc by Achuan-2 *(1.1k ⭐)* — discovered Nov 25
-- 🔗 🔶 **[word-mcp-live](https://github.com/ykarapazar/word-mcp-live)** 🔧 R:🟡 M:🟢 — The only MCP server that edits Word documents while they're open — 114 tools, live editing, tracked changes, per-action undo by ykarapazar *(284 ⭐)* — discovered Nov 25
 
 ---
 
@@ -678,6 +678,7 @@
 - 📦 🔷 **[n-skills](https://github.com/numman-ali/n-skills)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — Curated plugin marketplace for AI agents - works with Claude Code, Codex, and openskills by numman-ali *(1.1k ⭐)*
 - 📚 ⭐ **[mcp_chatbot](https://github.com/keli-wen/mcp_chatbot)** 🔧 R:🟢 M:🔴 — A chatbot implementation compatible with MCP (terminal / streamlit supported) by keli-wen *(252 ⭐)*
 - 📦 🔷 **[swift-ios-skills](https://github.com/dpearson2699/swift-ios-skills)** 🤖🧠 R:🟢 M:✅ — Agent Skills for iOS 26+, Swift 6.3, SwiftUI, and modern Apple frameworks by dpearson2699 *(1.3k ⭐)*
+- 🔗 🔶 **[word-mcp-live](https://github.com/ykarapazar/word-mcp-live)** 🔧 R:🟡 M:🟢 — The only MCP server that edits Word documents while they're open — 114 tools, live editing, tracked changes, per-action undo by ykarapazar *(284 ⭐)*
 - 🔗 🔷 **[cloud-run-mcp](https://github.com/GoogleCloudPlatform/cloud-run-mcp)** 🤖 R:🟡 M:🟢 — MCP server to deploy apps to Cloud Run by GoogleCloudPlatform *(640 ⭐)*
 - 📦 🔷 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** 🤖 R:🟡 M:🟠 — All powerful skills of ClaudeKit.cc! by mrgoonie *(2.2k ⭐)*
 - ⌨️ 🔷 **[langchain-code](https://github.com/zamalali/langchain-code)** ▶ Runs 🤖 R:🔴 M:🔴 — Gemini-cli or claude code? Why not both? LangCode combines all CLI capabilities and models in one place ☂️! by zamalali *(440 ⭐)*
