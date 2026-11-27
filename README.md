@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-27 06:25 UTC; the badges above are live)*
+*(counts as of 2026-11-27 09:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -576,7 +576,7 @@
 - 📦 🔷 **[agent-skills](https://github.com/callstackincubator/agent-skills)** ✓ Loads clean 🤖🖱️🧠 R:🟡 M:🟢 — A collection of agent-optimized React Native skills for AI coding assistants. by callstackincubator *(1.7k ⭐)*
 - 📦 🔶 **[greensock/gsap-skills](https://github.com/greensock/gsap-skills)** 🤖🧠 R:🟢 M:🟠 — Official AI skills for GSAP. These skills teach AI coding agents how to correctly use GSAP (GreenSock Animation Platform), including best practices, common animation patterns, and plugin usage. by greensock *(19.1k ⭐)*
 - ⌨️ ⭐ **[stitch-mcp](https://github.com/davideast/stitch-mcp)** 🤖🧠 R:🟡 M:✅ — A CLI for moving AI-generated UI designs from Google’s Stitch platform into your development workflow. by davideast *(984 ⭐)*
-- 📚 ⭐ **[vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)** ✓ Loads clean 🤖🧠 R:🟡 M:🟢 — An open source template for building cloud agents. by vercel-labs *(5.9k ⭐)*
+- 📚 ⭐ **[vercel-labs/open-agents](https://github.com/vercel-labs/open-agents)** ✓ Loads clean 🤖🧠 R:🟡 M:🟠 — An open source template for building cloud agents. by vercel-labs *(5.9k ⭐)*
 - 📦 🔷 **[dotai](https://github.com/udecode/ustack)** ✓ Loads clean 🤖 R:🔴 M:🟢 — Context manager for all agents by udecode *(1.2k ⭐)*
 - 🔗 🔷 **[1270011/claude-buddy](https://github.com/ramarivera/coding-buddy)** 🤖 R:🟡 M:🟢 — Keep Your Claude Code Buddy Forever — permanent coding companion that survives every update by ramarivera *(467 ⭐)*
 - 📚 🔷 **[homebridge-eufy](https://github.com/homebridge-plugins/homebridge-eufy)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Homebridge plugin to control certain Anker Eufy devices by homebridge-plugins *(231 ⭐)*
