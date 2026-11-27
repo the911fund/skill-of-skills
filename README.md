@@ -9,7 +9,7 @@
 
 **1,700+ skills** across 10 skill types · **490+** at the **Curated** tier (⭐ quality ≥120) · indexed repos total 22,500,000+ ⭐. Intake items awaiting classification are included in the skills total but excluded from the skill-type breakdown.
 
-*(counts as of 2026-11-27 09:25 UTC; the badges above are live)*
+*(counts as of 2026-11-27 12:25 UTC; the badges above are live)*
 
 ✅ **Verified working:** stars say a repo is popular; this says it works. Each skill, plugin and MCP server is installed at a pinned commit in a fresh Claude Managed Agents sandbox, and a deterministic harness records whether it runs or loads clean. [How it works](#verified-working)
 
@@ -79,8 +79,8 @@
 - 🔗 🔷 **[autoclip](https://github.com/zhouxiaoka/autoclip)** 🤖🧠 R:🟡 M:🟢 — AutoClip｜The open-source OpusClip alternative — local-first AI clipping & MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。 by zhouxiaoka *(17.1k ⭐)* — discovered Nov 26
 - 📄 🔶 **[word-format-skill](https://github.com/yeap531/word-format-skill)** 🤖 R:🟡 M:🟠 — Claude Code skill: replicate a reference Word (.docx) typography onto new content via HTML bridge — browser render → clipboard → Word paste. Append-mode preserves page setup / styles / theme / headers 100%. macOS only. by yeap531 *(204 ⭐)* — discovered Nov 26
 - 📚 🔷 **[nod](https://github.com/n8n-io/nod)** 🤖🧠 R:🔴 M:🟢 — Open source personal agent with its own computer. It chases invoices, preps your calls and cancels trials on real websites, and asks before it acts. Runs on your machine with the model you choose. By n8n. by n8n-io *(4k ⭐)* — discovered Nov 25
-- 🔗 🔷 **[MROffice](https://github.com/XinaTian/MROffice)** 🧠 R:🟡 M:🟢 — MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line. by XinaTian *(4.6k ⭐)* — discovered Nov 25
 - 🔗 🔶 **[word-mcp-live](https://github.com/ykarapazar/word-mcp-live)** 🔧 R:🟡 M:🟢 — The only MCP server that edits Word documents while they're open — 114 tools, live editing, tracked changes, per-action undo by ykarapazar *(286 ⭐)* — discovered Nov 25
+- 🔗 🔷 **[MROffice](https://github.com/XinaTian/MROffice)** 🧠 R:🟡 M:🟢 — MR Office — the open-source editors of the AI office suite closest to Microsoft Office: documents, spreadsheets, presentations, PDF and code in the browser. Copilot in every editor edits real Word, Excel and PowerPoint files with you; an MCP server lets Claude, ChatGPT, Cursor and Codex create and edit them; embed it in your app with one line. by XinaTian *(4.6k ⭐)* — discovered Nov 25
 
 ---
 
@@ -582,8 +582,8 @@
 - 📚 🔷 **[homebridge-eufy](https://github.com/homebridge-plugins/homebridge-eufy)** ✓ Loads clean 🤖 R:🟢 M:🟢 — Homebridge plugin to control certain Anker Eufy devices by homebridge-plugins *(231 ⭐)*
 - 📚 🔷 **[Misago](https://github.com/rafalp/Misago)** 🔧 R:🟢 M:🟢 — Misago is fully featured modern forum application that is fast, scalable and responsive. by rafalp *(2.8k ⭐)*
 - 📄 🔷 **[railway-skills](https://github.com/railwayapp/railway-skills)** 🤖🧠 R:🟡 M:🟢 — Agent skills for interacting with Railway by railwayapp *(346 ⭐)*
-- ⌨️ 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The terminal experience for AgentCore! by aws *(338 ⭐)*
 - 🔗 🔷 **[mcp-server-tauri](https://github.com/hypothesi/mcp-server-tauri)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — A Model Context Protocol (MCP) server and plugin for Tauri v2 development by hypothesi *(338 ⭐)*
+- ⌨️ 🔷 **[agentcore-cli](https://github.com/aws/agentcore-cli)** ▶ Runs 🤖🧠 R:🟡 M:🟢 — The terminal experience for AgentCore! by aws *(338 ⭐)*
 - 📦 🔷 **[claudekit-skills](https://github.com/mrgoonie/claudekit-skills)** 🤖 R:🟡 M:🟠 — All powerful skills of ClaudeKit.cc! by mrgoonie *(2.2k ⭐)*
 - 📚 🔷 **[claude-pxl](https://github.com/crsolver/claude-pxl)** ▶ Runs 🤖 R:🟢 M:🟢 — Writes pixel art from compact JavaScript files, generating PNGs, sprite sheets with JSON metadata, animated GIFs, and a live browser viewer that replays painting operations step-by-step. Supports palettes, sprites with mirroring and auto-outline, primitives like rects and circles, scenes with layers, animation frames, and optional lighting effects via a DSL with no runtime dependencies or build step. by crsolver *(744 ⭐)*
 - 🧩 🔷 **[Rabby](https://github.com/RabbyHub/Rabby)** ✓ Loads clean 🤖🧠 R:🔴 M:🟢 — The game-changing wallet for Ethereum and all EVM chains by RabbyHub *(1.9k ⭐)*
